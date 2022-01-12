@@ -12,4 +12,4 @@ The survey was designed to meet the goal of accurate and timely weekly estimates
 
 
 # communication protocols:
-> we are communicating through zoom.......
+> we are communicating through zoom as well as slack every monday and wednesday @7:00pm sharp eastern time.
