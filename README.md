@@ -1,6 +1,7 @@
 # Final_project
 u2 Data Analytics final project.
-#Content
+
+# Content
 
 > The effects of mental health outcomes during the covid-19 pandemic.
 > The reason we selected this topic is due it's relevance in our current time.
@@ -10,5 +11,5 @@ The survey was designed to meet the goal of accurate and timely weekly estimates
 
 
 
-#communication protocols:
-> we are communicating through zoom.......
+# communication protocols:
+> we are communicating through zoom as well as slack every monday and wednesday @7:00pm sharp eastern time.
