@@ -1,1471 +1,1471 @@
-,Group,Subgroup,Time_Period,Risk
-70,National Estimate,United States,2020-04-23,High
-71,By Age,18 - 29 years,2020-04-23,Extreme
-72,By Age,30 - 39 years,2020-04-23,High
-73,By Age,40 - 49 years,2020-04-23,High
-74,By Age,50 - 59 years,2020-04-23,High
-75,By Age,60 - 69 years,2020-04-23,Moderate
-76,By Age,70 - 79 years,2020-04-23,Mild
-77,By Age,80 years and above,2020-04-23,Mild
-78,By Sex,Male,2020-04-23,Moderate
-79,By Sex,Female,2020-04-23,Extreme
-80,By Race/Hispanic ethnicity,Hispanic or Latino,2020-04-23,Extreme
-81,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-04-23,Moderate
-82,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-04-23,High
-83,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-04-23,Moderate
-84,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-04-23,Extreme
-85,By Education,Less than a high school diploma,2020-04-23,Extreme
-86,By Education,High school diploma or GED,2020-04-23,High
-87,By Education,Some college/Associate's degree,2020-04-23,High
-88,By Education,Bachelor's degree or higher,2020-04-23,Moderate
-89,By State,Alabama,2020-04-23,Moderate
-90,By State,Alaska,2020-04-23,Moderate
-91,By State,Arizona,2020-04-23,High
-92,By State,Arkansas,2020-04-23,High
-93,By State,California,2020-04-23,High
-94,By State,Colorado,2020-04-23,High
-95,By State,Connecticut,2020-04-23,High
-96,By State,Delaware,2020-04-23,High
-97,By State,District of Columbia,2020-04-23,High
-98,By State,Florida,2020-04-23,High
-99,By State,Georgia,2020-04-23,High
-100,By State,Hawaii,2020-04-23,High
-101,By State,Idaho,2020-04-23,Moderate
-102,By State,Illinois,2020-04-23,High
-103,By State,Indiana,2020-04-23,High
-104,By State,Iowa,2020-04-23,Mild
-105,By State,Kansas,2020-04-23,Moderate
-106,By State,Kentucky,2020-04-23,High
-107,By State,Louisiana,2020-04-23,High
-108,By State,Maine,2020-04-23,Moderate
-109,By State,Maryland,2020-04-23,Moderate
-110,By State,Massachusetts,2020-04-23,Extreme
-111,By State,Michigan,2020-04-23,High
-112,By State,Minnesota,2020-04-23,Moderate
-113,By State,Mississippi,2020-04-23,High
-114,By State,Missouri,2020-04-23,High
-115,By State,Montana,2020-04-23,Mild
-116,By State,Nebraska,2020-04-23,Mild
-117,By State,Nevada,2020-04-23,High
-118,By State,New Hampshire,2020-04-23,High
-119,By State,New Jersey,2020-04-23,High
-120,By State,New Mexico,2020-04-23,Moderate
-121,By State,New York,2020-04-23,Extreme
-122,By State,North Carolina,2020-04-23,High
-123,By State,North Dakota,2020-04-23,Mild
-124,By State,Ohio,2020-04-23,High
-125,By State,Oklahoma,2020-04-23,Moderate
-126,By State,Oregon,2020-04-23,High
-127,By State,Pennsylvania,2020-04-23,High
-128,By State,Rhode Island,2020-04-23,Moderate
-129,By State,South Carolina,2020-04-23,Moderate
-130,By State,South Dakota,2020-04-23,Mild
-131,By State,Tennessee,2020-04-23,Moderate
-132,By State,Texas,2020-04-23,Moderate
-133,By State,Utah,2020-04-23,Moderate
-134,By State,Vermont,2020-04-23,High
-135,By State,Virginia,2020-04-23,Moderate
-136,By State,Washington,2020-04-23,High
-137,By State,West Virginia,2020-04-23,Moderate
-138,By State,Wisconsin,2020-04-23,Moderate
-139,By State,Wyoming,2020-04-23,Moderate
-280,National Estimate,United States,2020-05-07,High
-281,By Age,18 - 29 years,2020-05-07,Extreme
-282,By Age,30 - 39 years,2020-05-07,High
-283,By Age,40 - 49 years,2020-05-07,High
-284,By Age,50 - 59 years,2020-05-07,High
-285,By Age,60 - 69 years,2020-05-07,Mild
-286,By Age,70 - 79 years,2020-05-07,Mild
-287,By Age,80 years and above,2020-05-07,Mild
-288,By Sex,Male,2020-05-07,Moderate
-289,By Sex,Female,2020-05-07,High
-290,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-07,Extreme
-291,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-07,Moderate
-292,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-07,High
-293,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-07,Moderate
-294,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-07,Extreme
-295,By Education,Less than a high school diploma,2020-05-07,Extreme
-296,By Education,High school diploma or GED,2020-05-07,High
-297,By Education,Some college/Associate's degree,2020-05-07,High
-298,By Education,Bachelor's degree or higher,2020-05-07,Mild
-299,By State,Alabama,2020-05-07,Moderate
-300,By State,Alaska,2020-05-07,Moderate
-301,By State,Arizona,2020-05-07,High
-302,By State,Arkansas,2020-05-07,Moderate
-303,By State,California,2020-05-07,High
-304,By State,Colorado,2020-05-07,Moderate
-305,By State,Connecticut,2020-05-07,Moderate
-306,By State,Delaware,2020-05-07,Moderate
-307,By State,District of Columbia,2020-05-07,Extreme
-308,By State,Florida,2020-05-07,Moderate
-309,By State,Georgia,2020-05-07,Moderate
-310,By State,Hawaii,2020-05-07,Mild
-311,By State,Idaho,2020-05-07,Moderate
-312,By State,Illinois,2020-05-07,Extreme
-313,By State,Indiana,2020-05-07,High
-314,By State,Iowa,2020-05-07,Mild
-315,By State,Kansas,2020-05-07,Moderate
-316,By State,Kentucky,2020-05-07,Moderate
-317,By State,Louisiana,2020-05-07,High
-318,By State,Maine,2020-05-07,Moderate
-319,By State,Maryland,2020-05-07,High
-320,By State,Massachusetts,2020-05-07,Moderate
-321,By State,Michigan,2020-05-07,Moderate
-322,By State,Minnesota,2020-05-07,Mild
-323,By State,Mississippi,2020-05-07,Extreme
-324,By State,Missouri,2020-05-07,Extreme
-325,By State,Montana,2020-05-07,Moderate
-326,By State,Nebraska,2020-05-07,Moderate
-327,By State,Nevada,2020-05-07,High
-328,By State,New Hampshire,2020-05-07,High
-329,By State,New Jersey,2020-05-07,Extreme
-330,By State,New Mexico,2020-05-07,High
-331,By State,New York,2020-05-07,High
-332,By State,North Carolina,2020-05-07,Moderate
-333,By State,North Dakota,2020-05-07,Moderate
-334,By State,Ohio,2020-05-07,Moderate
-335,By State,Oklahoma,2020-05-07,Moderate
-336,By State,Oregon,2020-05-07,Moderate
-337,By State,Pennsylvania,2020-05-07,Moderate
-338,By State,Rhode Island,2020-05-07,Moderate
-339,By State,South Carolina,2020-05-07,Moderate
-340,By State,South Dakota,2020-05-07,Moderate
-341,By State,Tennessee,2020-05-07,Moderate
-342,By State,Texas,2020-05-07,High
-343,By State,Utah,2020-05-07,Moderate
-344,By State,Vermont,2020-05-07,High
-345,By State,Virginia,2020-05-07,Moderate
-346,By State,Washington,2020-05-07,Moderate
-347,By State,West Virginia,2020-05-07,High
-348,By State,Wisconsin,2020-05-07,Moderate
-349,By State,Wyoming,2020-05-07,Mild
-490,National Estimate,United States,2020-05-14,Moderate
-491,By Age,18 - 29 years,2020-05-14,Extreme
-492,By Age,30 - 39 years,2020-05-14,High
-493,By Age,40 - 49 years,2020-05-14,High
-494,By Age,50 - 59 years,2020-05-14,Moderate
-495,By Age,60 - 69 years,2020-05-14,Mild
-496,By Age,70 - 79 years,2020-05-14,Mild
-497,By Age,80 years and above,2020-05-14,Mild
-498,By Sex,Male,2020-05-14,Mild
-499,By Sex,Female,2020-05-14,High
-500,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-14,High
-501,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-14,Moderate
-502,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-14,High
-503,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-14,Mild
-504,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-14,High
-505,By Education,Less than a high school diploma,2020-05-14,High
-506,By Education,High school diploma or GED,2020-05-14,High
-507,By Education,Some college/Associate's degree,2020-05-14,High
-508,By Education,Bachelor's degree or higher,2020-05-14,Mild
-509,By State,Alabama,2020-05-14,Mild
-510,By State,Alaska,2020-05-14,Moderate
-511,By State,Arizona,2020-05-14,Moderate
-512,By State,Arkansas,2020-05-14,Moderate
-513,By State,California,2020-05-14,High
-514,By State,Colorado,2020-05-14,Moderate
-515,By State,Connecticut,2020-05-14,Moderate
-516,By State,Delaware,2020-05-14,Moderate
-517,By State,District of Columbia,2020-05-14,High
-518,By State,Florida,2020-05-14,Moderate
-519,By State,Georgia,2020-05-14,Moderate
-520,By State,Hawaii,2020-05-14,Mild
-521,By State,Idaho,2020-05-14,Mild
-522,By State,Illinois,2020-05-14,Moderate
-523,By State,Indiana,2020-05-14,High
-524,By State,Iowa,2020-05-14,Mild
-525,By State,Kansas,2020-05-14,Moderate
-526,By State,Kentucky,2020-05-14,Moderate
-527,By State,Louisiana,2020-05-14,Moderate
-528,By State,Maine,2020-05-14,High
-529,By State,Maryland,2020-05-14,Moderate
-530,By State,Massachusetts,2020-05-14,Moderate
-531,By State,Michigan,2020-05-14,Moderate
-532,By State,Minnesota,2020-05-14,Moderate
-533,By State,Mississippi,2020-05-14,Extreme
-534,By State,Missouri,2020-05-14,High
-535,By State,Montana,2020-05-14,Moderate
-536,By State,Nebraska,2020-05-14,Mild
-537,By State,Nevada,2020-05-14,Moderate
-538,By State,New Hampshire,2020-05-14,Moderate
-539,By State,New Jersey,2020-05-14,High
-540,By State,New Mexico,2020-05-14,Moderate
-541,By State,New York,2020-05-14,Moderate
-542,By State,North Carolina,2020-05-14,Moderate
-543,By State,North Dakota,2020-05-14,Moderate
-544,By State,Ohio,2020-05-14,Moderate
-545,By State,Oklahoma,2020-05-14,Moderate
-546,By State,Oregon,2020-05-14,Mild
-547,By State,Pennsylvania,2020-05-14,Moderate
-548,By State,Rhode Island,2020-05-14,Mild
-549,By State,South Carolina,2020-05-14,Moderate
-550,By State,South Dakota,2020-05-14,Mild
-551,By State,Tennessee,2020-05-14,Moderate
-552,By State,Texas,2020-05-14,Moderate
-553,By State,Utah,2020-05-14,Moderate
-554,By State,Vermont,2020-05-14,Moderate
-555,By State,Virginia,2020-05-14,Moderate
-556,By State,Washington,2020-05-14,Moderate
-557,By State,West Virginia,2020-05-14,Moderate
-558,By State,Wisconsin,2020-05-14,Mild
-559,By State,Wyoming,2020-05-14,Mild
-700,National Estimate,United States,2020-05-21,Moderate
-701,By Age,18 - 29 years,2020-05-21,Extreme
-702,By Age,30 - 39 years,2020-05-21,Extreme
-703,By Age,40 - 49 years,2020-05-21,High
-704,By Age,50 - 59 years,2020-05-21,Moderate
-705,By Age,60 - 69 years,2020-05-21,Mild
-706,By Age,70 - 79 years,2020-05-21,Mild
-707,By Age,80 years and above,2020-05-21,Mild
-708,By Sex,Male,2020-05-21,Moderate
-709,By Sex,Female,2020-05-21,High
-710,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-21,Extreme
-711,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-21,Moderate
-712,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-21,High
-713,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-21,Mild
-714,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-21,Extreme
-715,By Education,Less than a high school diploma,2020-05-21,Extreme
-716,By Education,High school diploma or GED,2020-05-21,Moderate
-717,By Education,Some college/Associate's degree,2020-05-21,High
-718,By Education,Bachelor's degree or higher,2020-05-21,Mild
-719,By State,Alabama,2020-05-21,Moderate
-720,By State,Alaska,2020-05-21,High
-721,By State,Arizona,2020-05-21,Moderate
-722,By State,Arkansas,2020-05-21,Moderate
-723,By State,California,2020-05-21,High
-724,By State,Colorado,2020-05-21,Moderate
-725,By State,Connecticut,2020-05-21,Mild
-726,By State,Delaware,2020-05-21,Mild
-727,By State,District of Columbia,2020-05-21,High
-728,By State,Florida,2020-05-21,High
-729,By State,Georgia,2020-05-21,High
-730,By State,Hawaii,2020-05-21,Mild
-731,By State,Idaho,2020-05-21,Mild
-732,By State,Illinois,2020-05-21,High
-733,By State,Indiana,2020-05-21,High
-734,By State,Iowa,2020-05-21,Mild
-735,By State,Kansas,2020-05-21,High
-736,By State,Kentucky,2020-05-21,High
-737,By State,Louisiana,2020-05-21,Extreme
-738,By State,Maine,2020-05-21,Mild
-739,By State,Maryland,2020-05-21,Moderate
-740,By State,Massachusetts,2020-05-21,Moderate
-741,By State,Michigan,2020-05-21,Moderate
-742,By State,Minnesota,2020-05-21,Mild
-743,By State,Mississippi,2020-05-21,High
-744,By State,Missouri,2020-05-21,Moderate
-745,By State,Montana,2020-05-21,Mild
-746,By State,Nebraska,2020-05-21,Mild
-747,By State,Nevada,2020-05-21,Extreme
-748,By State,New Hampshire,2020-05-21,Mild
-749,By State,New Jersey,2020-05-21,Moderate
-750,By State,New Mexico,2020-05-21,Extreme
-751,By State,New York,2020-05-21,High
-752,By State,North Carolina,2020-05-21,Moderate
-753,By State,North Dakota,2020-05-21,Mild
-754,By State,Ohio,2020-05-21,High
-755,By State,Oklahoma,2020-05-21,Moderate
-756,By State,Oregon,2020-05-21,High
-757,By State,Pennsylvania,2020-05-21,Moderate
-758,By State,Rhode Island,2020-05-21,High
-759,By State,South Carolina,2020-05-21,Moderate
-760,By State,South Dakota,2020-05-21,High
-761,By State,Tennessee,2020-05-21,Moderate
-762,By State,Texas,2020-05-21,High
-763,By State,Utah,2020-05-21,Moderate
-764,By State,Vermont,2020-05-21,Mild
-765,By State,Virginia,2020-05-21,Moderate
-766,By State,Washington,2020-05-21,Moderate
-767,By State,West Virginia,2020-05-21,High
-768,By State,Wisconsin,2020-05-21,Mild
-769,By State,Wyoming,2020-05-21,Mild
-910,National Estimate,United States,2020-05-28,High
-911,By Age,18 - 29 years,2020-05-28,Extreme
-912,By Age,30 - 39 years,2020-05-28,Extreme
-913,By Age,40 - 49 years,2020-05-28,High
-914,By Age,50 - 59 years,2020-05-28,Moderate
-915,By Age,60 - 69 years,2020-05-28,Mild
-916,By Age,70 - 79 years,2020-05-28,Mild
-917,By Age,80 years and above,2020-05-28,Mild
-918,By Sex,Male,2020-05-28,Moderate
-919,By Sex,Female,2020-05-28,High
-920,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-28,High
-921,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-28,Moderate
-922,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-28,High
-923,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-28,Moderate
-924,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-28,Extreme
-925,By Education,Less than a high school diploma,2020-05-28,Extreme
-926,By Education,High school diploma or GED,2020-05-28,High
-927,By Education,Some college/Associate's degree,2020-05-28,High
-928,By Education,Bachelor's degree or higher,2020-05-28,Moderate
-929,By State,Alabama,2020-05-28,High
-930,By State,Alaska,2020-05-28,Moderate
-931,By State,Arizona,2020-05-28,Moderate
-932,By State,Arkansas,2020-05-28,Extreme
-933,By State,California,2020-05-28,High
-934,By State,Colorado,2020-05-28,Moderate
-935,By State,Connecticut,2020-05-28,Moderate
-936,By State,Delaware,2020-05-28,Moderate
-937,By State,District of Columbia,2020-05-28,Moderate
-938,By State,Florida,2020-05-28,High
-939,By State,Georgia,2020-05-28,High
-940,By State,Hawaii,2020-05-28,Mild
-941,By State,Idaho,2020-05-28,Moderate
-942,By State,Illinois,2020-05-28,High
-943,By State,Indiana,2020-05-28,High
-944,By State,Iowa,2020-05-28,Moderate
-945,By State,Kansas,2020-05-28,Moderate
-946,By State,Kentucky,2020-05-28,High
-947,By State,Louisiana,2020-05-28,High
-948,By State,Maine,2020-05-28,Moderate
-949,By State,Maryland,2020-05-28,Moderate
-950,By State,Massachusetts,2020-05-28,Moderate
-951,By State,Michigan,2020-05-28,Moderate
-952,By State,Minnesota,2020-05-28,Moderate
-953,By State,Mississippi,2020-05-28,High
-954,By State,Missouri,2020-05-28,High
-955,By State,Montana,2020-05-28,Mild
-956,By State,Nebraska,2020-05-28,Mild
-957,By State,Nevada,2020-05-28,High
-958,By State,New Hampshire,2020-05-28,Moderate
-959,By State,New Jersey,2020-05-28,High
-960,By State,New Mexico,2020-05-28,Extreme
-961,By State,New York,2020-05-28,High
-962,By State,North Carolina,2020-05-28,Moderate
-963,By State,North Dakota,2020-05-28,Mild
-964,By State,Ohio,2020-05-28,Moderate
-965,By State,Oklahoma,2020-05-28,High
-966,By State,Oregon,2020-05-28,Extreme
-967,By State,Pennsylvania,2020-05-28,High
-968,By State,Rhode Island,2020-05-28,High
-969,By State,South Carolina,2020-05-28,Moderate
-970,By State,South Dakota,2020-05-28,Moderate
-971,By State,Tennessee,2020-05-28,High
-972,By State,Texas,2020-05-28,High
-973,By State,Utah,2020-05-28,Moderate
-974,By State,Vermont,2020-05-28,High
-975,By State,Virginia,2020-05-28,Moderate
-976,By State,Washington,2020-05-28,High
-977,By State,West Virginia,2020-05-28,High
-978,By State,Wisconsin,2020-05-28,Mild
-979,By State,Wyoming,2020-05-28,Moderate
-1120,National Estimate,United States,2020-06-04,High
-1121,By Age,18 - 29 years,2020-06-04,Extreme
-1122,By Age,30 - 39 years,2020-06-04,Extreme
-1123,By Age,40 - 49 years,2020-06-04,High
-1124,By Age,50 - 59 years,2020-06-04,High
-1125,By Age,60 - 69 years,2020-06-04,Mild
-1126,By Age,70 - 79 years,2020-06-04,Mild
-1127,By Age,80 years and above,2020-06-04,Mild
-1128,By Sex,Male,2020-06-04,Moderate
-1129,By Sex,Female,2020-06-04,High
-1130,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-04,High
-1131,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-04,Moderate
-1132,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-04,High
-1133,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-04,Moderate
-1134,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-04,Extreme
-1135,By Education,Less than a high school diploma,2020-06-04,Extreme
-1136,By Education,High school diploma or GED,2020-06-04,High
-1137,By Education,Some college/Associate's degree,2020-06-04,High
-1138,By Education,Bachelor's degree or higher,2020-06-04,Moderate
-1139,By State,Alabama,2020-06-04,High
-1140,By State,Alaska,2020-06-04,Moderate
-1141,By State,Arizona,2020-06-04,High
-1142,By State,Arkansas,2020-06-04,High
-1143,By State,California,2020-06-04,High
-1144,By State,Colorado,2020-06-04,High
-1145,By State,Connecticut,2020-06-04,Moderate
-1146,By State,Delaware,2020-06-04,Moderate
-1147,By State,District of Columbia,2020-06-04,High
-1148,By State,Florida,2020-06-04,High
-1149,By State,Georgia,2020-06-04,High
-1150,By State,Hawaii,2020-06-04,Mild
-1151,By State,Idaho,2020-06-04,Moderate
-1152,By State,Illinois,2020-06-04,High
-1153,By State,Indiana,2020-06-04,Moderate
-1154,By State,Iowa,2020-06-04,High
-1155,By State,Kansas,2020-06-04,High
-1156,By State,Kentucky,2020-06-04,High
-1157,By State,Louisiana,2020-06-04,High
-1158,By State,Maine,2020-06-04,High
-1159,By State,Maryland,2020-06-04,Mild
-1160,By State,Massachusetts,2020-06-04,Moderate
-1161,By State,Michigan,2020-06-04,Mild
-1162,By State,Minnesota,2020-06-04,Moderate
-1163,By State,Mississippi,2020-06-04,High
-1164,By State,Missouri,2020-06-04,Mild
-1165,By State,Montana,2020-06-04,Moderate
-1166,By State,Nebraska,2020-06-04,Mild
-1167,By State,Nevada,2020-06-04,High
-1168,By State,New Hampshire,2020-06-04,High
-1169,By State,New Jersey,2020-06-04,High
-1170,By State,New Mexico,2020-06-04,Moderate
-1171,By State,New York,2020-06-04,Extreme
-1172,By State,North Carolina,2020-06-04,High
-1173,By State,North Dakota,2020-06-04,Mild
-1174,By State,Ohio,2020-06-04,High
-1175,By State,Oklahoma,2020-06-04,Moderate
-1176,By State,Oregon,2020-06-04,High
-1177,By State,Pennsylvania,2020-06-04,Moderate
-1178,By State,Rhode Island,2020-06-04,Moderate
-1179,By State,South Carolina,2020-06-04,Mild
-1180,By State,South Dakota,2020-06-04,Moderate
-1181,By State,Tennessee,2020-06-04,High
-1182,By State,Texas,2020-06-04,High
-1183,By State,Utah,2020-06-04,Moderate
-1184,By State,Vermont,2020-06-04,High
-1185,By State,Virginia,2020-06-04,Moderate
-1186,By State,Washington,2020-06-04,Moderate
-1187,By State,West Virginia,2020-06-04,Extreme
-1188,By State,Wisconsin,2020-06-04,Moderate
-1189,By State,Wyoming,2020-06-04,Mild
-1330,National Estimate,United States,2020-06-11,High
-1331,By Age,18 - 29 years,2020-06-11,Extreme
-1332,By Age,30 - 39 years,2020-06-11,Extreme
-1333,By Age,40 - 49 years,2020-06-11,High
-1334,By Age,50 - 59 years,2020-06-11,High
-1335,By Age,60 - 69 years,2020-06-11,Mild
-1336,By Age,70 - 79 years,2020-06-11,Mild
-1337,By Age,80 years and above,2020-06-11,Mild
-1338,By Sex,Male,2020-06-11,Moderate
-1339,By Sex,Female,2020-06-11,High
-1340,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-11,High
-1341,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-11,High
-1342,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-11,Extreme
-1343,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-11,Moderate
-1344,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-11,Extreme
-1345,By Education,Less than a high school diploma,2020-06-11,Extreme
-1346,By Education,High school diploma or GED,2020-06-11,High
-1347,By Education,Some college/Associate's degree,2020-06-11,High
-1348,By Education,Bachelor's degree or higher,2020-06-11,Moderate
-1349,By State,Alabama,2020-06-11,High
-1350,By State,Alaska,2020-06-11,High
-1351,By State,Arizona,2020-06-11,Moderate
-1352,By State,Arkansas,2020-06-11,High
-1353,By State,California,2020-06-11,High
-1354,By State,Colorado,2020-06-11,High
-1355,By State,Connecticut,2020-06-11,High
-1356,By State,Delaware,2020-06-11,High
-1357,By State,District of Columbia,2020-06-11,Moderate
-1358,By State,Florida,2020-06-11,Extreme
-1359,By State,Georgia,2020-06-11,High
-1360,By State,Hawaii,2020-06-11,High
-1361,By State,Idaho,2020-06-11,Moderate
-1362,By State,Illinois,2020-06-11,High
-1363,By State,Indiana,2020-06-11,High
-1364,By State,Iowa,2020-06-11,Moderate
-1365,By State,Kansas,2020-06-11,High
-1366,By State,Kentucky,2020-06-11,Moderate
-1367,By State,Louisiana,2020-06-11,Extreme
-1368,By State,Maine,2020-06-11,High
-1369,By State,Maryland,2020-06-11,High
-1370,By State,Massachusetts,2020-06-11,Moderate
-1371,By State,Michigan,2020-06-11,High
-1372,By State,Minnesota,2020-06-11,Moderate
-1373,By State,Mississippi,2020-06-11,High
-1374,By State,Missouri,2020-06-11,High
-1375,By State,Montana,2020-06-11,High
-1376,By State,Nebraska,2020-06-11,Mild
-1377,By State,Nevada,2020-06-11,High
-1378,By State,New Hampshire,2020-06-11,Moderate
-1379,By State,New Jersey,2020-06-11,High
-1380,By State,New Mexico,2020-06-11,Mild
-1381,By State,New York,2020-06-11,Moderate
-1382,By State,North Carolina,2020-06-11,High
-1383,By State,North Dakota,2020-06-11,High
-1384,By State,Ohio,2020-06-11,High
-1385,By State,Oklahoma,2020-06-11,High
-1386,By State,Oregon,2020-06-11,Extreme
-1387,By State,Pennsylvania,2020-06-11,Moderate
-1388,By State,Rhode Island,2020-06-11,Moderate
-1389,By State,South Carolina,2020-06-11,High
-1390,By State,South Dakota,2020-06-11,Mild
-1391,By State,Tennessee,2020-06-11,Moderate
-1392,By State,Texas,2020-06-11,Extreme
-1393,By State,Utah,2020-06-11,High
-1394,By State,Vermont,2020-06-11,High
-1395,By State,Virginia,2020-06-11,High
-1396,By State,Washington,2020-06-11,Moderate
-1397,By State,West Virginia,2020-06-11,Moderate
-1398,By State,Wisconsin,2020-06-11,Mild
-1399,By State,Wyoming,2020-06-11,Mild
-1540,National Estimate,United States,2020-06-18,High
-1541,By Age,18 - 29 years,2020-06-18,Extreme
-1542,By Age,30 - 39 years,2020-06-18,Extreme
-1543,By Age,40 - 49 years,2020-06-18,High
-1544,By Age,50 - 59 years,2020-06-18,High
-1545,By Age,60 - 69 years,2020-06-18,Mild
-1546,By Age,70 - 79 years,2020-06-18,Mild
-1547,By Age,80 years and above,2020-06-18,Mild
-1548,By Sex,Male,2020-06-18,Moderate
-1549,By Sex,Female,2020-06-18,High
-1550,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-18,Extreme
-1551,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-18,High
-1552,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-18,High
-1553,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-18,Mild
-1554,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-18,Extreme
-1555,By Education,Less than a high school diploma,2020-06-18,Extreme
-1556,By Education,High school diploma or GED,2020-06-18,High
-1557,By Education,Some college/Associate's degree,2020-06-18,High
-1558,By Education,Bachelor's degree or higher,2020-06-18,Moderate
-1559,By State,Alabama,2020-06-18,High
-1560,By State,Alaska,2020-06-18,High
-1561,By State,Arizona,2020-06-18,High
-1562,By State,Arkansas,2020-06-18,High
-1563,By State,California,2020-06-18,High
-1564,By State,Colorado,2020-06-18,Moderate
-1565,By State,Connecticut,2020-06-18,High
-1566,By State,Delaware,2020-06-18,Mild
-1567,By State,District of Columbia,2020-06-18,Extreme
-1568,By State,Florida,2020-06-18,High
-1569,By State,Georgia,2020-06-18,High
-1570,By State,Hawaii,2020-06-18,Mild
-1571,By State,Idaho,2020-06-18,Moderate
-1572,By State,Illinois,2020-06-18,High
-1573,By State,Indiana,2020-06-18,High
-1574,By State,Iowa,2020-06-18,High
-1575,By State,Kansas,2020-06-18,Moderate
-1576,By State,Kentucky,2020-06-18,High
-1577,By State,Louisiana,2020-06-18,Extreme
-1578,By State,Maine,2020-06-18,Mild
-1579,By State,Maryland,2020-06-18,High
-1580,By State,Massachusetts,2020-06-18,Moderate
-1581,By State,Michigan,2020-06-18,Moderate
-1582,By State,Minnesota,2020-06-18,Moderate
-1583,By State,Mississippi,2020-06-18,High
-1584,By State,Missouri,2020-06-18,Moderate
-1585,By State,Montana,2020-06-18,Moderate
-1586,By State,Nebraska,2020-06-18,Moderate
-1587,By State,Nevada,2020-06-18,Extreme
-1588,By State,New Hampshire,2020-06-18,High
-1589,By State,New Jersey,2020-06-18,High
-1590,By State,New Mexico,2020-06-18,Extreme
-1591,By State,New York,2020-06-18,Moderate
-1592,By State,North Carolina,2020-06-18,Moderate
-1593,By State,North Dakota,2020-06-18,Moderate
-1594,By State,Ohio,2020-06-18,Moderate
-1595,By State,Oklahoma,2020-06-18,Extreme
-1596,By State,Oregon,2020-06-18,Extreme
-1597,By State,Pennsylvania,2020-06-18,High
-1598,By State,Rhode Island,2020-06-18,Moderate
-1599,By State,South Carolina,2020-06-18,High
-1600,By State,South Dakota,2020-06-18,Mild
-1601,By State,Tennessee,2020-06-18,High
-1602,By State,Texas,2020-06-18,High
-1603,By State,Utah,2020-06-18,High
-1604,By State,Vermont,2020-06-18,Moderate
-1605,By State,Virginia,2020-06-18,High
-1606,By State,Washington,2020-06-18,High
-1607,By State,West Virginia,2020-06-18,High
-1608,By State,Wisconsin,2020-06-18,Mild
-1609,By State,Wyoming,2020-06-18,Mild
-1750,National Estimate,United States,2020-06-25,High
-1751,By Age,18 - 29 years,2020-06-25,Extreme
-1752,By Age,30 - 39 years,2020-06-25,Extreme
-1753,By Age,40 - 49 years,2020-06-25,Extreme
-1754,By Age,50 - 59 years,2020-06-25,High
-1755,By Age,60 - 69 years,2020-06-25,Moderate
-1756,By Age,70 - 79 years,2020-06-25,Mild
-1757,By Age,80 years and above,2020-06-25,Mild
-1758,By Sex,Male,2020-06-25,Moderate
-1759,By Sex,Female,2020-06-25,Extreme
-1760,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-25,Extreme
-1761,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-25,High
-1762,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-25,High
-1763,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-25,Mild
-1764,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-25,Extreme
-1765,By Education,Less than a high school diploma,2020-06-25,Extreme
-1766,By Education,High school diploma or GED,2020-06-25,High
-1767,By Education,Some college/Associate's degree,2020-06-25,Extreme
-1768,By Education,Bachelor's degree or higher,2020-06-25,Moderate
-1769,By State,Alabama,2020-06-25,Moderate
-1770,By State,Alaska,2020-06-25,High
-1771,By State,Arizona,2020-06-25,Extreme
-1772,By State,Arkansas,2020-06-25,High
-1773,By State,California,2020-06-25,High
-1774,By State,Colorado,2020-06-25,High
-1775,By State,Connecticut,2020-06-25,High
-1776,By State,Delaware,2020-06-25,Moderate
-1777,By State,District of Columbia,2020-06-25,Moderate
-1778,By State,Florida,2020-06-25,Extreme
-1779,By State,Georgia,2020-06-25,Extreme
-1780,By State,Hawaii,2020-06-25,High
-1781,By State,Idaho,2020-06-25,High
-1782,By State,Illinois,2020-06-25,High
-1783,By State,Indiana,2020-06-25,High
-1784,By State,Iowa,2020-06-25,High
-1785,By State,Kansas,2020-06-25,Moderate
-1786,By State,Kentucky,2020-06-25,High
-1787,By State,Louisiana,2020-06-25,Extreme
-1788,By State,Maine,2020-06-25,High
-1789,By State,Maryland,2020-06-25,Moderate
-1790,By State,Massachusetts,2020-06-25,Moderate
-1791,By State,Michigan,2020-06-25,Moderate
-1792,By State,Minnesota,2020-06-25,Moderate
-1793,By State,Mississippi,2020-06-25,Extreme
-1794,By State,Missouri,2020-06-25,High
-1795,By State,Montana,2020-06-25,Moderate
-1796,By State,Nebraska,2020-06-25,Moderate
-1797,By State,Nevada,2020-06-25,High
-1798,By State,New Hampshire,2020-06-25,Moderate
-1799,By State,New Jersey,2020-06-25,High
-1800,By State,New Mexico,2020-06-25,High
-1801,By State,New York,2020-06-25,High
-1802,By State,North Carolina,2020-06-25,High
-1803,By State,North Dakota,2020-06-25,Moderate
-1804,By State,Ohio,2020-06-25,Moderate
-1805,By State,Oklahoma,2020-06-25,Extreme
-1806,By State,Oregon,2020-06-25,High
-1807,By State,Pennsylvania,2020-06-25,High
-1808,By State,Rhode Island,2020-06-25,Moderate
-1809,By State,South Carolina,2020-06-25,High
-1810,By State,South Dakota,2020-06-25,High
-1811,By State,Tennessee,2020-06-25,Extreme
-1812,By State,Texas,2020-06-25,Extreme
-1813,By State,Utah,2020-06-25,High
-1814,By State,Vermont,2020-06-25,Moderate
-1815,By State,Virginia,2020-06-25,Moderate
-1816,By State,Washington,2020-06-25,Extreme
-1817,By State,West Virginia,2020-06-25,Extreme
-1818,By State,Wisconsin,2020-06-25,Moderate
-1819,By State,Wyoming,2020-06-25,High
-1960,National Estimate,United States,2020-07-02,High
-1961,By Age,18 - 29 years,2020-07-02,Extreme
-1962,By Age,30 - 39 years,2020-07-02,Extreme
-1963,By Age,40 - 49 years,2020-07-02,Extreme
-1964,By Age,50 - 59 years,2020-07-02,High
-1965,By Age,60 - 69 years,2020-07-02,Moderate
-1966,By Age,70 - 79 years,2020-07-02,Mild
-1967,By Age,80 years and above,2020-07-02,Mild
-1968,By Sex,Male,2020-07-02,High
-1969,By Sex,Female,2020-07-02,Extreme
-1970,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-02,Extreme
-1971,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-02,High
-1972,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-02,High
-1973,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-02,High
-1974,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-02,Extreme
-1975,By Education,Less than a high school diploma,2020-07-02,Extreme
-1976,By Education,High school diploma or GED,2020-07-02,High
-1977,By Education,Some college/Associate's degree,2020-07-02,Extreme
-1978,By Education,Bachelor's degree or higher,2020-07-02,Moderate
-1979,By State,Alabama,2020-07-02,High
-1980,By State,Alaska,2020-07-02,Moderate
-1981,By State,Arizona,2020-07-02,Extreme
-1982,By State,Arkansas,2020-07-02,High
-1983,By State,California,2020-07-02,High
-1984,By State,Colorado,2020-07-02,Extreme
-1985,By State,Connecticut,2020-07-02,High
-1986,By State,Delaware,2020-07-02,Moderate
-1987,By State,District of Columbia,2020-07-02,Extreme
-1988,By State,Florida,2020-07-02,Extreme
-1989,By State,Georgia,2020-07-02,High
-1990,By State,Hawaii,2020-07-02,High
-1991,By State,Idaho,2020-07-02,High
-1992,By State,Illinois,2020-07-02,High
-1993,By State,Indiana,2020-07-02,High
-1994,By State,Iowa,2020-07-02,Moderate
-1995,By State,Kansas,2020-07-02,High
-1996,By State,Kentucky,2020-07-02,Extreme
-1997,By State,Louisiana,2020-07-02,Extreme
-1998,By State,Maine,2020-07-02,High
-1999,By State,Maryland,2020-07-02,High
-2000,By State,Massachusetts,2020-07-02,High
-2001,By State,Michigan,2020-07-02,High
-2002,By State,Minnesota,2020-07-02,Moderate
-2003,By State,Mississippi,2020-07-02,Extreme
-2004,By State,Missouri,2020-07-02,Extreme
-2005,By State,Montana,2020-07-02,High
-2006,By State,Nebraska,2020-07-02,Moderate
-2007,By State,Nevada,2020-07-02,Extreme
-2008,By State,New Hampshire,2020-07-02,High
-2009,By State,New Jersey,2020-07-02,High
-2010,By State,New Mexico,2020-07-02,Extreme
-2011,By State,New York,2020-07-02,High
-2012,By State,North Carolina,2020-07-02,High
-2013,By State,North Dakota,2020-07-02,Moderate
-2014,By State,Ohio,2020-07-02,High
-2015,By State,Oklahoma,2020-07-02,Extreme
-2016,By State,Oregon,2020-07-02,Extreme
-2017,By State,Pennsylvania,2020-07-02,High
-2018,By State,Rhode Island,2020-07-02,High
-2019,By State,South Carolina,2020-07-02,High
-2020,By State,South Dakota,2020-07-02,High
-2021,By State,Tennessee,2020-07-02,High
-2022,By State,Texas,2020-07-02,Extreme
-2023,By State,Utah,2020-07-02,Moderate
-2024,By State,Vermont,2020-07-02,Moderate
-2025,By State,Virginia,2020-07-02,Moderate
-2026,By State,Washington,2020-07-02,Extreme
-2027,By State,West Virginia,2020-07-02,High
-2028,By State,Wisconsin,2020-07-02,High
-2029,By State,Wyoming,2020-07-02,High
-2170,National Estimate,United States,2020-07-09,Extreme
-2171,By Age,18 - 29 years,2020-07-09,Extreme
-2172,By Age,30 - 39 years,2020-07-09,Extreme
-2173,By Age,40 - 49 years,2020-07-09,Extreme
-2174,By Age,50 - 59 years,2020-07-09,High
-2175,By Age,60 - 69 years,2020-07-09,Moderate
-2176,By Age,70 - 79 years,2020-07-09,Mild
-2177,By Age,80 years and above,2020-07-09,Mild
-2178,By Sex,Male,2020-07-09,High
-2179,By Sex,Female,2020-07-09,Extreme
-2180,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-09,Extreme
-2181,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-09,High
-2182,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-09,Extreme
-2183,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-09,High
-2184,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-09,Extreme
-2185,By Education,Less than a high school diploma,2020-07-09,Extreme
-2186,By Education,High school diploma or GED,2020-07-09,High
-2187,By Education,Some college/Associate's degree,2020-07-09,Extreme
-2188,By Education,Bachelor's degree or higher,2020-07-09,High
-2189,By State,Alabama,2020-07-09,High
-2190,By State,Alaska,2020-07-09,High
-2191,By State,Arizona,2020-07-09,Extreme
-2192,By State,Arkansas,2020-07-09,Extreme
-2193,By State,California,2020-07-09,Extreme
-2194,By State,Colorado,2020-07-09,Extreme
-2195,By State,Connecticut,2020-07-09,High
-2196,By State,Delaware,2020-07-09,High
-2197,By State,District of Columbia,2020-07-09,Mild
-2198,By State,Florida,2020-07-09,Extreme
-2199,By State,Georgia,2020-07-09,Extreme
-2200,By State,Hawaii,2020-07-09,High
-2201,By State,Idaho,2020-07-09,High
-2202,By State,Illinois,2020-07-09,Moderate
-2203,By State,Indiana,2020-07-09,Extreme
-2204,By State,Iowa,2020-07-09,Moderate
-2205,By State,Kansas,2020-07-09,Moderate
-2206,By State,Kentucky,2020-07-09,Extreme
-2207,By State,Louisiana,2020-07-09,Extreme
-2208,By State,Maine,2020-07-09,Moderate
-2209,By State,Maryland,2020-07-09,High
-2210,By State,Massachusetts,2020-07-09,High
-2211,By State,Michigan,2020-07-09,High
-2212,By State,Minnesota,2020-07-09,Moderate
-2213,By State,Mississippi,2020-07-09,Extreme
-2214,By State,Missouri,2020-07-09,Extreme
-2215,By State,Montana,2020-07-09,Extreme
-2216,By State,Nebraska,2020-07-09,High
-2217,By State,Nevada,2020-07-09,Extreme
-2218,By State,New Hampshire,2020-07-09,Moderate
-2219,By State,New Jersey,2020-07-09,Extreme
-2220,By State,New Mexico,2020-07-09,Extreme
-2221,By State,New York,2020-07-09,High
-2222,By State,North Carolina,2020-07-09,High
-2223,By State,North Dakota,2020-07-09,High
-2224,By State,Ohio,2020-07-09,High
-2225,By State,Oklahoma,2020-07-09,Extreme
-2226,By State,Oregon,2020-07-09,Extreme
-2227,By State,Pennsylvania,2020-07-09,High
-2228,By State,Rhode Island,2020-07-09,Extreme
-2229,By State,South Carolina,2020-07-09,High
-2230,By State,South Dakota,2020-07-09,High
-2231,By State,Tennessee,2020-07-09,Extreme
-2232,By State,Texas,2020-07-09,Extreme
-2233,By State,Utah,2020-07-09,Moderate
-2234,By State,Vermont,2020-07-09,High
-2235,By State,Virginia,2020-07-09,High
-2236,By State,Washington,2020-07-09,Extreme
-2237,By State,West Virginia,2020-07-09,Extreme
-2238,By State,Wisconsin,2020-07-09,High
-2239,By State,Wyoming,2020-07-09,Moderate
-2380,National Estimate,United States,2020-07-16,Extreme
-2381,By Age,18 - 29 years,2020-07-16,Extreme
-2382,By Age,30 - 39 years,2020-07-16,Extreme
-2383,By Age,40 - 49 years,2020-07-16,Extreme
-2384,By Age,50 - 59 years,2020-07-16,Extreme
-2385,By Age,60 - 69 years,2020-07-16,Moderate
-2386,By Age,70 - 79 years,2020-07-16,Mild
-2387,By Age,80 years and above,2020-07-16,Mild
-2388,By Sex,Male,2020-07-16,High
-2389,By Sex,Female,2020-07-16,Extreme
-2390,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-16,Extreme
-2391,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-16,High
-2392,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-16,Extreme
-2393,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-16,High
-2394,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-16,Extreme
-2395,By Education,Less than a high school diploma,2020-07-16,Extreme
-2396,By Education,High school diploma or GED,2020-07-16,Extreme
-2397,By Education,Some college/Associate's degree,2020-07-16,Extreme
-2398,By Education,Bachelor's degree or higher,2020-07-16,High
-2399,By State,Alabama,2020-07-16,Extreme
-2400,By State,Alaska,2020-07-16,High
-2401,By State,Arizona,2020-07-16,Extreme
-2402,By State,Arkansas,2020-07-16,Extreme
-2403,By State,California,2020-07-16,Extreme
-2404,By State,Colorado,2020-07-16,Extreme
-2405,By State,Connecticut,2020-07-16,High
-2406,By State,Delaware,2020-07-16,Moderate
-2407,By State,District of Columbia,2020-07-16,High
-2408,By State,Florida,2020-07-16,High
-2409,By State,Georgia,2020-07-16,Extreme
-2410,By State,Hawaii,2020-07-16,Extreme
-2411,By State,Idaho,2020-07-16,Extreme
-2412,By State,Illinois,2020-07-16,Extreme
-2413,By State,Indiana,2020-07-16,Extreme
-2414,By State,Iowa,2020-07-16,High
-2415,By State,Kansas,2020-07-16,High
-2416,By State,Kentucky,2020-07-16,Extreme
-2417,By State,Louisiana,2020-07-16,Extreme
-2418,By State,Maine,2020-07-16,Extreme
-2419,By State,Maryland,2020-07-16,High
-2420,By State,Massachusetts,2020-07-16,High
-2421,By State,Michigan,2020-07-16,Extreme
-2422,By State,Minnesota,2020-07-16,High
-2423,By State,Mississippi,2020-07-16,Extreme
-2424,By State,Missouri,2020-07-16,High
-2425,By State,Montana,2020-07-16,Moderate
-2426,By State,Nebraska,2020-07-16,High
-2427,By State,Nevada,2020-07-16,Extreme
-2428,By State,New Hampshire,2020-07-16,High
-2429,By State,New Jersey,2020-07-16,High
-2430,By State,New Mexico,2020-07-16,Extreme
-2431,By State,New York,2020-07-16,Extreme
-2432,By State,North Carolina,2020-07-16,High
-2433,By State,North Dakota,2020-07-16,High
-2434,By State,Ohio,2020-07-16,High
-2435,By State,Oklahoma,2020-07-16,Extreme
-2436,By State,Oregon,2020-07-16,Extreme
-2437,By State,Pennsylvania,2020-07-16,Moderate
-2438,By State,Rhode Island,2020-07-16,Extreme
-2439,By State,South Carolina,2020-07-16,Extreme
-2440,By State,South Dakota,2020-07-16,Moderate
-2441,By State,Tennessee,2020-07-16,Extreme
-2442,By State,Texas,2020-07-16,Extreme
-2443,By State,Utah,2020-07-16,High
-2444,By State,Vermont,2020-07-16,Moderate
-2445,By State,Virginia,2020-07-16,High
-2446,By State,Washington,2020-07-16,Extreme
-2447,By State,West Virginia,2020-07-16,High
-2448,By State,Wisconsin,2020-07-16,High
-2449,By State,Wyoming,2020-07-16,Extreme
-2628,National Estimate,United States,2020-08-19,High
-2629,By Age,18 - 29 years,2020-08-19,Extreme
-2630,By Age,30 - 39 years,2020-08-19,Extreme
-2631,By Age,40 - 49 years,2020-08-19,High
-2632,By Age,50 - 59 years,2020-08-19,High
-2633,By Age,60 - 69 years,2020-08-19,Moderate
-2634,By Age,70 - 79 years,2020-08-19,Mild
-2635,By Age,80 years and above,2020-08-19,Mild
-2636,By Sex,Male,2020-08-19,Moderate
-2637,By Sex,Female,2020-08-19,Extreme
-2638,By Race/Hispanic ethnicity,Hispanic or Latino,2020-08-19,High
-2639,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-08-19,High
-2640,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-08-19,High
-2641,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-08-19,Moderate
-2642,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-08-19,Extreme
-2643,By Education,Less than a high school diploma,2020-08-19,Extreme
-2644,By Education,High school diploma or GED,2020-08-19,High
-2645,By Education,Some college/Associate's degree,2020-08-19,High
-2646,By Education,Bachelor's degree or higher,2020-08-19,Moderate
-2647,By State,Alabama,2020-08-19,High
-2648,By State,Alaska,2020-08-19,High
-2649,By State,Arizona,2020-08-19,High
-2650,By State,Arkansas,2020-08-19,High
-2651,By State,California,2020-08-19,High
-2652,By State,Colorado,2020-08-19,High
-2653,By State,Connecticut,2020-08-19,High
-2654,By State,Delaware,2020-08-19,Mild
-2655,By State,District of Columbia,2020-08-19,High
-2656,By State,Florida,2020-08-19,High
-2657,By State,Georgia,2020-08-19,High
-2658,By State,Hawaii,2020-08-19,Extreme
-2659,By State,Idaho,2020-08-19,Moderate
-2660,By State,Illinois,2020-08-19,High
-2661,By State,Indiana,2020-08-19,High
-2662,By State,Iowa,2020-08-19,Moderate
-2663,By State,Kansas,2020-08-19,High
-2664,By State,Kentucky,2020-08-19,High
-2665,By State,Louisiana,2020-08-19,Extreme
-2666,By State,Maine,2020-08-19,High
-2667,By State,Maryland,2020-08-19,High
-2668,By State,Massachusetts,2020-08-19,High
-2669,By State,Michigan,2020-08-19,High
-2670,By State,Minnesota,2020-08-19,Moderate
-2671,By State,Mississippi,2020-08-19,Moderate
-2672,By State,Missouri,2020-08-19,Moderate
-2673,By State,Montana,2020-08-19,Moderate
-2674,By State,Nebraska,2020-08-19,Moderate
-2675,By State,Nevada,2020-08-19,Extreme
-2676,By State,New Hampshire,2020-08-19,Moderate
-2677,By State,New Jersey,2020-08-19,High
-2678,By State,New Mexico,2020-08-19,Extreme
-2679,By State,New York,2020-08-19,High
-2680,By State,North Carolina,2020-08-19,Moderate
-2681,By State,North Dakota,2020-08-19,Moderate
-2682,By State,Ohio,2020-08-19,High
-2683,By State,Oklahoma,2020-08-19,High
-2684,By State,Oregon,2020-08-19,High
-2685,By State,Pennsylvania,2020-08-19,High
-2686,By State,Rhode Island,2020-08-19,High
-2687,By State,South Carolina,2020-08-19,Mild
-2688,By State,South Dakota,2020-08-19,Mild
-2689,By State,Tennessee,2020-08-19,High
-2690,By State,Texas,2020-08-19,High
-2691,By State,Utah,2020-08-19,High
-2692,By State,Vermont,2020-08-19,Moderate
-2693,By State,Virginia,2020-08-19,High
-2694,By State,Washington,2020-08-19,High
-2695,By State,West Virginia,2020-08-19,Moderate
-2696,By State,Wisconsin,2020-08-19,Moderate
-2697,By State,Wyoming,2020-08-19,High
-2857,National Estimate,United States,2020-09-02,High
-2858,By Age,18 - 29 years,2020-09-02,Extreme
-2859,By Age,30 - 39 years,2020-09-02,Extreme
-2860,By Age,40 - 49 years,2020-09-02,High
-2861,By Age,50 - 59 years,2020-09-02,High
-2862,By Age,60 - 69 years,2020-09-02,Moderate
-2863,By Age,70 - 79 years,2020-09-02,Mild
-2864,By Age,80 years and above,2020-09-02,Mild
-2865,By Sex,Male,2020-09-02,Moderate
-2866,By Sex,Female,2020-09-02,Extreme
-2867,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-02,Extreme
-2868,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-02,High
-2869,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-02,High
-2870,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-02,Mild
-2871,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-02,Extreme
-2872,By Education,Less than a high school diploma,2020-09-02,Extreme
-2873,By Education,High school diploma or GED,2020-09-02,High
-2874,By Education,Some college/Associate's degree,2020-09-02,High
-2875,By Education,Bachelor's degree or higher,2020-09-02,Moderate
-2876,By State,Alabama,2020-09-02,High
-2877,By State,Alaska,2020-09-02,Moderate
-2878,By State,Arizona,2020-09-02,High
-2879,By State,Arkansas,2020-09-02,Extreme
-2880,By State,California,2020-09-02,High
-2881,By State,Colorado,2020-09-02,High
-2882,By State,Connecticut,2020-09-02,High
-2883,By State,Delaware,2020-09-02,High
-2884,By State,District of Columbia,2020-09-02,High
-2885,By State,Florida,2020-09-02,High
-2886,By State,Georgia,2020-09-02,High
-2887,By State,Hawaii,2020-09-02,High
-2888,By State,Idaho,2020-09-02,High
-2889,By State,Illinois,2020-09-02,High
-2890,By State,Indiana,2020-09-02,High
-2891,By State,Iowa,2020-09-02,Moderate
-2892,By State,Kansas,2020-09-02,Moderate
-2893,By State,Kentucky,2020-09-02,High
-2894,By State,Louisiana,2020-09-02,Extreme
-2895,By State,Maine,2020-09-02,High
-2896,By State,Maryland,2020-09-02,High
-2897,By State,Massachusetts,2020-09-02,Moderate
-2898,By State,Michigan,2020-09-02,High
-2899,By State,Minnesota,2020-09-02,Moderate
-2900,By State,Mississippi,2020-09-02,High
-2901,By State,Missouri,2020-09-02,Moderate
-2902,By State,Montana,2020-09-02,Moderate
-2903,By State,Nebraska,2020-09-02,Moderate
-2904,By State,Nevada,2020-09-02,High
-2905,By State,New Hampshire,2020-09-02,High
-2906,By State,New Jersey,2020-09-02,High
-2907,By State,New Mexico,2020-09-02,High
-2908,By State,New York,2020-09-02,High
-2909,By State,North Carolina,2020-09-02,Moderate
-2910,By State,North Dakota,2020-09-02,Mild
-2911,By State,Ohio,2020-09-02,High
-2912,By State,Oklahoma,2020-09-02,High
-2913,By State,Oregon,2020-09-02,Extreme
-2914,By State,Pennsylvania,2020-09-02,High
-2915,By State,Rhode Island,2020-09-02,High
-2916,By State,South Carolina,2020-09-02,Moderate
-2917,By State,South Dakota,2020-09-02,Mild
-2918,By State,Tennessee,2020-09-02,Moderate
-2919,By State,Texas,2020-09-02,High
-2920,By State,Utah,2020-09-02,Moderate
-2921,By State,Vermont,2020-09-02,High
-2922,By State,Virginia,2020-09-02,Moderate
-2923,By State,Washington,2020-09-02,High
-2924,By State,West Virginia,2020-09-02,High
-2925,By State,Wisconsin,2020-09-02,Moderate
-2926,By State,Wyoming,2020-09-02,Moderate
-3067,National Estimate,United States,2020-09-16,High
-3068,By Age,18 - 29 years,2020-09-16,Extreme
-3069,By Age,30 - 39 years,2020-09-16,Extreme
-3070,By Age,40 - 49 years,2020-09-16,High
-3071,By Age,50 - 59 years,2020-09-16,High
-3072,By Age,60 - 69 years,2020-09-16,Moderate
-3073,By Age,70 - 79 years,2020-09-16,Mild
-3074,By Age,80 years and above,2020-09-16,Mild
-3075,By Sex,Male,2020-09-16,Moderate
-3076,By Sex,Female,2020-09-16,Extreme
-3077,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-16,Extreme
-3078,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-16,High
-3079,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-16,High
-3080,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-16,Moderate
-3081,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-16,Extreme
-3082,By Education,Less than a high school diploma,2020-09-16,Extreme
-3083,By Education,High school diploma or GED,2020-09-16,High
-3084,By Education,Some college/Associate's degree,2020-09-16,High
-3085,By Education,Bachelor's degree or higher,2020-09-16,High
-3086,By State,Alabama,2020-09-16,High
-3087,By State,Alaska,2020-09-16,High
-3088,By State,Arizona,2020-09-16,High
-3089,By State,Arkansas,2020-09-16,Moderate
-3090,By State,California,2020-09-16,Extreme
-3091,By State,Colorado,2020-09-16,High
-3092,By State,Connecticut,2020-09-16,High
-3093,By State,Delaware,2020-09-16,Moderate
-3094,By State,District of Columbia,2020-09-16,Extreme
-3095,By State,Florida,2020-09-16,High
-3096,By State,Georgia,2020-09-16,High
-3097,By State,Hawaii,2020-09-16,Moderate
-3098,By State,Idaho,2020-09-16,Moderate
-3099,By State,Illinois,2020-09-16,High
-3100,By State,Indiana,2020-09-16,High
-3101,By State,Iowa,2020-09-16,Moderate
-3102,By State,Kansas,2020-09-16,High
-3103,By State,Kentucky,2020-09-16,High
-3104,By State,Louisiana,2020-09-16,Extreme
-3105,By State,Maine,2020-09-16,High
-3106,By State,Maryland,2020-09-16,High
-3107,By State,Massachusetts,2020-09-16,High
-3108,By State,Michigan,2020-09-16,Moderate
-3109,By State,Minnesota,2020-09-16,Moderate
-3110,By State,Mississippi,2020-09-16,High
-3111,By State,Missouri,2020-09-16,High
-3112,By State,Montana,2020-09-16,High
-3113,By State,Nebraska,2020-09-16,Moderate
-3114,By State,Nevada,2020-09-16,Extreme
-3115,By State,New Hampshire,2020-09-16,Moderate
-3116,By State,New Jersey,2020-09-16,High
-3117,By State,New Mexico,2020-09-16,Extreme
-3118,By State,New York,2020-09-16,High
-3119,By State,North Carolina,2020-09-16,Moderate
-3120,By State,North Dakota,2020-09-16,Mild
-3121,By State,Ohio,2020-09-16,High
-3122,By State,Oklahoma,2020-09-16,Moderate
-3123,By State,Oregon,2020-09-16,Extreme
-3124,By State,Pennsylvania,2020-09-16,High
-3125,By State,Rhode Island,2020-09-16,High
-3126,By State,South Carolina,2020-09-16,High
-3127,By State,South Dakota,2020-09-16,Mild
-3128,By State,Tennessee,2020-09-16,High
-3129,By State,Texas,2020-09-16,High
-3130,By State,Utah,2020-09-16,High
-3131,By State,Vermont,2020-09-16,High
-3132,By State,Virginia,2020-09-16,High
-3133,By State,Washington,2020-09-16,High
-3134,By State,West Virginia,2020-09-16,Extreme
-3135,By State,Wisconsin,2020-09-16,Moderate
-3136,By State,Wyoming,2020-09-16,Moderate
-3277,National Estimate,United States,2020-09-30,High
-3278,By Age,18 - 29 years,2020-09-30,Extreme
-3279,By Age,30 - 39 years,2020-09-30,Extreme
-3280,By Age,40 - 49 years,2020-09-30,Extreme
-3281,By Age,50 - 59 years,2020-09-30,High
-3282,By Age,60 - 69 years,2020-09-30,Moderate
-3283,By Age,70 - 79 years,2020-09-30,Mild
-3284,By Age,80 years and above,2020-09-30,Mild
-3285,By Sex,Male,2020-09-30,Moderate
-3286,By Sex,Female,2020-09-30,Extreme
-3287,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-30,Extreme
-3288,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-30,High
-3289,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-30,High
-3290,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-30,Moderate
-3291,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-30,Extreme
-3292,By Education,Less than a high school diploma,2020-09-30,Extreme
-3293,By Education,High school diploma or GED,2020-09-30,High
-3294,By Education,Some college/Associate's degree,2020-09-30,Extreme
-3295,By Education,Bachelor's degree or higher,2020-09-30,High
-3296,By State,Alabama,2020-09-30,Moderate
-3297,By State,Alaska,2020-09-30,High
-3298,By State,Arizona,2020-09-30,High
-3299,By State,Arkansas,2020-09-30,Extreme
-3300,By State,California,2020-09-30,Extreme
-3301,By State,Colorado,2020-09-30,High
-3302,By State,Connecticut,2020-09-30,Moderate
-3303,By State,Delaware,2020-09-30,High
-3304,By State,District of Columbia,2020-09-30,High
-3305,By State,Florida,2020-09-30,High
-3306,By State,Georgia,2020-09-30,Moderate
-3307,By State,Hawaii,2020-09-30,High
-3308,By State,Idaho,2020-09-30,Moderate
-3309,By State,Illinois,2020-09-30,High
-3310,By State,Indiana,2020-09-30,High
-3311,By State,Iowa,2020-09-30,Moderate
-3312,By State,Kansas,2020-09-30,High
-3313,By State,Kentucky,2020-09-30,Extreme
-3314,By State,Louisiana,2020-09-30,Extreme
-3315,By State,Maine,2020-09-30,High
-3316,By State,Maryland,2020-09-30,High
-3317,By State,Massachusetts,2020-09-30,High
-3318,By State,Michigan,2020-09-30,High
-3319,By State,Minnesota,2020-09-30,Moderate
-3320,By State,Mississippi,2020-09-30,High
-3321,By State,Missouri,2020-09-30,High
-3322,By State,Montana,2020-09-30,Moderate
-3323,By State,Nebraska,2020-09-30,Moderate
-3324,By State,Nevada,2020-09-30,Extreme
-3325,By State,New Hampshire,2020-09-30,Moderate
-3326,By State,New Jersey,2020-09-30,High
-3327,By State,New Mexico,2020-09-30,High
-3328,By State,New York,2020-09-30,High
-3329,By State,North Carolina,2020-09-30,Moderate
-3330,By State,North Dakota,2020-09-30,Mild
-3331,By State,Ohio,2020-09-30,High
-3332,By State,Oklahoma,2020-09-30,High
-3333,By State,Oregon,2020-09-30,High
-3334,By State,Pennsylvania,2020-09-30,High
-3335,By State,Rhode Island,2020-09-30,Moderate
-3336,By State,South Carolina,2020-09-30,Moderate
-3337,By State,South Dakota,2020-09-30,Moderate
-3338,By State,Tennessee,2020-09-30,High
-3339,By State,Texas,2020-09-30,High
-3340,By State,Utah,2020-09-30,High
-3341,By State,Vermont,2020-09-30,Extreme
-3342,By State,Virginia,2020-09-30,Moderate
-3343,By State,Washington,2020-09-30,High
-3344,By State,West Virginia,2020-09-30,Extreme
-3345,By State,Wisconsin,2020-09-30,High
-3346,By State,Wyoming,2020-09-30,Moderate
-3487,National Estimate,United States,2020-10-14,High
-3488,By Age,18 - 29 years,2020-10-14,Extreme
-3489,By Age,30 - 39 years,2020-10-14,Extreme
-3490,By Age,40 - 49 years,2020-10-14,High
-3491,By Age,50 - 59 years,2020-10-14,High
-3492,By Age,60 - 69 years,2020-10-14,Moderate
-3493,By Age,70 - 79 years,2020-10-14,Mild
-3494,By Age,80 years and above,2020-10-14,Mild
-3495,By Sex,Male,2020-10-14,Moderate
-3496,By Sex,Female,2020-10-14,Extreme
-3497,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-14,Extreme
-3498,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-14,High
-3499,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-14,High
-3500,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-14,Moderate
-3501,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-14,Extreme
-3502,By Education,Less than a high school diploma,2020-10-14,Extreme
-3503,By Education,High school diploma or GED,2020-10-14,High
-3504,By Education,Some college/Associate's degree,2020-10-14,Extreme
-3505,By Education,Bachelor's degree or higher,2020-10-14,High
-3506,By State,Alabama,2020-10-14,High
-3507,By State,Alaska,2020-10-14,High
-3508,By State,Arizona,2020-10-14,High
-3509,By State,Arkansas,2020-10-14,High
-3510,By State,California,2020-10-14,Extreme
-3511,By State,Colorado,2020-10-14,High
-3512,By State,Connecticut,2020-10-14,High
-3513,By State,Delaware,2020-10-14,High
-3514,By State,District of Columbia,2020-10-14,High
-3515,By State,Florida,2020-10-14,High
-3516,By State,Georgia,2020-10-14,High
-3517,By State,Hawaii,2020-10-14,High
-3518,By State,Idaho,2020-10-14,High
-3519,By State,Illinois,2020-10-14,High
-3520,By State,Indiana,2020-10-14,Extreme
-3521,By State,Iowa,2020-10-14,High
-3522,By State,Kansas,2020-10-14,High
-3523,By State,Kentucky,2020-10-14,Extreme
-3524,By State,Louisiana,2020-10-14,High
-3525,By State,Maine,2020-10-14,High
-3526,By State,Maryland,2020-10-14,High
-3527,By State,Massachusetts,2020-10-14,High
-3528,By State,Michigan,2020-10-14,High
-3529,By State,Minnesota,2020-10-14,Moderate
-3530,By State,Mississippi,2020-10-14,Extreme
-3531,By State,Missouri,2020-10-14,Extreme
-3532,By State,Montana,2020-10-14,Moderate
-3533,By State,Nebraska,2020-10-14,Moderate
-3534,By State,Nevada,2020-10-14,Extreme
-3535,By State,New Hampshire,2020-10-14,Moderate
-3536,By State,New Jersey,2020-10-14,High
-3537,By State,New Mexico,2020-10-14,Extreme
-3538,By State,New York,2020-10-14,High
-3539,By State,North Carolina,2020-10-14,Moderate
-3540,By State,North Dakota,2020-10-14,Moderate
-3541,By State,Ohio,2020-10-14,High
-3542,By State,Oklahoma,2020-10-14,High
-3543,By State,Oregon,2020-10-14,Extreme
-3544,By State,Pennsylvania,2020-10-14,High
-3545,By State,Rhode Island,2020-10-14,Extreme
-3546,By State,South Carolina,2020-10-14,High
-3547,By State,South Dakota,2020-10-14,Mild
-3548,By State,Tennessee,2020-10-14,High
-3549,By State,Texas,2020-10-14,High
-3550,By State,Utah,2020-10-14,Moderate
-3551,By State,Vermont,2020-10-14,High
-3552,By State,Virginia,2020-10-14,High
-3553,By State,Washington,2020-10-14,Extreme
-3554,By State,West Virginia,2020-10-14,High
-3555,By State,Wisconsin,2020-10-14,High
-3556,By State,Wyoming,2020-10-14,Moderate
-3697,National Estimate,United States,2020-10-28,Extreme
-3698,By Age,18 - 29 years,2020-10-28,Extreme
-3699,By Age,30 - 39 years,2020-10-28,Extreme
-3700,By Age,40 - 49 years,2020-10-28,Extreme
-3701,By Age,50 - 59 years,2020-10-28,High
-3702,By Age,60 - 69 years,2020-10-28,Moderate
-3703,By Age,70 - 79 years,2020-10-28,Mild
-3704,By Age,80 years and above,2020-10-28,Mild
-3705,By Sex,Male,2020-10-28,High
-3706,By Sex,Female,2020-10-28,Extreme
-3707,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-28,Extreme
-3708,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-28,High
-3709,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-28,Extreme
-3710,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-28,Moderate
-3711,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-28,Extreme
-3712,By Education,Less than a high school diploma,2020-10-28,Extreme
-3713,By Education,High school diploma or GED,2020-10-28,Extreme
-3714,By Education,Some college/Associate's degree,2020-10-28,Extreme
-3715,By Education,Bachelor's degree or higher,2020-10-28,High
-3716,By State,Alabama,2020-10-28,Extreme
-3717,By State,Alaska,2020-10-28,High
-3718,By State,Arizona,2020-10-28,Extreme
-3719,By State,Arkansas,2020-10-28,Extreme
-3720,By State,California,2020-10-28,Extreme
-3721,By State,Colorado,2020-10-28,Extreme
-3722,By State,Connecticut,2020-10-28,Extreme
-3723,By State,Delaware,2020-10-28,Extreme
-3724,By State,District of Columbia,2020-10-28,Extreme
-3725,By State,Florida,2020-10-28,Extreme
-3726,By State,Georgia,2020-10-28,Extreme
-3727,By State,Hawaii,2020-10-28,Extreme
-3728,By State,Idaho,2020-10-28,Extreme
-3729,By State,Illinois,2020-10-28,Extreme
-3730,By State,Indiana,2020-10-28,High
-3731,By State,Iowa,2020-10-28,Extreme
-3732,By State,Kansas,2020-10-28,Extreme
-3733,By State,Kentucky,2020-10-28,Extreme
-3734,By State,Louisiana,2020-10-28,Extreme
-3735,By State,Maine,2020-10-28,Extreme
-3736,By State,Maryland,2020-10-28,Extreme
-3737,By State,Massachusetts,2020-10-28,Extreme
-3738,By State,Michigan,2020-10-28,High
-3739,By State,Minnesota,2020-10-28,High
-3740,By State,Mississippi,2020-10-28,Extreme
-3741,By State,Missouri,2020-10-28,Extreme
-3742,By State,Montana,2020-10-28,Extreme
-3743,By State,Nebraska,2020-10-28,High
-3744,By State,Nevada,2020-10-28,Extreme
-3745,By State,New Hampshire,2020-10-28,Extreme
-3746,By State,New Jersey,2020-10-28,High
-3747,By State,New Mexico,2020-10-28,Extreme
-3748,By State,New York,2020-10-28,High
-3749,By State,North Carolina,2020-10-28,Extreme
-3750,By State,North Dakota,2020-10-28,Mild
-3751,By State,Ohio,2020-10-28,Extreme
-3752,By State,Oklahoma,2020-10-28,Extreme
-3753,By State,Oregon,2020-10-28,Extreme
-3754,By State,Pennsylvania,2020-10-28,Extreme
-3755,By State,Rhode Island,2020-10-28,Extreme
-3756,By State,South Carolina,2020-10-28,Extreme
-3757,By State,South Dakota,2020-10-28,Moderate
-3758,By State,Tennessee,2020-10-28,High
-3759,By State,Texas,2020-10-28,Extreme
-3760,By State,Utah,2020-10-28,High
-3761,By State,Vermont,2020-10-28,Extreme
-3762,By State,Virginia,2020-10-28,High
-3763,By State,Washington,2020-10-28,High
-3764,By State,West Virginia,2020-10-28,Extreme
-3765,By State,Wisconsin,2020-10-28,Extreme
-3766,By State,Wyoming,2020-10-28,High
-3907,National Estimate,United States,2020-11-11,Extreme
-3908,By Age,18 - 29 years,2020-11-11,Extreme
-3909,By Age,30 - 39 years,2020-11-11,Extreme
-3910,By Age,40 - 49 years,2020-11-11,Extreme
-3911,By Age,50 - 59 years,2020-11-11,Extreme
-3912,By Age,60 - 69 years,2020-11-11,High
-3913,By Age,70 - 79 years,2020-11-11,Mild
-3914,By Age,80 years and above,2020-11-11,Mild
-3915,By Sex,Male,2020-11-11,High
-3916,By Sex,Female,2020-11-11,Extreme
-3917,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-11,Extreme
-3918,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-11,Extreme
-3919,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-11,Extreme
-3920,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-11,Moderate
-3921,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-11,Extreme
-3922,By Education,Less than a high school diploma,2020-11-11,Extreme
-3923,By Education,High school diploma or GED,2020-11-11,Extreme
-3924,By Education,Some college/Associate's degree,2020-11-11,Extreme
-3925,By Education,Bachelor's degree or higher,2020-11-11,High
-3926,By State,Alabama,2020-11-11,Extreme
-3927,By State,Alaska,2020-11-11,Extreme
-3928,By State,Arizona,2020-11-11,Extreme
-3929,By State,Arkansas,2020-11-11,Extreme
-3930,By State,California,2020-11-11,Extreme
-3931,By State,Colorado,2020-11-11,Extreme
-3932,By State,Connecticut,2020-11-11,High
-3933,By State,Delaware,2020-11-11,High
-3934,By State,District of Columbia,2020-11-11,Extreme
-3935,By State,Florida,2020-11-11,High
-3936,By State,Georgia,2020-11-11,High
-3937,By State,Hawaii,2020-11-11,Moderate
-3938,By State,Idaho,2020-11-11,High
-3939,By State,Illinois,2020-11-11,Extreme
-3940,By State,Indiana,2020-11-11,High
-3941,By State,Iowa,2020-11-11,High
-3942,By State,Kansas,2020-11-11,High
-3943,By State,Kentucky,2020-11-11,High
-3944,By State,Louisiana,2020-11-11,Extreme
-3945,By State,Maine,2020-11-11,High
-3946,By State,Maryland,2020-11-11,Extreme
-3947,By State,Massachusetts,2020-11-11,Extreme
-3948,By State,Michigan,2020-11-11,Extreme
-3949,By State,Minnesota,2020-11-11,Extreme
-3950,By State,Mississippi,2020-11-11,Extreme
-3951,By State,Missouri,2020-11-11,High
-3952,By State,Montana,2020-11-11,Extreme
-3953,By State,Nebraska,2020-11-11,High
-3954,By State,Nevada,2020-11-11,Extreme
-3955,By State,New Hampshire,2020-11-11,High
-3956,By State,New Jersey,2020-11-11,Extreme
-3957,By State,New Mexico,2020-11-11,Extreme
-3958,By State,New York,2020-11-11,Extreme
-3959,By State,North Carolina,2020-11-11,Extreme
-3960,By State,North Dakota,2020-11-11,High
-3961,By State,Ohio,2020-11-11,Extreme
-3962,By State,Oklahoma,2020-11-11,Extreme
-3963,By State,Oregon,2020-11-11,Extreme
-3964,By State,Pennsylvania,2020-11-11,High
-3965,By State,Rhode Island,2020-11-11,Extreme
-3966,By State,South Carolina,2020-11-11,Extreme
-3967,By State,South Dakota,2020-11-11,High
-3968,By State,Tennessee,2020-11-11,Extreme
-3969,By State,Texas,2020-11-11,Extreme
-3970,By State,Utah,2020-11-11,Extreme
-3971,By State,Vermont,2020-11-11,Extreme
-3972,By State,Virginia,2020-11-11,High
-3973,By State,Washington,2020-11-11,Extreme
-3974,By State,West Virginia,2020-11-11,Extreme
-3975,By State,Wisconsin,2020-11-11,High
-3976,By State,Wyoming,2020-11-11,Extreme
-4117,National Estimate,United States,2020-11-25,Extreme
-4118,By Age,18 - 29 years,2020-11-25,Extreme
-4119,By Age,30 - 39 years,2020-11-25,Extreme
-4120,By Age,40 - 49 years,2020-11-25,Extreme
-4121,By Age,50 - 59 years,2020-11-25,High
-4122,By Age,60 - 69 years,2020-11-25,Moderate
-4123,By Age,70 - 79 years,2020-11-25,Mild
-4124,By Age,80 years and above,2020-11-25,Mild
-4125,By Sex,Male,2020-11-25,High
-4126,By Sex,Female,2020-11-25,Extreme
-4127,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-25,Extreme
-4128,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-25,High
-4129,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-25,Extreme
-4130,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-25,Moderate
-4131,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-25,Extreme
-4132,By Education,Less than a high school diploma,2020-11-25,Extreme
-4133,By Education,High school diploma or GED,2020-11-25,Extreme
-4134,By Education,Some college/Associate's degree,2020-11-25,Extreme
-4135,By Education,Bachelor's degree or higher,2020-11-25,High
-4136,By State,Alabama,2020-11-25,High
-4137,By State,Alaska,2020-11-25,Extreme
-4138,By State,Arizona,2020-11-25,High
-4139,By State,Arkansas,2020-11-25,Extreme
-4140,By State,California,2020-11-25,Extreme
-4141,By State,Colorado,2020-11-25,Extreme
-4142,By State,Connecticut,2020-11-25,Extreme
-4143,By State,Delaware,2020-11-25,High
-4144,By State,District of Columbia,2020-11-25,Extreme
-4145,By State,Florida,2020-11-25,Extreme
-4146,By State,Georgia,2020-11-25,Extreme
-4147,By State,Hawaii,2020-11-25,High
-4148,By State,Idaho,2020-11-25,High
-4149,By State,Illinois,2020-11-25,Extreme
-4150,By State,Indiana,2020-11-25,Extreme
-4151,By State,Iowa,2020-11-25,High
-4152,By State,Kansas,2020-11-25,High
-4153,By State,Kentucky,2020-11-25,Extreme
-4154,By State,Louisiana,2020-11-25,Extreme
-4155,By State,Maine,2020-11-25,High
-4156,By State,Maryland,2020-11-25,High
-4157,By State,Massachusetts,2020-11-25,High
-4158,By State,Michigan,2020-11-25,High
-4159,By State,Minnesota,2020-11-25,High
-4160,By State,Mississippi,2020-11-25,Extreme
-4161,By State,Missouri,2020-11-25,Extreme
-4162,By State,Montana,2020-11-25,Extreme
-4163,By State,Nebraska,2020-11-25,High
-4164,By State,Nevada,2020-11-25,Extreme
-4165,By State,New Hampshire,2020-11-25,Extreme
-4166,By State,New Jersey,2020-11-25,Extreme
-4167,By State,New Mexico,2020-11-25,Extreme
-4168,By State,New York,2020-11-25,Extreme
-4169,By State,North Carolina,2020-11-25,High
-4170,By State,North Dakota,2020-11-25,Moderate
-4171,By State,Ohio,2020-11-25,Extreme
-4172,By State,Oklahoma,2020-11-25,Extreme
-4173,By State,Oregon,2020-11-25,Extreme
-4174,By State,Pennsylvania,2020-11-25,Extreme
-4175,By State,Rhode Island,2020-11-25,Extreme
-4176,By State,South Carolina,2020-11-25,High
-4177,By State,South Dakota,2020-11-25,Moderate
-4178,By State,Tennessee,2020-11-25,High
-4179,By State,Texas,2020-11-25,Extreme
-4180,By State,Utah,2020-11-25,Extreme
-4181,By State,Vermont,2020-11-25,Extreme
-4182,By State,Virginia,2020-11-25,High
-4183,By State,Washington,2020-11-25,Extreme
-4184,By State,West Virginia,2020-11-25,Extreme
-4185,By State,Wisconsin,2020-11-25,High
-4186,By State,Wyoming,2020-11-25,Extreme
-4327,National Estimate,United States,2020-12-09,Extreme
-4328,By Age,18 - 29 years,2020-12-09,Extreme
-4329,By Age,30 - 39 years,2020-12-09,Extreme
-4330,By Age,40 - 49 years,2020-12-09,Extreme
-4331,By Age,50 - 59 years,2020-12-09,Extreme
-4332,By Age,60 - 69 years,2020-12-09,Moderate
-4333,By Age,70 - 79 years,2020-12-09,Mild
-4334,By Age,80 years and above,2020-12-09,Mild
-4335,By Sex,Male,2020-12-09,High
-4336,By Sex,Female,2020-12-09,Extreme
-4337,By Race/Hispanic ethnicity,Hispanic or Latino,2020-12-09,Extreme
-4338,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-12-09,Extreme
-4339,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-12-09,Extreme
-4340,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-12-09,Moderate
-4341,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-12-09,Extreme
-4342,By Education,Less than a high school diploma,2020-12-09,Extreme
-4343,By Education,High school diploma or GED,2020-12-09,Extreme
-4344,By Education,Some college/Associate's degree,2020-12-09,Extreme
-4345,By Education,Bachelor's degree or higher,2020-12-09,High
-4346,By State,Alabama,2020-12-09,Extreme
-4347,By State,Alaska,2020-12-09,Extreme
-4348,By State,Arizona,2020-12-09,High
-4349,By State,Arkansas,2020-12-09,Extreme
-4350,By State,California,2020-12-09,Extreme
-4351,By State,Colorado,2020-12-09,Extreme
-4352,By State,Connecticut,2020-12-09,Extreme
-4353,By State,Delaware,2020-12-09,Extreme
-4354,By State,District of Columbia,2020-12-09,High
-4355,By State,Florida,2020-12-09,Extreme
-4356,By State,Georgia,2020-12-09,Extreme
-4357,By State,Hawaii,2020-12-09,High
-4358,By State,Idaho,2020-12-09,Extreme
-4359,By State,Illinois,2020-12-09,Extreme
-4360,By State,Indiana,2020-12-09,High
-4361,By State,Iowa,2020-12-09,High
-4362,By State,Kansas,2020-12-09,Extreme
-4363,By State,Kentucky,2020-12-09,Extreme
-4364,By State,Louisiana,2020-12-09,Extreme
-4365,By State,Maine,2020-12-09,High
-4366,By State,Maryland,2020-12-09,High
-4367,By State,Massachusetts,2020-12-09,Extreme
-4368,By State,Michigan,2020-12-09,Extreme
-4369,By State,Minnesota,2020-12-09,High
-4370,By State,Mississippi,2020-12-09,Extreme
-4371,By State,Missouri,2020-12-09,Extreme
-4372,By State,Montana,2020-12-09,Extreme
-4373,By State,Nebraska,2020-12-09,Moderate
-4374,By State,Nevada,2020-12-09,Extreme
-4375,By State,New Hampshire,2020-12-09,High
-4376,By State,New Jersey,2020-12-09,High
-4377,By State,New Mexico,2020-12-09,Extreme
-4378,By State,New York,2020-12-09,High
-4379,By State,North Carolina,2020-12-09,High
-4380,By State,North Dakota,2020-12-09,Moderate
-4381,By State,Ohio,2020-12-09,Extreme
-4382,By State,Oklahoma,2020-12-09,Extreme
-4383,By State,Oregon,2020-12-09,Extreme
-4384,By State,Pennsylvania,2020-12-09,High
-4385,By State,Rhode Island,2020-12-09,High
-4386,By State,South Carolina,2020-12-09,Extreme
-4387,By State,South Dakota,2020-12-09,Moderate
-4388,By State,Tennessee,2020-12-09,Extreme
-4389,By State,Texas,2020-12-09,Extreme
-4390,By State,Utah,2020-12-09,High
-4391,By State,Vermont,2020-12-09,Extreme
-4392,By State,Virginia,2020-12-09,Extreme
-4393,By State,Washington,2020-12-09,Extreme
-4394,By State,West Virginia,2020-12-09,Extreme
-4395,By State,Wisconsin,2020-12-09,Extreme
-4396,By State,Wyoming,2020-12-09,High
+Group_name,Subgroup,Time_Period,Risk
+National Estimate,United States,2020-04-23,High
+By Age,18 - 29 years,2020-04-23,Extreme
+By Age,30 - 39 years,2020-04-23,High
+By Age,40 - 49 years,2020-04-23,High
+By Age,50 - 59 years,2020-04-23,High
+By Age,60 - 69 years,2020-04-23,Moderate
+By Age,70 - 79 years,2020-04-23,Mild
+By Age,80 years and above,2020-04-23,Mild
+By Sex,Male,2020-04-23,Moderate
+By Sex,Female,2020-04-23,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-04-23,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-04-23,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-04-23,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-04-23,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-04-23,Extreme
+By Education,Less than a high school diploma,2020-04-23,Extreme
+By Education,High school diploma or GED,2020-04-23,High
+By Education,Some college/Associate's degree,2020-04-23,High
+By Education,Bachelor's degree or higher,2020-04-23,Moderate
+By State,Alabama,2020-04-23,Moderate
+By State,Alaska,2020-04-23,Moderate
+By State,Arizona,2020-04-23,High
+By State,Arkansas,2020-04-23,High
+By State,California,2020-04-23,High
+By State,Colorado,2020-04-23,High
+By State,Connecticut,2020-04-23,High
+By State,Delaware,2020-04-23,High
+By State,District of Columbia,2020-04-23,High
+By State,Florida,2020-04-23,High
+By State,Georgia,2020-04-23,High
+By State,Hawaii,2020-04-23,High
+By State,Idaho,2020-04-23,Moderate
+By State,Illinois,2020-04-23,High
+By State,Indiana,2020-04-23,High
+By State,Iowa,2020-04-23,Mild
+By State,Kansas,2020-04-23,Moderate
+By State,Kentucky,2020-04-23,High
+By State,Louisiana,2020-04-23,High
+By State,Maine,2020-04-23,Moderate
+By State,Maryland,2020-04-23,Moderate
+By State,Massachusetts,2020-04-23,Extreme
+By State,Michigan,2020-04-23,High
+By State,Minnesota,2020-04-23,Moderate
+By State,Mississippi,2020-04-23,High
+By State,Missouri,2020-04-23,High
+By State,Montana,2020-04-23,Mild
+By State,Nebraska,2020-04-23,Mild
+By State,Nevada,2020-04-23,High
+By State,New Hampshire,2020-04-23,High
+By State,New Jersey,2020-04-23,High
+By State,New Mexico,2020-04-23,Moderate
+By State,New York,2020-04-23,Extreme
+By State,North Carolina,2020-04-23,High
+By State,North Dakota,2020-04-23,Mild
+By State,Ohio,2020-04-23,High
+By State,Oklahoma,2020-04-23,Moderate
+By State,Oregon,2020-04-23,High
+By State,Pennsylvania,2020-04-23,High
+By State,Rhode Island,2020-04-23,Moderate
+By State,South Carolina,2020-04-23,Moderate
+By State,South Dakota,2020-04-23,Mild
+By State,Tennessee,2020-04-23,Moderate
+By State,Texas,2020-04-23,Moderate
+By State,Utah,2020-04-23,Moderate
+By State,Vermont,2020-04-23,High
+By State,Virginia,2020-04-23,Moderate
+By State,Washington,2020-04-23,High
+By State,West Virginia,2020-04-23,Moderate
+By State,Wisconsin,2020-04-23,Moderate
+By State,Wyoming,2020-04-23,Moderate
+National Estimate,United States,2020-05-07,High
+By Age,18 - 29 years,2020-05-07,Extreme
+By Age,30 - 39 years,2020-05-07,High
+By Age,40 - 49 years,2020-05-07,High
+By Age,50 - 59 years,2020-05-07,High
+By Age,60 - 69 years,2020-05-07,Mild
+By Age,70 - 79 years,2020-05-07,Mild
+By Age,80 years and above,2020-05-07,Mild
+By Sex,Male,2020-05-07,Moderate
+By Sex,Female,2020-05-07,High
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-07,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-07,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-07,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-07,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-07,Extreme
+By Education,Less than a high school diploma,2020-05-07,Extreme
+By Education,High school diploma or GED,2020-05-07,High
+By Education,Some college/Associate's degree,2020-05-07,High
+By Education,Bachelor's degree or higher,2020-05-07,Mild
+By State,Alabama,2020-05-07,Moderate
+By State,Alaska,2020-05-07,Moderate
+By State,Arizona,2020-05-07,High
+By State,Arkansas,2020-05-07,Moderate
+By State,California,2020-05-07,High
+By State,Colorado,2020-05-07,Moderate
+By State,Connecticut,2020-05-07,Moderate
+By State,Delaware,2020-05-07,Moderate
+By State,District of Columbia,2020-05-07,Extreme
+By State,Florida,2020-05-07,Moderate
+By State,Georgia,2020-05-07,Moderate
+By State,Hawaii,2020-05-07,Mild
+By State,Idaho,2020-05-07,Moderate
+By State,Illinois,2020-05-07,Extreme
+By State,Indiana,2020-05-07,High
+By State,Iowa,2020-05-07,Mild
+By State,Kansas,2020-05-07,Moderate
+By State,Kentucky,2020-05-07,Moderate
+By State,Louisiana,2020-05-07,High
+By State,Maine,2020-05-07,Moderate
+By State,Maryland,2020-05-07,High
+By State,Massachusetts,2020-05-07,Moderate
+By State,Michigan,2020-05-07,Moderate
+By State,Minnesota,2020-05-07,Mild
+By State,Mississippi,2020-05-07,Extreme
+By State,Missouri,2020-05-07,Extreme
+By State,Montana,2020-05-07,Moderate
+By State,Nebraska,2020-05-07,Moderate
+By State,Nevada,2020-05-07,High
+By State,New Hampshire,2020-05-07,High
+By State,New Jersey,2020-05-07,Extreme
+By State,New Mexico,2020-05-07,High
+By State,New York,2020-05-07,High
+By State,North Carolina,2020-05-07,Moderate
+By State,North Dakota,2020-05-07,Moderate
+By State,Ohio,2020-05-07,Moderate
+By State,Oklahoma,2020-05-07,Moderate
+By State,Oregon,2020-05-07,Moderate
+By State,Pennsylvania,2020-05-07,Moderate
+By State,Rhode Island,2020-05-07,Moderate
+By State,South Carolina,2020-05-07,Moderate
+By State,South Dakota,2020-05-07,Moderate
+By State,Tennessee,2020-05-07,Moderate
+By State,Texas,2020-05-07,High
+By State,Utah,2020-05-07,Moderate
+By State,Vermont,2020-05-07,High
+By State,Virginia,2020-05-07,Moderate
+By State,Washington,2020-05-07,Moderate
+By State,West Virginia,2020-05-07,High
+By State,Wisconsin,2020-05-07,Moderate
+By State,Wyoming,2020-05-07,Mild
+National Estimate,United States,2020-05-14,Moderate
+By Age,18 - 29 years,2020-05-14,Extreme
+By Age,30 - 39 years,2020-05-14,High
+By Age,40 - 49 years,2020-05-14,High
+By Age,50 - 59 years,2020-05-14,Moderate
+By Age,60 - 69 years,2020-05-14,Mild
+By Age,70 - 79 years,2020-05-14,Mild
+By Age,80 years and above,2020-05-14,Mild
+By Sex,Male,2020-05-14,Mild
+By Sex,Female,2020-05-14,High
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-14,High
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-14,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-14,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-14,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-14,High
+By Education,Less than a high school diploma,2020-05-14,High
+By Education,High school diploma or GED,2020-05-14,High
+By Education,Some college/Associate's degree,2020-05-14,High
+By Education,Bachelor's degree or higher,2020-05-14,Mild
+By State,Alabama,2020-05-14,Mild
+By State,Alaska,2020-05-14,Moderate
+By State,Arizona,2020-05-14,Moderate
+By State,Arkansas,2020-05-14,Moderate
+By State,California,2020-05-14,High
+By State,Colorado,2020-05-14,Moderate
+By State,Connecticut,2020-05-14,Moderate
+By State,Delaware,2020-05-14,Moderate
+By State,District of Columbia,2020-05-14,High
+By State,Florida,2020-05-14,Moderate
+By State,Georgia,2020-05-14,Moderate
+By State,Hawaii,2020-05-14,Mild
+By State,Idaho,2020-05-14,Mild
+By State,Illinois,2020-05-14,Moderate
+By State,Indiana,2020-05-14,High
+By State,Iowa,2020-05-14,Mild
+By State,Kansas,2020-05-14,Moderate
+By State,Kentucky,2020-05-14,Moderate
+By State,Louisiana,2020-05-14,Moderate
+By State,Maine,2020-05-14,High
+By State,Maryland,2020-05-14,Moderate
+By State,Massachusetts,2020-05-14,Moderate
+By State,Michigan,2020-05-14,Moderate
+By State,Minnesota,2020-05-14,Moderate
+By State,Mississippi,2020-05-14,Extreme
+By State,Missouri,2020-05-14,High
+By State,Montana,2020-05-14,Moderate
+By State,Nebraska,2020-05-14,Mild
+By State,Nevada,2020-05-14,Moderate
+By State,New Hampshire,2020-05-14,Moderate
+By State,New Jersey,2020-05-14,High
+By State,New Mexico,2020-05-14,Moderate
+By State,New York,2020-05-14,Moderate
+By State,North Carolina,2020-05-14,Moderate
+By State,North Dakota,2020-05-14,Moderate
+By State,Ohio,2020-05-14,Moderate
+By State,Oklahoma,2020-05-14,Moderate
+By State,Oregon,2020-05-14,Mild
+By State,Pennsylvania,2020-05-14,Moderate
+By State,Rhode Island,2020-05-14,Mild
+By State,South Carolina,2020-05-14,Moderate
+By State,South Dakota,2020-05-14,Mild
+By State,Tennessee,2020-05-14,Moderate
+By State,Texas,2020-05-14,Moderate
+By State,Utah,2020-05-14,Moderate
+By State,Vermont,2020-05-14,Moderate
+By State,Virginia,2020-05-14,Moderate
+By State,Washington,2020-05-14,Moderate
+By State,West Virginia,2020-05-14,Moderate
+By State,Wisconsin,2020-05-14,Mild
+By State,Wyoming,2020-05-14,Mild
+National Estimate,United States,2020-05-21,Moderate
+By Age,18 - 29 years,2020-05-21,Extreme
+By Age,30 - 39 years,2020-05-21,Extreme
+By Age,40 - 49 years,2020-05-21,High
+By Age,50 - 59 years,2020-05-21,Moderate
+By Age,60 - 69 years,2020-05-21,Mild
+By Age,70 - 79 years,2020-05-21,Mild
+By Age,80 years and above,2020-05-21,Mild
+By Sex,Male,2020-05-21,Moderate
+By Sex,Female,2020-05-21,High
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-21,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-21,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-21,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-21,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-21,Extreme
+By Education,Less than a high school diploma,2020-05-21,Extreme
+By Education,High school diploma or GED,2020-05-21,Moderate
+By Education,Some college/Associate's degree,2020-05-21,High
+By Education,Bachelor's degree or higher,2020-05-21,Mild
+By State,Alabama,2020-05-21,Moderate
+By State,Alaska,2020-05-21,High
+By State,Arizona,2020-05-21,Moderate
+By State,Arkansas,2020-05-21,Moderate
+By State,California,2020-05-21,High
+By State,Colorado,2020-05-21,Moderate
+By State,Connecticut,2020-05-21,Mild
+By State,Delaware,2020-05-21,Mild
+By State,District of Columbia,2020-05-21,High
+By State,Florida,2020-05-21,High
+By State,Georgia,2020-05-21,High
+By State,Hawaii,2020-05-21,Mild
+By State,Idaho,2020-05-21,Mild
+By State,Illinois,2020-05-21,High
+By State,Indiana,2020-05-21,High
+By State,Iowa,2020-05-21,Mild
+By State,Kansas,2020-05-21,High
+By State,Kentucky,2020-05-21,High
+By State,Louisiana,2020-05-21,Extreme
+By State,Maine,2020-05-21,Mild
+By State,Maryland,2020-05-21,Moderate
+By State,Massachusetts,2020-05-21,Moderate
+By State,Michigan,2020-05-21,Moderate
+By State,Minnesota,2020-05-21,Mild
+By State,Mississippi,2020-05-21,High
+By State,Missouri,2020-05-21,Moderate
+By State,Montana,2020-05-21,Mild
+By State,Nebraska,2020-05-21,Mild
+By State,Nevada,2020-05-21,Extreme
+By State,New Hampshire,2020-05-21,Mild
+By State,New Jersey,2020-05-21,Moderate
+By State,New Mexico,2020-05-21,Extreme
+By State,New York,2020-05-21,High
+By State,North Carolina,2020-05-21,Moderate
+By State,North Dakota,2020-05-21,Mild
+By State,Ohio,2020-05-21,High
+By State,Oklahoma,2020-05-21,Moderate
+By State,Oregon,2020-05-21,High
+By State,Pennsylvania,2020-05-21,Moderate
+By State,Rhode Island,2020-05-21,High
+By State,South Carolina,2020-05-21,Moderate
+By State,South Dakota,2020-05-21,High
+By State,Tennessee,2020-05-21,Moderate
+By State,Texas,2020-05-21,High
+By State,Utah,2020-05-21,Moderate
+By State,Vermont,2020-05-21,Mild
+By State,Virginia,2020-05-21,Moderate
+By State,Washington,2020-05-21,Moderate
+By State,West Virginia,2020-05-21,High
+By State,Wisconsin,2020-05-21,Mild
+By State,Wyoming,2020-05-21,Mild
+National Estimate,United States,2020-05-28,High
+By Age,18 - 29 years,2020-05-28,Extreme
+By Age,30 - 39 years,2020-05-28,Extreme
+By Age,40 - 49 years,2020-05-28,High
+By Age,50 - 59 years,2020-05-28,Moderate
+By Age,60 - 69 years,2020-05-28,Mild
+By Age,70 - 79 years,2020-05-28,Mild
+By Age,80 years and above,2020-05-28,Mild
+By Sex,Male,2020-05-28,Moderate
+By Sex,Female,2020-05-28,High
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-28,High
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-28,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-28,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-28,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-28,Extreme
+By Education,Less than a high school diploma,2020-05-28,Extreme
+By Education,High school diploma or GED,2020-05-28,High
+By Education,Some college/Associate's degree,2020-05-28,High
+By Education,Bachelor's degree or higher,2020-05-28,Moderate
+By State,Alabama,2020-05-28,High
+By State,Alaska,2020-05-28,Moderate
+By State,Arizona,2020-05-28,Moderate
+By State,Arkansas,2020-05-28,Extreme
+By State,California,2020-05-28,High
+By State,Colorado,2020-05-28,Moderate
+By State,Connecticut,2020-05-28,Moderate
+By State,Delaware,2020-05-28,Moderate
+By State,District of Columbia,2020-05-28,Moderate
+By State,Florida,2020-05-28,High
+By State,Georgia,2020-05-28,High
+By State,Hawaii,2020-05-28,Mild
+By State,Idaho,2020-05-28,Moderate
+By State,Illinois,2020-05-28,High
+By State,Indiana,2020-05-28,High
+By State,Iowa,2020-05-28,Moderate
+By State,Kansas,2020-05-28,Moderate
+By State,Kentucky,2020-05-28,High
+By State,Louisiana,2020-05-28,High
+By State,Maine,2020-05-28,Moderate
+By State,Maryland,2020-05-28,Moderate
+By State,Massachusetts,2020-05-28,Moderate
+By State,Michigan,2020-05-28,Moderate
+By State,Minnesota,2020-05-28,Moderate
+By State,Mississippi,2020-05-28,High
+By State,Missouri,2020-05-28,High
+By State,Montana,2020-05-28,Mild
+By State,Nebraska,2020-05-28,Mild
+By State,Nevada,2020-05-28,High
+By State,New Hampshire,2020-05-28,Moderate
+By State,New Jersey,2020-05-28,High
+By State,New Mexico,2020-05-28,Extreme
+By State,New York,2020-05-28,High
+By State,North Carolina,2020-05-28,Moderate
+By State,North Dakota,2020-05-28,Mild
+By State,Ohio,2020-05-28,Moderate
+By State,Oklahoma,2020-05-28,High
+By State,Oregon,2020-05-28,Extreme
+By State,Pennsylvania,2020-05-28,High
+By State,Rhode Island,2020-05-28,High
+By State,South Carolina,2020-05-28,Moderate
+By State,South Dakota,2020-05-28,Moderate
+By State,Tennessee,2020-05-28,High
+By State,Texas,2020-05-28,High
+By State,Utah,2020-05-28,Moderate
+By State,Vermont,2020-05-28,High
+By State,Virginia,2020-05-28,Moderate
+By State,Washington,2020-05-28,High
+By State,West Virginia,2020-05-28,High
+By State,Wisconsin,2020-05-28,Mild
+By State,Wyoming,2020-05-28,Moderate
+National Estimate,United States,2020-06-04,High
+By Age,18 - 29 years,2020-06-04,Extreme
+By Age,30 - 39 years,2020-06-04,Extreme
+By Age,40 - 49 years,2020-06-04,High
+By Age,50 - 59 years,2020-06-04,High
+By Age,60 - 69 years,2020-06-04,Mild
+By Age,70 - 79 years,2020-06-04,Mild
+By Age,80 years and above,2020-06-04,Mild
+By Sex,Male,2020-06-04,Moderate
+By Sex,Female,2020-06-04,High
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-04,High
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-04,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-04,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-04,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-04,Extreme
+By Education,Less than a high school diploma,2020-06-04,Extreme
+By Education,High school diploma or GED,2020-06-04,High
+By Education,Some college/Associate's degree,2020-06-04,High
+By Education,Bachelor's degree or higher,2020-06-04,Moderate
+By State,Alabama,2020-06-04,High
+By State,Alaska,2020-06-04,Moderate
+By State,Arizona,2020-06-04,High
+By State,Arkansas,2020-06-04,High
+By State,California,2020-06-04,High
+By State,Colorado,2020-06-04,High
+By State,Connecticut,2020-06-04,Moderate
+By State,Delaware,2020-06-04,Moderate
+By State,District of Columbia,2020-06-04,High
+By State,Florida,2020-06-04,High
+By State,Georgia,2020-06-04,High
+By State,Hawaii,2020-06-04,Mild
+By State,Idaho,2020-06-04,Moderate
+By State,Illinois,2020-06-04,High
+By State,Indiana,2020-06-04,Moderate
+By State,Iowa,2020-06-04,High
+By State,Kansas,2020-06-04,High
+By State,Kentucky,2020-06-04,High
+By State,Louisiana,2020-06-04,High
+By State,Maine,2020-06-04,High
+By State,Maryland,2020-06-04,Mild
+By State,Massachusetts,2020-06-04,Moderate
+By State,Michigan,2020-06-04,Mild
+By State,Minnesota,2020-06-04,Moderate
+By State,Mississippi,2020-06-04,High
+By State,Missouri,2020-06-04,Mild
+By State,Montana,2020-06-04,Moderate
+By State,Nebraska,2020-06-04,Mild
+By State,Nevada,2020-06-04,High
+By State,New Hampshire,2020-06-04,High
+By State,New Jersey,2020-06-04,High
+By State,New Mexico,2020-06-04,Moderate
+By State,New York,2020-06-04,Extreme
+By State,North Carolina,2020-06-04,High
+By State,North Dakota,2020-06-04,Mild
+By State,Ohio,2020-06-04,High
+By State,Oklahoma,2020-06-04,Moderate
+By State,Oregon,2020-06-04,High
+By State,Pennsylvania,2020-06-04,Moderate
+By State,Rhode Island,2020-06-04,Moderate
+By State,South Carolina,2020-06-04,Mild
+By State,South Dakota,2020-06-04,Moderate
+By State,Tennessee,2020-06-04,High
+By State,Texas,2020-06-04,High
+By State,Utah,2020-06-04,Moderate
+By State,Vermont,2020-06-04,High
+By State,Virginia,2020-06-04,Moderate
+By State,Washington,2020-06-04,Moderate
+By State,West Virginia,2020-06-04,Extreme
+By State,Wisconsin,2020-06-04,Moderate
+By State,Wyoming,2020-06-04,Mild
+National Estimate,United States,2020-06-11,High
+By Age,18 - 29 years,2020-06-11,Extreme
+By Age,30 - 39 years,2020-06-11,Extreme
+By Age,40 - 49 years,2020-06-11,High
+By Age,50 - 59 years,2020-06-11,High
+By Age,60 - 69 years,2020-06-11,Mild
+By Age,70 - 79 years,2020-06-11,Mild
+By Age,80 years and above,2020-06-11,Mild
+By Sex,Male,2020-06-11,Moderate
+By Sex,Female,2020-06-11,High
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-11,High
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-11,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-11,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-11,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-11,Extreme
+By Education,Less than a high school diploma,2020-06-11,Extreme
+By Education,High school diploma or GED,2020-06-11,High
+By Education,Some college/Associate's degree,2020-06-11,High
+By Education,Bachelor's degree or higher,2020-06-11,Moderate
+By State,Alabama,2020-06-11,High
+By State,Alaska,2020-06-11,High
+By State,Arizona,2020-06-11,Moderate
+By State,Arkansas,2020-06-11,High
+By State,California,2020-06-11,High
+By State,Colorado,2020-06-11,High
+By State,Connecticut,2020-06-11,High
+By State,Delaware,2020-06-11,High
+By State,District of Columbia,2020-06-11,Moderate
+By State,Florida,2020-06-11,Extreme
+By State,Georgia,2020-06-11,High
+By State,Hawaii,2020-06-11,High
+By State,Idaho,2020-06-11,Moderate
+By State,Illinois,2020-06-11,High
+By State,Indiana,2020-06-11,High
+By State,Iowa,2020-06-11,Moderate
+By State,Kansas,2020-06-11,High
+By State,Kentucky,2020-06-11,Moderate
+By State,Louisiana,2020-06-11,Extreme
+By State,Maine,2020-06-11,High
+By State,Maryland,2020-06-11,High
+By State,Massachusetts,2020-06-11,Moderate
+By State,Michigan,2020-06-11,High
+By State,Minnesota,2020-06-11,Moderate
+By State,Mississippi,2020-06-11,High
+By State,Missouri,2020-06-11,High
+By State,Montana,2020-06-11,High
+By State,Nebraska,2020-06-11,Mild
+By State,Nevada,2020-06-11,High
+By State,New Hampshire,2020-06-11,Moderate
+By State,New Jersey,2020-06-11,High
+By State,New Mexico,2020-06-11,Mild
+By State,New York,2020-06-11,Moderate
+By State,North Carolina,2020-06-11,High
+By State,North Dakota,2020-06-11,High
+By State,Ohio,2020-06-11,High
+By State,Oklahoma,2020-06-11,High
+By State,Oregon,2020-06-11,Extreme
+By State,Pennsylvania,2020-06-11,Moderate
+By State,Rhode Island,2020-06-11,Moderate
+By State,South Carolina,2020-06-11,High
+By State,South Dakota,2020-06-11,Mild
+By State,Tennessee,2020-06-11,Moderate
+By State,Texas,2020-06-11,Extreme
+By State,Utah,2020-06-11,High
+By State,Vermont,2020-06-11,High
+By State,Virginia,2020-06-11,High
+By State,Washington,2020-06-11,Moderate
+By State,West Virginia,2020-06-11,Moderate
+By State,Wisconsin,2020-06-11,Mild
+By State,Wyoming,2020-06-11,Mild
+National Estimate,United States,2020-06-18,High
+By Age,18 - 29 years,2020-06-18,Extreme
+By Age,30 - 39 years,2020-06-18,Extreme
+By Age,40 - 49 years,2020-06-18,High
+By Age,50 - 59 years,2020-06-18,High
+By Age,60 - 69 years,2020-06-18,Mild
+By Age,70 - 79 years,2020-06-18,Mild
+By Age,80 years and above,2020-06-18,Mild
+By Sex,Male,2020-06-18,Moderate
+By Sex,Female,2020-06-18,High
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-18,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-18,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-18,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-18,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-18,Extreme
+By Education,Less than a high school diploma,2020-06-18,Extreme
+By Education,High school diploma or GED,2020-06-18,High
+By Education,Some college/Associate's degree,2020-06-18,High
+By Education,Bachelor's degree or higher,2020-06-18,Moderate
+By State,Alabama,2020-06-18,High
+By State,Alaska,2020-06-18,High
+By State,Arizona,2020-06-18,High
+By State,Arkansas,2020-06-18,High
+By State,California,2020-06-18,High
+By State,Colorado,2020-06-18,Moderate
+By State,Connecticut,2020-06-18,High
+By State,Delaware,2020-06-18,Mild
+By State,District of Columbia,2020-06-18,Extreme
+By State,Florida,2020-06-18,High
+By State,Georgia,2020-06-18,High
+By State,Hawaii,2020-06-18,Mild
+By State,Idaho,2020-06-18,Moderate
+By State,Illinois,2020-06-18,High
+By State,Indiana,2020-06-18,High
+By State,Iowa,2020-06-18,High
+By State,Kansas,2020-06-18,Moderate
+By State,Kentucky,2020-06-18,High
+By State,Louisiana,2020-06-18,Extreme
+By State,Maine,2020-06-18,Mild
+By State,Maryland,2020-06-18,High
+By State,Massachusetts,2020-06-18,Moderate
+By State,Michigan,2020-06-18,Moderate
+By State,Minnesota,2020-06-18,Moderate
+By State,Mississippi,2020-06-18,High
+By State,Missouri,2020-06-18,Moderate
+By State,Montana,2020-06-18,Moderate
+By State,Nebraska,2020-06-18,Moderate
+By State,Nevada,2020-06-18,Extreme
+By State,New Hampshire,2020-06-18,High
+By State,New Jersey,2020-06-18,High
+By State,New Mexico,2020-06-18,Extreme
+By State,New York,2020-06-18,Moderate
+By State,North Carolina,2020-06-18,Moderate
+By State,North Dakota,2020-06-18,Moderate
+By State,Ohio,2020-06-18,Moderate
+By State,Oklahoma,2020-06-18,Extreme
+By State,Oregon,2020-06-18,Extreme
+By State,Pennsylvania,2020-06-18,High
+By State,Rhode Island,2020-06-18,Moderate
+By State,South Carolina,2020-06-18,High
+By State,South Dakota,2020-06-18,Mild
+By State,Tennessee,2020-06-18,High
+By State,Texas,2020-06-18,High
+By State,Utah,2020-06-18,High
+By State,Vermont,2020-06-18,Moderate
+By State,Virginia,2020-06-18,High
+By State,Washington,2020-06-18,High
+By State,West Virginia,2020-06-18,High
+By State,Wisconsin,2020-06-18,Mild
+By State,Wyoming,2020-06-18,Mild
+National Estimate,United States,2020-06-25,High
+By Age,18 - 29 years,2020-06-25,Extreme
+By Age,30 - 39 years,2020-06-25,Extreme
+By Age,40 - 49 years,2020-06-25,Extreme
+By Age,50 - 59 years,2020-06-25,High
+By Age,60 - 69 years,2020-06-25,Moderate
+By Age,70 - 79 years,2020-06-25,Mild
+By Age,80 years and above,2020-06-25,Mild
+By Sex,Male,2020-06-25,Moderate
+By Sex,Female,2020-06-25,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-25,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-25,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-25,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-25,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-25,Extreme
+By Education,Less than a high school diploma,2020-06-25,Extreme
+By Education,High school diploma or GED,2020-06-25,High
+By Education,Some college/Associate's degree,2020-06-25,Extreme
+By Education,Bachelor's degree or higher,2020-06-25,Moderate
+By State,Alabama,2020-06-25,Moderate
+By State,Alaska,2020-06-25,High
+By State,Arizona,2020-06-25,Extreme
+By State,Arkansas,2020-06-25,High
+By State,California,2020-06-25,High
+By State,Colorado,2020-06-25,High
+By State,Connecticut,2020-06-25,High
+By State,Delaware,2020-06-25,Moderate
+By State,District of Columbia,2020-06-25,Moderate
+By State,Florida,2020-06-25,Extreme
+By State,Georgia,2020-06-25,Extreme
+By State,Hawaii,2020-06-25,High
+By State,Idaho,2020-06-25,High
+By State,Illinois,2020-06-25,High
+By State,Indiana,2020-06-25,High
+By State,Iowa,2020-06-25,High
+By State,Kansas,2020-06-25,Moderate
+By State,Kentucky,2020-06-25,High
+By State,Louisiana,2020-06-25,Extreme
+By State,Maine,2020-06-25,High
+By State,Maryland,2020-06-25,Moderate
+By State,Massachusetts,2020-06-25,Moderate
+By State,Michigan,2020-06-25,Moderate
+By State,Minnesota,2020-06-25,Moderate
+By State,Mississippi,2020-06-25,Extreme
+By State,Missouri,2020-06-25,High
+By State,Montana,2020-06-25,Moderate
+By State,Nebraska,2020-06-25,Moderate
+By State,Nevada,2020-06-25,High
+By State,New Hampshire,2020-06-25,Moderate
+By State,New Jersey,2020-06-25,High
+By State,New Mexico,2020-06-25,High
+By State,New York,2020-06-25,High
+By State,North Carolina,2020-06-25,High
+By State,North Dakota,2020-06-25,Moderate
+By State,Ohio,2020-06-25,Moderate
+By State,Oklahoma,2020-06-25,Extreme
+By State,Oregon,2020-06-25,High
+By State,Pennsylvania,2020-06-25,High
+By State,Rhode Island,2020-06-25,Moderate
+By State,South Carolina,2020-06-25,High
+By State,South Dakota,2020-06-25,High
+By State,Tennessee,2020-06-25,Extreme
+By State,Texas,2020-06-25,Extreme
+By State,Utah,2020-06-25,High
+By State,Vermont,2020-06-25,Moderate
+By State,Virginia,2020-06-25,Moderate
+By State,Washington,2020-06-25,Extreme
+By State,West Virginia,2020-06-25,Extreme
+By State,Wisconsin,2020-06-25,Moderate
+By State,Wyoming,2020-06-25,High
+National Estimate,United States,2020-07-02,High
+By Age,18 - 29 years,2020-07-02,Extreme
+By Age,30 - 39 years,2020-07-02,Extreme
+By Age,40 - 49 years,2020-07-02,Extreme
+By Age,50 - 59 years,2020-07-02,High
+By Age,60 - 69 years,2020-07-02,Moderate
+By Age,70 - 79 years,2020-07-02,Mild
+By Age,80 years and above,2020-07-02,Mild
+By Sex,Male,2020-07-02,High
+By Sex,Female,2020-07-02,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-02,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-02,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-02,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-02,High
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-02,Extreme
+By Education,Less than a high school diploma,2020-07-02,Extreme
+By Education,High school diploma or GED,2020-07-02,High
+By Education,Some college/Associate's degree,2020-07-02,Extreme
+By Education,Bachelor's degree or higher,2020-07-02,Moderate
+By State,Alabama,2020-07-02,High
+By State,Alaska,2020-07-02,Moderate
+By State,Arizona,2020-07-02,Extreme
+By State,Arkansas,2020-07-02,High
+By State,California,2020-07-02,High
+By State,Colorado,2020-07-02,Extreme
+By State,Connecticut,2020-07-02,High
+By State,Delaware,2020-07-02,Moderate
+By State,District of Columbia,2020-07-02,Extreme
+By State,Florida,2020-07-02,Extreme
+By State,Georgia,2020-07-02,High
+By State,Hawaii,2020-07-02,High
+By State,Idaho,2020-07-02,High
+By State,Illinois,2020-07-02,High
+By State,Indiana,2020-07-02,High
+By State,Iowa,2020-07-02,Moderate
+By State,Kansas,2020-07-02,High
+By State,Kentucky,2020-07-02,Extreme
+By State,Louisiana,2020-07-02,Extreme
+By State,Maine,2020-07-02,High
+By State,Maryland,2020-07-02,High
+By State,Massachusetts,2020-07-02,High
+By State,Michigan,2020-07-02,High
+By State,Minnesota,2020-07-02,Moderate
+By State,Mississippi,2020-07-02,Extreme
+By State,Missouri,2020-07-02,Extreme
+By State,Montana,2020-07-02,High
+By State,Nebraska,2020-07-02,Moderate
+By State,Nevada,2020-07-02,Extreme
+By State,New Hampshire,2020-07-02,High
+By State,New Jersey,2020-07-02,High
+By State,New Mexico,2020-07-02,Extreme
+By State,New York,2020-07-02,High
+By State,North Carolina,2020-07-02,High
+By State,North Dakota,2020-07-02,Moderate
+By State,Ohio,2020-07-02,High
+By State,Oklahoma,2020-07-02,Extreme
+By State,Oregon,2020-07-02,Extreme
+By State,Pennsylvania,2020-07-02,High
+By State,Rhode Island,2020-07-02,High
+By State,South Carolina,2020-07-02,High
+By State,South Dakota,2020-07-02,High
+By State,Tennessee,2020-07-02,High
+By State,Texas,2020-07-02,Extreme
+By State,Utah,2020-07-02,Moderate
+By State,Vermont,2020-07-02,Moderate
+By State,Virginia,2020-07-02,Moderate
+By State,Washington,2020-07-02,Extreme
+By State,West Virginia,2020-07-02,High
+By State,Wisconsin,2020-07-02,High
+By State,Wyoming,2020-07-02,High
+National Estimate,United States,2020-07-09,Extreme
+By Age,18 - 29 years,2020-07-09,Extreme
+By Age,30 - 39 years,2020-07-09,Extreme
+By Age,40 - 49 years,2020-07-09,Extreme
+By Age,50 - 59 years,2020-07-09,High
+By Age,60 - 69 years,2020-07-09,Moderate
+By Age,70 - 79 years,2020-07-09,Mild
+By Age,80 years and above,2020-07-09,Mild
+By Sex,Male,2020-07-09,High
+By Sex,Female,2020-07-09,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-09,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-09,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-09,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-09,High
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-09,Extreme
+By Education,Less than a high school diploma,2020-07-09,Extreme
+By Education,High school diploma or GED,2020-07-09,High
+By Education,Some college/Associate's degree,2020-07-09,Extreme
+By Education,Bachelor's degree or higher,2020-07-09,High
+By State,Alabama,2020-07-09,High
+By State,Alaska,2020-07-09,High
+By State,Arizona,2020-07-09,Extreme
+By State,Arkansas,2020-07-09,Extreme
+By State,California,2020-07-09,Extreme
+By State,Colorado,2020-07-09,Extreme
+By State,Connecticut,2020-07-09,High
+By State,Delaware,2020-07-09,High
+By State,District of Columbia,2020-07-09,Mild
+By State,Florida,2020-07-09,Extreme
+By State,Georgia,2020-07-09,Extreme
+By State,Hawaii,2020-07-09,High
+By State,Idaho,2020-07-09,High
+By State,Illinois,2020-07-09,Moderate
+By State,Indiana,2020-07-09,Extreme
+By State,Iowa,2020-07-09,Moderate
+By State,Kansas,2020-07-09,Moderate
+By State,Kentucky,2020-07-09,Extreme
+By State,Louisiana,2020-07-09,Extreme
+By State,Maine,2020-07-09,Moderate
+By State,Maryland,2020-07-09,High
+By State,Massachusetts,2020-07-09,High
+By State,Michigan,2020-07-09,High
+By State,Minnesota,2020-07-09,Moderate
+By State,Mississippi,2020-07-09,Extreme
+By State,Missouri,2020-07-09,Extreme
+By State,Montana,2020-07-09,Extreme
+By State,Nebraska,2020-07-09,High
+By State,Nevada,2020-07-09,Extreme
+By State,New Hampshire,2020-07-09,Moderate
+By State,New Jersey,2020-07-09,Extreme
+By State,New Mexico,2020-07-09,Extreme
+By State,New York,2020-07-09,High
+By State,North Carolina,2020-07-09,High
+By State,North Dakota,2020-07-09,High
+By State,Ohio,2020-07-09,High
+By State,Oklahoma,2020-07-09,Extreme
+By State,Oregon,2020-07-09,Extreme
+By State,Pennsylvania,2020-07-09,High
+By State,Rhode Island,2020-07-09,Extreme
+By State,South Carolina,2020-07-09,High
+By State,South Dakota,2020-07-09,High
+By State,Tennessee,2020-07-09,Extreme
+By State,Texas,2020-07-09,Extreme
+By State,Utah,2020-07-09,Moderate
+By State,Vermont,2020-07-09,High
+By State,Virginia,2020-07-09,High
+By State,Washington,2020-07-09,Extreme
+By State,West Virginia,2020-07-09,Extreme
+By State,Wisconsin,2020-07-09,High
+By State,Wyoming,2020-07-09,Moderate
+National Estimate,United States,2020-07-16,Extreme
+By Age,18 - 29 years,2020-07-16,Extreme
+By Age,30 - 39 years,2020-07-16,Extreme
+By Age,40 - 49 years,2020-07-16,Extreme
+By Age,50 - 59 years,2020-07-16,Extreme
+By Age,60 - 69 years,2020-07-16,Moderate
+By Age,70 - 79 years,2020-07-16,Mild
+By Age,80 years and above,2020-07-16,Mild
+By Sex,Male,2020-07-16,High
+By Sex,Female,2020-07-16,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-16,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-16,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-16,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-16,High
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-16,Extreme
+By Education,Less than a high school diploma,2020-07-16,Extreme
+By Education,High school diploma or GED,2020-07-16,Extreme
+By Education,Some college/Associate's degree,2020-07-16,Extreme
+By Education,Bachelor's degree or higher,2020-07-16,High
+By State,Alabama,2020-07-16,Extreme
+By State,Alaska,2020-07-16,High
+By State,Arizona,2020-07-16,Extreme
+By State,Arkansas,2020-07-16,Extreme
+By State,California,2020-07-16,Extreme
+By State,Colorado,2020-07-16,Extreme
+By State,Connecticut,2020-07-16,High
+By State,Delaware,2020-07-16,Moderate
+By State,District of Columbia,2020-07-16,High
+By State,Florida,2020-07-16,High
+By State,Georgia,2020-07-16,Extreme
+By State,Hawaii,2020-07-16,Extreme
+By State,Idaho,2020-07-16,Extreme
+By State,Illinois,2020-07-16,Extreme
+By State,Indiana,2020-07-16,Extreme
+By State,Iowa,2020-07-16,High
+By State,Kansas,2020-07-16,High
+By State,Kentucky,2020-07-16,Extreme
+By State,Louisiana,2020-07-16,Extreme
+By State,Maine,2020-07-16,Extreme
+By State,Maryland,2020-07-16,High
+By State,Massachusetts,2020-07-16,High
+By State,Michigan,2020-07-16,Extreme
+By State,Minnesota,2020-07-16,High
+By State,Mississippi,2020-07-16,Extreme
+By State,Missouri,2020-07-16,High
+By State,Montana,2020-07-16,Moderate
+By State,Nebraska,2020-07-16,High
+By State,Nevada,2020-07-16,Extreme
+By State,New Hampshire,2020-07-16,High
+By State,New Jersey,2020-07-16,High
+By State,New Mexico,2020-07-16,Extreme
+By State,New York,2020-07-16,Extreme
+By State,North Carolina,2020-07-16,High
+By State,North Dakota,2020-07-16,High
+By State,Ohio,2020-07-16,High
+By State,Oklahoma,2020-07-16,Extreme
+By State,Oregon,2020-07-16,Extreme
+By State,Pennsylvania,2020-07-16,Moderate
+By State,Rhode Island,2020-07-16,Extreme
+By State,South Carolina,2020-07-16,Extreme
+By State,South Dakota,2020-07-16,Moderate
+By State,Tennessee,2020-07-16,Extreme
+By State,Texas,2020-07-16,Extreme
+By State,Utah,2020-07-16,High
+By State,Vermont,2020-07-16,Moderate
+By State,Virginia,2020-07-16,High
+By State,Washington,2020-07-16,Extreme
+By State,West Virginia,2020-07-16,High
+By State,Wisconsin,2020-07-16,High
+By State,Wyoming,2020-07-16,Extreme
+National Estimate,United States,2020-08-19,High
+By Age,18 - 29 years,2020-08-19,Extreme
+By Age,30 - 39 years,2020-08-19,Extreme
+By Age,40 - 49 years,2020-08-19,High
+By Age,50 - 59 years,2020-08-19,High
+By Age,60 - 69 years,2020-08-19,Moderate
+By Age,70 - 79 years,2020-08-19,Mild
+By Age,80 years and above,2020-08-19,Mild
+By Sex,Male,2020-08-19,Moderate
+By Sex,Female,2020-08-19,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-08-19,High
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-08-19,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-08-19,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-08-19,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-08-19,Extreme
+By Education,Less than a high school diploma,2020-08-19,Extreme
+By Education,High school diploma or GED,2020-08-19,High
+By Education,Some college/Associate's degree,2020-08-19,High
+By Education,Bachelor's degree or higher,2020-08-19,Moderate
+By State,Alabama,2020-08-19,High
+By State,Alaska,2020-08-19,High
+By State,Arizona,2020-08-19,High
+By State,Arkansas,2020-08-19,High
+By State,California,2020-08-19,High
+By State,Colorado,2020-08-19,High
+By State,Connecticut,2020-08-19,High
+By State,Delaware,2020-08-19,Mild
+By State,District of Columbia,2020-08-19,High
+By State,Florida,2020-08-19,High
+By State,Georgia,2020-08-19,High
+By State,Hawaii,2020-08-19,Extreme
+By State,Idaho,2020-08-19,Moderate
+By State,Illinois,2020-08-19,High
+By State,Indiana,2020-08-19,High
+By State,Iowa,2020-08-19,Moderate
+By State,Kansas,2020-08-19,High
+By State,Kentucky,2020-08-19,High
+By State,Louisiana,2020-08-19,Extreme
+By State,Maine,2020-08-19,High
+By State,Maryland,2020-08-19,High
+By State,Massachusetts,2020-08-19,High
+By State,Michigan,2020-08-19,High
+By State,Minnesota,2020-08-19,Moderate
+By State,Mississippi,2020-08-19,Moderate
+By State,Missouri,2020-08-19,Moderate
+By State,Montana,2020-08-19,Moderate
+By State,Nebraska,2020-08-19,Moderate
+By State,Nevada,2020-08-19,Extreme
+By State,New Hampshire,2020-08-19,Moderate
+By State,New Jersey,2020-08-19,High
+By State,New Mexico,2020-08-19,Extreme
+By State,New York,2020-08-19,High
+By State,North Carolina,2020-08-19,Moderate
+By State,North Dakota,2020-08-19,Moderate
+By State,Ohio,2020-08-19,High
+By State,Oklahoma,2020-08-19,High
+By State,Oregon,2020-08-19,High
+By State,Pennsylvania,2020-08-19,High
+By State,Rhode Island,2020-08-19,High
+By State,South Carolina,2020-08-19,Mild
+By State,South Dakota,2020-08-19,Mild
+By State,Tennessee,2020-08-19,High
+By State,Texas,2020-08-19,High
+By State,Utah,2020-08-19,High
+By State,Vermont,2020-08-19,Moderate
+By State,Virginia,2020-08-19,High
+By State,Washington,2020-08-19,High
+By State,West Virginia,2020-08-19,Moderate
+By State,Wisconsin,2020-08-19,Moderate
+By State,Wyoming,2020-08-19,High
+National Estimate,United States,2020-09-02,High
+By Age,18 - 29 years,2020-09-02,Extreme
+By Age,30 - 39 years,2020-09-02,Extreme
+By Age,40 - 49 years,2020-09-02,High
+By Age,50 - 59 years,2020-09-02,High
+By Age,60 - 69 years,2020-09-02,Moderate
+By Age,70 - 79 years,2020-09-02,Mild
+By Age,80 years and above,2020-09-02,Mild
+By Sex,Male,2020-09-02,Moderate
+By Sex,Female,2020-09-02,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-02,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-02,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-02,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-02,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-02,Extreme
+By Education,Less than a high school diploma,2020-09-02,Extreme
+By Education,High school diploma or GED,2020-09-02,High
+By Education,Some college/Associate's degree,2020-09-02,High
+By Education,Bachelor's degree or higher,2020-09-02,Moderate
+By State,Alabama,2020-09-02,High
+By State,Alaska,2020-09-02,Moderate
+By State,Arizona,2020-09-02,High
+By State,Arkansas,2020-09-02,Extreme
+By State,California,2020-09-02,High
+By State,Colorado,2020-09-02,High
+By State,Connecticut,2020-09-02,High
+By State,Delaware,2020-09-02,High
+By State,District of Columbia,2020-09-02,High
+By State,Florida,2020-09-02,High
+By State,Georgia,2020-09-02,High
+By State,Hawaii,2020-09-02,High
+By State,Idaho,2020-09-02,High
+By State,Illinois,2020-09-02,High
+By State,Indiana,2020-09-02,High
+By State,Iowa,2020-09-02,Moderate
+By State,Kansas,2020-09-02,Moderate
+By State,Kentucky,2020-09-02,High
+By State,Louisiana,2020-09-02,Extreme
+By State,Maine,2020-09-02,High
+By State,Maryland,2020-09-02,High
+By State,Massachusetts,2020-09-02,Moderate
+By State,Michigan,2020-09-02,High
+By State,Minnesota,2020-09-02,Moderate
+By State,Mississippi,2020-09-02,High
+By State,Missouri,2020-09-02,Moderate
+By State,Montana,2020-09-02,Moderate
+By State,Nebraska,2020-09-02,Moderate
+By State,Nevada,2020-09-02,High
+By State,New Hampshire,2020-09-02,High
+By State,New Jersey,2020-09-02,High
+By State,New Mexico,2020-09-02,High
+By State,New York,2020-09-02,High
+By State,North Carolina,2020-09-02,Moderate
+By State,North Dakota,2020-09-02,Mild
+By State,Ohio,2020-09-02,High
+By State,Oklahoma,2020-09-02,High
+By State,Oregon,2020-09-02,Extreme
+By State,Pennsylvania,2020-09-02,High
+By State,Rhode Island,2020-09-02,High
+By State,South Carolina,2020-09-02,Moderate
+By State,South Dakota,2020-09-02,Mild
+By State,Tennessee,2020-09-02,Moderate
+By State,Texas,2020-09-02,High
+By State,Utah,2020-09-02,Moderate
+By State,Vermont,2020-09-02,High
+By State,Virginia,2020-09-02,Moderate
+By State,Washington,2020-09-02,High
+By State,West Virginia,2020-09-02,High
+By State,Wisconsin,2020-09-02,Moderate
+By State,Wyoming,2020-09-02,Moderate
+National Estimate,United States,2020-09-16,High
+By Age,18 - 29 years,2020-09-16,Extreme
+By Age,30 - 39 years,2020-09-16,Extreme
+By Age,40 - 49 years,2020-09-16,High
+By Age,50 - 59 years,2020-09-16,High
+By Age,60 - 69 years,2020-09-16,Moderate
+By Age,70 - 79 years,2020-09-16,Mild
+By Age,80 years and above,2020-09-16,Mild
+By Sex,Male,2020-09-16,Moderate
+By Sex,Female,2020-09-16,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-16,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-16,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-16,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-16,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-16,Extreme
+By Education,Less than a high school diploma,2020-09-16,Extreme
+By Education,High school diploma or GED,2020-09-16,High
+By Education,Some college/Associate's degree,2020-09-16,High
+By Education,Bachelor's degree or higher,2020-09-16,High
+By State,Alabama,2020-09-16,High
+By State,Alaska,2020-09-16,High
+By State,Arizona,2020-09-16,High
+By State,Arkansas,2020-09-16,Moderate
+By State,California,2020-09-16,Extreme
+By State,Colorado,2020-09-16,High
+By State,Connecticut,2020-09-16,High
+By State,Delaware,2020-09-16,Moderate
+By State,District of Columbia,2020-09-16,Extreme
+By State,Florida,2020-09-16,High
+By State,Georgia,2020-09-16,High
+By State,Hawaii,2020-09-16,Moderate
+By State,Idaho,2020-09-16,Moderate
+By State,Illinois,2020-09-16,High
+By State,Indiana,2020-09-16,High
+By State,Iowa,2020-09-16,Moderate
+By State,Kansas,2020-09-16,High
+By State,Kentucky,2020-09-16,High
+By State,Louisiana,2020-09-16,Extreme
+By State,Maine,2020-09-16,High
+By State,Maryland,2020-09-16,High
+By State,Massachusetts,2020-09-16,High
+By State,Michigan,2020-09-16,Moderate
+By State,Minnesota,2020-09-16,Moderate
+By State,Mississippi,2020-09-16,High
+By State,Missouri,2020-09-16,High
+By State,Montana,2020-09-16,High
+By State,Nebraska,2020-09-16,Moderate
+By State,Nevada,2020-09-16,Extreme
+By State,New Hampshire,2020-09-16,Moderate
+By State,New Jersey,2020-09-16,High
+By State,New Mexico,2020-09-16,Extreme
+By State,New York,2020-09-16,High
+By State,North Carolina,2020-09-16,Moderate
+By State,North Dakota,2020-09-16,Mild
+By State,Ohio,2020-09-16,High
+By State,Oklahoma,2020-09-16,Moderate
+By State,Oregon,2020-09-16,Extreme
+By State,Pennsylvania,2020-09-16,High
+By State,Rhode Island,2020-09-16,High
+By State,South Carolina,2020-09-16,High
+By State,South Dakota,2020-09-16,Mild
+By State,Tennessee,2020-09-16,High
+By State,Texas,2020-09-16,High
+By State,Utah,2020-09-16,High
+By State,Vermont,2020-09-16,High
+By State,Virginia,2020-09-16,High
+By State,Washington,2020-09-16,High
+By State,West Virginia,2020-09-16,Extreme
+By State,Wisconsin,2020-09-16,Moderate
+By State,Wyoming,2020-09-16,Moderate
+National Estimate,United States,2020-09-30,High
+By Age,18 - 29 years,2020-09-30,Extreme
+By Age,30 - 39 years,2020-09-30,Extreme
+By Age,40 - 49 years,2020-09-30,Extreme
+By Age,50 - 59 years,2020-09-30,High
+By Age,60 - 69 years,2020-09-30,Moderate
+By Age,70 - 79 years,2020-09-30,Mild
+By Age,80 years and above,2020-09-30,Mild
+By Sex,Male,2020-09-30,Moderate
+By Sex,Female,2020-09-30,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-30,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-30,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-30,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-30,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-30,Extreme
+By Education,Less than a high school diploma,2020-09-30,Extreme
+By Education,High school diploma or GED,2020-09-30,High
+By Education,Some college/Associate's degree,2020-09-30,Extreme
+By Education,Bachelor's degree or higher,2020-09-30,High
+By State,Alabama,2020-09-30,Moderate
+By State,Alaska,2020-09-30,High
+By State,Arizona,2020-09-30,High
+By State,Arkansas,2020-09-30,Extreme
+By State,California,2020-09-30,Extreme
+By State,Colorado,2020-09-30,High
+By State,Connecticut,2020-09-30,Moderate
+By State,Delaware,2020-09-30,High
+By State,District of Columbia,2020-09-30,High
+By State,Florida,2020-09-30,High
+By State,Georgia,2020-09-30,Moderate
+By State,Hawaii,2020-09-30,High
+By State,Idaho,2020-09-30,Moderate
+By State,Illinois,2020-09-30,High
+By State,Indiana,2020-09-30,High
+By State,Iowa,2020-09-30,Moderate
+By State,Kansas,2020-09-30,High
+By State,Kentucky,2020-09-30,Extreme
+By State,Louisiana,2020-09-30,Extreme
+By State,Maine,2020-09-30,High
+By State,Maryland,2020-09-30,High
+By State,Massachusetts,2020-09-30,High
+By State,Michigan,2020-09-30,High
+By State,Minnesota,2020-09-30,Moderate
+By State,Mississippi,2020-09-30,High
+By State,Missouri,2020-09-30,High
+By State,Montana,2020-09-30,Moderate
+By State,Nebraska,2020-09-30,Moderate
+By State,Nevada,2020-09-30,Extreme
+By State,New Hampshire,2020-09-30,Moderate
+By State,New Jersey,2020-09-30,High
+By State,New Mexico,2020-09-30,High
+By State,New York,2020-09-30,High
+By State,North Carolina,2020-09-30,Moderate
+By State,North Dakota,2020-09-30,Mild
+By State,Ohio,2020-09-30,High
+By State,Oklahoma,2020-09-30,High
+By State,Oregon,2020-09-30,High
+By State,Pennsylvania,2020-09-30,High
+By State,Rhode Island,2020-09-30,Moderate
+By State,South Carolina,2020-09-30,Moderate
+By State,South Dakota,2020-09-30,Moderate
+By State,Tennessee,2020-09-30,High
+By State,Texas,2020-09-30,High
+By State,Utah,2020-09-30,High
+By State,Vermont,2020-09-30,Extreme
+By State,Virginia,2020-09-30,Moderate
+By State,Washington,2020-09-30,High
+By State,West Virginia,2020-09-30,Extreme
+By State,Wisconsin,2020-09-30,High
+By State,Wyoming,2020-09-30,Moderate
+National Estimate,United States,2020-10-14,High
+By Age,18 - 29 years,2020-10-14,Extreme
+By Age,30 - 39 years,2020-10-14,Extreme
+By Age,40 - 49 years,2020-10-14,High
+By Age,50 - 59 years,2020-10-14,High
+By Age,60 - 69 years,2020-10-14,Moderate
+By Age,70 - 79 years,2020-10-14,Mild
+By Age,80 years and above,2020-10-14,Mild
+By Sex,Male,2020-10-14,Moderate
+By Sex,Female,2020-10-14,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-14,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-14,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-14,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-14,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-14,Extreme
+By Education,Less than a high school diploma,2020-10-14,Extreme
+By Education,High school diploma or GED,2020-10-14,High
+By Education,Some college/Associate's degree,2020-10-14,Extreme
+By Education,Bachelor's degree or higher,2020-10-14,High
+By State,Alabama,2020-10-14,High
+By State,Alaska,2020-10-14,High
+By State,Arizona,2020-10-14,High
+By State,Arkansas,2020-10-14,High
+By State,California,2020-10-14,Extreme
+By State,Colorado,2020-10-14,High
+By State,Connecticut,2020-10-14,High
+By State,Delaware,2020-10-14,High
+By State,District of Columbia,2020-10-14,High
+By State,Florida,2020-10-14,High
+By State,Georgia,2020-10-14,High
+By State,Hawaii,2020-10-14,High
+By State,Idaho,2020-10-14,High
+By State,Illinois,2020-10-14,High
+By State,Indiana,2020-10-14,Extreme
+By State,Iowa,2020-10-14,High
+By State,Kansas,2020-10-14,High
+By State,Kentucky,2020-10-14,Extreme
+By State,Louisiana,2020-10-14,High
+By State,Maine,2020-10-14,High
+By State,Maryland,2020-10-14,High
+By State,Massachusetts,2020-10-14,High
+By State,Michigan,2020-10-14,High
+By State,Minnesota,2020-10-14,Moderate
+By State,Mississippi,2020-10-14,Extreme
+By State,Missouri,2020-10-14,Extreme
+By State,Montana,2020-10-14,Moderate
+By State,Nebraska,2020-10-14,Moderate
+By State,Nevada,2020-10-14,Extreme
+By State,New Hampshire,2020-10-14,Moderate
+By State,New Jersey,2020-10-14,High
+By State,New Mexico,2020-10-14,Extreme
+By State,New York,2020-10-14,High
+By State,North Carolina,2020-10-14,Moderate
+By State,North Dakota,2020-10-14,Moderate
+By State,Ohio,2020-10-14,High
+By State,Oklahoma,2020-10-14,High
+By State,Oregon,2020-10-14,Extreme
+By State,Pennsylvania,2020-10-14,High
+By State,Rhode Island,2020-10-14,Extreme
+By State,South Carolina,2020-10-14,High
+By State,South Dakota,2020-10-14,Mild
+By State,Tennessee,2020-10-14,High
+By State,Texas,2020-10-14,High
+By State,Utah,2020-10-14,Moderate
+By State,Vermont,2020-10-14,High
+By State,Virginia,2020-10-14,High
+By State,Washington,2020-10-14,Extreme
+By State,West Virginia,2020-10-14,High
+By State,Wisconsin,2020-10-14,High
+By State,Wyoming,2020-10-14,Moderate
+National Estimate,United States,2020-10-28,Extreme
+By Age,18 - 29 years,2020-10-28,Extreme
+By Age,30 - 39 years,2020-10-28,Extreme
+By Age,40 - 49 years,2020-10-28,Extreme
+By Age,50 - 59 years,2020-10-28,High
+By Age,60 - 69 years,2020-10-28,Moderate
+By Age,70 - 79 years,2020-10-28,Mild
+By Age,80 years and above,2020-10-28,Mild
+By Sex,Male,2020-10-28,High
+By Sex,Female,2020-10-28,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-28,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-28,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-28,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-28,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-28,Extreme
+By Education,Less than a high school diploma,2020-10-28,Extreme
+By Education,High school diploma or GED,2020-10-28,Extreme
+By Education,Some college/Associate's degree,2020-10-28,Extreme
+By Education,Bachelor's degree or higher,2020-10-28,High
+By State,Alabama,2020-10-28,Extreme
+By State,Alaska,2020-10-28,High
+By State,Arizona,2020-10-28,Extreme
+By State,Arkansas,2020-10-28,Extreme
+By State,California,2020-10-28,Extreme
+By State,Colorado,2020-10-28,Extreme
+By State,Connecticut,2020-10-28,Extreme
+By State,Delaware,2020-10-28,Extreme
+By State,District of Columbia,2020-10-28,Extreme
+By State,Florida,2020-10-28,Extreme
+By State,Georgia,2020-10-28,Extreme
+By State,Hawaii,2020-10-28,Extreme
+By State,Idaho,2020-10-28,Extreme
+By State,Illinois,2020-10-28,Extreme
+By State,Indiana,2020-10-28,High
+By State,Iowa,2020-10-28,Extreme
+By State,Kansas,2020-10-28,Extreme
+By State,Kentucky,2020-10-28,Extreme
+By State,Louisiana,2020-10-28,Extreme
+By State,Maine,2020-10-28,Extreme
+By State,Maryland,2020-10-28,Extreme
+By State,Massachusetts,2020-10-28,Extreme
+By State,Michigan,2020-10-28,High
+By State,Minnesota,2020-10-28,High
+By State,Mississippi,2020-10-28,Extreme
+By State,Missouri,2020-10-28,Extreme
+By State,Montana,2020-10-28,Extreme
+By State,Nebraska,2020-10-28,High
+By State,Nevada,2020-10-28,Extreme
+By State,New Hampshire,2020-10-28,Extreme
+By State,New Jersey,2020-10-28,High
+By State,New Mexico,2020-10-28,Extreme
+By State,New York,2020-10-28,High
+By State,North Carolina,2020-10-28,Extreme
+By State,North Dakota,2020-10-28,Mild
+By State,Ohio,2020-10-28,Extreme
+By State,Oklahoma,2020-10-28,Extreme
+By State,Oregon,2020-10-28,Extreme
+By State,Pennsylvania,2020-10-28,Extreme
+By State,Rhode Island,2020-10-28,Extreme
+By State,South Carolina,2020-10-28,Extreme
+By State,South Dakota,2020-10-28,Moderate
+By State,Tennessee,2020-10-28,High
+By State,Texas,2020-10-28,Extreme
+By State,Utah,2020-10-28,High
+By State,Vermont,2020-10-28,Extreme
+By State,Virginia,2020-10-28,High
+By State,Washington,2020-10-28,High
+By State,West Virginia,2020-10-28,Extreme
+By State,Wisconsin,2020-10-28,Extreme
+By State,Wyoming,2020-10-28,High
+National Estimate,United States,2020-11-11,Extreme
+By Age,18 - 29 years,2020-11-11,Extreme
+By Age,30 - 39 years,2020-11-11,Extreme
+By Age,40 - 49 years,2020-11-11,Extreme
+By Age,50 - 59 years,2020-11-11,Extreme
+By Age,60 - 69 years,2020-11-11,High
+By Age,70 - 79 years,2020-11-11,Mild
+By Age,80 years and above,2020-11-11,Mild
+By Sex,Male,2020-11-11,High
+By Sex,Female,2020-11-11,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-11,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-11,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-11,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-11,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-11,Extreme
+By Education,Less than a high school diploma,2020-11-11,Extreme
+By Education,High school diploma or GED,2020-11-11,Extreme
+By Education,Some college/Associate's degree,2020-11-11,Extreme
+By Education,Bachelor's degree or higher,2020-11-11,High
+By State,Alabama,2020-11-11,Extreme
+By State,Alaska,2020-11-11,Extreme
+By State,Arizona,2020-11-11,Extreme
+By State,Arkansas,2020-11-11,Extreme
+By State,California,2020-11-11,Extreme
+By State,Colorado,2020-11-11,Extreme
+By State,Connecticut,2020-11-11,High
+By State,Delaware,2020-11-11,High
+By State,District of Columbia,2020-11-11,Extreme
+By State,Florida,2020-11-11,High
+By State,Georgia,2020-11-11,High
+By State,Hawaii,2020-11-11,Moderate
+By State,Idaho,2020-11-11,High
+By State,Illinois,2020-11-11,Extreme
+By State,Indiana,2020-11-11,High
+By State,Iowa,2020-11-11,High
+By State,Kansas,2020-11-11,High
+By State,Kentucky,2020-11-11,High
+By State,Louisiana,2020-11-11,Extreme
+By State,Maine,2020-11-11,High
+By State,Maryland,2020-11-11,Extreme
+By State,Massachusetts,2020-11-11,Extreme
+By State,Michigan,2020-11-11,Extreme
+By State,Minnesota,2020-11-11,Extreme
+By State,Mississippi,2020-11-11,Extreme
+By State,Missouri,2020-11-11,High
+By State,Montana,2020-11-11,Extreme
+By State,Nebraska,2020-11-11,High
+By State,Nevada,2020-11-11,Extreme
+By State,New Hampshire,2020-11-11,High
+By State,New Jersey,2020-11-11,Extreme
+By State,New Mexico,2020-11-11,Extreme
+By State,New York,2020-11-11,Extreme
+By State,North Carolina,2020-11-11,Extreme
+By State,North Dakota,2020-11-11,High
+By State,Ohio,2020-11-11,Extreme
+By State,Oklahoma,2020-11-11,Extreme
+By State,Oregon,2020-11-11,Extreme
+By State,Pennsylvania,2020-11-11,High
+By State,Rhode Island,2020-11-11,Extreme
+By State,South Carolina,2020-11-11,Extreme
+By State,South Dakota,2020-11-11,High
+By State,Tennessee,2020-11-11,Extreme
+By State,Texas,2020-11-11,Extreme
+By State,Utah,2020-11-11,Extreme
+By State,Vermont,2020-11-11,Extreme
+By State,Virginia,2020-11-11,High
+By State,Washington,2020-11-11,Extreme
+By State,West Virginia,2020-11-11,Extreme
+By State,Wisconsin,2020-11-11,High
+By State,Wyoming,2020-11-11,Extreme
+National Estimate,United States,2020-11-25,Extreme
+By Age,18 - 29 years,2020-11-25,Extreme
+By Age,30 - 39 years,2020-11-25,Extreme
+By Age,40 - 49 years,2020-11-25,Extreme
+By Age,50 - 59 years,2020-11-25,High
+By Age,60 - 69 years,2020-11-25,Moderate
+By Age,70 - 79 years,2020-11-25,Mild
+By Age,80 years and above,2020-11-25,Mild
+By Sex,Male,2020-11-25,High
+By Sex,Female,2020-11-25,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-25,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-25,High
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-25,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-25,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-25,Extreme
+By Education,Less than a high school diploma,2020-11-25,Extreme
+By Education,High school diploma or GED,2020-11-25,Extreme
+By Education,Some college/Associate's degree,2020-11-25,Extreme
+By Education,Bachelor's degree or higher,2020-11-25,High
+By State,Alabama,2020-11-25,High
+By State,Alaska,2020-11-25,Extreme
+By State,Arizona,2020-11-25,High
+By State,Arkansas,2020-11-25,Extreme
+By State,California,2020-11-25,Extreme
+By State,Colorado,2020-11-25,Extreme
+By State,Connecticut,2020-11-25,Extreme
+By State,Delaware,2020-11-25,High
+By State,District of Columbia,2020-11-25,Extreme
+By State,Florida,2020-11-25,Extreme
+By State,Georgia,2020-11-25,Extreme
+By State,Hawaii,2020-11-25,High
+By State,Idaho,2020-11-25,High
+By State,Illinois,2020-11-25,Extreme
+By State,Indiana,2020-11-25,Extreme
+By State,Iowa,2020-11-25,High
+By State,Kansas,2020-11-25,High
+By State,Kentucky,2020-11-25,Extreme
+By State,Louisiana,2020-11-25,Extreme
+By State,Maine,2020-11-25,High
+By State,Maryland,2020-11-25,High
+By State,Massachusetts,2020-11-25,High
+By State,Michigan,2020-11-25,High
+By State,Minnesota,2020-11-25,High
+By State,Mississippi,2020-11-25,Extreme
+By State,Missouri,2020-11-25,Extreme
+By State,Montana,2020-11-25,Extreme
+By State,Nebraska,2020-11-25,High
+By State,Nevada,2020-11-25,Extreme
+By State,New Hampshire,2020-11-25,Extreme
+By State,New Jersey,2020-11-25,Extreme
+By State,New Mexico,2020-11-25,Extreme
+By State,New York,2020-11-25,Extreme
+By State,North Carolina,2020-11-25,High
+By State,North Dakota,2020-11-25,Moderate
+By State,Ohio,2020-11-25,Extreme
+By State,Oklahoma,2020-11-25,Extreme
+By State,Oregon,2020-11-25,Extreme
+By State,Pennsylvania,2020-11-25,Extreme
+By State,Rhode Island,2020-11-25,Extreme
+By State,South Carolina,2020-11-25,High
+By State,South Dakota,2020-11-25,Moderate
+By State,Tennessee,2020-11-25,High
+By State,Texas,2020-11-25,Extreme
+By State,Utah,2020-11-25,Extreme
+By State,Vermont,2020-11-25,Extreme
+By State,Virginia,2020-11-25,High
+By State,Washington,2020-11-25,Extreme
+By State,West Virginia,2020-11-25,Extreme
+By State,Wisconsin,2020-11-25,High
+By State,Wyoming,2020-11-25,Extreme
+National Estimate,United States,2020-12-09,Extreme
+By Age,18 - 29 years,2020-12-09,Extreme
+By Age,30 - 39 years,2020-12-09,Extreme
+By Age,40 - 49 years,2020-12-09,Extreme
+By Age,50 - 59 years,2020-12-09,Extreme
+By Age,60 - 69 years,2020-12-09,Moderate
+By Age,70 - 79 years,2020-12-09,Mild
+By Age,80 years and above,2020-12-09,Mild
+By Sex,Male,2020-12-09,High
+By Sex,Female,2020-12-09,Extreme
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-12-09,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-12-09,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-12-09,Extreme
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-12-09,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-12-09,Extreme
+By Education,Less than a high school diploma,2020-12-09,Extreme
+By Education,High school diploma or GED,2020-12-09,Extreme
+By Education,Some college/Associate's degree,2020-12-09,Extreme
+By Education,Bachelor's degree or higher,2020-12-09,High
+By State,Alabama,2020-12-09,Extreme
+By State,Alaska,2020-12-09,Extreme
+By State,Arizona,2020-12-09,High
+By State,Arkansas,2020-12-09,Extreme
+By State,California,2020-12-09,Extreme
+By State,Colorado,2020-12-09,Extreme
+By State,Connecticut,2020-12-09,Extreme
+By State,Delaware,2020-12-09,Extreme
+By State,District of Columbia,2020-12-09,High
+By State,Florida,2020-12-09,Extreme
+By State,Georgia,2020-12-09,Extreme
+By State,Hawaii,2020-12-09,High
+By State,Idaho,2020-12-09,Extreme
+By State,Illinois,2020-12-09,Extreme
+By State,Indiana,2020-12-09,High
+By State,Iowa,2020-12-09,High
+By State,Kansas,2020-12-09,Extreme
+By State,Kentucky,2020-12-09,Extreme
+By State,Louisiana,2020-12-09,Extreme
+By State,Maine,2020-12-09,High
+By State,Maryland,2020-12-09,High
+By State,Massachusetts,2020-12-09,Extreme
+By State,Michigan,2020-12-09,Extreme
+By State,Minnesota,2020-12-09,High
+By State,Mississippi,2020-12-09,Extreme
+By State,Missouri,2020-12-09,Extreme
+By State,Montana,2020-12-09,Extreme
+By State,Nebraska,2020-12-09,Moderate
+By State,Nevada,2020-12-09,Extreme
+By State,New Hampshire,2020-12-09,High
+By State,New Jersey,2020-12-09,High
+By State,New Mexico,2020-12-09,Extreme
+By State,New York,2020-12-09,High
+By State,North Carolina,2020-12-09,High
+By State,North Dakota,2020-12-09,Moderate
+By State,Ohio,2020-12-09,Extreme
+By State,Oklahoma,2020-12-09,Extreme
+By State,Oregon,2020-12-09,Extreme
+By State,Pennsylvania,2020-12-09,High
+By State,Rhode Island,2020-12-09,High
+By State,South Carolina,2020-12-09,Extreme
+By State,South Dakota,2020-12-09,Moderate
+By State,Tennessee,2020-12-09,Extreme
+By State,Texas,2020-12-09,Extreme
+By State,Utah,2020-12-09,High
+By State,Vermont,2020-12-09,Extreme
+By State,Virginia,2020-12-09,Extreme
+By State,Washington,2020-12-09,Extreme
+By State,West Virginia,2020-12-09,Extreme
+By State,Wisconsin,2020-12-09,Extreme
+By State,Wyoming,2020-12-09,High

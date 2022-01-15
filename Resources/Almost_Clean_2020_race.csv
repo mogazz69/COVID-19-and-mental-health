@@ -1,316 +1,316 @@
-,Indicator,Group,Subgroup,Time_Period,Value,Risk
-10,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-04-23,29.4,Moderate
-11,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-04-23,21.4,Mild
-12,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-04-23,25.6,Moderate
-13,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-04-23,23.6,Mild
-14,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-04-23,28.3,Moderate
-80,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-04-23,36.3,Extreme
-81,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-04-23,29.0,Moderate
-82,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-04-23,32.8,High
-83,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-04-23,26.3,Moderate
-84,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-04-23,38.2,Extreme
-150,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-04-23,42.7,Extreme
-151,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-04-23,33.6,High
-152,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-04-23,38.9,Extreme
-153,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-04-23,31.9,High
-154,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-04-23,43.9,Extreme
-220,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-07,27.9,Moderate
-221,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-07,22.5,Mild
-222,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-07,27.7,Moderate
-223,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-07,19.5,Mild
-224,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-07,33.0,High
-290,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-07,36.2,Extreme
-291,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-07,27.8,Moderate
-292,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-07,33.0,High
-293,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-07,26.3,Moderate
-294,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-07,38.9,Extreme
-360,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-07,40.3,Extreme
-361,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-07,32.0,High
-362,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-07,38.8,Extreme
-363,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-07,29.9,High
-364,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-07,45.9,Extreme
-430,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-14,28.9,Moderate
-431,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-14,22.7,Mild
-432,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-14,28.5,Moderate
-433,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-14,20.9,Mild
-434,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-14,27.1,Moderate
-500,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-14,33.6,High
-501,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-14,26.3,Moderate
-502,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-14,32.7,High
-503,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-14,23.4,Mild
-504,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-14,31.3,High
-570,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-14,40.7,Extreme
-571,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-14,31.3,High
-572,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-14,39.4,Extreme
-573,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-14,30.2,High
-574,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-14,37.2,Extreme
-640,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-21,31.4,High
-641,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-21,23.3,Mild
-642,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-21,24.8,Moderate
-643,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-21,19.5,Mild
-644,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-21,32.2,High
-710,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-21,36.3,Extreme
-711,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-21,27.6,Moderate
-712,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-21,30.2,High
-713,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-21,22.2,Mild
-714,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-21,38.6,Extreme
-780,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-21,41.5,Extreme
-781,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-21,32.3,High
-782,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-21,35.6,Extreme
-783,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-21,27.6,Moderate
-784,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-21,43.4,Extreme
-850,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-28,26.3,Moderate
-851,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-28,23.7,Mild
-852,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-28,29.9,High
-853,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-28,22.0,Mild
-854,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-28,37.6,Extreme
-920,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-28,32.1,High
-921,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-28,29.0,Moderate
-922,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-28,33.8,High
-923,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-28,28.4,Moderate
-924,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-28,44.6,Extreme
-990,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-28,38.3,Extreme
-991,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-28,33.1,High
-992,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-28,40.5,Extreme
-993,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-28,34.2,High
-994,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-28,49.6,Extreme
-1060,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-04,30.8,High
-1061,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-04,23.9,Mild
-1062,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-04,29.6,Moderate
-1063,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-04,19.8,Mild
-1064,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-04,33.9,High
-1130,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-04,34.0,High
-1131,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-04,29.6,Moderate
-1132,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-04,34.6,High
-1133,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-04,25.6,Moderate
-1134,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-04,40.4,Extreme
-1200,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-04,40.8,Extreme
-1201,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-04,34.0,High
-1202,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-04,40.0,Extreme
-1203,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-04,29.2,Moderate
-1204,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-04,48.1,Extreme
-1270,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-11,28.4,Moderate
-1271,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-11,23.5,Mild
-1272,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-11,28.3,Moderate
-1273,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-11,21.0,Mild
-1274,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-11,32.3,High
-1340,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-11,33.6,High
-1341,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-11,30.6,High
-1342,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-11,35.8,Extreme
-1343,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-11,26.0,Moderate
-1344,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-11,37.6,Extreme
-1410,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-11,39.6,Extreme
-1411,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-11,34.3,High
-1412,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-11,40.0,Extreme
-1413,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-11,29.9,High
-1414,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-11,44.3,Extreme
-1480,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-18,29.0,Moderate
-1481,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-18,24.2,Mild
-1482,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-18,28.1,Moderate
-1483,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-18,20.1,Mild
-1484,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-18,34.1,High
-1550,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-18,36.5,Extreme
-1551,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-18,29.8,High
-1552,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-18,32.6,High
-1553,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-18,23.0,Mild
-1554,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-18,39.7,Extreme
-1620,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-18,42.3,Extreme
-1621,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-18,34.1,High
-1622,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-18,39.1,Extreme
-1623,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-18,27.8,Moderate
-1624,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-18,45.1,Extreme
-1690,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-25,31.1,High
-1691,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-25,24.9,Moderate
-1692,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-25,30.9,High
-1693,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-25,21.5,Mild
-1694,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-25,36.8,Extreme
-1760,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-25,37.0,Extreme
-1761,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-25,31.4,High
-1762,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-25,35.1,High
-1763,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-25,24.3,Mild
-1764,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-25,45.4,Extreme
-1830,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-25,42.8,Extreme
-1831,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-25,35.8,Extreme
-1832,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-25,41.3,Extreme
-1833,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-25,28.6,Moderate
-1834,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-25,49.6,Extreme
-1900,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-02,30.9,High
-1901,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-02,26.0,Moderate
-1902,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-02,29.9,High
-1903,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-02,25.0,Moderate
-1904,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-02,35.6,Extreme
-1970,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-02,37.1,Extreme
-1971,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-07-02,32.9,High
-1972,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-07-02,34.0,High
-1973,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-07-02,29.9,High
-1974,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-02,43.3,Extreme
-2040,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-02,43.4,Extreme
-2041,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-02,37.2,Extreme
-2042,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-02,40.6,Extreme
-2043,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-02,36.6,Extreme
-2044,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-02,47.7,Extreme
-2110,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-09,31.0,High
-2111,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-09,26.6,Moderate
-2112,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-09,30.0,High
-2113,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-09,26.4,Moderate
-2114,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-09,36.1,Extreme
-2180,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-09,39.3,Extreme
-2181,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-07-09,34.1,High
-2182,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-07-09,36.9,Extreme
-2183,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-07-09,30.2,High
-2184,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-09,46.2,Extreme
-2250,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-09,44.0,Extreme
-2251,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-09,38.5,Extreme
-2252,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-09,42.7,Extreme
-2253,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-09,36.5,Extreme
-2254,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-09,51.2,Extreme
-2320,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-16,34.2,High
-2321,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-16,27.7,Moderate
-2322,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-16,32.1,High
-2323,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-16,30.5,High
-2324,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-16,33.0,High
-2390,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-16,41.9,Extreme
-2391,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-07-16,34.2,High
-2392,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-07-16,35.8,Extreme
-2393,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-07-16,35.0,High
-2394,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-16,43.8,Extreme
-2460,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-16,46.3,Extreme
-2461,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-16,38.8,Extreme
-2462,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-16,42.6,Extreme
-2463,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-16,40.3,Extreme
-2464,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-16,48.8,Extreme
-2549,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-08-19,28.5,Moderate
-2550,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-08-19,23.2,Mild
-2551,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-08-19,26.2,Moderate
-2552,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-08-19,20.8,Mild
-2553,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-08-19,30.3,High
-2638,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-08-19,33.3,High
-2639,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-08-19,31.2,High
-2640,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-08-19,30.8,High
-2641,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-08-19,25.1,Moderate
-2642,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-08-19,37.1,Extreme
-2727,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-08-19,40.2,Extreme
-2728,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-08-19,35.4,Extreme
-2729,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-08-19,37.7,Extreme
-2730,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-08-19,30.5,High
-2731,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-08-19,43.1,Extreme
-2797,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-02,28.9,Moderate
-2798,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-02,22.7,Mild
-2799,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-02,28.5,Moderate
-2800,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-02,19.1,Mild
-2801,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-02,31.4,High
-2867,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-02,35.9,Extreme
-2868,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-09-02,30.4,High
-2869,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-09-02,33.0,High
-2870,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-09-02,21.5,Mild
-2871,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-02,42.1,Extreme
-2937,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-02,42.0,Extreme
-2938,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-02,34.4,High
-2939,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-02,38.6,Extreme
-2940,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-02,27.4,Moderate
-2941,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-02,47.8,Extreme
-3007,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-16,31.0,High
-3008,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-16,23.4,Mild
-3009,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-16,25.8,Moderate
-3010,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-16,21.0,Mild
-3011,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-16,31.4,High
-3077,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-16,38.5,Extreme
-3078,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-09-16,31.4,High
-3079,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-09-16,32.0,High
-3080,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-09-16,25.0,Moderate
-3081,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-16,39.6,Extreme
-3147,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-16,44.4,Extreme
-3148,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-16,35.6,Extreme
-3149,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-16,37.4,Extreme
-3150,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-16,30.1,High
-3151,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-16,44.4,Extreme
-3217,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-30,31.5,High
-3218,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-30,23.3,Mild
-3219,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-30,29.2,Moderate
-3220,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-30,19.0,Mild
-3221,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-30,33.6,High
-3287,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-30,36.4,Extreme
-3288,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-09-30,31.6,High
-3289,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-09-30,32.2,High
-3290,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-09-30,24.8,Moderate
-3291,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-30,39.7,Extreme
-3357,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-30,43.5,Extreme
-3358,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-30,35.9,Extreme
-3359,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-30,39.7,Extreme
-3360,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-30,29.2,Moderate
-3361,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-30,45.7,Extreme
-3427,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-14,31.3,High
-3428,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-14,24.0,Mild
-3429,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-14,28.7,Moderate
-3430,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-14,23.1,Mild
-3431,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-14,34.4,High
-3497,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-14,36.0,Extreme
-3498,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-10-14,31.8,High
-3499,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-10-14,32.9,High
-3500,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-10-14,29.2,Moderate
-3501,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-14,41.7,Extreme
-3567,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-14,42.2,Extreme
-3568,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-14,36.1,Extreme
-3569,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-14,39.8,Extreme
-3570,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-14,34.3,High
-3571,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-14,48.3,Extreme
-3637,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-28,33.5,High
-3638,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-28,25.4,Moderate
-3639,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-28,34.0,High
-3640,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-28,21.8,Mild
-3641,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-28,33.4,High
-3707,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-28,41.8,Extreme
-3708,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-10-28,35.0,High
-3709,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-10-28,38.3,Extreme
-3710,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-10-28,27.7,Moderate
-3711,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-28,42.5,Extreme
-3777,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-28,48.0,Extreme
-3778,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-28,39.4,Extreme
-3779,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-28,45.0,Extreme
-3780,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-28,32.9,High
-3781,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-28,48.5,Extreme
-3847,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-11,32.5,High
-3848,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-11,27.0,Moderate
-3849,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-11,31.4,High
-3850,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-11,23.2,Mild
-3851,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-11,38.5,Extreme
-3917,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-11,42.2,Extreme
-3918,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-11-11,36.2,Extreme
-3919,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-11-11,37.2,Extreme
-3920,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-11-11,26.8,Moderate
-3921,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-11,47.1,Extreme
-3987,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-11,48.2,Extreme
-3988,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-11,41.2,Extreme
-3989,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-11,43.6,Extreme
-3990,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-11,32.8,High
-3991,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-11,52.6,Extreme
-4057,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-25,33.1,High
-4058,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-25,27.2,Moderate
-4059,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-25,32.2,High
-4060,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-25,25.7,Moderate
-4061,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-25,35.0,High
-4127,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-25,41.8,Extreme
-4128,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-11-25,34.6,High
-4129,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-11-25,36.9,Extreme
-4130,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-11-25,29.7,Moderate
-4131,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-25,44.9,Extreme
-4197,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-25,48.0,Extreme
-4198,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-25,39.6,Extreme
-4199,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-25,42.5,Extreme
-4200,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-25,35.0,High
-4201,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-25,49.8,Extreme
-4267,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-12-09,33.0,High
-4268,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-12-09,28.8,Moderate
-4269,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-12-09,35.2,Extreme
-4270,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-12-09,24.0,Mild
-4271,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-12-09,37.3,Extreme
-4337,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-12-09,39.8,Extreme
-4338,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-12-09,35.8,Extreme
-4339,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-12-09,41.1,Extreme
-4340,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-12-09,26.5,Moderate
-4341,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-12-09,44.4,Extreme
-4407,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-12-09,46.3,Extreme
-4408,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-12-09,40.9,Extreme
-4409,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-12-09,48.0,Extreme
-4410,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-12-09,33.1,High
-4411,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-12-09,48.9,Extreme
+Mental_indicator,Group_name,Subgroup,Time_Period,Percentage,Risk
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-04-23,29.4,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-04-23,21.4,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-04-23,25.6,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-04-23,23.6,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-04-23,28.3,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-04-23,36.3,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-04-23,29.0,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-04-23,32.8,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-04-23,26.3,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-04-23,38.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-04-23,42.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-04-23,33.6,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-04-23,38.9,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-04-23,31.9,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-04-23,43.9,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-07,27.9,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-07,22.5,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-07,27.7,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-07,19.5,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-07,33.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-07,36.2,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-07,27.8,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-07,33.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-07,26.3,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-07,38.9,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-07,40.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-07,32.0,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-07,38.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-07,29.9,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-07,45.9,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-14,28.9,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-14,22.7,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-14,28.5,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-14,20.9,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-14,27.1,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-14,33.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-14,26.3,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-14,32.7,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-14,23.4,Mild
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-14,31.3,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-14,40.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-14,31.3,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-14,39.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-14,30.2,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-14,37.2,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-21,31.4,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-21,23.3,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-21,24.8,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-21,19.5,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-21,32.2,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-21,36.3,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-21,27.6,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-21,30.2,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-21,22.2,Mild
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-21,38.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-21,41.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-21,32.3,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-21,35.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-21,27.6,Moderate
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-21,43.4,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-28,26.3,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-28,23.7,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-28,29.9,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-28,22.0,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-28,37.6,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-28,32.1,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-05-28,29.0,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-05-28,33.8,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-05-28,28.4,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-28,44.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-05-28,38.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-05-28,33.1,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-05-28,40.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-05-28,34.2,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-05-28,49.6,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-04,30.8,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-04,23.9,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-04,29.6,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-04,19.8,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-04,33.9,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-04,34.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-04,29.6,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-04,34.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-04,25.6,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-04,40.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-04,40.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-04,34.0,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-04,40.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-04,29.2,Moderate
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-04,48.1,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-11,28.4,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-11,23.5,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-11,28.3,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-11,21.0,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-11,32.3,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-11,33.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-11,30.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-11,35.8,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-11,26.0,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-11,37.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-11,39.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-11,34.3,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-11,40.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-11,29.9,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-11,44.3,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-18,29.0,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-18,24.2,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-18,28.1,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-18,20.1,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-18,34.1,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-18,36.5,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-18,29.8,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-18,32.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-18,23.0,Mild
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-18,39.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-18,42.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-18,34.1,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-18,39.1,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-18,27.8,Moderate
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-18,45.1,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-25,31.1,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-25,24.9,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-25,30.9,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-25,21.5,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-25,36.8,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-25,37.0,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-06-25,31.4,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-06-25,35.1,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-06-25,24.3,Mild
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-25,45.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-06-25,42.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-06-25,35.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-06-25,41.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-06-25,28.6,Moderate
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-06-25,49.6,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-02,30.9,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-02,26.0,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-02,29.9,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-02,25.0,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-02,35.6,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-02,37.1,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-07-02,32.9,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-07-02,34.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-07-02,29.9,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-02,43.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-02,43.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-02,37.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-02,40.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-02,36.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-02,47.7,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-09,31.0,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-09,26.6,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-09,30.0,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-09,26.4,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-09,36.1,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-09,39.3,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-07-09,34.1,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-07-09,36.9,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-07-09,30.2,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-09,46.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-09,44.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-09,38.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-09,42.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-09,36.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-09,51.2,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-16,34.2,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-16,27.7,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-16,32.1,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-16,30.5,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-16,33.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-16,41.9,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-07-16,34.2,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-07-16,35.8,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-07-16,35.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-16,43.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-07-16,46.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-07-16,38.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-07-16,42.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-07-16,40.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-07-16,48.8,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-08-19,28.5,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-08-19,23.2,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-08-19,26.2,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-08-19,20.8,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-08-19,30.3,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-08-19,33.3,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-08-19,31.2,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-08-19,30.8,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-08-19,25.1,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-08-19,37.1,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-08-19,40.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-08-19,35.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-08-19,37.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-08-19,30.5,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-08-19,43.1,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-02,28.9,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-02,22.7,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-02,28.5,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-02,19.1,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-02,31.4,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-02,35.9,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-09-02,30.4,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-09-02,33.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-09-02,21.5,Mild
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-02,42.1,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-02,42.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-02,34.4,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-02,38.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-02,27.4,Moderate
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-02,47.8,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-16,31.0,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-16,23.4,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-16,25.8,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-16,21.0,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-16,31.4,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-16,38.5,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-09-16,31.4,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-09-16,32.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-09-16,25.0,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-16,39.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-16,44.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-16,35.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-16,37.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-16,30.1,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-16,44.4,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-30,31.5,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-30,23.3,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-30,29.2,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-30,19.0,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-30,33.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-30,36.4,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-09-30,31.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-09-30,32.2,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-09-30,24.8,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-30,39.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-09-30,43.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-09-30,35.9,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-09-30,39.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-09-30,29.2,Moderate
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-09-30,45.7,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-14,31.3,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-14,24.0,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-14,28.7,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-14,23.1,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-14,34.4,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-14,36.0,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-10-14,31.8,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-10-14,32.9,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-10-14,29.2,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-14,41.7,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-14,42.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-14,36.1,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-14,39.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-14,34.3,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-14,48.3,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-28,33.5,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-28,25.4,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-28,34.0,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-28,21.8,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-28,33.4,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-28,41.8,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-10-28,35.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-10-28,38.3,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-10-28,27.7,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-28,42.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-10-28,48.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-10-28,39.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-10-28,45.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-10-28,32.9,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-10-28,48.5,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-11,32.5,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-11,27.0,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-11,31.4,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-11,23.2,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-11,38.5,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-11,42.2,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-11-11,36.2,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-11-11,37.2,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-11-11,26.8,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-11,47.1,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-11,48.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-11,41.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-11,43.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-11,32.8,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-11,52.6,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-25,33.1,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-25,27.2,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-25,32.2,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-25,25.7,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-25,35.0,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-25,41.8,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-11-25,34.6,High
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-11-25,36.9,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-11-25,29.7,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-25,44.9,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-11-25,48.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-11-25,39.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-11-25,42.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-11-25,35.0,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-11-25,49.8,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-12-09,33.0,High
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,White,2020-12-09,28.8,Moderate
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-12-09,35.2,Extreme
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-12-09,24.0,Mild
+Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-12-09,37.3,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-12-09,39.8,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,White,2020-12-09,35.8,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Black,2020-12-09,41.1,Extreme
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Asian,2020-12-09,26.5,Moderate
+Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-12-09,44.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic/Latino,2020-12-09,46.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,White,2020-12-09,40.9,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Black,2020-12-09,48.0,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Asian,2020-12-09,33.1,High
+Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Other/Multiple races,2020-12-09,48.9,Extreme

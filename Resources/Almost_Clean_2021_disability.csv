@@ -1,79 +1,79 @@
-,Indicator,Group,Subgroup,Time_Period,Value,Risk
-5822,Symptoms of Depressive Disorder,By Disability status,1,2021-04-14,52.9,Extreme
-5823,Symptoms of Depressive Disorder,By Disability status,0,2021-04-14,18.5,Mild
-5913,Symptoms of Anxiety Disorder,By Disability status,1,2021-04-14,56.3,Extreme
-5914,Symptoms of Anxiety Disorder,By Disability status,0,2021-04-14,23.0,Mild
-6004,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-04-14,64.3,Extreme
-6005,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-04-14,27.4,Moderate
-6076,Symptoms of Depressive Disorder,By Disability status,1,2021-04-28,50.4,Extreme
-6077,Symptoms of Depressive Disorder,By Disability status,0,2021-04-28,17.6,Mild
-6148,Symptoms of Anxiety Disorder,By Disability status,1,2021-04-28,53.8,Extreme
-6149,Symptoms of Anxiety Disorder,By Disability status,0,2021-04-28,22.3,Mild
-6220,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-04-28,61.2,Extreme
-6221,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-04-28,26.1,Moderate
-6292,Symptoms of Depressive Disorder,By Disability status,1,2021-05-12,53.2,Extreme
-6293,Symptoms of Depressive Disorder,By Disability status,0,2021-05-12,16.8,Mild
-6364,Symptoms of Anxiety Disorder,By Disability status,1,2021-05-12,55.6,Extreme
-6365,Symptoms of Anxiety Disorder,By Disability status,0,2021-05-12,21.2,Mild
-6436,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-05-12,63.5,Extreme
-6437,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-05-12,25.1,Moderate
-6508,Symptoms of Depressive Disorder,By Disability status,1,2021-05-26,48.7,Extreme
-6509,Symptoms of Depressive Disorder,By Disability status,0,2021-05-26,16.7,Mild
-6580,Symptoms of Anxiety Disorder,By Disability status,1,2021-05-26,54.6,Extreme
-6581,Symptoms of Anxiety Disorder,By Disability status,0,2021-05-26,20.9,Mild
-6652,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-05-26,60.6,Extreme
-6653,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-05-26,24.9,Moderate
-6724,Symptoms of Depressive Disorder,By Disability status,1,2021-06-09,49.9,Extreme
-6725,Symptoms of Depressive Disorder,By Disability status,0,2021-06-09,17.3,Mild
-6796,Symptoms of Anxiety Disorder,By Disability status,1,2021-06-09,54.1,Extreme
-6797,Symptoms of Anxiety Disorder,By Disability status,0,2021-06-09,21.9,Mild
-6868,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-06-09,61.5,Extreme
-6869,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-06-09,25.8,Moderate
-6940,Symptoms of Depressive Disorder,By Disability status,1,2021-06-23,46.2,Extreme
-6941,Symptoms of Depressive Disorder,By Disability status,0,2021-06-23,17.0,Mild
-7012,Symptoms of Anxiety Disorder,By Disability status,1,2021-06-23,49.9,Extreme
-7013,Symptoms of Anxiety Disorder,By Disability status,0,2021-06-23,20.6,Mild
-7084,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-06-23,56.5,Extreme
-7085,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-06-23,24.7,Mild
-7183,Symptoms of Depressive Disorder,By Disability status,1,2021-07-21,50.5,Extreme
-7184,Symptoms of Depressive Disorder,By Disability status,0,2021-07-21,17.5,Mild
-7282,Symptoms of Anxiety Disorder,By Disability status,1,2021-07-21,53.9,Extreme
-7283,Symptoms of Anxiety Disorder,By Disability status,0,2021-07-21,22.4,Mild
-7381,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-07-21,61.4,Extreme
-7382,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-07-21,26.2,Moderate
-7459,Symptoms of Depressive Disorder,By Disability status,1,2021-08-04,50.4,Extreme
-7460,Symptoms of Depressive Disorder,By Disability status,0,2021-08-04,17.1,Mild
-7537,Symptoms of Anxiety Disorder,By Disability status,1,2021-08-04,54.2,Extreme
-7538,Symptoms of Anxiety Disorder,By Disability status,0,2021-08-04,22.4,Mild
-7615,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-08-04,61.8,Extreme
-7616,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-08-04,26.2,Moderate
-7693,Symptoms of Depressive Disorder,By Disability status,1,2021-08-18,51.8,Extreme
-7694,Symptoms of Depressive Disorder,By Disability status,0,2021-08-18,18.0,Mild
-7771,Symptoms of Anxiety Disorder,By Disability status,1,2021-08-18,56.0,Extreme
-7772,Symptoms of Anxiety Disorder,By Disability status,0,2021-08-18,23.4,Mild
-7849,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-08-18,62.9,Extreme
-7850,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-08-18,27.3,Moderate
-7927,Symptoms of Depressive Disorder,By Disability status,1,2021-09-01,51.6,Extreme
-7928,Symptoms of Depressive Disorder,By Disability status,0,2021-09-01,17.7,Mild
-8005,Symptoms of Anxiety Disorder,By Disability status,1,2021-09-01,56.7,Extreme
-8006,Symptoms of Anxiety Disorder,By Disability status,0,2021-09-01,23.4,Mild
-8083,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-09-01,62.6,Extreme
-8084,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-09-01,27.2,Moderate
-8161,Symptoms of Depressive Disorder,By Disability status,1,2021-09-15,49.7,Extreme
-8162,Symptoms of Depressive Disorder,By Disability status,0,2021-09-15,17.7,Mild
-8239,Symptoms of Anxiety Disorder,By Disability status,1,2021-09-15,56.0,Extreme
-8240,Symptoms of Anxiety Disorder,By Disability status,0,2021-09-15,23.0,Mild
-8317,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-09-15,62.2,Extreme
-8318,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-09-15,27.0,Moderate
-8395,Symptoms of Depressive Disorder,By Disability status,1,2021-09-29,49.9,Extreme
-8396,Symptoms of Depressive Disorder,By Disability status,0,2021-09-29,17.0,Mild
-8473,Symptoms of Anxiety Disorder,By Disability status,1,2021-09-29,55.5,Extreme
-8474,Symptoms of Anxiety Disorder,By Disability status,0,2021-09-29,22.5,Mild
-8551,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-09-29,63.3,Extreme
-8552,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-09-29,26.1,Moderate
-8650,Symptoms of Depressive Disorder,By Disability status,1,2021-12-01,50.1,Extreme
-8651,Symptoms of Depressive Disorder,By Disability status,0,2021-12-01,16.8,Mild
-8749,Symptoms of Anxiety Disorder,By Disability status,1,2021-12-01,53.7,Extreme
-8750,Symptoms of Anxiety Disorder,By Disability status,0,2021-12-01,22.0,Mild
-8848,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-12-01,60.3,Extreme
-8849,Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-12-01,25.9,Moderate
+Mental_indicator,Group_name,Subgroup,Time_Period,Percentage,Risk
+Symptoms of Depressive Disorder,By Disability status,1,2021-04-14,52.9,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-04-14,18.5,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-04-14,56.3,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-04-14,23.0,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-04-14,64.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-04-14,27.4,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-04-28,50.4,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-04-28,17.6,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-04-28,53.8,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-04-28,22.3,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-04-28,61.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-04-28,26.1,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-05-12,53.2,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-05-12,16.8,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-05-12,55.6,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-05-12,21.2,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-05-12,63.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-05-12,25.1,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-05-26,48.7,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-05-26,16.7,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-05-26,54.6,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-05-26,20.9,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-05-26,60.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-05-26,24.9,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-06-09,49.9,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-06-09,17.3,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-06-09,54.1,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-06-09,21.9,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-06-09,61.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-06-09,25.8,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-06-23,46.2,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-06-23,17.0,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-06-23,49.9,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-06-23,20.6,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-06-23,56.5,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-06-23,24.7,Mild
+Symptoms of Depressive Disorder,By Disability status,1,2021-07-21,50.5,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-07-21,17.5,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-07-21,53.9,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-07-21,22.4,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-07-21,61.4,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-07-21,26.2,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-08-04,50.4,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-08-04,17.1,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-08-04,54.2,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-08-04,22.4,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-08-04,61.8,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-08-04,26.2,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-08-18,51.8,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-08-18,18.0,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-08-18,56.0,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-08-18,23.4,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-08-18,62.9,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-08-18,27.3,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-09-01,51.6,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-09-01,17.7,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-09-01,56.7,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-09-01,23.4,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-09-01,62.6,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-09-01,27.2,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-09-15,49.7,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-09-15,17.7,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-09-15,56.0,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-09-15,23.0,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-09-15,62.2,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-09-15,27.0,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-09-29,49.9,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-09-29,17.0,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-09-29,55.5,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-09-29,22.5,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-09-29,63.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-09-29,26.1,Moderate
+Symptoms of Depressive Disorder,By Disability status,1,2021-12-01,50.1,Extreme
+Symptoms of Depressive Disorder,By Disability status,0,2021-12-01,16.8,Mild
+Symptoms of Anxiety Disorder,By Disability status,1,2021-12-01,53.7,Extreme
+Symptoms of Anxiety Disorder,By Disability status,0,2021-12-01,22.0,Mild
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,1,2021-12-01,60.3,Extreme
+Symptoms of Anxiety Disorder or Depressive Disorder,By Disability status,0,2021-12-01,25.9,Moderate
