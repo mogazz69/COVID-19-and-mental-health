@@ -1,0 +1,64 @@
+,Indicator,Group,Subgroup,Time_Period,Value,Risk
+7171,Symptoms of Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-07-21,31.2,High
+7172,Symptoms of Depressive Disorder,By Sexual orientation,Straight,2021-07-21,19.7,Mild
+7173,Symptoms of Depressive Disorder,By Sexual orientation,Bisexual,2021-07-21,49.8,Extreme
+7270,Symptoms of Anxiety Disorder,By Sexual orientation,Gay or lesbian,2021-07-21,38.4,Extreme
+7271,Symptoms of Anxiety Disorder,By Sexual orientation,Straight,2021-07-21,24.3,Mild
+7272,Symptoms of Anxiety Disorder,By Sexual orientation,Bisexual,2021-07-21,57.8,Extreme
+7369,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-07-21,42.6,Extreme
+7370,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Straight,2021-07-21,28.4,Moderate
+7371,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Bisexual,2021-07-21,65.4,Extreme
+7447,Symptoms of Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-08-04,30.4,High
+7448,Symptoms of Depressive Disorder,By Sexual orientation,Straight,2021-08-04,19.1,Mild
+7449,Symptoms of Depressive Disorder,By Sexual orientation,Bisexual,2021-08-04,47.4,Extreme
+7525,Symptoms of Anxiety Disorder,By Sexual orientation,Gay or lesbian,2021-08-04,37.9,Extreme
+7526,Symptoms of Anxiety Disorder,By Sexual orientation,Straight,2021-08-04,24.2,Mild
+7527,Symptoms of Anxiety Disorder,By Sexual orientation,Bisexual,2021-08-04,55.2,Extreme
+7603,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-08-04,43.0,Extreme
+7604,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Straight,2021-08-04,28.3,Moderate
+7605,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Bisexual,2021-08-04,61.5,Extreme
+7681,Symptoms of Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-08-18,38.2,Extreme
+7682,Symptoms of Depressive Disorder,By Sexual orientation,Straight,2021-08-18,20.1,Mild
+7683,Symptoms of Depressive Disorder,By Sexual orientation,Bisexual,2021-08-18,47.1,Extreme
+7759,Symptoms of Anxiety Disorder,By Sexual orientation,Gay or lesbian,2021-08-18,43.0,Extreme
+7760,Symptoms of Anxiety Disorder,By Sexual orientation,Straight,2021-08-18,25.3,Moderate
+7761,Symptoms of Anxiety Disorder,By Sexual orientation,Bisexual,2021-08-18,51.3,Extreme
+7837,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-08-18,49.6,Extreme
+7838,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Straight,2021-08-18,29.3,Moderate
+7839,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Bisexual,2021-08-18,59.7,Extreme
+7915,Symptoms of Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-09-01,40.1,Extreme
+7916,Symptoms of Depressive Disorder,By Sexual orientation,Straight,2021-09-01,19.9,Mild
+7917,Symptoms of Depressive Disorder,By Sexual orientation,Bisexual,2021-09-01,49.0,Extreme
+7993,Symptoms of Anxiety Disorder,By Sexual orientation,Gay or lesbian,2021-09-01,46.2,Extreme
+7994,Symptoms of Anxiety Disorder,By Sexual orientation,Straight,2021-09-01,25.4,Moderate
+7995,Symptoms of Anxiety Disorder,By Sexual orientation,Bisexual,2021-09-01,58.3,Extreme
+8071,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-09-01,51.2,Extreme
+8072,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Straight,2021-09-01,29.4,Moderate
+8073,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Bisexual,2021-09-01,62.4,Extreme
+8149,Symptoms of Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-09-15,38.9,Extreme
+8150,Symptoms of Depressive Disorder,By Sexual orientation,Straight,2021-09-15,19.6,Mild
+8151,Symptoms of Depressive Disorder,By Sexual orientation,Bisexual,2021-09-15,48.8,Extreme
+8227,Symptoms of Anxiety Disorder,By Sexual orientation,Gay or lesbian,2021-09-15,45.0,Extreme
+8228,Symptoms of Anxiety Disorder,By Sexual orientation,Straight,2021-09-15,25.0,Moderate
+8229,Symptoms of Anxiety Disorder,By Sexual orientation,Bisexual,2021-09-15,59.0,Extreme
+8305,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-09-15,51.8,Extreme
+8306,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Straight,2021-09-15,29.0,Moderate
+8307,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Bisexual,2021-09-15,65.4,Extreme
+8383,Symptoms of Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-09-29,34.9,High
+8384,Symptoms of Depressive Disorder,By Sexual orientation,Straight,2021-09-29,19.4,Mild
+8385,Symptoms of Depressive Disorder,By Sexual orientation,Bisexual,2021-09-29,44.6,Extreme
+8461,Symptoms of Anxiety Disorder,By Sexual orientation,Gay or lesbian,2021-09-29,39.0,Extreme
+8462,Symptoms of Anxiety Disorder,By Sexual orientation,Straight,2021-09-29,24.8,Moderate
+8463,Symptoms of Anxiety Disorder,By Sexual orientation,Bisexual,2021-09-29,53.5,Extreme
+8539,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-09-29,44.2,Extreme
+8540,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Straight,2021-09-29,28.9,Moderate
+8541,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Bisexual,2021-09-29,58.5,Extreme
+8638,Symptoms of Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-12-01,35.0,High
+8639,Symptoms of Depressive Disorder,By Sexual orientation,Straight,2021-12-01,19.2,Mild
+8640,Symptoms of Depressive Disorder,By Sexual orientation,Bisexual,2021-12-01,45.6,Extreme
+8737,Symptoms of Anxiety Disorder,By Sexual orientation,Gay or lesbian,2021-12-01,36.7,Extreme
+8738,Symptoms of Anxiety Disorder,By Sexual orientation,Straight,2021-12-01,24.3,Mild
+8739,Symptoms of Anxiety Disorder,By Sexual orientation,Bisexual,2021-12-01,52.5,Extreme
+8836,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Gay or lesbian,2021-12-01,45.3,Extreme
+8837,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Straight,2021-12-01,28.1,Moderate
+8838,Symptoms of Anxiety Disorder or Depressive Disorder,By Sexual orientation,Bisexual,2021-12-01,59.2,Extreme

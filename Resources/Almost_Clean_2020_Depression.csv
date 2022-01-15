@@ -1,0 +1,1471 @@
+,Group,Subgroup,Time_Period,Risk
+0,National Estimate,United States,2020-04-23,Mild
+1,By Age,18 - 29 years,2020-04-23,High
+2,By Age,30 - 39 years,2020-04-23,Moderate
+3,By Age,40 - 49 years,2020-04-23,Moderate
+4,By Age,50 - 59 years,2020-04-23,Mild
+5,By Age,60 - 69 years,2020-04-23,Mild
+6,By Age,70 - 79 years,2020-04-23,Mild
+7,By Age,80 years and above,2020-04-23,Mild
+8,By Sex,Male,2020-04-23,Mild
+9,By Sex,Female,2020-04-23,Moderate
+10,By Race/Hispanic ethnicity,Hispanic or Latino,2020-04-23,Moderate
+11,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-04-23,Mild
+12,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-04-23,Moderate
+13,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-04-23,Mild
+14,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-04-23,Moderate
+15,By Education,Less than a high school diploma,2020-04-23,High
+16,By Education,High school diploma or GED,2020-04-23,Moderate
+17,By Education,Some college/Associate's degree,2020-04-23,Moderate
+18,By Education,Bachelor's degree or higher,2020-04-23,Mild
+19,By State,Alabama,2020-04-23,Mild
+20,By State,Alaska,2020-04-23,Mild
+21,By State,Arizona,2020-04-23,Mild
+22,By State,Arkansas,2020-04-23,Moderate
+23,By State,California,2020-04-23,Moderate
+24,By State,Colorado,2020-04-23,Mild
+25,By State,Connecticut,2020-04-23,Mild
+26,By State,Delaware,2020-04-23,Mild
+27,By State,District of Columbia,2020-04-23,Moderate
+28,By State,Florida,2020-04-23,Mild
+29,By State,Georgia,2020-04-23,Moderate
+30,By State,Hawaii,2020-04-23,Mild
+31,By State,Idaho,2020-04-23,Mild
+32,By State,Illinois,2020-04-23,Mild
+33,By State,Indiana,2020-04-23,Moderate
+34,By State,Iowa,2020-04-23,Mild
+35,By State,Kansas,2020-04-23,Mild
+36,By State,Kentucky,2020-04-23,Mild
+37,By State,Louisiana,2020-04-23,Moderate
+38,By State,Maine,2020-04-23,Mild
+39,By State,Maryland,2020-04-23,Mild
+40,By State,Massachusetts,2020-04-23,Moderate
+41,By State,Michigan,2020-04-23,Moderate
+42,By State,Minnesota,2020-04-23,Mild
+43,By State,Mississippi,2020-04-23,Mild
+44,By State,Missouri,2020-04-23,Mild
+45,By State,Montana,2020-04-23,Mild
+46,By State,Nebraska,2020-04-23,Mild
+47,By State,Nevada,2020-04-23,Mild
+48,By State,New Hampshire,2020-04-23,Mild
+49,By State,New Jersey,2020-04-23,Mild
+50,By State,New Mexico,2020-04-23,Mild
+51,By State,New York,2020-04-23,Moderate
+52,By State,North Carolina,2020-04-23,Mild
+53,By State,North Dakota,2020-04-23,Mild
+54,By State,Ohio,2020-04-23,Mild
+55,By State,Oklahoma,2020-04-23,Mild
+56,By State,Oregon,2020-04-23,Mild
+57,By State,Pennsylvania,2020-04-23,Mild
+58,By State,Rhode Island,2020-04-23,Mild
+59,By State,South Carolina,2020-04-23,Mild
+60,By State,South Dakota,2020-04-23,Mild
+61,By State,Tennessee,2020-04-23,Mild
+62,By State,Texas,2020-04-23,Mild
+63,By State,Utah,2020-04-23,Mild
+64,By State,Vermont,2020-04-23,Mild
+65,By State,Virginia,2020-04-23,Mild
+66,By State,Washington,2020-04-23,Mild
+67,By State,West Virginia,2020-04-23,Mild
+68,By State,Wisconsin,2020-04-23,Mild
+69,By State,Wyoming,2020-04-23,Mild
+210,National Estimate,United States,2020-05-07,Mild
+211,By Age,18 - 29 years,2020-05-07,Extreme
+212,By Age,30 - 39 years,2020-05-07,Moderate
+213,By Age,40 - 49 years,2020-05-07,Moderate
+214,By Age,50 - 59 years,2020-05-07,Mild
+215,By Age,60 - 69 years,2020-05-07,Mild
+216,By Age,70 - 79 years,2020-05-07,Mild
+217,By Age,80 years and above,2020-05-07,Mild
+218,By Sex,Male,2020-05-07,Mild
+219,By Sex,Female,2020-05-07,Moderate
+220,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-07,Moderate
+221,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-07,Mild
+222,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-07,Moderate
+223,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-07,Mild
+224,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-07,High
+225,By Education,Less than a high school diploma,2020-05-07,High
+226,By Education,High school diploma or GED,2020-05-07,Moderate
+227,By Education,Some college/Associate's degree,2020-05-07,Moderate
+228,By Education,Bachelor's degree or higher,2020-05-07,Mild
+229,By State,Alabama,2020-05-07,Mild
+230,By State,Alaska,2020-05-07,Moderate
+231,By State,Arizona,2020-05-07,Moderate
+232,By State,Arkansas,2020-05-07,Mild
+233,By State,California,2020-05-07,Mild
+234,By State,Colorado,2020-05-07,Mild
+235,By State,Connecticut,2020-05-07,Mild
+236,By State,Delaware,2020-05-07,Mild
+237,By State,District of Columbia,2020-05-07,High
+238,By State,Florida,2020-05-07,Moderate
+239,By State,Georgia,2020-05-07,Moderate
+240,By State,Hawaii,2020-05-07,Mild
+241,By State,Idaho,2020-05-07,Mild
+242,By State,Illinois,2020-05-07,Moderate
+243,By State,Indiana,2020-05-07,Mild
+244,By State,Iowa,2020-05-07,Mild
+245,By State,Kansas,2020-05-07,Mild
+246,By State,Kentucky,2020-05-07,Moderate
+247,By State,Louisiana,2020-05-07,High
+248,By State,Maine,2020-05-07,Mild
+249,By State,Maryland,2020-05-07,Mild
+250,By State,Massachusetts,2020-05-07,Mild
+251,By State,Michigan,2020-05-07,Mild
+252,By State,Minnesota,2020-05-07,Mild
+253,By State,Mississippi,2020-05-07,Extreme
+254,By State,Missouri,2020-05-07,Mild
+255,By State,Montana,2020-05-07,Mild
+256,By State,Nebraska,2020-05-07,Mild
+257,By State,Nevada,2020-05-07,High
+258,By State,New Hampshire,2020-05-07,Mild
+259,By State,New Jersey,2020-05-07,Moderate
+260,By State,New Mexico,2020-05-07,Moderate
+261,By State,New York,2020-05-07,Moderate
+262,By State,North Carolina,2020-05-07,Mild
+263,By State,North Dakota,2020-05-07,Mild
+264,By State,Ohio,2020-05-07,Moderate
+265,By State,Oklahoma,2020-05-07,Mild
+266,By State,Oregon,2020-05-07,Mild
+267,By State,Pennsylvania,2020-05-07,Mild
+268,By State,Rhode Island,2020-05-07,Mild
+269,By State,South Carolina,2020-05-07,Moderate
+270,By State,South Dakota,2020-05-07,Mild
+271,By State,Tennessee,2020-05-07,Mild
+272,By State,Texas,2020-05-07,Moderate
+273,By State,Utah,2020-05-07,Mild
+274,By State,Vermont,2020-05-07,Moderate
+275,By State,Virginia,2020-05-07,Mild
+276,By State,Washington,2020-05-07,Mild
+277,By State,West Virginia,2020-05-07,High
+278,By State,Wisconsin,2020-05-07,Mild
+279,By State,Wyoming,2020-05-07,Mild
+420,National Estimate,United States,2020-05-14,Mild
+421,By Age,18 - 29 years,2020-05-14,Extreme
+422,By Age,30 - 39 years,2020-05-14,Moderate
+423,By Age,40 - 49 years,2020-05-14,Moderate
+424,By Age,50 - 59 years,2020-05-14,Mild
+425,By Age,60 - 69 years,2020-05-14,Mild
+426,By Age,70 - 79 years,2020-05-14,Mild
+427,By Age,80 years and above,2020-05-14,Mild
+428,By Sex,Male,2020-05-14,Mild
+429,By Sex,Female,2020-05-14,Moderate
+430,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-14,Moderate
+431,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-14,Mild
+432,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-14,Moderate
+433,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-14,Mild
+434,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-14,Moderate
+435,By Education,Less than a high school diploma,2020-05-14,High
+436,By Education,High school diploma or GED,2020-05-14,Moderate
+437,By Education,Some college/Associate's degree,2020-05-14,Moderate
+438,By Education,Bachelor's degree or higher,2020-05-14,Mild
+439,By State,Alabama,2020-05-14,Mild
+440,By State,Alaska,2020-05-14,Mild
+441,By State,Arizona,2020-05-14,Mild
+442,By State,Arkansas,2020-05-14,Moderate
+443,By State,California,2020-05-14,Moderate
+444,By State,Colorado,2020-05-14,Mild
+445,By State,Connecticut,2020-05-14,Mild
+446,By State,Delaware,2020-05-14,Mild
+447,By State,District of Columbia,2020-05-14,Moderate
+448,By State,Florida,2020-05-14,Mild
+449,By State,Georgia,2020-05-14,Moderate
+450,By State,Hawaii,2020-05-14,Mild
+451,By State,Idaho,2020-05-14,Mild
+452,By State,Illinois,2020-05-14,Mild
+453,By State,Indiana,2020-05-14,Mild
+454,By State,Iowa,2020-05-14,Mild
+455,By State,Kansas,2020-05-14,Mild
+456,By State,Kentucky,2020-05-14,Mild
+457,By State,Louisiana,2020-05-14,Moderate
+458,By State,Maine,2020-05-14,Moderate
+459,By State,Maryland,2020-05-14,Mild
+460,By State,Massachusetts,2020-05-14,Mild
+461,By State,Michigan,2020-05-14,Moderate
+462,By State,Minnesota,2020-05-14,Mild
+463,By State,Mississippi,2020-05-14,Extreme
+464,By State,Missouri,2020-05-14,Mild
+465,By State,Montana,2020-05-14,Mild
+466,By State,Nebraska,2020-05-14,Mild
+467,By State,Nevada,2020-05-14,Moderate
+468,By State,New Hampshire,2020-05-14,Mild
+469,By State,New Jersey,2020-05-14,Moderate
+470,By State,New Mexico,2020-05-14,Moderate
+471,By State,New York,2020-05-14,Mild
+472,By State,North Carolina,2020-05-14,Mild
+473,By State,North Dakota,2020-05-14,Mild
+474,By State,Ohio,2020-05-14,Moderate
+475,By State,Oklahoma,2020-05-14,Moderate
+476,By State,Oregon,2020-05-14,Mild
+477,By State,Pennsylvania,2020-05-14,Mild
+478,By State,Rhode Island,2020-05-14,Mild
+479,By State,South Carolina,2020-05-14,Moderate
+480,By State,South Dakota,2020-05-14,Mild
+481,By State,Tennessee,2020-05-14,Moderate
+482,By State,Texas,2020-05-14,Moderate
+483,By State,Utah,2020-05-14,Mild
+484,By State,Vermont,2020-05-14,Mild
+485,By State,Virginia,2020-05-14,Moderate
+486,By State,Washington,2020-05-14,Mild
+487,By State,West Virginia,2020-05-14,Moderate
+488,By State,Wisconsin,2020-05-14,Mild
+489,By State,Wyoming,2020-05-14,Mild
+630,National Estimate,United States,2020-05-21,Moderate
+631,By Age,18 - 29 years,2020-05-21,Extreme
+632,By Age,30 - 39 years,2020-05-21,Moderate
+633,By Age,40 - 49 years,2020-05-21,Mild
+634,By Age,50 - 59 years,2020-05-21,Mild
+635,By Age,60 - 69 years,2020-05-21,Mild
+636,By Age,70 - 79 years,2020-05-21,Mild
+637,By Age,80 years and above,2020-05-21,Mild
+638,By Sex,Male,2020-05-21,Mild
+639,By Sex,Female,2020-05-21,Moderate
+640,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-21,High
+641,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-21,Mild
+642,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-21,Moderate
+643,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-21,Mild
+644,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-21,High
+645,By Education,Less than a high school diploma,2020-05-21,Extreme
+646,By Education,High school diploma or GED,2020-05-21,Moderate
+647,By Education,Some college/Associate's degree,2020-05-21,Moderate
+648,By Education,Bachelor's degree or higher,2020-05-21,Mild
+649,By State,Alabama,2020-05-21,Mild
+650,By State,Alaska,2020-05-21,Moderate
+651,By State,Arizona,2020-05-21,Moderate
+652,By State,Arkansas,2020-05-21,Mild
+653,By State,California,2020-05-21,Moderate
+654,By State,Colorado,2020-05-21,Moderate
+655,By State,Connecticut,2020-05-21,Mild
+656,By State,Delaware,2020-05-21,Mild
+657,By State,District of Columbia,2020-05-21,Mild
+658,By State,Florida,2020-05-21,Moderate
+659,By State,Georgia,2020-05-21,Moderate
+660,By State,Hawaii,2020-05-21,Mild
+661,By State,Idaho,2020-05-21,Mild
+662,By State,Illinois,2020-05-21,Mild
+663,By State,Indiana,2020-05-21,Moderate
+664,By State,Iowa,2020-05-21,Mild
+665,By State,Kansas,2020-05-21,Moderate
+666,By State,Kentucky,2020-05-21,Mild
+667,By State,Louisiana,2020-05-21,High
+668,By State,Maine,2020-05-21,Mild
+669,By State,Maryland,2020-05-21,Mild
+670,By State,Massachusetts,2020-05-21,Mild
+671,By State,Michigan,2020-05-21,Moderate
+672,By State,Minnesota,2020-05-21,Mild
+673,By State,Mississippi,2020-05-21,Moderate
+674,By State,Missouri,2020-05-21,Mild
+675,By State,Montana,2020-05-21,Mild
+676,By State,Nebraska,2020-05-21,Mild
+677,By State,Nevada,2020-05-21,Moderate
+678,By State,New Hampshire,2020-05-21,Mild
+679,By State,New Jersey,2020-05-21,Mild
+680,By State,New Mexico,2020-05-21,Moderate
+681,By State,New York,2020-05-21,Mild
+682,By State,North Carolina,2020-05-21,Mild
+683,By State,North Dakota,2020-05-21,Mild
+684,By State,Ohio,2020-05-21,Moderate
+685,By State,Oklahoma,2020-05-21,Moderate
+686,By State,Oregon,2020-05-21,Mild
+687,By State,Pennsylvania,2020-05-21,Moderate
+688,By State,Rhode Island,2020-05-21,Mild
+689,By State,South Carolina,2020-05-21,Mild
+690,By State,South Dakota,2020-05-21,Moderate
+691,By State,Tennessee,2020-05-21,Mild
+692,By State,Texas,2020-05-21,Moderate
+693,By State,Utah,2020-05-21,Moderate
+694,By State,Vermont,2020-05-21,Mild
+695,By State,Virginia,2020-05-21,Mild
+696,By State,Washington,2020-05-21,Mild
+697,By State,West Virginia,2020-05-21,Mild
+698,By State,Wisconsin,2020-05-21,Mild
+699,By State,Wyoming,2020-05-21,Mild
+840,National Estimate,United States,2020-05-28,Moderate
+841,By Age,18 - 29 years,2020-05-28,Extreme
+842,By Age,30 - 39 years,2020-05-28,Moderate
+843,By Age,40 - 49 years,2020-05-28,Moderate
+844,By Age,50 - 59 years,2020-05-28,Moderate
+845,By Age,60 - 69 years,2020-05-28,Mild
+846,By Age,70 - 79 years,2020-05-28,Mild
+847,By Age,80 years and above,2020-05-28,Mild
+848,By Sex,Male,2020-05-28,Mild
+849,By Sex,Female,2020-05-28,Moderate
+850,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-28,Moderate
+851,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-28,Mild
+852,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-28,High
+853,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-28,Mild
+854,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-28,Extreme
+855,By Education,Less than a high school diploma,2020-05-28,High
+856,By Education,High school diploma or GED,2020-05-28,Moderate
+857,By Education,Some college/Associate's degree,2020-05-28,Moderate
+858,By Education,Bachelor's degree or higher,2020-05-28,Mild
+859,By State,Alabama,2020-05-28,Moderate
+860,By State,Alaska,2020-05-28,Mild
+861,By State,Arizona,2020-05-28,Mild
+862,By State,Arkansas,2020-05-28,Moderate
+863,By State,California,2020-05-28,Moderate
+864,By State,Colorado,2020-05-28,Mild
+865,By State,Connecticut,2020-05-28,Moderate
+866,By State,Delaware,2020-05-28,Mild
+867,By State,District of Columbia,2020-05-28,Mild
+868,By State,Florida,2020-05-28,Moderate
+869,By State,Georgia,2020-05-28,Mild
+870,By State,Hawaii,2020-05-28,Mild
+871,By State,Idaho,2020-05-28,Mild
+872,By State,Illinois,2020-05-28,Moderate
+873,By State,Indiana,2020-05-28,Moderate
+874,By State,Iowa,2020-05-28,Mild
+875,By State,Kansas,2020-05-28,Mild
+876,By State,Kentucky,2020-05-28,Moderate
+877,By State,Louisiana,2020-05-28,Moderate
+878,By State,Maine,2020-05-28,Mild
+879,By State,Maryland,2020-05-28,Mild
+880,By State,Massachusetts,2020-05-28,Mild
+881,By State,Michigan,2020-05-28,Moderate
+882,By State,Minnesota,2020-05-28,Mild
+883,By State,Mississippi,2020-05-28,Moderate
+884,By State,Missouri,2020-05-28,Mild
+885,By State,Montana,2020-05-28,Mild
+886,By State,Nebraska,2020-05-28,Mild
+887,By State,Nevada,2020-05-28,Mild
+888,By State,New Hampshire,2020-05-28,Mild
+889,By State,New Jersey,2020-05-28,Moderate
+890,By State,New Mexico,2020-05-28,Mild
+891,By State,New York,2020-05-28,Mild
+892,By State,North Carolina,2020-05-28,Mild
+893,By State,North Dakota,2020-05-28,Mild
+894,By State,Ohio,2020-05-28,Moderate
+895,By State,Oklahoma,2020-05-28,High
+896,By State,Oregon,2020-05-28,Moderate
+897,By State,Pennsylvania,2020-05-28,Mild
+898,By State,Rhode Island,2020-05-28,Mild
+899,By State,South Carolina,2020-05-28,Moderate
+900,By State,South Dakota,2020-05-28,Mild
+901,By State,Tennessee,2020-05-28,Mild
+902,By State,Texas,2020-05-28,Moderate
+903,By State,Utah,2020-05-28,Mild
+904,By State,Vermont,2020-05-28,Mild
+905,By State,Virginia,2020-05-28,Mild
+906,By State,Washington,2020-05-28,Moderate
+907,By State,West Virginia,2020-05-28,Moderate
+908,By State,Wisconsin,2020-05-28,Mild
+909,By State,Wyoming,2020-05-28,Moderate
+1050,National Estimate,United States,2020-06-04,Moderate
+1051,By Age,18 - 29 years,2020-06-04,Extreme
+1052,By Age,30 - 39 years,2020-06-04,Moderate
+1053,By Age,40 - 49 years,2020-06-04,Moderate
+1054,By Age,50 - 59 years,2020-06-04,Moderate
+1055,By Age,60 - 69 years,2020-06-04,Mild
+1056,By Age,70 - 79 years,2020-06-04,Mild
+1057,By Age,80 years and above,2020-06-04,Mild
+1058,By Sex,Male,2020-06-04,Mild
+1059,By Sex,Female,2020-06-04,Moderate
+1060,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-04,High
+1061,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-04,Mild
+1062,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-04,Moderate
+1063,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-04,Mild
+1064,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-04,High
+1065,By Education,Less than a high school diploma,2020-06-04,Extreme
+1066,By Education,High school diploma or GED,2020-06-04,Moderate
+1067,By Education,Some college/Associate's degree,2020-06-04,Moderate
+1068,By Education,Bachelor's degree or higher,2020-06-04,Mild
+1069,By State,Alabama,2020-06-04,Moderate
+1070,By State,Alaska,2020-06-04,Mild
+1071,By State,Arizona,2020-06-04,Moderate
+1072,By State,Arkansas,2020-06-04,Moderate
+1073,By State,California,2020-06-04,Moderate
+1074,By State,Colorado,2020-06-04,Mild
+1075,By State,Connecticut,2020-06-04,Mild
+1076,By State,Delaware,2020-06-04,Moderate
+1077,By State,District of Columbia,2020-06-04,Moderate
+1078,By State,Florida,2020-06-04,High
+1079,By State,Georgia,2020-06-04,Moderate
+1080,By State,Hawaii,2020-06-04,Mild
+1081,By State,Idaho,2020-06-04,Mild
+1082,By State,Illinois,2020-06-04,Moderate
+1083,By State,Indiana,2020-06-04,Mild
+1084,By State,Iowa,2020-06-04,Moderate
+1085,By State,Kansas,2020-06-04,Moderate
+1086,By State,Kentucky,2020-06-04,Moderate
+1087,By State,Louisiana,2020-06-04,Moderate
+1088,By State,Maine,2020-06-04,Mild
+1089,By State,Maryland,2020-06-04,Mild
+1090,By State,Massachusetts,2020-06-04,Mild
+1091,By State,Michigan,2020-06-04,Mild
+1092,By State,Minnesota,2020-06-04,Mild
+1093,By State,Mississippi,2020-06-04,Moderate
+1094,By State,Missouri,2020-06-04,Mild
+1095,By State,Montana,2020-06-04,Mild
+1096,By State,Nebraska,2020-06-04,Mild
+1097,By State,Nevada,2020-06-04,Moderate
+1098,By State,New Hampshire,2020-06-04,Moderate
+1099,By State,New Jersey,2020-06-04,Mild
+1100,By State,New Mexico,2020-06-04,Mild
+1101,By State,New York,2020-06-04,Moderate
+1102,By State,North Carolina,2020-06-04,Mild
+1103,By State,North Dakota,2020-06-04,Mild
+1104,By State,Ohio,2020-06-04,Moderate
+1105,By State,Oklahoma,2020-06-04,Mild
+1106,By State,Oregon,2020-06-04,Moderate
+1107,By State,Pennsylvania,2020-06-04,Mild
+1108,By State,Rhode Island,2020-06-04,Mild
+1109,By State,South Carolina,2020-06-04,Moderate
+1110,By State,South Dakota,2020-06-04,Mild
+1111,By State,Tennessee,2020-06-04,Moderate
+1112,By State,Texas,2020-06-04,High
+1113,By State,Utah,2020-06-04,Moderate
+1114,By State,Vermont,2020-06-04,Moderate
+1115,By State,Virginia,2020-06-04,Moderate
+1116,By State,Washington,2020-06-04,Mild
+1117,By State,West Virginia,2020-06-04,Moderate
+1118,By State,Wisconsin,2020-06-04,Mild
+1119,By State,Wyoming,2020-06-04,Mild
+1260,National Estimate,United States,2020-06-11,Moderate
+1261,By Age,18 - 29 years,2020-06-11,Extreme
+1262,By Age,30 - 39 years,2020-06-11,Moderate
+1263,By Age,40 - 49 years,2020-06-11,Moderate
+1264,By Age,50 - 59 years,2020-06-11,Mild
+1265,By Age,60 - 69 years,2020-06-11,Mild
+1266,By Age,70 - 79 years,2020-06-11,Mild
+1267,By Age,80 years and above,2020-06-11,Mild
+1268,By Sex,Male,2020-06-11,Mild
+1269,By Sex,Female,2020-06-11,Moderate
+1270,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-11,Moderate
+1271,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-11,Mild
+1272,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-11,Moderate
+1273,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-11,Mild
+1274,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-11,High
+1275,By Education,Less than a high school diploma,2020-06-11,High
+1276,By Education,High school diploma or GED,2020-06-11,Moderate
+1277,By Education,Some college/Associate's degree,2020-06-11,Moderate
+1278,By Education,Bachelor's degree or higher,2020-06-11,Mild
+1279,By State,Alabama,2020-06-11,Moderate
+1280,By State,Alaska,2020-06-11,Mild
+1281,By State,Arizona,2020-06-11,Moderate
+1282,By State,Arkansas,2020-06-11,Moderate
+1283,By State,California,2020-06-11,Moderate
+1284,By State,Colorado,2020-06-11,Mild
+1285,By State,Connecticut,2020-06-11,Moderate
+1286,By State,Delaware,2020-06-11,Mild
+1287,By State,District of Columbia,2020-06-11,Mild
+1288,By State,Florida,2020-06-11,Moderate
+1289,By State,Georgia,2020-06-11,Moderate
+1290,By State,Hawaii,2020-06-11,Moderate
+1291,By State,Idaho,2020-06-11,Mild
+1292,By State,Illinois,2020-06-11,Moderate
+1293,By State,Indiana,2020-06-11,Moderate
+1294,By State,Iowa,2020-06-11,Mild
+1295,By State,Kansas,2020-06-11,Mild
+1296,By State,Kentucky,2020-06-11,Mild
+1297,By State,Louisiana,2020-06-11,High
+1298,By State,Maine,2020-06-11,Mild
+1299,By State,Maryland,2020-06-11,Moderate
+1300,By State,Massachusetts,2020-06-11,Mild
+1301,By State,Michigan,2020-06-11,Mild
+1302,By State,Minnesota,2020-06-11,Mild
+1303,By State,Mississippi,2020-06-11,Moderate
+1304,By State,Missouri,2020-06-11,Moderate
+1305,By State,Montana,2020-06-11,Mild
+1306,By State,Nebraska,2020-06-11,Mild
+1307,By State,Nevada,2020-06-11,High
+1308,By State,New Hampshire,2020-06-11,Mild
+1309,By State,New Jersey,2020-06-11,Moderate
+1310,By State,New Mexico,2020-06-11,Mild
+1311,By State,New York,2020-06-11,Mild
+1312,By State,North Carolina,2020-06-11,Mild
+1313,By State,North Dakota,2020-06-11,Mild
+1314,By State,Ohio,2020-06-11,Moderate
+1315,By State,Oklahoma,2020-06-11,Mild
+1316,By State,Oregon,2020-06-11,High
+1317,By State,Pennsylvania,2020-06-11,Moderate
+1318,By State,Rhode Island,2020-06-11,Mild
+1319,By State,South Carolina,2020-06-11,Moderate
+1320,By State,South Dakota,2020-06-11,Mild
+1321,By State,Tennessee,2020-06-11,Mild
+1322,By State,Texas,2020-06-11,Moderate
+1323,By State,Utah,2020-06-11,Mild
+1324,By State,Vermont,2020-06-11,Moderate
+1325,By State,Virginia,2020-06-11,Mild
+1326,By State,Washington,2020-06-11,Mild
+1327,By State,West Virginia,2020-06-11,Mild
+1328,By State,Wisconsin,2020-06-11,Mild
+1329,By State,Wyoming,2020-06-11,Mild
+1470,National Estimate,United States,2020-06-18,Moderate
+1471,By Age,18 - 29 years,2020-06-18,Extreme
+1472,By Age,30 - 39 years,2020-06-18,Moderate
+1473,By Age,40 - 49 years,2020-06-18,Moderate
+1474,By Age,50 - 59 years,2020-06-18,Moderate
+1475,By Age,60 - 69 years,2020-06-18,Mild
+1476,By Age,70 - 79 years,2020-06-18,Mild
+1477,By Age,80 years and above,2020-06-18,Mild
+1478,By Sex,Male,2020-06-18,Mild
+1479,By Sex,Female,2020-06-18,Moderate
+1480,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-18,Moderate
+1481,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-18,Mild
+1482,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-18,Moderate
+1483,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-18,Mild
+1484,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-18,High
+1485,By Education,Less than a high school diploma,2020-06-18,High
+1486,By Education,High school diploma or GED,2020-06-18,Moderate
+1487,By Education,Some college/Associate's degree,2020-06-18,Moderate
+1488,By Education,Bachelor's degree or higher,2020-06-18,Mild
+1489,By State,Alabama,2020-06-18,Moderate
+1490,By State,Alaska,2020-06-18,Moderate
+1491,By State,Arizona,2020-06-18,Moderate
+1492,By State,Arkansas,2020-06-18,Moderate
+1493,By State,California,2020-06-18,Moderate
+1494,By State,Colorado,2020-06-18,Mild
+1495,By State,Connecticut,2020-06-18,Moderate
+1496,By State,Delaware,2020-06-18,Mild
+1497,By State,District of Columbia,2020-06-18,High
+1498,By State,Florida,2020-06-18,Moderate
+1499,By State,Georgia,2020-06-18,Moderate
+1500,By State,Hawaii,2020-06-18,Mild
+1501,By State,Idaho,2020-06-18,Mild
+1502,By State,Illinois,2020-06-18,Mild
+1503,By State,Indiana,2020-06-18,Mild
+1504,By State,Iowa,2020-06-18,Moderate
+1505,By State,Kansas,2020-06-18,Mild
+1506,By State,Kentucky,2020-06-18,Moderate
+1507,By State,Louisiana,2020-06-18,Extreme
+1508,By State,Maine,2020-06-18,Mild
+1509,By State,Maryland,2020-06-18,Mild
+1510,By State,Massachusetts,2020-06-18,Mild
+1511,By State,Michigan,2020-06-18,Mild
+1512,By State,Minnesota,2020-06-18,Mild
+1513,By State,Mississippi,2020-06-18,Moderate
+1514,By State,Missouri,2020-06-18,Moderate
+1515,By State,Montana,2020-06-18,Mild
+1516,By State,Nebraska,2020-06-18,Mild
+1517,By State,Nevada,2020-06-18,High
+1518,By State,New Hampshire,2020-06-18,Mild
+1519,By State,New Jersey,2020-06-18,Mild
+1520,By State,New Mexico,2020-06-18,Moderate
+1521,By State,New York,2020-06-18,Mild
+1522,By State,North Carolina,2020-06-18,Mild
+1523,By State,North Dakota,2020-06-18,Moderate
+1524,By State,Ohio,2020-06-18,Mild
+1525,By State,Oklahoma,2020-06-18,High
+1526,By State,Oregon,2020-06-18,High
+1527,By State,Pennsylvania,2020-06-18,Moderate
+1528,By State,Rhode Island,2020-06-18,Mild
+1529,By State,South Carolina,2020-06-18,Mild
+1530,By State,South Dakota,2020-06-18,Mild
+1531,By State,Tennessee,2020-06-18,Moderate
+1532,By State,Texas,2020-06-18,Moderate
+1533,By State,Utah,2020-06-18,Moderate
+1534,By State,Vermont,2020-06-18,Mild
+1535,By State,Virginia,2020-06-18,Moderate
+1536,By State,Washington,2020-06-18,Moderate
+1537,By State,West Virginia,2020-06-18,High
+1538,By State,Wisconsin,2020-06-18,Mild
+1539,By State,Wyoming,2020-06-18,Mild
+1680,National Estimate,United States,2020-06-25,Moderate
+1681,By Age,18 - 29 years,2020-06-25,Extreme
+1682,By Age,30 - 39 years,2020-06-25,High
+1683,By Age,40 - 49 years,2020-06-25,Moderate
+1684,By Age,50 - 59 years,2020-06-25,Moderate
+1685,By Age,60 - 69 years,2020-06-25,Mild
+1686,By Age,70 - 79 years,2020-06-25,Mild
+1687,By Age,80 years and above,2020-06-25,Mild
+1688,By Sex,Male,2020-06-25,Moderate
+1689,By Sex,Female,2020-06-25,Moderate
+1690,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-25,High
+1691,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-25,Moderate
+1692,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-25,High
+1693,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-25,Mild
+1694,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-25,Extreme
+1695,By Education,Less than a high school diploma,2020-06-25,Extreme
+1696,By Education,High school diploma or GED,2020-06-25,Moderate
+1697,By Education,Some college/Associate's degree,2020-06-25,High
+1698,By Education,Bachelor's degree or higher,2020-06-25,Mild
+1699,By State,Alabama,2020-06-25,Moderate
+1700,By State,Alaska,2020-06-25,Mild
+1701,By State,Arizona,2020-06-25,High
+1702,By State,Arkansas,2020-06-25,Moderate
+1703,By State,California,2020-06-25,Moderate
+1704,By State,Colorado,2020-06-25,Moderate
+1705,By State,Connecticut,2020-06-25,Mild
+1706,By State,Delaware,2020-06-25,Moderate
+1707,By State,District of Columbia,2020-06-25,Moderate
+1708,By State,Florida,2020-06-25,High
+1709,By State,Georgia,2020-06-25,High
+1710,By State,Hawaii,2020-06-25,Moderate
+1711,By State,Idaho,2020-06-25,Moderate
+1712,By State,Illinois,2020-06-25,Moderate
+1713,By State,Indiana,2020-06-25,Moderate
+1714,By State,Iowa,2020-06-25,Mild
+1715,By State,Kansas,2020-06-25,Mild
+1716,By State,Kentucky,2020-06-25,Moderate
+1717,By State,Louisiana,2020-06-25,High
+1718,By State,Maine,2020-06-25,Mild
+1719,By State,Maryland,2020-06-25,Mild
+1720,By State,Massachusetts,2020-06-25,Mild
+1721,By State,Michigan,2020-06-25,Mild
+1722,By State,Minnesota,2020-06-25,Mild
+1723,By State,Mississippi,2020-06-25,High
+1724,By State,Missouri,2020-06-25,Moderate
+1725,By State,Montana,2020-06-25,Mild
+1726,By State,Nebraska,2020-06-25,Mild
+1727,By State,Nevada,2020-06-25,Moderate
+1728,By State,New Hampshire,2020-06-25,Mild
+1729,By State,New Jersey,2020-06-25,Mild
+1730,By State,New Mexico,2020-06-25,Moderate
+1731,By State,New York,2020-06-25,Mild
+1732,By State,North Carolina,2020-06-25,Mild
+1733,By State,North Dakota,2020-06-25,Moderate
+1734,By State,Ohio,2020-06-25,Mild
+1735,By State,Oklahoma,2020-06-25,High
+1736,By State,Oregon,2020-06-25,Moderate
+1737,By State,Pennsylvania,2020-06-25,Moderate
+1738,By State,Rhode Island,2020-06-25,Mild
+1739,By State,South Carolina,2020-06-25,Moderate
+1740,By State,South Dakota,2020-06-25,Moderate
+1741,By State,Tennessee,2020-06-25,High
+1742,By State,Texas,2020-06-25,Moderate
+1743,By State,Utah,2020-06-25,Moderate
+1744,By State,Vermont,2020-06-25,Mild
+1745,By State,Virginia,2020-06-25,Mild
+1746,By State,Washington,2020-06-25,High
+1747,By State,West Virginia,2020-06-25,High
+1748,By State,Wisconsin,2020-06-25,Mild
+1749,By State,Wyoming,2020-06-25,Mild
+1890,National Estimate,United States,2020-07-02,Moderate
+1891,By Age,18 - 29 years,2020-07-02,Extreme
+1892,By Age,30 - 39 years,2020-07-02,High
+1893,By Age,40 - 49 years,2020-07-02,Moderate
+1894,By Age,50 - 59 years,2020-07-02,Moderate
+1895,By Age,60 - 69 years,2020-07-02,Mild
+1896,By Age,70 - 79 years,2020-07-02,Mild
+1897,By Age,80 years and above,2020-07-02,Mild
+1898,By Sex,Male,2020-07-02,Moderate
+1899,By Sex,Female,2020-07-02,Moderate
+1900,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-02,High
+1901,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-02,Moderate
+1902,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-02,High
+1903,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-02,Moderate
+1904,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-02,Extreme
+1905,By Education,Less than a high school diploma,2020-07-02,Extreme
+1906,By Education,High school diploma or GED,2020-07-02,Moderate
+1907,By Education,Some college/Associate's degree,2020-07-02,High
+1908,By Education,Bachelor's degree or higher,2020-07-02,Mild
+1909,By State,Alabama,2020-07-02,Moderate
+1910,By State,Alaska,2020-07-02,Mild
+1911,By State,Arizona,2020-07-02,High
+1912,By State,Arkansas,2020-07-02,High
+1913,By State,California,2020-07-02,Moderate
+1914,By State,Colorado,2020-07-02,High
+1915,By State,Connecticut,2020-07-02,Moderate
+1916,By State,Delaware,2020-07-02,Mild
+1917,By State,District of Columbia,2020-07-02,Moderate
+1918,By State,Florida,2020-07-02,Moderate
+1919,By State,Georgia,2020-07-02,Moderate
+1920,By State,Hawaii,2020-07-02,Moderate
+1921,By State,Idaho,2020-07-02,Moderate
+1922,By State,Illinois,2020-07-02,Moderate
+1923,By State,Indiana,2020-07-02,Moderate
+1924,By State,Iowa,2020-07-02,Mild
+1925,By State,Kansas,2020-07-02,Mild
+1926,By State,Kentucky,2020-07-02,Moderate
+1927,By State,Louisiana,2020-07-02,High
+1928,By State,Maine,2020-07-02,Moderate
+1929,By State,Maryland,2020-07-02,Mild
+1930,By State,Massachusetts,2020-07-02,Mild
+1931,By State,Michigan,2020-07-02,Moderate
+1932,By State,Minnesota,2020-07-02,Mild
+1933,By State,Mississippi,2020-07-02,High
+1934,By State,Missouri,2020-07-02,Moderate
+1935,By State,Montana,2020-07-02,Mild
+1936,By State,Nebraska,2020-07-02,Mild
+1937,By State,Nevada,2020-07-02,High
+1938,By State,New Hampshire,2020-07-02,Mild
+1939,By State,New Jersey,2020-07-02,Moderate
+1940,By State,New Mexico,2020-07-02,High
+1941,By State,New York,2020-07-02,Moderate
+1942,By State,North Carolina,2020-07-02,Moderate
+1943,By State,North Dakota,2020-07-02,Mild
+1944,By State,Ohio,2020-07-02,Moderate
+1945,By State,Oklahoma,2020-07-02,Moderate
+1946,By State,Oregon,2020-07-02,High
+1947,By State,Pennsylvania,2020-07-02,Moderate
+1948,By State,Rhode Island,2020-07-02,Mild
+1949,By State,South Carolina,2020-07-02,Moderate
+1950,By State,South Dakota,2020-07-02,Moderate
+1951,By State,Tennessee,2020-07-02,High
+1952,By State,Texas,2020-07-02,High
+1953,By State,Utah,2020-07-02,Moderate
+1954,By State,Vermont,2020-07-02,Mild
+1955,By State,Virginia,2020-07-02,Moderate
+1956,By State,Washington,2020-07-02,Moderate
+1957,By State,West Virginia,2020-07-02,Mild
+1958,By State,Wisconsin,2020-07-02,Mild
+1959,By State,Wyoming,2020-07-02,Moderate
+2100,National Estimate,United States,2020-07-09,Moderate
+2101,By Age,18 - 29 years,2020-07-09,Extreme
+2102,By Age,30 - 39 years,2020-07-09,High
+2103,By Age,40 - 49 years,2020-07-09,Moderate
+2104,By Age,50 - 59 years,2020-07-09,Moderate
+2105,By Age,60 - 69 years,2020-07-09,Mild
+2106,By Age,70 - 79 years,2020-07-09,Mild
+2107,By Age,80 years and above,2020-07-09,Mild
+2108,By Sex,Male,2020-07-09,Moderate
+2109,By Sex,Female,2020-07-09,High
+2110,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-09,High
+2111,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-09,Moderate
+2112,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-09,High
+2113,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-09,Moderate
+2114,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-09,Extreme
+2115,By Education,Less than a high school diploma,2020-07-09,High
+2116,By Education,High school diploma or GED,2020-07-09,Moderate
+2117,By Education,Some college/Associate's degree,2020-07-09,High
+2118,By Education,Bachelor's degree or higher,2020-07-09,Mild
+2119,By State,Alabama,2020-07-09,High
+2120,By State,Alaska,2020-07-09,Moderate
+2121,By State,Arizona,2020-07-09,High
+2122,By State,Arkansas,2020-07-09,High
+2123,By State,California,2020-07-09,High
+2124,By State,Colorado,2020-07-09,Moderate
+2125,By State,Connecticut,2020-07-09,Moderate
+2126,By State,Delaware,2020-07-09,Mild
+2127,By State,District of Columbia,2020-07-09,Mild
+2128,By State,Florida,2020-07-09,High
+2129,By State,Georgia,2020-07-09,Moderate
+2130,By State,Hawaii,2020-07-09,Moderate
+2131,By State,Idaho,2020-07-09,Moderate
+2132,By State,Illinois,2020-07-09,Mild
+2133,By State,Indiana,2020-07-09,Moderate
+2134,By State,Iowa,2020-07-09,Mild
+2135,By State,Kansas,2020-07-09,Moderate
+2136,By State,Kentucky,2020-07-09,High
+2137,By State,Louisiana,2020-07-09,High
+2138,By State,Maine,2020-07-09,Mild
+2139,By State,Maryland,2020-07-09,Mild
+2140,By State,Massachusetts,2020-07-09,Mild
+2141,By State,Michigan,2020-07-09,Mild
+2142,By State,Minnesota,2020-07-09,Mild
+2143,By State,Mississippi,2020-07-09,Extreme
+2144,By State,Missouri,2020-07-09,Moderate
+2145,By State,Montana,2020-07-09,Moderate
+2146,By State,Nebraska,2020-07-09,Moderate
+2147,By State,Nevada,2020-07-09,High
+2148,By State,New Hampshire,2020-07-09,Moderate
+2149,By State,New Jersey,2020-07-09,Moderate
+2150,By State,New Mexico,2020-07-09,High
+2151,By State,New York,2020-07-09,Moderate
+2152,By State,North Carolina,2020-07-09,Moderate
+2153,By State,North Dakota,2020-07-09,Moderate
+2154,By State,Ohio,2020-07-09,Mild
+2155,By State,Oklahoma,2020-07-09,High
+2156,By State,Oregon,2020-07-09,High
+2157,By State,Pennsylvania,2020-07-09,Moderate
+2158,By State,Rhode Island,2020-07-09,High
+2159,By State,South Carolina,2020-07-09,Moderate
+2160,By State,South Dakota,2020-07-09,Mild
+2161,By State,Tennessee,2020-07-09,High
+2162,By State,Texas,2020-07-09,High
+2163,By State,Utah,2020-07-09,Mild
+2164,By State,Vermont,2020-07-09,Mild
+2165,By State,Virginia,2020-07-09,Mild
+2166,By State,Washington,2020-07-09,Moderate
+2167,By State,West Virginia,2020-07-09,Moderate
+2168,By State,Wisconsin,2020-07-09,Mild
+2169,By State,Wyoming,2020-07-09,Mild
+2310,National Estimate,United States,2020-07-16,Moderate
+2311,By Age,18 - 29 years,2020-07-16,Extreme
+2312,By Age,30 - 39 years,2020-07-16,High
+2313,By Age,40 - 49 years,2020-07-16,High
+2314,By Age,50 - 59 years,2020-07-16,Moderate
+2315,By Age,60 - 69 years,2020-07-16,Mild
+2316,By Age,70 - 79 years,2020-07-16,Mild
+2317,By Age,80 years and above,2020-07-16,Mild
+2318,By Sex,Male,2020-07-16,Moderate
+2319,By Sex,Female,2020-07-16,High
+2320,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-16,High
+2321,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-16,Moderate
+2322,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-16,High
+2323,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-16,High
+2324,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-16,High
+2325,By Education,Less than a high school diploma,2020-07-16,Extreme
+2326,By Education,High school diploma or GED,2020-07-16,High
+2327,By Education,Some college/Associate's degree,2020-07-16,High
+2328,By Education,Bachelor's degree or higher,2020-07-16,Mild
+2329,By State,Alabama,2020-07-16,High
+2330,By State,Alaska,2020-07-16,Moderate
+2331,By State,Arizona,2020-07-16,High
+2332,By State,Arkansas,2020-07-16,High
+2333,By State,California,2020-07-16,High
+2334,By State,Colorado,2020-07-16,Moderate
+2335,By State,Connecticut,2020-07-16,Moderate
+2336,By State,Delaware,2020-07-16,Moderate
+2337,By State,District of Columbia,2020-07-16,Mild
+2338,By State,Florida,2020-07-16,High
+2339,By State,Georgia,2020-07-16,Moderate
+2340,By State,Hawaii,2020-07-16,Moderate
+2341,By State,Idaho,2020-07-16,High
+2342,By State,Illinois,2020-07-16,Moderate
+2343,By State,Indiana,2020-07-16,High
+2344,By State,Iowa,2020-07-16,Moderate
+2345,By State,Kansas,2020-07-16,High
+2346,By State,Kentucky,2020-07-16,High
+2347,By State,Louisiana,2020-07-16,High
+2348,By State,Maine,2020-07-16,Moderate
+2349,By State,Maryland,2020-07-16,Moderate
+2350,By State,Massachusetts,2020-07-16,Mild
+2351,By State,Michigan,2020-07-16,Moderate
+2352,By State,Minnesota,2020-07-16,Mild
+2353,By State,Mississippi,2020-07-16,Extreme
+2354,By State,Missouri,2020-07-16,Moderate
+2355,By State,Montana,2020-07-16,Moderate
+2356,By State,Nebraska,2020-07-16,Moderate
+2357,By State,Nevada,2020-07-16,Extreme
+2358,By State,New Hampshire,2020-07-16,Moderate
+2359,By State,New Jersey,2020-07-16,Moderate
+2360,By State,New Mexico,2020-07-16,Extreme
+2361,By State,New York,2020-07-16,Moderate
+2362,By State,North Carolina,2020-07-16,High
+2363,By State,North Dakota,2020-07-16,Moderate
+2364,By State,Ohio,2020-07-16,Moderate
+2365,By State,Oklahoma,2020-07-16,High
+2366,By State,Oregon,2020-07-16,Extreme
+2367,By State,Pennsylvania,2020-07-16,Mild
+2368,By State,Rhode Island,2020-07-16,Moderate
+2369,By State,South Carolina,2020-07-16,High
+2370,By State,South Dakota,2020-07-16,Moderate
+2371,By State,Tennessee,2020-07-16,High
+2372,By State,Texas,2020-07-16,High
+2373,By State,Utah,2020-07-16,Moderate
+2374,By State,Vermont,2020-07-16,Mild
+2375,By State,Virginia,2020-07-16,Moderate
+2376,By State,Washington,2020-07-16,High
+2377,By State,West Virginia,2020-07-16,Moderate
+2378,By State,Wisconsin,2020-07-16,Mild
+2379,By State,Wyoming,2020-07-16,High
+2539,National Estimate,United States,2020-08-19,Mild
+2540,By Age,18 - 29 years,2020-08-19,Extreme
+2541,By Age,30 - 39 years,2020-08-19,Moderate
+2542,By Age,40 - 49 years,2020-08-19,Mild
+2543,By Age,50 - 59 years,2020-08-19,Mild
+2544,By Age,60 - 69 years,2020-08-19,Mild
+2545,By Age,70 - 79 years,2020-08-19,Mild
+2546,By Age,80 years and above,2020-08-19,Mild
+2547,By Sex,Male,2020-08-19,Mild
+2548,By Sex,Female,2020-08-19,Moderate
+2549,By Race/Hispanic ethnicity,Hispanic or Latino,2020-08-19,Moderate
+2550,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-08-19,Mild
+2551,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-08-19,Moderate
+2552,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-08-19,Mild
+2553,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-08-19,High
+2554,By Education,Less than a high school diploma,2020-08-19,Moderate
+2555,By Education,High school diploma or GED,2020-08-19,Moderate
+2556,By Education,Some college/Associate's degree,2020-08-19,Moderate
+2557,By Education,Bachelor's degree or higher,2020-08-19,Mild
+2558,By State,Alabama,2020-08-19,Moderate
+2559,By State,Alaska,2020-08-19,Mild
+2560,By State,Arizona,2020-08-19,Moderate
+2561,By State,Arkansas,2020-08-19,Mild
+2562,By State,California,2020-08-19,Moderate
+2563,By State,Colorado,2020-08-19,Mild
+2564,By State,Connecticut,2020-08-19,Mild
+2565,By State,Delaware,2020-08-19,Mild
+2566,By State,District of Columbia,2020-08-19,Mild
+2567,By State,Florida,2020-08-19,Moderate
+2568,By State,Georgia,2020-08-19,Moderate
+2569,By State,Hawaii,2020-08-19,Mild
+2570,By State,Idaho,2020-08-19,Mild
+2571,By State,Illinois,2020-08-19,Mild
+2572,By State,Indiana,2020-08-19,Moderate
+2573,By State,Iowa,2020-08-19,Mild
+2574,By State,Kansas,2020-08-19,Mild
+2575,By State,Kentucky,2020-08-19,Moderate
+2576,By State,Louisiana,2020-08-19,Moderate
+2577,By State,Maine,2020-08-19,Mild
+2578,By State,Maryland,2020-08-19,Mild
+2579,By State,Massachusetts,2020-08-19,Mild
+2580,By State,Michigan,2020-08-19,Mild
+2581,By State,Minnesota,2020-08-19,Mild
+2582,By State,Mississippi,2020-08-19,Mild
+2583,By State,Missouri,2020-08-19,Mild
+2584,By State,Montana,2020-08-19,Mild
+2585,By State,Nebraska,2020-08-19,Mild
+2586,By State,Nevada,2020-08-19,Moderate
+2587,By State,New Hampshire,2020-08-19,Mild
+2588,By State,New Jersey,2020-08-19,Mild
+2589,By State,New Mexico,2020-08-19,Moderate
+2590,By State,New York,2020-08-19,Mild
+2591,By State,North Carolina,2020-08-19,Mild
+2592,By State,North Dakota,2020-08-19,Mild
+2593,By State,Ohio,2020-08-19,Moderate
+2594,By State,Oklahoma,2020-08-19,Moderate
+2595,By State,Oregon,2020-08-19,Moderate
+2596,By State,Pennsylvania,2020-08-19,Mild
+2597,By State,Rhode Island,2020-08-19,Mild
+2598,By State,South Carolina,2020-08-19,Mild
+2599,By State,South Dakota,2020-08-19,Mild
+2600,By State,Tennessee,2020-08-19,Moderate
+2601,By State,Texas,2020-08-19,Moderate
+2602,By State,Utah,2020-08-19,Mild
+2603,By State,Vermont,2020-08-19,Mild
+2604,By State,Virginia,2020-08-19,Moderate
+2605,By State,Washington,2020-08-19,Mild
+2606,By State,West Virginia,2020-08-19,Moderate
+2607,By State,Wisconsin,2020-08-19,Mild
+2608,By State,Wyoming,2020-08-19,Mild
+2787,National Estimate,United States,2020-09-02,Mild
+2788,By Age,18 - 29 years,2020-09-02,High
+2789,By Age,30 - 39 years,2020-09-02,Moderate
+2790,By Age,40 - 49 years,2020-09-02,Moderate
+2791,By Age,50 - 59 years,2020-09-02,Mild
+2792,By Age,60 - 69 years,2020-09-02,Mild
+2793,By Age,70 - 79 years,2020-09-02,Mild
+2794,By Age,80 years and above,2020-09-02,Mild
+2795,By Sex,Male,2020-09-02,Mild
+2796,By Sex,Female,2020-09-02,Moderate
+2797,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-02,Moderate
+2798,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-02,Mild
+2799,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-02,Moderate
+2800,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-02,Mild
+2801,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-02,High
+2802,By Education,Less than a high school diploma,2020-09-02,High
+2803,By Education,High school diploma or GED,2020-09-02,Moderate
+2804,By Education,Some college/Associate's degree,2020-09-02,Moderate
+2805,By Education,Bachelor's degree or higher,2020-09-02,Mild
+2806,By State,Alabama,2020-09-02,Moderate
+2807,By State,Alaska,2020-09-02,Mild
+2808,By State,Arizona,2020-09-02,Moderate
+2809,By State,Arkansas,2020-09-02,High
+2810,By State,California,2020-09-02,Moderate
+2811,By State,Colorado,2020-09-02,Mild
+2812,By State,Connecticut,2020-09-02,Mild
+2813,By State,Delaware,2020-09-02,Mild
+2814,By State,District of Columbia,2020-09-02,Mild
+2815,By State,Florida,2020-09-02,Moderate
+2816,By State,Georgia,2020-09-02,Mild
+2817,By State,Hawaii,2020-09-02,Moderate
+2818,By State,Idaho,2020-09-02,Mild
+2819,By State,Illinois,2020-09-02,Mild
+2820,By State,Indiana,2020-09-02,Mild
+2821,By State,Iowa,2020-09-02,Mild
+2822,By State,Kansas,2020-09-02,Mild
+2823,By State,Kentucky,2020-09-02,High
+2824,By State,Louisiana,2020-09-02,High
+2825,By State,Maine,2020-09-02,Mild
+2826,By State,Maryland,2020-09-02,Mild
+2827,By State,Massachusetts,2020-09-02,Mild
+2828,By State,Michigan,2020-09-02,Mild
+2829,By State,Minnesota,2020-09-02,Mild
+2830,By State,Mississippi,2020-09-02,Moderate
+2831,By State,Missouri,2020-09-02,Mild
+2832,By State,Montana,2020-09-02,Mild
+2833,By State,Nebraska,2020-09-02,Mild
+2834,By State,Nevada,2020-09-02,Moderate
+2835,By State,New Hampshire,2020-09-02,Mild
+2836,By State,New Jersey,2020-09-02,Mild
+2837,By State,New Mexico,2020-09-02,Moderate
+2838,By State,New York,2020-09-02,Moderate
+2839,By State,North Carolina,2020-09-02,Mild
+2840,By State,North Dakota,2020-09-02,Mild
+2841,By State,Ohio,2020-09-02,Moderate
+2842,By State,Oklahoma,2020-09-02,Moderate
+2843,By State,Oregon,2020-09-02,Moderate
+2844,By State,Pennsylvania,2020-09-02,Mild
+2845,By State,Rhode Island,2020-09-02,Moderate
+2846,By State,South Carolina,2020-09-02,Mild
+2847,By State,South Dakota,2020-09-02,Mild
+2848,By State,Tennessee,2020-09-02,Mild
+2849,By State,Texas,2020-09-02,Moderate
+2850,By State,Utah,2020-09-02,Mild
+2851,By State,Vermont,2020-09-02,Mild
+2852,By State,Virginia,2020-09-02,Mild
+2853,By State,Washington,2020-09-02,Mild
+2854,By State,West Virginia,2020-09-02,Moderate
+2855,By State,Wisconsin,2020-09-02,Mild
+2856,By State,Wyoming,2020-09-02,Mild
+2997,National Estimate,United States,2020-09-16,Moderate
+2998,By Age,18 - 29 years,2020-09-16,Extreme
+2999,By Age,30 - 39 years,2020-09-16,Moderate
+3000,By Age,40 - 49 years,2020-09-16,Moderate
+3001,By Age,50 - 59 years,2020-09-16,Mild
+3002,By Age,60 - 69 years,2020-09-16,Mild
+3003,By Age,70 - 79 years,2020-09-16,Mild
+3004,By Age,80 years and above,2020-09-16,Mild
+3005,By Sex,Male,2020-09-16,Mild
+3006,By Sex,Female,2020-09-16,Moderate
+3007,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-16,High
+3008,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-16,Mild
+3009,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-16,Moderate
+3010,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-16,Mild
+3011,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-16,High
+3012,By Education,Less than a high school diploma,2020-09-16,High
+3013,By Education,High school diploma or GED,2020-09-16,Moderate
+3014,By Education,Some college/Associate's degree,2020-09-16,Moderate
+3015,By Education,Bachelor's degree or higher,2020-09-16,Mild
+3016,By State,Alabama,2020-09-16,Moderate
+3017,By State,Alaska,2020-09-16,Moderate
+3018,By State,Arizona,2020-09-16,Moderate
+3019,By State,Arkansas,2020-09-16,Mild
+3020,By State,California,2020-09-16,Moderate
+3021,By State,Colorado,2020-09-16,Moderate
+3022,By State,Connecticut,2020-09-16,Mild
+3023,By State,Delaware,2020-09-16,Mild
+3024,By State,District of Columbia,2020-09-16,Moderate
+3025,By State,Florida,2020-09-16,Moderate
+3026,By State,Georgia,2020-09-16,Moderate
+3027,By State,Hawaii,2020-09-16,Mild
+3028,By State,Idaho,2020-09-16,Mild
+3029,By State,Illinois,2020-09-16,Mild
+3030,By State,Indiana,2020-09-16,Mild
+3031,By State,Iowa,2020-09-16,Moderate
+3032,By State,Kansas,2020-09-16,Mild
+3033,By State,Kentucky,2020-09-16,High
+3034,By State,Louisiana,2020-09-16,Moderate
+3035,By State,Maine,2020-09-16,Mild
+3036,By State,Maryland,2020-09-16,Mild
+3037,By State,Massachusetts,2020-09-16,Mild
+3038,By State,Michigan,2020-09-16,Mild
+3039,By State,Minnesota,2020-09-16,Mild
+3040,By State,Mississippi,2020-09-16,Moderate
+3041,By State,Missouri,2020-09-16,Mild
+3042,By State,Montana,2020-09-16,Mild
+3043,By State,Nebraska,2020-09-16,Mild
+3044,By State,Nevada,2020-09-16,High
+3045,By State,New Hampshire,2020-09-16,Mild
+3046,By State,New Jersey,2020-09-16,Mild
+3047,By State,New Mexico,2020-09-16,Moderate
+3048,By State,New York,2020-09-16,Mild
+3049,By State,North Carolina,2020-09-16,Mild
+3050,By State,North Dakota,2020-09-16,Mild
+3051,By State,Ohio,2020-09-16,Mild
+3052,By State,Oklahoma,2020-09-16,Mild
+3053,By State,Oregon,2020-09-16,High
+3054,By State,Pennsylvania,2020-09-16,Mild
+3055,By State,Rhode Island,2020-09-16,Mild
+3056,By State,South Carolina,2020-09-16,Mild
+3057,By State,South Dakota,2020-09-16,Mild
+3058,By State,Tennessee,2020-09-16,Moderate
+3059,By State,Texas,2020-09-16,Moderate
+3060,By State,Utah,2020-09-16,Moderate
+3061,By State,Vermont,2020-09-16,Mild
+3062,By State,Virginia,2020-09-16,Mild
+3063,By State,Washington,2020-09-16,Moderate
+3064,By State,West Virginia,2020-09-16,Moderate
+3065,By State,Wisconsin,2020-09-16,Mild
+3066,By State,Wyoming,2020-09-16,Mild
+3207,National Estimate,United States,2020-09-30,Moderate
+3208,By Age,18 - 29 years,2020-09-30,Extreme
+3209,By Age,30 - 39 years,2020-09-30,Moderate
+3210,By Age,40 - 49 years,2020-09-30,Moderate
+3211,By Age,50 - 59 years,2020-09-30,Mild
+3212,By Age,60 - 69 years,2020-09-30,Mild
+3213,By Age,70 - 79 years,2020-09-30,Mild
+3214,By Age,80 years and above,2020-09-30,Mild
+3215,By Sex,Male,2020-09-30,Mild
+3216,By Sex,Female,2020-09-30,Moderate
+3217,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-30,High
+3218,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-30,Mild
+3219,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-30,Moderate
+3220,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-30,Mild
+3221,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-30,High
+3222,By Education,Less than a high school diploma,2020-09-30,High
+3223,By Education,High school diploma or GED,2020-09-30,Moderate
+3224,By Education,Some college/Associate's degree,2020-09-30,Moderate
+3225,By Education,Bachelor's degree or higher,2020-09-30,Mild
+3226,By State,Alabama,2020-09-30,Moderate
+3227,By State,Alaska,2020-09-30,Moderate
+3228,By State,Arizona,2020-09-30,Moderate
+3229,By State,Arkansas,2020-09-30,High
+3230,By State,California,2020-09-30,Moderate
+3231,By State,Colorado,2020-09-30,Mild
+3232,By State,Connecticut,2020-09-30,Mild
+3233,By State,Delaware,2020-09-30,Mild
+3234,By State,District of Columbia,2020-09-30,Mild
+3235,By State,Florida,2020-09-30,Moderate
+3236,By State,Georgia,2020-09-30,Mild
+3237,By State,Hawaii,2020-09-30,High
+3238,By State,Idaho,2020-09-30,Mild
+3239,By State,Illinois,2020-09-30,Mild
+3240,By State,Indiana,2020-09-30,Mild
+3241,By State,Iowa,2020-09-30,Mild
+3242,By State,Kansas,2020-09-30,Mild
+3243,By State,Kentucky,2020-09-30,High
+3244,By State,Louisiana,2020-09-30,Moderate
+3245,By State,Maine,2020-09-30,Mild
+3246,By State,Maryland,2020-09-30,Mild
+3247,By State,Massachusetts,2020-09-30,Mild
+3248,By State,Michigan,2020-09-30,Moderate
+3249,By State,Minnesota,2020-09-30,Mild
+3250,By State,Mississippi,2020-09-30,Moderate
+3251,By State,Missouri,2020-09-30,Moderate
+3252,By State,Montana,2020-09-30,Mild
+3253,By State,Nebraska,2020-09-30,Mild
+3254,By State,Nevada,2020-09-30,Moderate
+3255,By State,New Hampshire,2020-09-30,Mild
+3256,By State,New Jersey,2020-09-30,Mild
+3257,By State,New Mexico,2020-09-30,Moderate
+3258,By State,New York,2020-09-30,Mild
+3259,By State,North Carolina,2020-09-30,Moderate
+3260,By State,North Dakota,2020-09-30,Mild
+3261,By State,Ohio,2020-09-30,Moderate
+3262,By State,Oklahoma,2020-09-30,Moderate
+3263,By State,Oregon,2020-09-30,Moderate
+3264,By State,Pennsylvania,2020-09-30,Moderate
+3265,By State,Rhode Island,2020-09-30,Mild
+3266,By State,South Carolina,2020-09-30,Mild
+3267,By State,South Dakota,2020-09-30,Mild
+3268,By State,Tennessee,2020-09-30,Mild
+3269,By State,Texas,2020-09-30,Moderate
+3270,By State,Utah,2020-09-30,Mild
+3271,By State,Vermont,2020-09-30,High
+3272,By State,Virginia,2020-09-30,Mild
+3273,By State,Washington,2020-09-30,Moderate
+3274,By State,West Virginia,2020-09-30,Moderate
+3275,By State,Wisconsin,2020-09-30,Mild
+3276,By State,Wyoming,2020-09-30,Mild
+3417,National Estimate,United States,2020-10-14,Moderate
+3418,By Age,18 - 29 years,2020-10-14,Extreme
+3419,By Age,30 - 39 years,2020-10-14,High
+3420,By Age,40 - 49 years,2020-10-14,Moderate
+3421,By Age,50 - 59 years,2020-10-14,Mild
+3422,By Age,60 - 69 years,2020-10-14,Mild
+3423,By Age,70 - 79 years,2020-10-14,Mild
+3424,By Age,80 years and above,2020-10-14,Mild
+3425,By Sex,Male,2020-10-14,Mild
+3426,By Sex,Female,2020-10-14,Moderate
+3427,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-14,High
+3428,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-14,Mild
+3429,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-14,Moderate
+3430,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-14,Mild
+3431,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-14,High
+3432,By Education,Less than a high school diploma,2020-10-14,High
+3433,By Education,High school diploma or GED,2020-10-14,Moderate
+3434,By Education,Some college/Associate's degree,2020-10-14,Moderate
+3435,By Education,Bachelor's degree or higher,2020-10-14,Mild
+3436,By State,Alabama,2020-10-14,Moderate
+3437,By State,Alaska,2020-10-14,Moderate
+3438,By State,Arizona,2020-10-14,High
+3439,By State,Arkansas,2020-10-14,Moderate
+3440,By State,California,2020-10-14,Moderate
+3441,By State,Colorado,2020-10-14,Moderate
+3442,By State,Connecticut,2020-10-14,Mild
+3443,By State,Delaware,2020-10-14,Mild
+3444,By State,District of Columbia,2020-10-14,Moderate
+3445,By State,Florida,2020-10-14,Moderate
+3446,By State,Georgia,2020-10-14,Moderate
+3447,By State,Hawaii,2020-10-14,Moderate
+3448,By State,Idaho,2020-10-14,Moderate
+3449,By State,Illinois,2020-10-14,Mild
+3450,By State,Indiana,2020-10-14,Moderate
+3451,By State,Iowa,2020-10-14,Mild
+3452,By State,Kansas,2020-10-14,Moderate
+3453,By State,Kentucky,2020-10-14,Moderate
+3454,By State,Louisiana,2020-10-14,High
+3455,By State,Maine,2020-10-14,Mild
+3456,By State,Maryland,2020-10-14,Mild
+3457,By State,Massachusetts,2020-10-14,Moderate
+3458,By State,Michigan,2020-10-14,Moderate
+3459,By State,Minnesota,2020-10-14,Mild
+3460,By State,Mississippi,2020-10-14,High
+3461,By State,Missouri,2020-10-14,Moderate
+3462,By State,Montana,2020-10-14,Mild
+3463,By State,Nebraska,2020-10-14,Mild
+3464,By State,Nevada,2020-10-14,High
+3465,By State,New Hampshire,2020-10-14,Mild
+3466,By State,New Jersey,2020-10-14,Mild
+3467,By State,New Mexico,2020-10-14,High
+3468,By State,New York,2020-10-14,Moderate
+3469,By State,North Carolina,2020-10-14,Mild
+3470,By State,North Dakota,2020-10-14,Mild
+3471,By State,Ohio,2020-10-14,Moderate
+3472,By State,Oklahoma,2020-10-14,Moderate
+3473,By State,Oregon,2020-10-14,Moderate
+3474,By State,Pennsylvania,2020-10-14,Mild
+3475,By State,Rhode Island,2020-10-14,Mild
+3476,By State,South Carolina,2020-10-14,Moderate
+3477,By State,South Dakota,2020-10-14,Mild
+3478,By State,Tennessee,2020-10-14,Mild
+3479,By State,Texas,2020-10-14,Moderate
+3480,By State,Utah,2020-10-14,Mild
+3481,By State,Vermont,2020-10-14,Mild
+3482,By State,Virginia,2020-10-14,Mild
+3483,By State,Washington,2020-10-14,Moderate
+3484,By State,West Virginia,2020-10-14,Moderate
+3485,By State,Wisconsin,2020-10-14,Mild
+3486,By State,Wyoming,2020-10-14,Mild
+3627,National Estimate,United States,2020-10-28,Moderate
+3628,By Age,18 - 29 years,2020-10-28,Extreme
+3629,By Age,30 - 39 years,2020-10-28,High
+3630,By Age,40 - 49 years,2020-10-28,Moderate
+3631,By Age,50 - 59 years,2020-10-28,Moderate
+3632,By Age,60 - 69 years,2020-10-28,Mild
+3633,By Age,70 - 79 years,2020-10-28,Mild
+3634,By Age,80 years and above,2020-10-28,Mild
+3635,By Sex,Male,2020-10-28,Moderate
+3636,By Sex,Female,2020-10-28,Moderate
+3637,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-28,High
+3638,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-28,Moderate
+3639,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-28,High
+3640,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-28,Mild
+3641,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-28,High
+3642,By Education,Less than a high school diploma,2020-10-28,High
+3643,By Education,High school diploma or GED,2020-10-28,High
+3644,By Education,Some college/Associate's degree,2020-10-28,High
+3645,By Education,Bachelor's degree or higher,2020-10-28,Mild
+3646,By State,Alabama,2020-10-28,High
+3647,By State,Alaska,2020-10-28,Moderate
+3648,By State,Arizona,2020-10-28,Moderate
+3649,By State,Arkansas,2020-10-28,Moderate
+3650,By State,California,2020-10-28,Moderate
+3651,By State,Colorado,2020-10-28,Moderate
+3652,By State,Connecticut,2020-10-28,Moderate
+3653,By State,Delaware,2020-10-28,Moderate
+3654,By State,District of Columbia,2020-10-28,High
+3655,By State,Florida,2020-10-28,High
+3656,By State,Georgia,2020-10-28,High
+3657,By State,Hawaii,2020-10-28,High
+3658,By State,Idaho,2020-10-28,Moderate
+3659,By State,Illinois,2020-10-28,Moderate
+3660,By State,Indiana,2020-10-28,Moderate
+3661,By State,Iowa,2020-10-28,Moderate
+3662,By State,Kansas,2020-10-28,High
+3663,By State,Kentucky,2020-10-28,Moderate
+3664,By State,Louisiana,2020-10-28,High
+3665,By State,Maine,2020-10-28,Moderate
+3666,By State,Maryland,2020-10-28,Mild
+3667,By State,Massachusetts,2020-10-28,Moderate
+3668,By State,Michigan,2020-10-28,Mild
+3669,By State,Minnesota,2020-10-28,Mild
+3670,By State,Mississippi,2020-10-28,Moderate
+3671,By State,Missouri,2020-10-28,Moderate
+3672,By State,Montana,2020-10-28,Mild
+3673,By State,Nebraska,2020-10-28,Mild
+3674,By State,Nevada,2020-10-28,High
+3675,By State,New Hampshire,2020-10-28,Mild
+3676,By State,New Jersey,2020-10-28,Mild
+3677,By State,New Mexico,2020-10-28,High
+3678,By State,New York,2020-10-28,Mild
+3679,By State,North Carolina,2020-10-28,Moderate
+3680,By State,North Dakota,2020-10-28,Mild
+3681,By State,Ohio,2020-10-28,Moderate
+3682,By State,Oklahoma,2020-10-28,Moderate
+3683,By State,Oregon,2020-10-28,Moderate
+3684,By State,Pennsylvania,2020-10-28,Moderate
+3685,By State,Rhode Island,2020-10-28,Moderate
+3686,By State,South Carolina,2020-10-28,Moderate
+3687,By State,South Dakota,2020-10-28,Mild
+3688,By State,Tennessee,2020-10-28,Moderate
+3689,By State,Texas,2020-10-28,High
+3690,By State,Utah,2020-10-28,Mild
+3691,By State,Vermont,2020-10-28,High
+3692,By State,Virginia,2020-10-28,Mild
+3693,By State,Washington,2020-10-28,Mild
+3694,By State,West Virginia,2020-10-28,Moderate
+3695,By State,Wisconsin,2020-10-28,Moderate
+3696,By State,Wyoming,2020-10-28,Mild
+3837,National Estimate,United States,2020-11-11,Moderate
+3838,By Age,18 - 29 years,2020-11-11,Extreme
+3839,By Age,30 - 39 years,2020-11-11,High
+3840,By Age,40 - 49 years,2020-11-11,High
+3841,By Age,50 - 59 years,2020-11-11,Moderate
+3842,By Age,60 - 69 years,2020-11-11,Mild
+3843,By Age,70 - 79 years,2020-11-11,Mild
+3844,By Age,80 years and above,2020-11-11,Mild
+3845,By Sex,Male,2020-11-11,Moderate
+3846,By Sex,Female,2020-11-11,High
+3847,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-11,High
+3848,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-11,Moderate
+3849,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-11,High
+3850,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-11,Mild
+3851,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-11,Extreme
+3852,By Education,Less than a high school diploma,2020-11-11,Extreme
+3853,By Education,High school diploma or GED,2020-11-11,High
+3854,By Education,Some college/Associate's degree,2020-11-11,High
+3855,By Education,Bachelor's degree or higher,2020-11-11,Mild
+3856,By State,Alabama,2020-11-11,High
+3857,By State,Alaska,2020-11-11,High
+3858,By State,Arizona,2020-11-11,Moderate
+3859,By State,Arkansas,2020-11-11,High
+3860,By State,California,2020-11-11,High
+3861,By State,Colorado,2020-11-11,Moderate
+3862,By State,Connecticut,2020-11-11,Moderate
+3863,By State,Delaware,2020-11-11,Mild
+3864,By State,District of Columbia,2020-11-11,Moderate
+3865,By State,Florida,2020-11-11,High
+3866,By State,Georgia,2020-11-11,Moderate
+3867,By State,Hawaii,2020-11-11,Mild
+3868,By State,Idaho,2020-11-11,Moderate
+3869,By State,Illinois,2020-11-11,High
+3870,By State,Indiana,2020-11-11,Moderate
+3871,By State,Iowa,2020-11-11,Moderate
+3872,By State,Kansas,2020-11-11,Moderate
+3873,By State,Kentucky,2020-11-11,Moderate
+3874,By State,Louisiana,2020-11-11,Extreme
+3875,By State,Maine,2020-11-11,Moderate
+3876,By State,Maryland,2020-11-11,Moderate
+3877,By State,Massachusetts,2020-11-11,Moderate
+3878,By State,Michigan,2020-11-11,Moderate
+3879,By State,Minnesota,2020-11-11,Mild
+3880,By State,Mississippi,2020-11-11,High
+3881,By State,Missouri,2020-11-11,Moderate
+3882,By State,Montana,2020-11-11,High
+3883,By State,Nebraska,2020-11-11,Moderate
+3884,By State,Nevada,2020-11-11,High
+3885,By State,New Hampshire,2020-11-11,Mild
+3886,By State,New Jersey,2020-11-11,Moderate
+3887,By State,New Mexico,2020-11-11,High
+3888,By State,New York,2020-11-11,Moderate
+3889,By State,North Carolina,2020-11-11,Moderate
+3890,By State,North Dakota,2020-11-11,Moderate
+3891,By State,Ohio,2020-11-11,Moderate
+3892,By State,Oklahoma,2020-11-11,High
+3893,By State,Oregon,2020-11-11,Moderate
+3894,By State,Pennsylvania,2020-11-11,Moderate
+3895,By State,Rhode Island,2020-11-11,High
+3896,By State,South Carolina,2020-11-11,High
+3897,By State,South Dakota,2020-11-11,Moderate
+3898,By State,Tennessee,2020-11-11,Moderate
+3899,By State,Texas,2020-11-11,High
+3900,By State,Utah,2020-11-11,Moderate
+3901,By State,Vermont,2020-11-11,Mild
+3902,By State,Virginia,2020-11-11,Mild
+3903,By State,Washington,2020-11-11,Moderate
+3904,By State,West Virginia,2020-11-11,Moderate
+3905,By State,Wisconsin,2020-11-11,Moderate
+3906,By State,Wyoming,2020-11-11,Moderate
+4047,National Estimate,United States,2020-11-25,Moderate
+4048,By Age,18 - 29 years,2020-11-25,Extreme
+4049,By Age,30 - 39 years,2020-11-25,High
+4050,By Age,40 - 49 years,2020-11-25,High
+4051,By Age,50 - 59 years,2020-11-25,Moderate
+4052,By Age,60 - 69 years,2020-11-25,Mild
+4053,By Age,70 - 79 years,2020-11-25,Mild
+4054,By Age,80 years and above,2020-11-25,Mild
+4055,By Sex,Male,2020-11-25,Moderate
+4056,By Sex,Female,2020-11-25,High
+4057,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-25,High
+4058,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-25,Moderate
+4059,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-25,High
+4060,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-25,Moderate
+4061,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-25,High
+4062,By Education,Less than a high school diploma,2020-11-25,Extreme
+4063,By Education,High school diploma or GED,2020-11-25,High
+4064,By Education,Some college/Associate's degree,2020-11-25,High
+4065,By Education,Bachelor's degree or higher,2020-11-25,Mild
+4066,By State,Alabama,2020-11-25,High
+4067,By State,Alaska,2020-11-25,Moderate
+4068,By State,Arizona,2020-11-25,Moderate
+4069,By State,Arkansas,2020-11-25,Moderate
+4070,By State,California,2020-11-25,High
+4071,By State,Colorado,2020-11-25,Moderate
+4072,By State,Connecticut,2020-11-25,Moderate
+4073,By State,Delaware,2020-11-25,High
+4074,By State,District of Columbia,2020-11-25,Moderate
+4075,By State,Florida,2020-11-25,Moderate
+4076,By State,Georgia,2020-11-25,Moderate
+4077,By State,Hawaii,2020-11-25,High
+4078,By State,Idaho,2020-11-25,High
+4079,By State,Illinois,2020-11-25,High
+4080,By State,Indiana,2020-11-25,High
+4081,By State,Iowa,2020-11-25,Mild
+4082,By State,Kansas,2020-11-25,Moderate
+4083,By State,Kentucky,2020-11-25,High
+4084,By State,Louisiana,2020-11-25,Extreme
+4085,By State,Maine,2020-11-25,Moderate
+4086,By State,Maryland,2020-11-25,Moderate
+4087,By State,Massachusetts,2020-11-25,Mild
+4088,By State,Michigan,2020-11-25,Moderate
+4089,By State,Minnesota,2020-11-25,Moderate
+4090,By State,Mississippi,2020-11-25,Extreme
+4091,By State,Missouri,2020-11-25,Moderate
+4092,By State,Montana,2020-11-25,Moderate
+4093,By State,Nebraska,2020-11-25,Moderate
+4094,By State,Nevada,2020-11-25,Extreme
+4095,By State,New Hampshire,2020-11-25,Moderate
+4096,By State,New Jersey,2020-11-25,Moderate
+4097,By State,New Mexico,2020-11-25,High
+4098,By State,New York,2020-11-25,Mild
+4099,By State,North Carolina,2020-11-25,Moderate
+4100,By State,North Dakota,2020-11-25,Mild
+4101,By State,Ohio,2020-11-25,High
+4102,By State,Oklahoma,2020-11-25,High
+4103,By State,Oregon,2020-11-25,Extreme
+4104,By State,Pennsylvania,2020-11-25,Moderate
+4105,By State,Rhode Island,2020-11-25,Moderate
+4106,By State,South Carolina,2020-11-25,Mild
+4107,By State,South Dakota,2020-11-25,Mild
+4108,By State,Tennessee,2020-11-25,Moderate
+4109,By State,Texas,2020-11-25,High
+4110,By State,Utah,2020-11-25,High
+4111,By State,Vermont,2020-11-25,Moderate
+4112,By State,Virginia,2020-11-25,Moderate
+4113,By State,Washington,2020-11-25,Moderate
+4114,By State,West Virginia,2020-11-25,High
+4115,By State,Wisconsin,2020-11-25,Moderate
+4116,By State,Wyoming,2020-11-25,High
+4257,National Estimate,United States,2020-12-09,High
+4258,By Age,18 - 29 years,2020-12-09,Extreme
+4259,By Age,30 - 39 years,2020-12-09,High
+4260,By Age,40 - 49 years,2020-12-09,High
+4261,By Age,50 - 59 years,2020-12-09,Moderate
+4262,By Age,60 - 69 years,2020-12-09,Mild
+4263,By Age,70 - 79 years,2020-12-09,Mild
+4264,By Age,80 years and above,2020-12-09,Mild
+4265,By Sex,Male,2020-12-09,Moderate
+4266,By Sex,Female,2020-12-09,High
+4267,By Race/Hispanic ethnicity,Hispanic or Latino,2020-12-09,High
+4268,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-12-09,Moderate
+4269,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-12-09,Extreme
+4270,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-12-09,Mild
+4271,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-12-09,Extreme
+4272,By Education,Less than a high school diploma,2020-12-09,Extreme
+4273,By Education,High school diploma or GED,2020-12-09,High
+4274,By Education,Some college/Associate's degree,2020-12-09,High
+4275,By Education,Bachelor's degree or higher,2020-12-09,Mild
+4276,By State,Alabama,2020-12-09,High
+4277,By State,Alaska,2020-12-09,High
+4278,By State,Arizona,2020-12-09,High
+4279,By State,Arkansas,2020-12-09,Moderate
+4280,By State,California,2020-12-09,High
+4281,By State,Colorado,2020-12-09,High
+4282,By State,Connecticut,2020-12-09,Moderate
+4283,By State,Delaware,2020-12-09,High
+4284,By State,District of Columbia,2020-12-09,Mild
+4285,By State,Florida,2020-12-09,Moderate
+4286,By State,Georgia,2020-12-09,High
+4287,By State,Hawaii,2020-12-09,Moderate
+4288,By State,Idaho,2020-12-09,High
+4289,By State,Illinois,2020-12-09,Moderate
+4290,By State,Indiana,2020-12-09,Moderate
+4291,By State,Iowa,2020-12-09,High
+4292,By State,Kansas,2020-12-09,High
+4293,By State,Kentucky,2020-12-09,High
+4294,By State,Louisiana,2020-12-09,Extreme
+4295,By State,Maine,2020-12-09,Mild
+4296,By State,Maryland,2020-12-09,Moderate
+4297,By State,Massachusetts,2020-12-09,Moderate
+4298,By State,Michigan,2020-12-09,High
+4299,By State,Minnesota,2020-12-09,Moderate
+4300,By State,Mississippi,2020-12-09,Extreme
+4301,By State,Missouri,2020-12-09,Moderate
+4302,By State,Montana,2020-12-09,Moderate
+4303,By State,Nebraska,2020-12-09,Moderate
+4304,By State,Nevada,2020-12-09,Extreme
+4305,By State,New Hampshire,2020-12-09,Mild
+4306,By State,New Jersey,2020-12-09,Moderate
+4307,By State,New Mexico,2020-12-09,Extreme
+4308,By State,New York,2020-12-09,High
+4309,By State,North Carolina,2020-12-09,Mild
+4310,By State,North Dakota,2020-12-09,Mild
+4311,By State,Ohio,2020-12-09,Extreme
+4312,By State,Oklahoma,2020-12-09,Extreme
+4313,By State,Oregon,2020-12-09,High
+4314,By State,Pennsylvania,2020-12-09,Moderate
+4315,By State,Rhode Island,2020-12-09,Mild
+4316,By State,South Carolina,2020-12-09,Moderate
+4317,By State,South Dakota,2020-12-09,Mild
+4318,By State,Tennessee,2020-12-09,High
+4319,By State,Texas,2020-12-09,High
+4320,By State,Utah,2020-12-09,Moderate
+4321,By State,Vermont,2020-12-09,Moderate
+4322,By State,Virginia,2020-12-09,Moderate
+4323,By State,Washington,2020-12-09,High
+4324,By State,West Virginia,2020-12-09,Extreme
+4325,By State,Wisconsin,2020-12-09,High
+4326,By State,Wyoming,2020-12-09,Mild

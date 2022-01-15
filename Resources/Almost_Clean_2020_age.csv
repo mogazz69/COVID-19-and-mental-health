@@ -1,0 +1,442 @@
+,Indicator,Group,Subgroup,Time_Period,Value,Risk
+1,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-04-23,32.7,High
+2,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-04-23,25.7,Moderate
+3,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-04-23,24.8,Moderate
+4,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-04-23,23.2,Mild
+5,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-04-23,18.4,Mild
+6,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-04-23,13.6,Mild
+7,Symptoms of Depressive Disorder,By Age,80 years and above,2020-04-23,14.4,Mild
+71,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-04-23,40.2,Extreme
+72,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-04-23,34.4,High
+73,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-04-23,34.1,High
+74,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-04-23,31.0,High
+75,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-04-23,24.9,Moderate
+76,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-04-23,16.4,Mild
+77,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-04-23,14.6,Mild
+141,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-04-23,46.8,Extreme
+142,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-04-23,39.6,Extreme
+143,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-04-23,38.9,Extreme
+144,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-04-23,35.8,Extreme
+145,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-04-23,28.9,Moderate
+146,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-04-23,21.5,Mild
+147,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-04-23,21.1,Mild
+211,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-07,36.2,Extreme
+212,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-07,27.7,Moderate
+213,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-07,25.5,Moderate
+214,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-07,24.1,Mild
+215,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-07,17.6,Mild
+216,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-07,12.2,Mild
+217,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-07,9.1,Mild
+281,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-07,42.0,Extreme
+282,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-07,34.3,High
+283,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-07,31.9,High
+284,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-07,31.3,High
+285,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-07,22.0,Mild
+286,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-07,16.4,Mild
+287,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-07,11.0,Mild
+351,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-07,47.4,Extreme
+352,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-07,39.3,Extreme
+353,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-07,36.9,Extreme
+354,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-07,35.5,Extreme
+355,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-07,25.5,Moderate
+356,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-07,19.8,Mild
+357,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-07,13.9,Mild
+421,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-14,36.7,Extreme
+422,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-14,26.7,Moderate
+423,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-14,25.0,Moderate
+424,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-14,24.6,Mild
+425,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-14,18.0,Mild
+426,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-14,12.3,Mild
+427,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-14,14.4,Mild
+491,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-14,38.6,Extreme
+492,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-14,32.2,High
+493,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-14,30.7,High
+494,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-14,28.4,Moderate
+495,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-14,22.3,Mild
+496,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-14,13.4,Mild
+497,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-14,11.8,Mild
+561,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-14,47.7,Extreme
+562,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-14,37.8,Extreme
+563,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-14,35.3,Extreme
+564,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-14,33.7,High
+565,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-14,26.4,Moderate
+566,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-14,18.3,Mild
+567,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-14,17.1,Mild
+631,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-21,36.7,Extreme
+632,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-21,27.4,Moderate
+633,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-21,24.2,Mild
+634,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-21,24.6,Mild
+635,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-21,19.8,Mild
+636,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-21,13.3,Mild
+637,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-21,17.1,Mild
+701,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-21,39.1,Extreme
+702,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-21,35.2,Extreme
+703,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-21,31.4,High
+704,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-21,29.3,Moderate
+705,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-21,22.2,Mild
+706,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-21,15.0,Mild
+707,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-21,17.1,Mild
+771,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-21,46.6,Extreme
+772,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-21,39.5,Extreme
+773,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-21,35.7,Extreme
+774,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-21,33.7,High
+775,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-21,27.4,Moderate
+776,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-21,18.8,Mild
+777,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-21,20.1,Mild
+841,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-28,36.8,Extreme
+842,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-28,27.9,Moderate
+843,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-28,25.7,Moderate
+844,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-28,25.1,Moderate
+845,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-28,18.0,Mild
+846,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-28,15.5,Mild
+847,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-28,14.9,Mild
+911,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-28,42.2,Extreme
+912,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-28,35.8,Extreme
+913,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-28,32.1,High
+914,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-28,29.3,Moderate
+915,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-28,23.0,Mild
+916,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-28,18.2,Mild
+917,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-28,13.3,Mild
+981,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-28,49.3,Extreme
+982,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-28,40.6,Extreme
+983,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-28,36.9,Extreme
+984,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-28,33.6,High
+985,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-28,27.0,Moderate
+986,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-28,21.7,Mild
+987,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-28,19.2,Mild
+1051,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-04,37.0,Extreme
+1052,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-04,29.1,Moderate
+1053,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-04,27.0,Moderate
+1054,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-04,26.0,Moderate
+1055,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-04,19.8,Mild
+1056,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-04,13.1,Mild
+1057,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-04,12.3,Mild
+1121,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-04,41.7,Extreme
+1122,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-04,36.8,Extreme
+1123,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-04,34.9,High
+1124,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-04,31.8,High
+1125,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-04,22.3,Mild
+1126,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-04,15.4,Mild
+1127,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-04,13.7,Mild
+1191,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-04,49.3,Extreme
+1192,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-04,41.5,Extreme
+1193,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-04,39.0,Extreme
+1194,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-04,36.0,Extreme
+1195,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-04,27.4,Moderate
+1196,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-04,19.0,Mild
+1197,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-04,18.6,Mild
+1261,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-11,36.8,Extreme
+1262,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-11,26.7,Moderate
+1263,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-11,25.9,Moderate
+1264,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-11,24.6,Mild
+1265,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-11,19.6,Mild
+1266,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-11,15.5,Mild
+1267,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-11,9.9,Mild
+1331,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-11,42.9,Extreme
+1332,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-11,35.8,Extreme
+1333,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-11,34.8,High
+1334,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-11,31.7,High
+1335,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-11,23.6,Mild
+1336,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-11,18.0,Mild
+1337,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-11,14.6,Mild
+1401,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-11,48.7,Extreme
+1402,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-11,40.3,Extreme
+1403,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-11,38.4,Extreme
+1404,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-11,35.8,Extreme
+1405,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-11,27.7,Moderate
+1406,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-11,21.7,Mild
+1407,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-11,17.6,Mild
+1471,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-18,36.7,Extreme
+1472,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-18,28.3,Moderate
+1473,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-18,26.2,Moderate
+1474,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-18,26.0,Moderate
+1475,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-18,19.3,Mild
+1476,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-18,14.5,Mild
+1477,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-18,10.8,Mild
+1541,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-18,42.8,Extreme
+1542,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-18,36.0,Extreme
+1543,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-18,34.0,High
+1544,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-18,32.4,High
+1545,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-18,23.1,Mild
+1546,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-18,14.8,Mild
+1547,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-18,11.4,Mild
+1611,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-18,50.0,Extreme
+1612,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-18,40.8,Extreme
+1613,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-18,38.5,Extreme
+1614,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-18,36.3,Extreme
+1615,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-18,27.4,Moderate
+1616,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-18,19.3,Mild
+1617,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-18,14.6,Mild
+1681,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-25,36.6,Extreme
+1682,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-25,30.7,High
+1683,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-25,27.7,Moderate
+1684,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-25,27.1,Moderate
+1685,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-25,20.5,Mild
+1686,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-25,16.1,Mild
+1687,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-25,15.2,Mild
+1751,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-25,42.4,Extreme
+1752,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-25,38.9,Extreme
+1753,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-25,35.4,Extreme
+1754,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-25,33.9,High
+1755,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-25,25.0,Moderate
+1756,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-25,18.6,Mild
+1757,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-25,16.2,Mild
+1821,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-25,49.4,Extreme
+1822,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-25,44.1,Extreme
+1823,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-25,39.7,Extreme
+1824,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-25,37.4,Extreme
+1825,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-25,29.1,Moderate
+1826,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-25,23.4,Mild
+1827,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-25,20.5,Mild
+1891,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-07-02,35.8,Extreme
+1892,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-07-02,31.7,High
+1893,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-07-02,27.6,Moderate
+1894,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-07-02,28.2,Moderate
+1895,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-07-02,21.8,Mild
+1896,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-07-02,17.8,Mild
+1897,Symptoms of Depressive Disorder,By Age,80 years and above,2020-07-02,18.7,Mild
+1961,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-07-02,44.4,Extreme
+1962,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-07-02,40.6,Extreme
+1963,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-07-02,36.1,Extreme
+1964,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-07-02,33.4,High
+1965,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-07-02,26.5,Moderate
+1966,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-07-02,18.4,Mild
+1967,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-07-02,19.3,Mild
+2031,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-07-02,50.4,Extreme
+2032,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-07-02,45.9,Extreme
+2033,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-07-02,40.0,Extreme
+2034,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-07-02,38.3,Extreme
+2035,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-07-02,30.8,High
+2036,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-07-02,24.5,Mild
+2037,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-07-02,25.6,Moderate
+2101,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-07-09,39.0,Extreme
+2102,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-07-09,32.3,High
+2103,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-07-09,28.5,Moderate
+2104,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-07-09,29.2,Moderate
+2105,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-07-09,21.7,Mild
+2106,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-07-09,13.9,Mild
+2107,Symptoms of Depressive Disorder,By Age,80 years and above,2020-07-09,12.0,Mild
+2171,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-07-09,47.7,Extreme
+2172,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-07-09,42.9,Extreme
+2173,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-07-09,37.7,Extreme
+2174,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-07-09,34.7,High
+2175,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-07-09,27.8,Moderate
+2176,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-07-09,17.8,Mild
+2177,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-07-09,15.6,Mild
+2241,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-07-09,55.0,Extreme
+2242,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-07-09,46.8,Extreme
+2243,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-07-09,41.6,Extreme
+2244,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-07-09,39.8,Extreme
+2245,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-07-09,31.8,High
+2246,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-07-09,21.4,Mild
+2247,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-07-09,18.9,Mild
+2311,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-07-16,41.7,Extreme
+2312,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-07-16,32.8,High
+2313,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-07-16,31.0,High
+2314,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-07-16,28.4,Moderate
+2315,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-07-16,23.6,Mild
+2316,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-07-16,16.9,Mild
+2317,Symptoms of Depressive Disorder,By Age,80 years and above,2020-07-16,12.6,Mild
+2381,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-07-16,46.6,Extreme
+2382,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-07-16,42.8,Extreme
+2383,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-07-16,39.9,Extreme
+2384,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-07-16,36.1,Extreme
+2385,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-07-16,27.3,Moderate
+2386,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-07-16,19.5,Mild
+2387,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-07-16,13.4,Mild
+2451,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-07-16,53.4,Extreme
+2452,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-07-16,47.1,Extreme
+2453,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-07-16,44.5,Extreme
+2454,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-07-16,40.0,Extreme
+2455,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-07-16,32.1,High
+2456,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-07-16,24.3,Mild
+2457,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-07-16,17.5,Mild
+2540,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-08-19,35.4,Extreme
+2541,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-08-19,27.9,Moderate
+2542,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-08-19,23.8,Mild
+2543,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-08-19,23.8,Mild
+2544,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-08-19,19.7,Mild
+2545,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-08-19,14.8,Mild
+2546,Symptoms of Depressive Disorder,By Age,80 years and above,2020-08-19,13.8,Mild
+2629,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-08-19,41.0,Extreme
+2630,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-08-19,37.7,Extreme
+2631,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-08-19,33.1,High
+2632,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-08-19,31.1,High
+2633,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-08-19,25.2,Moderate
+2634,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-08-19,18.2,Mild
+2635,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-08-19,14.6,Mild
+2718,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-08-19,49.0,Extreme
+2719,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-08-19,42.5,Extreme
+2720,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-08-19,37.6,Extreme
+2721,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-08-19,34.9,High
+2722,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-08-19,29.3,Moderate
+2723,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-08-19,23.2,Mild
+2724,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-08-19,19.4,Mild
+2788,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-09-02,34.9,High
+2789,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-09-02,27.2,Moderate
+2790,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-09-02,25.8,Moderate
+2791,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-09-02,23.1,Mild
+2792,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-09-02,19.4,Mild
+2793,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-09-02,14.9,Mild
+2794,Symptoms of Depressive Disorder,By Age,80 years and above,2020-09-02,13.3,Mild
+2858,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-09-02,40.6,Extreme
+2859,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-09-02,37.9,Extreme
+2860,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-09-02,33.7,High
+2861,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-09-02,30.8,High
+2862,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-09-02,24.9,Moderate
+2863,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-09-02,19.2,Mild
+2864,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-09-02,17.7,Mild
+2928,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-09-02,47.3,Extreme
+2929,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-09-02,41.8,Extreme
+2930,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-09-02,38.2,Extreme
+2931,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-09-02,35.0,High
+2932,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-09-02,29.3,Moderate
+2933,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-09-02,23.1,Mild
+2934,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-09-02,22.3,Mild
+2998,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-09-16,35.7,Extreme
+2999,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-09-16,28.5,Moderate
+3000,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-09-16,25.1,Moderate
+3001,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-09-16,23.6,Mild
+3002,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-09-16,20.8,Mild
+3003,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-09-16,15.5,Mild
+3004,Symptoms of Depressive Disorder,By Age,80 years and above,2020-09-16,12.5,Mild
+3068,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-09-16,42.5,Extreme
+3069,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-09-16,39.2,Extreme
+3070,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-09-16,34.8,High
+3071,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-09-16,31.4,High
+3072,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-09-16,26.5,Moderate
+3073,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-09-16,19.2,Mild
+3074,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-09-16,15.3,Mild
+3138,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-09-16,49.9,Extreme
+3139,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-09-16,43.0,Extreme
+3140,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-09-16,39.0,Extreme
+3141,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-09-16,35.6,Extreme
+3142,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-09-16,30.7,High
+3143,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-09-16,23.5,Mild
+3144,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-09-16,19.1,Mild
+3208,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-09-30,39.3,Extreme
+3209,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-09-30,28.4,Moderate
+3210,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-09-30,26.4,Moderate
+3211,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-09-30,22.6,Mild
+3212,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-09-30,19.6,Mild
+3213,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-09-30,15.0,Mild
+3214,Symptoms of Depressive Disorder,By Age,80 years and above,2020-09-30,10.8,Mild
+3278,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-09-30,44.7,Extreme
+3279,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-09-30,38.1,Extreme
+3280,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-09-30,35.3,Extreme
+3281,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-09-30,31.1,High
+3282,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-09-30,24.8,Moderate
+3283,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-09-30,18.0,Mild
+3284,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-09-30,15.0,Mild
+3348,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-09-30,52.8,Extreme
+3349,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-09-30,43.2,Extreme
+3350,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-09-30,39.9,Extreme
+3351,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-09-30,34.8,High
+3352,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-09-30,29.5,Moderate
+3353,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-09-30,22.8,Mild
+3354,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-09-30,17.9,Mild
+3418,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-10-14,39.0,Extreme
+3419,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-10-14,30.3,High
+3420,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-10-14,26.3,Moderate
+3421,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-10-14,23.7,Mild
+3422,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-10-14,20.4,Mild
+3423,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-10-14,15.4,Mild
+3424,Symptoms of Depressive Disorder,By Age,80 years and above,2020-10-14,13.3,Mild
+3488,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-10-14,44.0,Extreme
+3489,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-10-14,40.4,Extreme
+3490,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-10-14,35.1,High
+3491,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-10-14,30.4,High
+3492,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-10-14,26.5,Moderate
+3493,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-10-14,18.2,Mild
+3494,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-10-14,17.2,Mild
+3558,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-10-14,52.1,Extreme
+3559,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-10-14,44.9,Extreme
+3560,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-10-14,39.7,Extreme
+3561,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-10-14,34.8,High
+3562,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-10-14,30.7,High
+3563,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-10-14,23.1,Mild
+3564,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-10-14,19.3,Mild
+3628,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-10-28,43.4,Extreme
+3629,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-10-28,33.5,High
+3630,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-10-28,27.4,Moderate
+3631,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-10-28,25.5,Moderate
+3632,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-10-28,20.5,Mild
+3633,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-10-28,16.4,Mild
+3634,Symptoms of Depressive Disorder,By Age,80 years and above,2020-10-28,12.6,Mild
+3698,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-10-28,51.7,Extreme
+3699,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-10-28,43.1,Extreme
+3700,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-10-28,38.9,Extreme
+3701,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-10-28,34.1,High
+3702,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-10-28,28.7,Moderate
+3703,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-10-28,21.3,Mild
+3704,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-10-28,15.4,Mild
+3768,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-10-28,58.7,Extreme
+3769,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-10-28,49.5,Extreme
+3770,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-10-28,42.6,Extreme
+3771,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-10-28,38.6,Extreme
+3772,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-10-28,32.9,High
+3773,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-10-28,26.6,Moderate
+3774,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-10-28,18.4,Mild
+3838,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-11-11,43.4,Extreme
+3839,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-11-11,32.2,High
+3840,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-11-11,29.9,High
+3841,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-11-11,26.7,Moderate
+3842,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-11-11,21.5,Mild
+3843,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-11-11,17.2,Mild
+3844,Symptoms of Depressive Disorder,By Age,80 years and above,2020-11-11,18.2,Mild
+3908,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-11-11,48.7,Extreme
+3909,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-11-11,43.3,Extreme
+3910,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-11-11,41.0,Extreme
+3911,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-11-11,35.3,Extreme
+3912,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-11-11,30.2,High
+3913,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-11-11,24.2,Mild
+3914,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-11-11,17.9,Mild
+3978,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-11-11,58.1,Extreme
+3979,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-11-11,48.4,Extreme
+3980,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-11-11,45.6,Extreme
+3981,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-11-11,40.2,Extreme
+3982,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-11-11,34.2,High
+3983,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-11-11,28.6,Moderate
+3984,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-11-11,24.1,Mild
+4048,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-11-25,42.1,Extreme
+4049,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-11-25,33.4,High
+4050,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-11-25,30.5,High
+4051,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-11-25,28.0,Moderate
+4052,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-11-25,21.7,Mild
+4053,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-11-25,17.2,Mild
+4054,Symptoms of Depressive Disorder,By Age,80 years and above,2020-11-25,14.4,Mild
+4118,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-11-25,49.0,Extreme
+4119,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-11-25,42.6,Extreme
+4120,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-11-25,40.7,Extreme
+4121,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-11-25,35.1,High
+4122,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-11-25,27.3,Moderate
+4123,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-11-25,21.2,Mild
+4124,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-11-25,16.1,Mild
+4188,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-11-25,56.5,Extreme
+4189,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-11-25,47.6,Extreme
+4190,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-11-25,45.3,Extreme
+4191,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-11-25,40.0,Extreme
+4192,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-11-25,32.3,High
+4193,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-11-25,26.4,Moderate
+4194,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-11-25,19.4,Mild
+4258,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-12-09,43.6,Extreme
+4259,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-12-09,34.9,High
+4260,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-12-09,31.5,High
+4261,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-12-09,28.9,Moderate
+4262,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-12-09,22.5,Mild
+4263,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-12-09,18.4,Mild
+4264,Symptoms of Depressive Disorder,By Age,80 years and above,2020-12-09,21.7,Mild
+4328,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-12-09,48.1,Extreme
+4329,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-12-09,44.3,Extreme
+4330,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-12-09,40.0,Extreme
+4331,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-12-09,36.2,Extreme
+4332,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-12-09,28.6,Moderate
+4333,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-12-09,21.5,Mild
+4334,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-12-09,22.5,Mild
+4398,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-12-09,56.2,Extreme
+4399,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-12-09,49.1,Extreme
+4400,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-12-09,45.1,Extreme
+4401,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-12-09,41.1,Extreme
+4402,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-12-09,33.6,High
+4403,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-12-09,27.1,Moderate
+4404,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-12-09,28.3,Moderate

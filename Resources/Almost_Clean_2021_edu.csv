@@ -1,0 +1,229 @@
+,Indicator,Group,Subgroup,Time_Period,Value,Risk
+4501,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-01-06,35.2,Extreme
+4502,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-01-06,30.5,High
+4503,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-01-06,32.4,High
+4504,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-01-06,21.1,Mild
+4590,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-01-06,42.9,Extreme
+4591,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-01-06,34.7,High
+4592,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-01-06,38.8,Extreme
+4593,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-01-06,32.3,High
+4679,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-01-06,48.2,Extreme
+4680,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-01-06,41.1,Extreme
+4681,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-01-06,44.8,Extreme
+4682,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-01-06,35.9,Extreme
+4749,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-01-20,36.6,Extreme
+4750,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-01-20,29.7,Moderate
+4751,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-01-20,32.5,High
+4752,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-01-20,21.5,Mild
+4819,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-01-20,43.2,Extreme
+4820,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-01-20,34.9,High
+4821,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-01-20,40.7,Extreme
+4822,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-01-20,31.3,High
+4889,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-01-20,49.6,Extreme
+4890,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-01-20,41.1,Extreme
+4891,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-01-20,46.4,Extreme
+4892,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-01-20,35.5,Extreme
+4959,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-02-03,37.0,Extreme
+4960,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-02-03,30.1,High
+4961,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-02-03,31.0,High
+4962,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-02-03,21.5,Mild
+5029,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-02-03,39.3,Extreme
+5030,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-02-03,32.7,High
+5031,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-02-03,37.5,Extreme
+5032,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-02-03,29.9,High
+5099,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-02-03,48.3,Extreme
+5100,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-02-03,39.0,Extreme
+5101,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-02-03,43.2,Extreme
+5102,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-02-03,33.9,High
+5169,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-02-17,35.1,High
+5170,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-02-17,30.0,High
+5171,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-02-17,31.6,High
+5172,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-02-17,20.6,Mild
+5239,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-02-17,39.2,Extreme
+5240,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-02-17,33.4,High
+5241,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-02-17,37.4,Extreme
+5242,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-02-17,28.2,Moderate
+5309,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-02-17,46.0,Extreme
+5310,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-02-17,39.7,Extreme
+5311,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-02-17,43.5,Extreme
+5312,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-02-17,32.3,High
+5379,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-03-03,34.1,High
+5380,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-03-03,28.0,Moderate
+5381,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-03-03,29.9,High
+5382,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-03-03,19.8,Mild
+5449,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-03-03,35.8,Extreme
+5450,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-03-03,30.4,High
+5451,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-03-03,34.9,High
+5452,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-03-03,28.0,Moderate
+5519,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-03-03,42.0,Extreme
+5520,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-03-03,37.1,Extreme
+5521,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-03-03,41.1,Extreme
+5522,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-03-03,31.7,High
+5589,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-03-17,32.7,High
+5590,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-03-17,25.2,Moderate
+5591,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-03-17,29.2,Moderate
+5592,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-03-17,18.2,Mild
+5659,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-03-17,38.2,Extreme
+5660,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-03-17,29.7,Moderate
+5661,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-03-17,33.6,High
+5662,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-03-17,25.4,Moderate
+5729,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-03-17,42.8,Extreme
+5730,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-03-17,34.9,High
+5731,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-03-17,39.7,Extreme
+5732,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-03-17,29.3,Moderate
+5818,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-04-14,33.8,High
+5819,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-04-14,24.9,Moderate
+5820,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-04-14,26.1,Moderate
+5821,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-04-14,16.2,Mild
+5909,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-04-14,35.9,Extreme
+5910,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-04-14,28.3,Moderate
+5911,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-04-14,30.6,High
+5912,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-04-14,21.9,Mild
+6000,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-04-14,43.8,Extreme
+6001,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-04-14,33.2,High
+6002,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-04-14,36.0,Extreme
+6003,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-04-14,25.7,Moderate
+6072,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-04-28,32.1,High
+6073,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-04-28,22.7,Mild
+6074,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-04-28,25.8,Moderate
+6075,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-04-28,15.5,Mild
+6144,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-04-28,34.5,High
+6145,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-04-28,25.9,Moderate
+6146,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-04-28,30.6,High
+6147,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-04-28,21.6,Mild
+6216,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-04-28,40.5,Extreme
+6217,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-04-28,30.3,High
+6218,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-04-28,35.6,Extreme
+6219,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-04-28,24.7,Mild
+6288,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-05-12,29.0,Moderate
+6289,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-05-12,23.7,Mild
+6290,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-05-12,24.5,Mild
+6291,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-05-12,15.2,Mild
+6360,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-05-12,32.3,High
+6361,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-05-12,26.6,Moderate
+6362,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-05-12,28.7,Moderate
+6363,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-05-12,20.8,Mild
+6432,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-05-12,36.8,Extreme
+6433,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-05-12,31.7,High
+6434,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-05-12,33.8,High
+6435,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-05-12,23.9,Mild
+6504,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-05-26,28.5,Moderate
+6505,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-05-26,23.7,Mild
+6506,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-05-26,23.6,Mild
+6507,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-05-26,14.5,Mild
+6576,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-05-26,34.2,High
+6577,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-05-26,26.4,Moderate
+6578,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-05-26,28.4,Moderate
+6579,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-05-26,20.2,Mild
+6648,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-05-26,37.8,Extreme
+6649,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-05-26,31.7,High
+6650,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-05-26,32.9,High
+6651,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-05-26,23.2,Mild
+6720,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-06-09,26.2,Moderate
+6721,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-06-09,25.0,Moderate
+6722,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-06-09,25.2,Moderate
+6723,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-06-09,14.2,Mild
+6792,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-06-09,29.1,Moderate
+6793,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-06-09,28.7,Moderate
+6794,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-06-09,29.4,Moderate
+6795,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-06-09,20.2,Mild
+6864,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-06-09,35.4,Extreme
+6865,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-06-09,33.6,High
+6866,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-06-09,34.2,High
+6867,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-06-09,23.1,Mild
+6936,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-06-23,32.8,High
+6937,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-06-23,22.7,Mild
+6938,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-06-23,24.6,Mild
+6939,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-06-23,13.4,Mild
+7008,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-06-23,35.1,High
+7009,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-06-23,24.1,Mild
+7010,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-06-23,28.7,Moderate
+7011,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-06-23,18.9,Mild
+7080,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-06-23,41.8,Extreme
+7081,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-06-23,29.3,Moderate
+7082,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-06-23,33.7,High
+7083,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-06-23,21.8,Mild
+7179,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-07-21,32.0,High
+7180,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-07-21,24.5,Mild
+7181,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-07-21,25.7,Moderate
+7182,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-07-21,14.6,Mild
+7278,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-07-21,32.7,High
+7279,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-07-21,27.6,Moderate
+7280,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-07-21,31.2,High
+7281,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-07-21,21.2,Mild
+7377,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-07-21,39.7,Extreme
+7378,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-07-21,32.9,High
+7379,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-07-21,35.9,Extreme
+7380,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-07-21,23.8,Mild
+7455,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-08-04,27.3,Moderate
+7456,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-08-04,24.0,Mild
+7457,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-08-04,24.2,Mild
+7458,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-08-04,15.0,Mild
+7533,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-08-04,31.9,High
+7534,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-08-04,25.4,Moderate
+7535,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-08-04,30.3,High
+7536,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-08-04,23.1,Mild
+7611,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-08-04,37.7,Extreme
+7612,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-08-04,30.8,High
+7613,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-08-04,34.6,High
+7614,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-08-04,26.0,Moderate
+7689,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-08-18,28.9,Moderate
+7690,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-08-18,24.9,Moderate
+7691,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-08-18,25.7,Moderate
+7692,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-08-18,16.3,Mild
+7767,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-08-18,31.0,High
+7768,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-08-18,27.7,Moderate
+7769,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-08-18,31.1,High
+7770,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-08-18,24.2,Mild
+7845,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-08-18,36.3,Extreme
+7846,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-08-18,32.7,High
+7847,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-08-18,35.9,Extreme
+7848,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-08-18,27.1,Moderate
+7923,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-09-01,26.9,Moderate
+7924,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-09-01,25.0,Moderate
+7925,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-09-01,25.2,Moderate
+7926,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-09-01,16.6,Mild
+8001,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-09-01,27.8,Moderate
+8002,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-09-01,29.5,Moderate
+8003,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-09-01,30.2,High
+8004,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-09-01,25.0,Moderate
+8079,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-09-01,33.9,High
+8080,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-09-01,33.9,High
+8081,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-09-01,34.6,High
+8082,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-09-01,27.9,Moderate
+8157,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-09-15,32.7,High
+8158,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-09-15,23.7,Mild
+8159,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-09-15,25.9,Moderate
+8160,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-09-15,15.7,Mild
+8235,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-09-15,35.8,Extreme
+8236,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-09-15,27.1,Moderate
+8237,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-09-15,31.5,High
+8238,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-09-15,23.5,Mild
+8313,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-09-15,41.2,Extreme
+8314,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-09-15,32.2,High
+8315,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-09-15,36.5,Extreme
+8316,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-09-15,26.4,Moderate
+8391,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-09-29,29.1,Moderate
+8392,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-09-29,23.1,Mild
+8393,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-09-29,25.7,Moderate
+8394,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-09-29,15.6,Mild
+8469,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-09-29,33.8,High
+8470,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-09-29,27.0,Moderate
+8471,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-09-29,30.9,High
+8472,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-09-29,22.9,Mild
+8547,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-09-29,39.0,Extreme
+8548,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-09-29,31.8,High
+8549,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-09-29,35.8,Extreme
+8550,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-09-29,25.9,Moderate
+8646,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2021-12-01,27.7,Moderate
+8647,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2021-12-01,23.6,Mild
+8648,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2021-12-01,23.9,Mild
+8649,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2021-12-01,15.7,Mild
+8745,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2021-12-01,29.0,Moderate
+8746,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2021-12-01,28.2,Moderate
+8747,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2021-12-01,28.7,Moderate
+8748,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2021-12-01,22.4,Mild
+8844,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2021-12-01,35.5,Extreme
+8845,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2021-12-01,32.8,High
+8846,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2021-12-01,33.4,High
+8847,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2021-12-01,25.3,Moderate

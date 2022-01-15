@@ -1,23 +1,4 @@
 ,Indicator,Group,Subgroup,Time_Period,Value,Risk
-0,Symptoms of Depressive Disorder,National Estimate,United States,2020-04-23,23.5,Mild
-1,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-04-23,32.7,High
-2,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-04-23,25.7,Moderate
-3,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-04-23,24.8,Moderate
-4,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-04-23,23.2,Mild
-5,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-04-23,18.4,Mild
-6,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-04-23,13.6,Mild
-7,Symptoms of Depressive Disorder,By Age,80 years and above,2020-04-23,14.4,Mild
-8,Symptoms of Depressive Disorder,By Sex,Male,2020-04-23,20.8,Mild
-9,Symptoms of Depressive Disorder,By Sex,Female,2020-04-23,26.1,Moderate
-10,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-04-23,29.4,Moderate
-11,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-04-23,21.4,Mild
-12,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-04-23,25.6,Moderate
-13,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-04-23,23.6,Mild
-14,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-04-23,28.3,Moderate
-15,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-04-23,32.7,High
-16,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-04-23,25.4,Moderate
-17,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-04-23,25.6,Moderate
-18,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-04-23,17.6,Mild
 19,Symptoms of Depressive Disorder,By State,Alabama,2020-04-23,18.6,Mild
 20,Symptoms of Depressive Disorder,By State,Alaska,2020-04-23,19.2,Mild
 21,Symptoms of Depressive Disorder,By State,Arizona,2020-04-23,22.4,Mild
@@ -69,25 +50,6 @@
 67,Symptoms of Depressive Disorder,By State,West Virginia,2020-04-23,23.4,Mild
 68,Symptoms of Depressive Disorder,By State,Wisconsin,2020-04-23,22.0,Mild
 69,Symptoms of Depressive Disorder,By State,Wyoming,2020-04-23,18.9,Mild
-70,Symptoms of Anxiety Disorder,National Estimate,United States,2020-04-23,30.8,High
-71,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-04-23,40.2,Extreme
-72,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-04-23,34.4,High
-73,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-04-23,34.1,High
-74,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-04-23,31.0,High
-75,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-04-23,24.9,Moderate
-76,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-04-23,16.4,Mild
-77,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-04-23,14.6,Mild
-78,Symptoms of Anxiety Disorder,By Sex,Male,2020-04-23,26.1,Moderate
-79,Symptoms of Anxiety Disorder,By Sex,Female,2020-04-23,35.4,Extreme
-80,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-04-23,36.3,Extreme
-81,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-04-23,29.0,Moderate
-82,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-04-23,32.8,High
-83,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-04-23,26.3,Moderate
-84,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-04-23,38.2,Extreme
-85,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-04-23,37.3,Extreme
-86,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-04-23,30.6,High
-87,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-04-23,33.5,High
-88,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-04-23,27.0,Moderate
 89,Symptoms of Anxiety Disorder,By State,Alabama,2020-04-23,25.6,Moderate
 90,Symptoms of Anxiety Disorder,By State,Alaska,2020-04-23,27.7,Moderate
 91,Symptoms of Anxiety Disorder,By State,Arizona,2020-04-23,32.3,High
@@ -139,25 +101,6 @@
 137,Symptoms of Anxiety Disorder,By State,West Virginia,2020-04-23,28.8,Moderate
 138,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-04-23,27.1,Moderate
 139,Symptoms of Anxiety Disorder,By State,Wyoming,2020-04-23,24.9,Moderate
-140,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-04-23,35.9,Extreme
-141,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-04-23,46.8,Extreme
-142,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-04-23,39.6,Extreme
-143,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-04-23,38.9,Extreme
-144,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-04-23,35.8,Extreme
-145,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-04-23,28.9,Moderate
-146,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-04-23,21.5,Mild
-147,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-04-23,21.1,Mild
-148,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-04-23,31.0,High
-149,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-04-23,40.7,Extreme
-150,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-04-23,42.7,Extreme
-151,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-04-23,33.6,High
-152,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-04-23,38.9,Extreme
-153,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-04-23,31.9,High
-154,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-04-23,43.9,Extreme
-155,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-04-23,45.4,Extreme
-156,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-04-23,36.7,Extreme
-157,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-04-23,38.5,Extreme
-158,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-04-23,30.7,High
 159,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-04-23,30.3,High
 160,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-04-23,31.5,High
 161,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-04-23,36.4,Extreme
@@ -209,25 +152,6 @@
 207,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-04-23,34.3,High
 208,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-04-23,31.1,High
 209,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-04-23,31.0,High
-210,Symptoms of Depressive Disorder,National Estimate,United States,2020-05-07,24.1,Mild
-211,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-07,36.2,Extreme
-212,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-07,27.7,Moderate
-213,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-07,25.5,Moderate
-214,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-07,24.1,Mild
-215,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-07,17.6,Mild
-216,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-07,12.2,Mild
-217,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-07,9.1,Mild
-218,Symptoms of Depressive Disorder,By Sex,Male,2020-05-07,22.3,Mild
-219,Symptoms of Depressive Disorder,By Sex,Female,2020-05-07,25.8,Moderate
-220,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-07,27.9,Moderate
-221,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-07,22.5,Mild
-222,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-07,27.7,Moderate
-223,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-07,19.5,Mild
-224,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-07,33.0,High
-225,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-05-07,31.4,High
-226,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-05-07,27.1,Moderate
-227,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-05-07,26.5,Moderate
-228,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-07,17.2,Mild
 229,Symptoms of Depressive Disorder,By State,Alabama,2020-05-07,22.5,Mild
 230,Symptoms of Depressive Disorder,By State,Alaska,2020-05-07,25.1,Moderate
 231,Symptoms of Depressive Disorder,By State,Arizona,2020-05-07,25.3,Moderate
@@ -279,25 +203,6 @@
 277,Symptoms of Depressive Disorder,By State,West Virginia,2020-05-07,31.8,High
 278,Symptoms of Depressive Disorder,By State,Wisconsin,2020-05-07,22.9,Mild
 279,Symptoms of Depressive Disorder,By State,Wyoming,2020-05-07,18.6,Mild
-280,Symptoms of Anxiety Disorder,National Estimate,United States,2020-05-07,30.0,High
-281,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-07,42.0,Extreme
-282,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-07,34.3,High
-283,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-07,31.9,High
-284,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-07,31.3,High
-285,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-07,22.0,Mild
-286,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-07,16.4,Mild
-287,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-07,11.0,Mild
-288,Symptoms of Anxiety Disorder,By Sex,Male,2020-05-07,26.7,Moderate
-289,Symptoms of Anxiety Disorder,By Sex,Female,2020-05-07,33.1,High
-290,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-07,36.2,Extreme
-291,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-07,27.8,Moderate
-292,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-07,33.0,High
-293,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-07,26.3,Moderate
-294,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-07,38.9,Extreme
-295,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-05-07,36.6,Extreme
-296,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-05-07,32.8,High
-297,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-05-07,31.5,High
-298,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-05-07,24.2,Mild
 299,Symptoms of Anxiety Disorder,By State,Alabama,2020-05-07,27.2,Moderate
 300,Symptoms of Anxiety Disorder,By State,Alaska,2020-05-07,27.4,Moderate
 301,Symptoms of Anxiety Disorder,By State,Arizona,2020-05-07,34.2,High
@@ -349,25 +254,6 @@
 347,Symptoms of Anxiety Disorder,By State,West Virginia,2020-05-07,34.6,High
 348,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-05-07,25.6,Moderate
 349,Symptoms of Anxiety Disorder,By State,Wyoming,2020-05-07,22.5,Mild
-350,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-05-07,34.4,High
-351,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-07,47.4,Extreme
-352,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-07,39.3,Extreme
-353,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-07,36.9,Extreme
-354,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-07,35.5,Extreme
-355,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-07,25.5,Moderate
-356,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-07,19.8,Mild
-357,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-07,13.9,Mild
-358,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-05-07,31.4,High
-359,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-05-07,37.2,Extreme
-360,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-07,40.3,Extreme
-361,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-07,32.0,High
-362,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-07,38.8,Extreme
-363,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-07,29.9,High
-364,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-07,45.9,Extreme
-365,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-05-07,42.5,Extreme
-366,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-05-07,37.8,Extreme
-367,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-05-07,36.2,Extreme
-368,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-07,27.5,Moderate
 369,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-05-07,30.6,High
 370,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-05-07,35.7,Extreme
 371,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-05-07,38.4,Extreme
@@ -419,25 +305,6 @@
 417,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-05-07,39.0,Extreme
 418,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-05-07,29.7,Moderate
 419,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-05-07,27.9,Moderate
-420,Symptoms of Depressive Disorder,National Estimate,United States,2020-05-14,24.4,Mild
-421,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-14,36.7,Extreme
-422,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-14,26.7,Moderate
-423,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-14,25.0,Moderate
-424,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-14,24.6,Mild
-425,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-14,18.0,Mild
-426,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-14,12.3,Mild
-427,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-14,14.4,Mild
-428,Symptoms of Depressive Disorder,By Sex,Male,2020-05-14,22.1,Mild
-429,Symptoms of Depressive Disorder,By Sex,Female,2020-05-14,26.7,Moderate
-430,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-14,28.9,Moderate
-431,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-14,22.7,Mild
-432,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-14,28.5,Moderate
-433,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-14,20.9,Mild
-434,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-14,27.1,Moderate
-435,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-05-14,31.3,High
-436,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-05-14,27.8,Moderate
-437,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-05-14,26.8,Moderate
-438,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-14,17.3,Mild
 439,Symptoms of Depressive Disorder,By State,Alabama,2020-05-14,19.6,Mild
 440,Symptoms of Depressive Disorder,By State,Alaska,2020-05-14,23.6,Mild
 441,Symptoms of Depressive Disorder,By State,Arizona,2020-05-14,20.0,Mild
@@ -489,25 +356,6 @@
 487,Symptoms of Depressive Disorder,By State,West Virginia,2020-05-14,27.0,Moderate
 488,Symptoms of Depressive Disorder,By State,Wisconsin,2020-05-14,20.3,Mild
 489,Symptoms of Depressive Disorder,By State,Wyoming,2020-05-14,20.7,Mild
-490,Symptoms of Anxiety Disorder,National Estimate,United States,2020-05-14,28.2,Moderate
-491,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-14,38.6,Extreme
-492,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-14,32.2,High
-493,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-14,30.7,High
-494,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-14,28.4,Moderate
-495,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-14,22.3,Mild
-496,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-14,13.4,Mild
-497,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-14,11.8,Mild
-498,Symptoms of Anxiety Disorder,By Sex,Male,2020-05-14,24.2,Mild
-499,Symptoms of Anxiety Disorder,By Sex,Female,2020-05-14,32.1,High
-500,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-14,33.6,High
-501,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-14,26.3,Moderate
-502,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-14,32.7,High
-503,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-14,23.4,Mild
-504,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-14,31.3,High
-505,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-05-14,34.3,High
-506,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-05-14,30.5,High
-507,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-05-14,30.2,High
-508,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-05-14,22.7,Mild
 509,Symptoms of Anxiety Disorder,By State,Alabama,2020-05-14,20.7,Mild
 510,Symptoms of Anxiety Disorder,By State,Alaska,2020-05-14,26.2,Moderate
 511,Symptoms of Anxiety Disorder,By State,Arizona,2020-05-14,29.0,Moderate
@@ -559,25 +407,6 @@
 557,Symptoms of Anxiety Disorder,By State,West Virginia,2020-05-14,29.3,Moderate
 558,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-05-14,23.4,Mild
 559,Symptoms of Anxiety Disorder,By State,Wyoming,2020-05-14,24.1,Mild
-560,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-05-14,33.9,High
-561,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-14,47.7,Extreme
-562,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-14,37.8,Extreme
-563,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-14,35.3,Extreme
-564,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-14,33.7,High
-565,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-14,26.4,Moderate
-566,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-14,18.3,Mild
-567,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-14,17.1,Mild
-568,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-05-14,29.9,High
-569,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-05-14,37.6,Extreme
-570,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-14,40.7,Extreme
-571,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-14,31.3,High
-572,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-14,39.4,Extreme
-573,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-14,30.2,High
-574,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-14,37.2,Extreme
-575,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-05-14,40.9,Extreme
-576,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-05-14,37.6,Extreme
-577,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-05-14,36.1,Extreme
-578,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-14,26.4,Moderate
 579,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-05-14,25.2,Moderate
 580,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-05-14,32.7,High
 581,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-05-14,32.1,High
@@ -629,25 +458,6 @@
 627,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-05-14,34.3,High
 628,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-05-14,28.0,Moderate
 629,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-05-14,28.0,Moderate
-630,Symptoms of Depressive Disorder,National Estimate,United States,2020-05-21,24.9,Moderate
-631,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-21,36.7,Extreme
-632,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-21,27.4,Moderate
-633,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-21,24.2,Mild
-634,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-21,24.6,Mild
-635,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-21,19.8,Mild
-636,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-21,13.3,Mild
-637,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-21,17.1,Mild
-638,Symptoms of Depressive Disorder,By Sex,Male,2020-05-21,22.7,Mild
-639,Symptoms of Depressive Disorder,By Sex,Female,2020-05-21,26.9,Moderate
-640,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-21,31.4,High
-641,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-21,23.3,Mild
-642,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-21,24.8,Moderate
-643,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-21,19.5,Mild
-644,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-21,32.2,High
-645,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-05-21,38.7,Extreme
-646,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-05-21,26.6,Moderate
-647,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-05-21,27.6,Moderate
-648,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-21,17.3,Mild
 649,Symptoms of Depressive Disorder,By State,Alabama,2020-05-21,20.9,Mild
 650,Symptoms of Depressive Disorder,By State,Alaska,2020-05-21,26.8,Moderate
 651,Symptoms of Depressive Disorder,By State,Arizona,2020-05-21,25.1,Moderate
@@ -699,25 +509,6 @@
 697,Symptoms of Depressive Disorder,By State,West Virginia,2020-05-21,22.0,Mild
 698,Symptoms of Depressive Disorder,By State,Wisconsin,2020-05-21,20.8,Mild
 699,Symptoms of Depressive Disorder,By State,Wyoming,2020-05-21,18.8,Mild
-700,Symptoms of Anxiety Disorder,National Estimate,United States,2020-05-21,29.4,Moderate
-701,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-21,39.1,Extreme
-702,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-21,35.2,Extreme
-703,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-21,31.4,High
-704,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-21,29.3,Moderate
-705,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-21,22.2,Mild
-706,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-21,15.0,Mild
-707,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-21,17.1,Mild
-708,Symptoms of Anxiety Disorder,By Sex,Male,2020-05-21,25.4,Moderate
-709,Symptoms of Anxiety Disorder,By Sex,Female,2020-05-21,33.2,High
-710,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-21,36.3,Extreme
-711,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-21,27.6,Moderate
-712,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-21,30.2,High
-713,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-21,22.2,Mild
-714,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-21,38.6,Extreme
-715,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-05-21,40.6,Extreme
-716,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-05-21,29.5,Moderate
-717,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-05-21,32.4,High
-718,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-05-21,23.7,Mild
 719,Symptoms of Anxiety Disorder,By State,Alabama,2020-05-21,25.2,Moderate
 720,Symptoms of Anxiety Disorder,By State,Alaska,2020-05-21,31.6,High
 721,Symptoms of Anxiety Disorder,By State,Arizona,2020-05-21,29.3,Moderate
@@ -769,25 +560,6 @@
 767,Symptoms of Anxiety Disorder,By State,West Virginia,2020-05-21,34.5,High
 768,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-05-21,24.7,Mild
 769,Symptoms of Anxiety Disorder,By State,Wyoming,2020-05-21,24.0,Mild
-770,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-05-21,34.3,High
-771,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-21,46.6,Extreme
-772,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-21,39.5,Extreme
-773,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-21,35.7,Extreme
-774,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-21,33.7,High
-775,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-21,27.4,Moderate
-776,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-21,18.8,Mild
-777,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-21,20.1,Mild
-778,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-05-21,30.3,High
-779,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-05-21,38.1,Extreme
-780,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-21,41.5,Extreme
-781,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-21,32.3,High
-782,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-21,35.6,Extreme
-783,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-21,27.6,Moderate
-784,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-21,43.4,Extreme
-785,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-05-21,47.7,Extreme
-786,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-05-21,35.3,Extreme
-787,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-05-21,37.6,Extreme
-788,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-21,27.0,Moderate
 789,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-05-21,28.8,Moderate
 790,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-05-21,36.4,Extreme
 791,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-05-21,35.5,Extreme
@@ -839,25 +611,6 @@
 837,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-05-21,37.9,Extreme
 838,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-05-21,28.9,Moderate
 839,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-05-21,28.3,Moderate
-840,Symptoms of Depressive Disorder,National Estimate,United States,2020-05-28,25.3,Moderate
-841,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-05-28,36.8,Extreme
-842,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-05-28,27.9,Moderate
-843,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-05-28,25.7,Moderate
-844,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-05-28,25.1,Moderate
-845,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-05-28,18.0,Mild
-846,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-05-28,15.5,Mild
-847,Symptoms of Depressive Disorder,By Age,80 years and above,2020-05-28,14.9,Mild
-848,Symptoms of Depressive Disorder,By Sex,Male,2020-05-28,23.0,Mild
-849,Symptoms of Depressive Disorder,By Sex,Female,2020-05-28,27.4,Moderate
-850,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-28,26.3,Moderate
-851,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-28,23.7,Mild
-852,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-28,29.9,High
-853,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-28,22.0,Mild
-854,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-28,37.6,Extreme
-855,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-05-28,31.9,High
-856,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-05-28,27.8,Moderate
-857,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-05-28,27.8,Moderate
-858,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-28,18.6,Mild
 859,Symptoms of Depressive Disorder,By State,Alabama,2020-05-28,28.4,Moderate
 860,Symptoms of Depressive Disorder,By State,Alaska,2020-05-28,24.4,Mild
 861,Symptoms of Depressive Disorder,By State,Arizona,2020-05-28,23.9,Mild
@@ -909,25 +662,6 @@
 907,Symptoms of Depressive Disorder,By State,West Virginia,2020-05-28,26.2,Moderate
 908,Symptoms of Depressive Disorder,By State,Wisconsin,2020-05-28,17.7,Mild
 909,Symptoms of Depressive Disorder,By State,Wyoming,2020-05-28,25.2,Moderate
-910,Symptoms of Anxiety Disorder,National Estimate,United States,2020-05-28,30.6,High
-911,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-05-28,42.2,Extreme
-912,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-05-28,35.8,Extreme
-913,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-05-28,32.1,High
-914,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-05-28,29.3,Moderate
-915,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-05-28,23.0,Mild
-916,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-05-28,18.2,Mild
-917,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-05-28,13.3,Mild
-918,Symptoms of Anxiety Disorder,By Sex,Male,2020-05-28,26.0,Moderate
-919,Symptoms of Anxiety Disorder,By Sex,Female,2020-05-28,35.0,High
-920,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-28,32.1,High
-921,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-28,29.0,Moderate
-922,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-28,33.8,High
-923,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-28,28.4,Moderate
-924,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-28,44.6,Extreme
-925,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-05-28,37.8,Extreme
-926,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-05-28,31.4,High
-927,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-05-28,32.8,High
-928,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-05-28,25.9,Moderate
 929,Symptoms of Anxiety Disorder,By State,Alabama,2020-05-28,31.6,High
 930,Symptoms of Anxiety Disorder,By State,Alaska,2020-05-28,26.1,Moderate
 931,Symptoms of Anxiety Disorder,By State,Arizona,2020-05-28,27.9,Moderate
@@ -979,25 +713,6 @@
 977,Symptoms of Anxiety Disorder,By State,West Virginia,2020-05-28,33.6,High
 978,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-05-28,22.7,Mild
 979,Symptoms of Anxiety Disorder,By State,Wyoming,2020-05-28,25.3,Moderate
-980,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-05-28,35.5,Extreme
-981,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-05-28,49.3,Extreme
-982,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-05-28,40.6,Extreme
-983,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-05-28,36.9,Extreme
-984,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-05-28,33.6,High
-985,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-05-28,27.0,Moderate
-986,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-05-28,21.7,Mild
-987,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-05-28,19.2,Mild
-988,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-05-28,31.1,High
-989,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-05-28,39.6,Extreme
-990,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-28,38.3,Extreme
-991,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-28,33.1,High
-992,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-28,40.5,Extreme
-993,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-28,34.2,High
-994,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-28,49.6,Extreme
-995,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-05-28,43.9,Extreme
-996,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-05-28,36.7,Extreme
-997,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-05-28,38.3,Extreme
-998,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-05-28,29.4,Moderate
 999,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-05-28,37.5,Extreme
 1000,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-05-28,31.6,High
 1001,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-05-28,32.6,High
@@ -1049,25 +764,6 @@
 1047,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-05-28,38.9,Extreme
 1048,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-05-28,26.7,Moderate
 1049,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-05-28,32.9,High
-1050,Symptoms of Depressive Disorder,National Estimate,United States,2020-06-04,25.8,Moderate
-1051,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-04,37.0,Extreme
-1052,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-04,29.1,Moderate
-1053,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-04,27.0,Moderate
-1054,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-04,26.0,Moderate
-1055,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-04,19.8,Mild
-1056,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-04,13.1,Mild
-1057,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-04,12.3,Mild
-1058,Symptoms of Depressive Disorder,By Sex,Male,2020-06-04,23.7,Mild
-1059,Symptoms of Depressive Disorder,By Sex,Female,2020-06-04,27.8,Moderate
-1060,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-04,30.8,High
-1061,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-04,23.9,Mild
-1062,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-04,29.6,Moderate
-1063,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-04,19.8,Mild
-1064,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-04,33.9,High
-1065,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-06-04,37.1,Extreme
-1066,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-06-04,27.6,Moderate
-1067,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-06-04,28.2,Moderate
-1068,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-04,18.9,Mild
 1069,Symptoms of Depressive Disorder,By State,Alabama,2020-06-04,27.7,Moderate
 1070,Symptoms of Depressive Disorder,By State,Alaska,2020-06-04,21.5,Mild
 1071,Symptoms of Depressive Disorder,By State,Arizona,2020-06-04,26.5,Moderate
@@ -1119,25 +815,6 @@
 1117,Symptoms of Depressive Disorder,By State,West Virginia,2020-06-04,27.9,Moderate
 1118,Symptoms of Depressive Disorder,By State,Wisconsin,2020-06-04,19.5,Mild
 1119,Symptoms of Depressive Disorder,By State,Wyoming,2020-06-04,20.9,Mild
-1120,Symptoms of Anxiety Disorder,National Estimate,United States,2020-06-04,31.1,High
-1121,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-04,41.7,Extreme
-1122,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-04,36.8,Extreme
-1123,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-04,34.9,High
-1124,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-04,31.8,High
-1125,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-04,22.3,Mild
-1126,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-04,15.4,Mild
-1127,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-04,13.7,Mild
-1128,Symptoms of Anxiety Disorder,By Sex,Male,2020-06-04,26.8,Moderate
-1129,Symptoms of Anxiety Disorder,By Sex,Female,2020-06-04,35.1,High
-1130,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-04,34.0,High
-1131,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-04,29.6,Moderate
-1132,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-04,34.6,High
-1133,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-04,25.6,Moderate
-1134,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-04,40.4,Extreme
-1135,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-06-04,36.9,Extreme
-1136,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-06-04,31.0,High
-1137,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-06-04,33.6,High
-1138,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-06-04,27.3,Moderate
 1139,Symptoms of Anxiety Disorder,By State,Alabama,2020-06-04,33.7,High
 1140,Symptoms of Anxiety Disorder,By State,Alaska,2020-06-04,26.2,Moderate
 1141,Symptoms of Anxiety Disorder,By State,Arizona,2020-06-04,30.8,High
@@ -1189,25 +866,6 @@
 1187,Symptoms of Anxiety Disorder,By State,West Virginia,2020-06-04,35.8,Extreme
 1188,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-06-04,25.3,Moderate
 1189,Symptoms of Anxiety Disorder,By State,Wyoming,2020-06-04,21.3,Mild
-1190,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-06-04,36.1,Extreme
-1191,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-04,49.3,Extreme
-1192,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-04,41.5,Extreme
-1193,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-04,39.0,Extreme
-1194,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-04,36.0,Extreme
-1195,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-04,27.4,Moderate
-1196,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-04,19.0,Mild
-1197,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-04,18.6,Mild
-1198,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-06-04,31.9,High
-1199,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-06-04,40.0,Extreme
-1200,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-04,40.8,Extreme
-1201,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-04,34.0,High
-1202,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-04,40.0,Extreme
-1203,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-04,29.2,Moderate
-1204,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-04,48.1,Extreme
-1205,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-06-04,44.7,Extreme
-1206,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-06-04,36.8,Extreme
-1207,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-06-04,39.3,Extreme
-1208,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-04,30.2,High
 1209,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-06-04,36.9,Extreme
 1210,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-06-04,35.2,Extreme
 1211,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-06-04,36.8,Extreme
@@ -1259,25 +917,6 @@
 1257,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-06-04,38.9,Extreme
 1258,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-06-04,28.3,Moderate
 1259,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-06-04,29.4,Moderate
-1260,Symptoms of Depressive Disorder,National Estimate,United States,2020-06-11,25.1,Moderate
-1261,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-11,36.8,Extreme
-1262,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-11,26.7,Moderate
-1263,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-11,25.9,Moderate
-1264,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-11,24.6,Mild
-1265,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-11,19.6,Mild
-1266,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-11,15.5,Mild
-1267,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-11,9.9,Mild
-1268,Symptoms of Depressive Disorder,By Sex,Male,2020-06-11,23.3,Mild
-1269,Symptoms of Depressive Disorder,By Sex,Female,2020-06-11,26.7,Moderate
-1270,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-11,28.4,Moderate
-1271,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-11,23.5,Mild
-1272,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-11,28.3,Moderate
-1273,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-11,21.0,Mild
-1274,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-11,32.3,High
-1275,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-06-11,31.4,High
-1276,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-06-11,27.5,Moderate
-1277,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-06-11,28.4,Moderate
-1278,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-11,17.9,Mild
 1279,Symptoms of Depressive Disorder,By State,Alabama,2020-06-11,26.7,Moderate
 1280,Symptoms of Depressive Disorder,By State,Alaska,2020-06-11,23.5,Mild
 1281,Symptoms of Depressive Disorder,By State,Arizona,2020-06-11,25.0,Moderate
@@ -1329,25 +968,6 @@
 1327,Symptoms of Depressive Disorder,By State,West Virginia,2020-06-11,23.5,Mild
 1328,Symptoms of Depressive Disorder,By State,Wisconsin,2020-06-11,17.5,Mild
 1329,Symptoms of Depressive Disorder,By State,Wyoming,2020-06-11,18.9,Mild
-1330,Symptoms of Anxiety Disorder,National Estimate,United States,2020-06-11,31.7,High
-1331,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-11,42.9,Extreme
-1332,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-11,35.8,Extreme
-1333,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-11,34.8,High
-1334,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-11,31.7,High
-1335,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-11,23.6,Mild
-1336,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-11,18.0,Mild
-1337,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-11,14.6,Mild
-1338,Symptoms of Anxiety Disorder,By Sex,Male,2020-06-11,28.1,Moderate
-1339,Symptoms of Anxiety Disorder,By Sex,Female,2020-06-11,35.0,High
-1340,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-11,33.6,High
-1341,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-11,30.6,High
-1342,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-11,35.8,Extreme
-1343,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-11,26.0,Moderate
-1344,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-11,37.6,Extreme
-1345,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-06-11,37.7,Extreme
-1346,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-06-11,32.5,High
-1347,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-06-11,34.5,High
-1348,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-06-11,26.6,Moderate
 1349,Symptoms of Anxiety Disorder,By State,Alabama,2020-06-11,33.9,High
 1350,Symptoms of Anxiety Disorder,By State,Alaska,2020-06-11,33.3,High
 1351,Symptoms of Anxiety Disorder,By State,Arizona,2020-06-11,25.6,Moderate
@@ -1399,25 +1019,6 @@
 1397,Symptoms of Anxiety Disorder,By State,West Virginia,2020-06-11,26.7,Moderate
 1398,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-06-11,23.5,Mild
 1399,Symptoms of Anxiety Disorder,By State,Wyoming,2020-06-11,24.2,Mild
-1400,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-06-11,36.0,Extreme
-1401,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-11,48.7,Extreme
-1402,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-11,40.3,Extreme
-1403,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-11,38.4,Extreme
-1404,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-11,35.8,Extreme
-1405,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-11,27.7,Moderate
-1406,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-11,21.7,Mild
-1407,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-11,17.6,Mild
-1408,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-06-11,32.7,High
-1409,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-06-11,39.1,Extreme
-1410,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-11,39.6,Extreme
-1411,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-11,34.3,High
-1412,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-11,40.0,Extreme
-1413,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-11,29.9,High
-1414,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-11,44.3,Extreme
-1415,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-06-11,43.7,Extreme
-1416,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-06-11,37.4,Extreme
-1417,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-06-11,39.3,Extreme
-1418,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-11,29.4,Moderate
 1419,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-06-11,38.1,Extreme
 1420,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-06-11,36.5,Extreme
 1421,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-06-11,33.3,High
@@ -1469,25 +1070,6 @@
 1467,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-06-11,32.2,High
 1468,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-06-11,26.5,Moderate
 1469,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-06-11,32.6,High
-1470,Symptoms of Depressive Disorder,National Estimate,United States,2020-06-18,25.6,Moderate
-1471,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-18,36.7,Extreme
-1472,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-18,28.3,Moderate
-1473,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-18,26.2,Moderate
-1474,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-18,26.0,Moderate
-1475,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-18,19.3,Mild
-1476,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-18,14.5,Mild
-1477,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-18,10.8,Mild
-1478,Symptoms of Depressive Disorder,By Sex,Male,2020-06-18,23.8,Mild
-1479,Symptoms of Depressive Disorder,By Sex,Female,2020-06-18,27.3,Moderate
-1480,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-18,29.0,Moderate
-1481,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-18,24.2,Mild
-1482,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-18,28.1,Moderate
-1483,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-18,20.1,Mild
-1484,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-18,34.1,High
-1485,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-06-18,31.4,High
-1486,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-06-18,28.8,Moderate
-1487,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-06-18,28.6,Moderate
-1488,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-18,18.2,Mild
 1489,Symptoms of Depressive Disorder,By State,Alabama,2020-06-18,27.5,Moderate
 1490,Symptoms of Depressive Disorder,By State,Alaska,2020-06-18,25.7,Moderate
 1491,Symptoms of Depressive Disorder,By State,Arizona,2020-06-18,28.9,Moderate
@@ -1539,25 +1121,6 @@
 1537,Symptoms of Depressive Disorder,By State,West Virginia,2020-06-18,30.2,High
 1538,Symptoms of Depressive Disorder,By State,Wisconsin,2020-06-18,15.7,Mild
 1539,Symptoms of Depressive Disorder,By State,Wyoming,2020-06-18,17.6,Mild
-1540,Symptoms of Anxiety Disorder,National Estimate,United States,2020-06-18,31.2,High
-1541,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-18,42.8,Extreme
-1542,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-18,36.0,Extreme
-1543,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-18,34.0,High
-1544,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-18,32.4,High
-1545,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-18,23.1,Mild
-1546,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-18,14.8,Mild
-1547,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-18,11.4,Mild
-1548,Symptoms of Anxiety Disorder,By Sex,Male,2020-06-18,27.4,Moderate
-1549,Symptoms of Anxiety Disorder,By Sex,Female,2020-06-18,34.8,High
-1550,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-18,36.5,Extreme
-1551,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-18,29.8,High
-1552,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-18,32.6,High
-1553,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-18,23.0,Mild
-1554,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-18,39.7,Extreme
-1555,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-06-18,36.6,Extreme
-1556,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-06-18,32.7,High
-1557,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-06-18,33.7,High
-1558,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-06-18,26.0,Moderate
 1559,Symptoms of Anxiety Disorder,By State,Alabama,2020-06-18,33.7,High
 1560,Symptoms of Anxiety Disorder,By State,Alaska,2020-06-18,31.8,High
 1561,Symptoms of Anxiety Disorder,By State,Arizona,2020-06-18,34.7,High
@@ -1609,25 +1172,6 @@
 1607,Symptoms of Anxiety Disorder,By State,West Virginia,2020-06-18,34.7,High
 1608,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-06-18,21.3,Mild
 1609,Symptoms of Anxiety Disorder,By State,Wyoming,2020-06-18,23.7,Mild
-1610,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-06-18,36.1,Extreme
-1611,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-18,50.0,Extreme
-1612,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-18,40.8,Extreme
-1613,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-18,38.5,Extreme
-1614,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-18,36.3,Extreme
-1615,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-18,27.4,Moderate
-1616,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-18,19.3,Mild
-1617,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-18,14.6,Mild
-1618,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-06-18,32.4,High
-1619,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-06-18,39.6,Extreme
-1620,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-18,42.3,Extreme
-1621,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-18,34.1,High
-1622,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-18,39.1,Extreme
-1623,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-18,27.8,Moderate
-1624,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-18,45.1,Extreme
-1625,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-06-18,43.6,Extreme
-1626,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-06-18,38.1,Extreme
-1627,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-06-18,39.1,Extreme
-1628,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-18,29.2,Moderate
 1629,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-06-18,38.0,Extreme
 1630,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-06-18,37.1,Extreme
 1631,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-06-18,40.1,Extreme
@@ -1679,25 +1223,6 @@
 1677,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-06-18,38.4,Extreme
 1678,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-06-18,24.6,Mild
 1679,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-06-18,28.4,Moderate
-1680,Symptoms of Depressive Disorder,National Estimate,United States,2020-06-25,26.9,Moderate
-1681,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-06-25,36.6,Extreme
-1682,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-06-25,30.7,High
-1683,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-06-25,27.7,Moderate
-1684,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-06-25,27.1,Moderate
-1685,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-06-25,20.5,Mild
-1686,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-06-25,16.1,Mild
-1687,Symptoms of Depressive Disorder,By Age,80 years and above,2020-06-25,15.2,Mild
-1688,Symptoms of Depressive Disorder,By Sex,Male,2020-06-25,25.0,Moderate
-1689,Symptoms of Depressive Disorder,By Sex,Female,2020-06-25,28.8,Moderate
-1690,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-25,31.1,High
-1691,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-25,24.9,Moderate
-1692,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-25,30.9,High
-1693,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-25,21.5,Mild
-1694,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-25,36.8,Extreme
-1695,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-06-25,37.1,Extreme
-1696,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-06-25,28.7,Moderate
-1697,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-06-25,30.0,High
-1698,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-25,19.4,Mild
 1699,Symptoms of Depressive Disorder,By State,Alabama,2020-06-25,26.5,Moderate
 1700,Symptoms of Depressive Disorder,By State,Alaska,2020-06-25,23.8,Mild
 1701,Symptoms of Depressive Disorder,By State,Arizona,2020-06-25,32.7,High
@@ -1749,25 +1274,6 @@
 1747,Symptoms of Depressive Disorder,By State,West Virginia,2020-06-25,34.5,High
 1748,Symptoms of Depressive Disorder,By State,Wisconsin,2020-06-25,19.0,Mild
 1749,Symptoms of Depressive Disorder,By State,Wyoming,2020-06-25,23.4,Mild
-1750,Symptoms of Anxiety Disorder,National Estimate,United States,2020-06-25,33.0,High
-1751,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-06-25,42.4,Extreme
-1752,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-06-25,38.9,Extreme
-1753,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-06-25,35.4,Extreme
-1754,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-06-25,33.9,High
-1755,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-06-25,25.0,Moderate
-1756,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-06-25,18.6,Mild
-1757,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-06-25,16.2,Mild
-1758,Symptoms of Anxiety Disorder,By Sex,Male,2020-06-25,29.0,Moderate
-1759,Symptoms of Anxiety Disorder,By Sex,Female,2020-06-25,36.7,Extreme
-1760,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-25,37.0,Extreme
-1761,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-25,31.4,High
-1762,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-25,35.1,High
-1763,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-25,24.3,Mild
-1764,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-25,45.4,Extreme
-1765,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-06-25,41.0,Extreme
-1766,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-06-25,33.5,High
-1767,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-06-25,36.4,Extreme
-1768,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-06-25,26.9,Moderate
 1769,Symptoms of Anxiety Disorder,By State,Alabama,2020-06-25,28.7,Moderate
 1770,Symptoms of Anxiety Disorder,By State,Alaska,2020-06-25,32.5,High
 1771,Symptoms of Anxiety Disorder,By State,Arizona,2020-06-25,39.7,Extreme
@@ -1819,25 +1325,6 @@
 1817,Symptoms of Anxiety Disorder,By State,West Virginia,2020-06-25,40.5,Extreme
 1818,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-06-25,25.5,Moderate
 1819,Symptoms of Anxiety Disorder,By State,Wyoming,2020-06-25,31.6,High
-1820,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-06-25,37.8,Extreme
-1821,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-06-25,49.4,Extreme
-1822,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-06-25,44.1,Extreme
-1823,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-06-25,39.7,Extreme
-1824,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-06-25,37.4,Extreme
-1825,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-06-25,29.1,Moderate
-1826,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-06-25,23.4,Mild
-1827,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-06-25,20.5,Mild
-1828,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-06-25,33.8,High
-1829,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-06-25,41.5,Extreme
-1830,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-25,42.8,Extreme
-1831,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-25,35.8,Extreme
-1832,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-25,41.3,Extreme
-1833,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-25,28.6,Moderate
-1834,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-25,49.6,Extreme
-1835,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-06-25,46.9,Extreme
-1836,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-06-25,38.7,Extreme
-1837,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-06-25,41.8,Extreme
-1838,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-06-25,30.3,High
 1839,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-06-25,35.9,Extreme
 1840,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-06-25,35.3,Extreme
 1841,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-06-25,44.1,Extreme
@@ -1889,25 +1376,6 @@
 1887,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-06-25,45.1,Extreme
 1888,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-06-25,29.2,Moderate
 1889,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-06-25,34.2,High
-1890,Symptoms of Depressive Disorder,National Estimate,United States,2020-07-02,27.6,Moderate
-1891,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-07-02,35.8,Extreme
-1892,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-07-02,31.7,High
-1893,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-07-02,27.6,Moderate
-1894,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-07-02,28.2,Moderate
-1895,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-07-02,21.8,Mild
-1896,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-07-02,17.8,Mild
-1897,Symptoms of Depressive Disorder,By Age,80 years and above,2020-07-02,18.7,Mild
-1898,Symptoms of Depressive Disorder,By Sex,Male,2020-07-02,26.6,Moderate
-1899,Symptoms of Depressive Disorder,By Sex,Female,2020-07-02,28.6,Moderate
-1900,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-02,30.9,High
-1901,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-02,26.0,Moderate
-1902,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-02,29.9,High
-1903,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-02,25.0,Moderate
-1904,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-02,35.6,Extreme
-1905,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-07-02,38.3,Extreme
-1906,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-07-02,29.1,Moderate
-1907,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-07-02,31.2,High
-1908,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-07-02,19.9,Mild
 1909,Symptoms of Depressive Disorder,By State,Alabama,2020-07-02,28.6,Moderate
 1910,Symptoms of Depressive Disorder,By State,Alaska,2020-07-02,21.5,Mild
 1911,Symptoms of Depressive Disorder,By State,Arizona,2020-07-02,31.3,High
@@ -1959,25 +1427,6 @@
 1957,Symptoms of Depressive Disorder,By State,West Virginia,2020-07-02,24.2,Mild
 1958,Symptoms of Depressive Disorder,By State,Wisconsin,2020-07-02,24.6,Mild
 1959,Symptoms of Depressive Disorder,By State,Wyoming,2020-07-02,26.5,Moderate
-1960,Symptoms of Anxiety Disorder,National Estimate,United States,2020-07-02,34.0,High
-1961,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-07-02,44.4,Extreme
-1962,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-07-02,40.6,Extreme
-1963,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-07-02,36.1,Extreme
-1964,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-07-02,33.4,High
-1965,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-07-02,26.5,Moderate
-1966,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-07-02,18.4,Mild
-1967,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-07-02,19.3,Mild
-1968,Symptoms of Anxiety Disorder,By Sex,Male,2020-07-02,30.7,High
-1969,Symptoms of Anxiety Disorder,By Sex,Female,2020-07-02,37.0,Extreme
-1970,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-02,37.1,Extreme
-1971,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-02,32.9,High
-1972,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-02,34.0,High
-1973,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-02,29.9,High
-1974,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-02,43.3,Extreme
-1975,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-07-02,40.7,Extreme
-1976,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-07-02,34.9,High
-1977,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-07-02,37.0,Extreme
-1978,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-07-02,28.3,Moderate
 1979,Symptoms of Anxiety Disorder,By State,Alabama,2020-07-02,34.4,High
 1980,Symptoms of Anxiety Disorder,By State,Alaska,2020-07-02,27.3,Moderate
 1981,Symptoms of Anxiety Disorder,By State,Arizona,2020-07-02,36.6,Extreme
@@ -2029,25 +1478,6 @@
 2027,Symptoms of Anxiety Disorder,By State,West Virginia,2020-07-02,31.9,High
 2028,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-07-02,30.7,High
 2029,Symptoms of Anxiety Disorder,By State,Wyoming,2020-07-02,31.5,High
-2030,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-07-02,39.0,Extreme
-2031,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-07-02,50.4,Extreme
-2032,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-07-02,45.9,Extreme
-2033,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-07-02,40.0,Extreme
-2034,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-07-02,38.3,Extreme
-2035,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-07-02,30.8,High
-2036,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-07-02,24.5,Mild
-2037,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-07-02,25.6,Moderate
-2038,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-07-02,36.5,Extreme
-2039,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-07-02,41.3,Extreme
-2040,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-02,43.4,Extreme
-2041,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-02,37.2,Extreme
-2042,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-02,40.6,Extreme
-2043,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-02,36.6,Extreme
-2044,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-02,47.7,Extreme
-2045,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-07-02,48.4,Extreme
-2046,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-07-02,40.7,Extreme
-2047,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-07-02,42.2,Extreme
-2048,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-07-02,31.7,High
 2049,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-07-02,39.6,Extreme
 2050,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-07-02,32.9,High
 2051,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-07-02,42.4,Extreme
@@ -2099,25 +1529,6 @@
 2097,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-07-02,34.6,High
 2098,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-07-02,34.1,High
 2099,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-07-02,36.0,Extreme
-2100,Symptoms of Depressive Disorder,National Estimate,United States,2020-07-09,28.1,Moderate
-2101,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-07-09,39.0,Extreme
-2102,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-07-09,32.3,High
-2103,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-07-09,28.5,Moderate
-2104,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-07-09,29.2,Moderate
-2105,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-07-09,21.7,Mild
-2106,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-07-09,13.9,Mild
-2107,Symptoms of Depressive Disorder,By Age,80 years and above,2020-07-09,12.0,Mild
-2108,Symptoms of Depressive Disorder,By Sex,Male,2020-07-09,26.0,Moderate
-2109,Symptoms of Depressive Disorder,By Sex,Female,2020-07-09,30.0,High
-2110,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-09,31.0,High
-2111,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-09,26.6,Moderate
-2112,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-09,30.0,High
-2113,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-09,26.4,Moderate
-2114,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-09,36.1,Extreme
-2115,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-07-09,34.9,High
-2116,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-07-09,28.6,Moderate
-2117,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-07-09,32.3,High
-2118,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-07-09,21.6,Mild
 2119,Symptoms of Depressive Disorder,By State,Alabama,2020-07-09,30.4,High
 2120,Symptoms of Depressive Disorder,By State,Alaska,2020-07-09,27.4,Moderate
 2121,Symptoms of Depressive Disorder,By State,Arizona,2020-07-09,33.9,High
@@ -2169,25 +1580,6 @@
 2167,Symptoms of Depressive Disorder,By State,West Virginia,2020-07-09,29.4,Moderate
 2168,Symptoms of Depressive Disorder,By State,Wisconsin,2020-07-09,24.6,Mild
 2169,Symptoms of Depressive Disorder,By State,Wyoming,2020-07-09,21.7,Mild
-2170,Symptoms of Anxiety Disorder,National Estimate,United States,2020-07-09,35.6,Extreme
-2171,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-07-09,47.7,Extreme
-2172,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-07-09,42.9,Extreme
-2173,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-07-09,37.7,Extreme
-2174,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-07-09,34.7,High
-2175,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-07-09,27.8,Moderate
-2176,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-07-09,17.8,Mild
-2177,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-07-09,15.6,Mild
-2178,Symptoms of Anxiety Disorder,By Sex,Male,2020-07-09,31.5,High
-2179,Symptoms of Anxiety Disorder,By Sex,Female,2020-07-09,39.4,Extreme
-2180,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-09,39.3,Extreme
-2181,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-09,34.1,High
-2182,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-09,36.9,Extreme
-2183,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-09,30.2,High
-2184,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-09,46.2,Extreme
-2185,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-07-09,44.0,Extreme
-2186,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-07-09,34.6,High
-2187,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-07-09,39.3,Extreme
-2188,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-07-09,30.6,High
 2189,Symptoms of Anxiety Disorder,By State,Alabama,2020-07-09,34.9,High
 2190,Symptoms of Anxiety Disorder,By State,Alaska,2020-07-09,35.1,High
 2191,Symptoms of Anxiety Disorder,By State,Arizona,2020-07-09,39.9,Extreme
@@ -2239,25 +1631,6 @@
 2237,Symptoms of Anxiety Disorder,By State,West Virginia,2020-07-09,36.1,Extreme
 2238,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-07-09,31.1,High
 2239,Symptoms of Anxiety Disorder,By State,Wyoming,2020-07-09,29.4,Moderate
-2240,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-07-09,40.3,Extreme
-2241,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-07-09,55.0,Extreme
-2242,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-07-09,46.8,Extreme
-2243,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-07-09,41.6,Extreme
-2244,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-07-09,39.8,Extreme
-2245,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-07-09,31.8,High
-2246,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-07-09,21.4,Mild
-2247,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-07-09,18.9,Mild
-2248,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-07-09,36.1,Extreme
-2249,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-07-09,44.2,Extreme
-2250,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-09,44.0,Extreme
-2251,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-09,38.5,Extreme
-2252,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-09,42.7,Extreme
-2253,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-09,36.5,Extreme
-2254,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-09,51.2,Extreme
-2255,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-07-09,49.2,Extreme
-2256,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-07-09,39.4,Extreme
-2257,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-07-09,44.6,Extreme
-2258,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-07-09,34.4,High
 2259,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-07-09,40.1,Extreme
 2260,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-07-09,39.6,Extreme
 2261,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-07-09,44.2,Extreme
@@ -2309,25 +1682,6 @@
 2307,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-07-09,40.9,Extreme
 2308,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-07-09,36.6,Extreme
 2309,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-07-09,33.0,High
-2310,Symptoms of Depressive Disorder,National Estimate,United States,2020-07-16,29.6,Moderate
-2311,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-07-16,41.7,Extreme
-2312,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-07-16,32.8,High
-2313,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-07-16,31.0,High
-2314,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-07-16,28.4,Moderate
-2315,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-07-16,23.6,Mild
-2316,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-07-16,16.9,Mild
-2317,Symptoms of Depressive Disorder,By Age,80 years and above,2020-07-16,12.6,Mild
-2318,Symptoms of Depressive Disorder,By Sex,Male,2020-07-16,27.8,Moderate
-2319,Symptoms of Depressive Disorder,By Sex,Female,2020-07-16,31.3,High
-2320,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-16,34.2,High
-2321,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-16,27.7,Moderate
-2322,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-16,32.1,High
-2323,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-16,30.5,High
-2324,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-16,33.0,High
-2325,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-07-16,38.4,Extreme
-2326,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-07-16,31.4,High
-2327,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-07-16,33.0,High
-2328,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-07-16,22.2,Mild
 2329,Symptoms of Depressive Disorder,By State,Alabama,2020-07-16,32.7,High
 2330,Symptoms of Depressive Disorder,By State,Alaska,2020-07-16,27.4,Moderate
 2331,Symptoms of Depressive Disorder,By State,Arizona,2020-07-16,34.3,High
@@ -2379,25 +1733,6 @@
 2377,Symptoms of Depressive Disorder,By State,West Virginia,2020-07-16,28.0,Moderate
 2378,Symptoms of Depressive Disorder,By State,Wisconsin,2020-07-16,23.9,Mild
 2379,Symptoms of Depressive Disorder,By State,Wyoming,2020-07-16,31.6,High
-2380,Symptoms of Anxiety Disorder,National Estimate,United States,2020-07-16,36.1,Extreme
-2381,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-07-16,46.6,Extreme
-2382,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-07-16,42.8,Extreme
-2383,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-07-16,39.9,Extreme
-2384,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-07-16,36.1,Extreme
-2385,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-07-16,27.3,Moderate
-2386,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-07-16,19.5,Mild
-2387,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-07-16,13.4,Mild
-2388,Symptoms of Anxiety Disorder,By Sex,Male,2020-07-16,32.1,High
-2389,Symptoms of Anxiety Disorder,By Sex,Female,2020-07-16,39.8,Extreme
-2390,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-16,41.9,Extreme
-2391,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-16,34.2,High
-2392,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-16,35.8,Extreme
-2393,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-16,35.0,High
-2394,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-16,43.8,Extreme
-2395,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-07-16,42.0,Extreme
-2396,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-07-16,36.4,Extreme
-2397,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-07-16,38.1,Extreme
-2398,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-07-16,32.2,High
 2399,Symptoms of Anxiety Disorder,By State,Alabama,2020-07-16,39.9,Extreme
 2400,Symptoms of Anxiety Disorder,By State,Alaska,2020-07-16,33.8,High
 2401,Symptoms of Anxiety Disorder,By State,Arizona,2020-07-16,41.3,Extreme
@@ -2449,25 +1784,6 @@
 2447,Symptoms of Anxiety Disorder,By State,West Virginia,2020-07-16,31.1,High
 2448,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-07-16,29.9,High
 2449,Symptoms of Anxiety Disorder,By State,Wyoming,2020-07-16,38.8,Extreme
-2450,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-07-16,40.9,Extreme
-2451,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-07-16,53.4,Extreme
-2452,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-07-16,47.1,Extreme
-2453,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-07-16,44.5,Extreme
-2454,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-07-16,40.0,Extreme
-2455,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-07-16,32.1,High
-2456,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-07-16,24.3,Mild
-2457,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-07-16,17.5,Mild
-2458,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-07-16,37.0,Extreme
-2459,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-07-16,44.6,Extreme
-2460,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-16,46.3,Extreme
-2461,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-16,38.8,Extreme
-2462,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-16,42.6,Extreme
-2463,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-16,40.3,Extreme
-2464,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-16,48.8,Extreme
-2465,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-07-16,47.3,Extreme
-2466,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-07-16,42.2,Extreme
-2467,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-07-16,43.3,Extreme
-2468,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-07-16,35.7,Extreme
 2469,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-07-16,43.3,Extreme
 2470,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-07-16,38.8,Extreme
 2471,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-07-16,44.9,Extreme
@@ -2519,25 +1835,6 @@
 2517,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-07-16,37.0,Extreme
 2518,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-07-16,33.3,High
 2519,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-07-16,41.3,Extreme
-2539,Symptoms of Depressive Disorder,National Estimate,United States,2020-08-19,24.5,Mild
-2540,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-08-19,35.4,Extreme
-2541,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-08-19,27.9,Moderate
-2542,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-08-19,23.8,Mild
-2543,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-08-19,23.8,Mild
-2544,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-08-19,19.7,Mild
-2545,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-08-19,14.8,Mild
-2546,Symptoms of Depressive Disorder,By Age,80 years and above,2020-08-19,13.8,Mild
-2547,Symptoms of Depressive Disorder,By Sex,Male,2020-08-19,22.5,Mild
-2548,Symptoms of Depressive Disorder,By Sex,Female,2020-08-19,26.4,Moderate
-2549,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-08-19,28.5,Moderate
-2550,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-08-19,23.2,Mild
-2551,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-08-19,26.2,Moderate
-2552,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-08-19,20.8,Mild
-2553,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-08-19,30.3,High
-2554,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-08-19,29.1,Moderate
-2555,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-08-19,27.0,Moderate
-2556,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-08-19,27.2,Moderate
-2557,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-08-19,18.6,Mild
 2558,Symptoms of Depressive Disorder,By State,Alabama,2020-08-19,27.7,Moderate
 2559,Symptoms of Depressive Disorder,By State,Alaska,2020-08-19,22.2,Mild
 2560,Symptoms of Depressive Disorder,By State,Arizona,2020-08-19,26.4,Moderate
@@ -2589,25 +1886,6 @@
 2606,Symptoms of Depressive Disorder,By State,West Virginia,2020-08-19,25.2,Moderate
 2607,Symptoms of Depressive Disorder,By State,Wisconsin,2020-08-19,20.2,Mild
 2608,Symptoms of Depressive Disorder,By State,Wyoming,2020-08-19,21.9,Mild
-2628,Symptoms of Anxiety Disorder,National Estimate,United States,2020-08-19,31.4,High
-2629,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-08-19,41.0,Extreme
-2630,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-08-19,37.7,Extreme
-2631,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-08-19,33.1,High
-2632,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-08-19,31.1,High
-2633,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-08-19,25.2,Moderate
-2634,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-08-19,18.2,Mild
-2635,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-08-19,14.6,Mild
-2636,Symptoms of Anxiety Disorder,By Sex,Male,2020-08-19,26.4,Moderate
-2637,Symptoms of Anxiety Disorder,By Sex,Female,2020-08-19,36.1,Extreme
-2638,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-08-19,33.3,High
-2639,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-08-19,31.2,High
-2640,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-08-19,30.8,High
-2641,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-08-19,25.1,Moderate
-2642,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-08-19,37.1,Extreme
-2643,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-08-19,35.4,Extreme
-2644,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-08-19,30.1,High
-2645,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-08-19,34.2,High
-2646,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-08-19,29.1,Moderate
 2647,Symptoms of Anxiety Disorder,By State,Alabama,2020-08-19,30.6,High
 2648,Symptoms of Anxiety Disorder,By State,Alaska,2020-08-19,30.5,High
 2649,Symptoms of Anxiety Disorder,By State,Arizona,2020-08-19,30.4,High
@@ -2659,25 +1937,6 @@
 2695,Symptoms of Anxiety Disorder,By State,West Virginia,2020-08-19,29.0,Moderate
 2696,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-08-19,25.2,Moderate
 2697,Symptoms of Anxiety Disorder,By State,Wyoming,2020-08-19,32.8,High
-2717,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-08-19,36.4,Extreme
-2718,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-08-19,49.0,Extreme
-2719,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-08-19,42.5,Extreme
-2720,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-08-19,37.6,Extreme
-2721,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-08-19,34.9,High
-2722,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-08-19,29.3,Moderate
-2723,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-08-19,23.2,Mild
-2724,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-08-19,19.4,Mild
-2725,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-08-19,31.8,High
-2726,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-08-19,40.7,Extreme
-2727,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-08-19,40.2,Extreme
-2728,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-08-19,35.4,Extreme
-2729,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-08-19,37.7,Extreme
-2730,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-08-19,30.5,High
-2731,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-08-19,43.1,Extreme
-2732,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-08-19,41.8,Extreme
-2733,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-08-19,36.3,Extreme
-2734,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-08-19,39.4,Extreme
-2735,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-08-19,32.4,High
 2736,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-08-19,37.2,Extreme
 2737,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-08-19,34.8,High
 2738,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-08-19,35.1,High
@@ -2729,25 +1988,6 @@
 2784,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-08-19,34.5,High
 2785,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-08-19,29.1,Moderate
 2786,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-08-19,35.6,Extreme
-2787,Symptoms of Depressive Disorder,National Estimate,United States,2020-09-02,24.4,Mild
-2788,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-09-02,34.9,High
-2789,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-09-02,27.2,Moderate
-2790,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-09-02,25.8,Moderate
-2791,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-09-02,23.1,Mild
-2792,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-09-02,19.4,Mild
-2793,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-09-02,14.9,Mild
-2794,Symptoms of Depressive Disorder,By Age,80 years and above,2020-09-02,13.3,Mild
-2795,Symptoms of Depressive Disorder,By Sex,Male,2020-09-02,22.8,Mild
-2796,Symptoms of Depressive Disorder,By Sex,Female,2020-09-02,26.0,Moderate
-2797,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-02,28.9,Moderate
-2798,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-02,22.7,Mild
-2799,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-02,28.5,Moderate
-2800,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-02,19.1,Mild
-2801,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-02,31.4,High
-2802,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-09-02,33.0,High
-2803,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-09-02,25.7,Moderate
-2804,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-09-02,27.5,Moderate
-2805,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-09-02,18.4,Mild
 2806,Symptoms of Depressive Disorder,By State,Alabama,2020-09-02,25.2,Moderate
 2807,Symptoms of Depressive Disorder,By State,Alaska,2020-09-02,23.6,Mild
 2808,Symptoms of Depressive Disorder,By State,Arizona,2020-09-02,26.5,Moderate
@@ -2799,25 +2039,6 @@
 2854,Symptoms of Depressive Disorder,By State,West Virginia,2020-09-02,26.9,Moderate
 2855,Symptoms of Depressive Disorder,By State,Wisconsin,2020-09-02,19.3,Mild
 2856,Symptoms of Depressive Disorder,By State,Wyoming,2020-09-02,23.6,Mild
-2857,Symptoms of Anxiety Disorder,National Estimate,United States,2020-09-02,31.6,High
-2858,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-09-02,40.6,Extreme
-2859,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-09-02,37.9,Extreme
-2860,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-09-02,33.7,High
-2861,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-09-02,30.8,High
-2862,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-09-02,24.9,Moderate
-2863,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-09-02,19.2,Mild
-2864,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-09-02,17.7,Mild
-2865,Symptoms of Anxiety Disorder,By Sex,Male,2020-09-02,27.2,Moderate
-2866,Symptoms of Anxiety Disorder,By Sex,Female,2020-09-02,35.5,Extreme
-2867,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-02,35.9,Extreme
-2868,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-02,30.4,High
-2869,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-02,33.0,High
-2870,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-02,21.5,Mild
-2871,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-02,42.1,Extreme
-2872,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-09-02,38.9,Extreme
-2873,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-09-02,30.6,High
-2874,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-09-02,33.8,High
-2875,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-09-02,28.5,Moderate
 2876,Symptoms of Anxiety Disorder,By State,Alabama,2020-09-02,33.7,High
 2877,Symptoms of Anxiety Disorder,By State,Alaska,2020-09-02,28.4,Moderate
 2878,Symptoms of Anxiety Disorder,By State,Arizona,2020-09-02,33.4,High
@@ -2869,25 +2090,6 @@
 2924,Symptoms of Anxiety Disorder,By State,West Virginia,2020-09-02,33.5,High
 2925,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-09-02,27.5,Moderate
 2926,Symptoms of Anxiety Disorder,By State,Wyoming,2020-09-02,29.4,Moderate
-2927,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-09-02,36.2,Extreme
-2928,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-09-02,47.3,Extreme
-2929,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-09-02,41.8,Extreme
-2930,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-09-02,38.2,Extreme
-2931,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-09-02,35.0,High
-2932,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-09-02,29.3,Moderate
-2933,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-09-02,23.1,Mild
-2934,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-09-02,22.3,Mild
-2935,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-09-02,32.1,High
-2936,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-09-02,39.9,Extreme
-2937,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-02,42.0,Extreme
-2938,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-02,34.4,High
-2939,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-02,38.6,Extreme
-2940,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-02,27.4,Moderate
-2941,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-02,47.8,Extreme
-2942,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-09-02,45.5,Extreme
-2943,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-09-02,35.7,Extreme
-2944,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-09-02,39.0,Extreme
-2945,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-09-02,31.8,High
 2946,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-09-02,38.1,Extreme
 2947,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-09-02,33.6,High
 2948,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-09-02,39.0,Extreme
@@ -2939,25 +2141,6 @@
 2994,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-09-02,38.4,Extreme
 2995,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-09-02,31.3,High
 2996,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-09-02,33.6,High
-2997,Symptoms of Depressive Disorder,National Estimate,United States,2020-09-16,25.0,Moderate
-2998,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-09-16,35.7,Extreme
-2999,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-09-16,28.5,Moderate
-3000,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-09-16,25.1,Moderate
-3001,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-09-16,23.6,Mild
-3002,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-09-16,20.8,Mild
-3003,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-09-16,15.5,Mild
-3004,Symptoms of Depressive Disorder,By Age,80 years and above,2020-09-16,12.5,Mild
-3005,Symptoms of Depressive Disorder,By Sex,Male,2020-09-16,22.7,Mild
-3006,Symptoms of Depressive Disorder,By Sex,Female,2020-09-16,27.2,Moderate
-3007,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-16,31.0,High
-3008,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-16,23.4,Mild
-3009,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-16,25.8,Moderate
-3010,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-16,21.0,Mild
-3011,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-16,31.4,High
-3012,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-09-16,34.4,High
-3013,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-09-16,25.7,Moderate
-3014,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-09-16,27.4,Moderate
-3015,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-09-16,19.9,Mild
 3016,Symptoms of Depressive Disorder,By State,Alabama,2020-09-16,28.6,Moderate
 3017,Symptoms of Depressive Disorder,By State,Alaska,2020-09-16,25.2,Moderate
 3018,Symptoms of Depressive Disorder,By State,Arizona,2020-09-16,28.2,Moderate
@@ -3009,25 +2192,6 @@
 3064,Symptoms of Depressive Disorder,By State,West Virginia,2020-09-16,28.0,Moderate
 3065,Symptoms of Depressive Disorder,By State,Wisconsin,2020-09-16,19.4,Mild
 3066,Symptoms of Depressive Disorder,By State,Wyoming,2020-09-16,22.4,Mild
-3067,Symptoms of Anxiety Disorder,National Estimate,United States,2020-09-16,32.6,High
-3068,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-09-16,42.5,Extreme
-3069,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-09-16,39.2,Extreme
-3070,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-09-16,34.8,High
-3071,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-09-16,31.4,High
-3072,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-09-16,26.5,Moderate
-3073,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-09-16,19.2,Mild
-3074,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-09-16,15.3,Mild
-3075,Symptoms of Anxiety Disorder,By Sex,Male,2020-09-16,27.7,Moderate
-3076,Symptoms of Anxiety Disorder,By Sex,Female,2020-09-16,37.1,Extreme
-3077,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-16,38.5,Extreme
-3078,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-16,31.4,High
-3079,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-16,32.0,High
-3080,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-16,25.0,Moderate
-3081,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-16,39.6,Extreme
-3082,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-09-16,39.2,Extreme
-3083,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-09-16,31.1,High
-3084,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-09-16,34.6,High
-3085,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-09-16,30.3,High
 3086,Symptoms of Anxiety Disorder,By State,Alabama,2020-09-16,30.8,High
 3087,Symptoms of Anxiety Disorder,By State,Alaska,2020-09-16,29.9,High
 3088,Symptoms of Anxiety Disorder,By State,Arizona,2020-09-16,34.9,High
@@ -3079,25 +2243,6 @@
 3134,Symptoms of Anxiety Disorder,By State,West Virginia,2020-09-16,36.4,Extreme
 3135,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-09-16,28.4,Moderate
 3136,Symptoms of Anxiety Disorder,By State,Wyoming,2020-09-16,29.1,Moderate
-3137,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-09-16,37.2,Extreme
-3138,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-09-16,49.9,Extreme
-3139,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-09-16,43.0,Extreme
-3140,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-09-16,39.0,Extreme
-3141,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-09-16,35.6,Extreme
-3142,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-09-16,30.7,High
-3143,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-09-16,23.5,Mild
-3144,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-09-16,19.1,Mild
-3145,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-09-16,32.7,High
-3146,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-09-16,41.4,Extreme
-3147,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-16,44.4,Extreme
-3148,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-16,35.6,Extreme
-3149,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-16,37.4,Extreme
-3150,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-16,30.1,High
-3151,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-16,44.4,Extreme
-3152,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-09-16,44.6,Extreme
-3153,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-09-16,36.7,Extreme
-3154,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-09-16,39.7,Extreme
-3155,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-09-16,33.6,High
 3156,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-09-16,37.2,Extreme
 3157,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-09-16,35.5,Extreme
 3158,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-09-16,39.3,Extreme
@@ -3149,25 +2294,6 @@
 3204,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-09-16,39.2,Extreme
 3205,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-09-16,30.8,High
 3206,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-09-16,33.2,High
-3207,Symptoms of Depressive Disorder,National Estimate,United States,2020-09-30,25.4,Moderate
-3208,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-09-30,39.3,Extreme
-3209,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-09-30,28.4,Moderate
-3210,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-09-30,26.4,Moderate
-3211,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-09-30,22.6,Mild
-3212,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-09-30,19.6,Mild
-3213,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-09-30,15.0,Mild
-3214,Symptoms of Depressive Disorder,By Age,80 years and above,2020-09-30,10.8,Mild
-3215,Symptoms of Depressive Disorder,By Sex,Male,2020-09-30,23.5,Mild
-3216,Symptoms of Depressive Disorder,By Sex,Female,2020-09-30,27.2,Moderate
-3217,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-30,31.5,High
-3218,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-30,23.3,Mild
-3219,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-30,29.2,Moderate
-3220,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-30,19.0,Mild
-3221,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-30,33.6,High
-3222,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-09-30,32.0,High
-3223,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-09-30,26.9,Moderate
-3224,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-09-30,29.0,Moderate
-3225,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-09-30,19.1,Mild
 3226,Symptoms of Depressive Disorder,By State,Alabama,2020-09-30,25.0,Moderate
 3227,Symptoms of Depressive Disorder,By State,Alaska,2020-09-30,27.1,Moderate
 3228,Symptoms of Depressive Disorder,By State,Arizona,2020-09-30,25.0,Moderate
@@ -3219,25 +2345,6 @@
 3274,Symptoms of Depressive Disorder,By State,West Virginia,2020-09-30,27.5,Moderate
 3275,Symptoms of Depressive Disorder,By State,Wisconsin,2020-09-30,21.6,Mild
 3276,Symptoms of Depressive Disorder,By State,Wyoming,2020-09-30,22.2,Mild
-3277,Symptoms of Anxiety Disorder,National Estimate,United States,2020-09-30,32.4,High
-3278,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-09-30,44.7,Extreme
-3279,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-09-30,38.1,Extreme
-3280,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-09-30,35.3,Extreme
-3281,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-09-30,31.1,High
-3282,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-09-30,24.8,Moderate
-3283,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-09-30,18.0,Mild
-3284,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-09-30,15.0,Mild
-3285,Symptoms of Anxiety Disorder,By Sex,Male,2020-09-30,28.1,Moderate
-3286,Symptoms of Anxiety Disorder,By Sex,Female,2020-09-30,36.4,Extreme
-3287,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-30,36.4,Extreme
-3288,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-30,31.6,High
-3289,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-30,32.2,High
-3290,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-30,24.8,Moderate
-3291,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-30,39.7,Extreme
-3292,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-09-30,37.8,Extreme
-3293,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-09-30,30.8,High
-3294,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-09-30,35.2,Extreme
-3295,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-09-30,29.9,High
 3296,Symptoms of Anxiety Disorder,By State,Alabama,2020-09-30,29.4,Moderate
 3297,Symptoms of Anxiety Disorder,By State,Alaska,2020-09-30,32.6,High
 3298,Symptoms of Anxiety Disorder,By State,Arizona,2020-09-30,31.7,High
@@ -3289,25 +2396,6 @@
 3344,Symptoms of Anxiety Disorder,By State,West Virginia,2020-09-30,37.1,Extreme
 3345,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-09-30,30.7,High
 3346,Symptoms of Anxiety Disorder,By State,Wyoming,2020-09-30,27.0,Moderate
-3347,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-09-30,37.5,Extreme
-3348,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-09-30,52.8,Extreme
-3349,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-09-30,43.2,Extreme
-3350,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-09-30,39.9,Extreme
-3351,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-09-30,34.8,High
-3352,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-09-30,29.5,Moderate
-3353,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-09-30,22.8,Mild
-3354,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-09-30,17.9,Mild
-3355,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-09-30,33.1,High
-3356,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-09-30,41.6,Extreme
-3357,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-30,43.5,Extreme
-3358,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-30,35.9,Extreme
-3359,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-30,39.7,Extreme
-3360,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-30,29.2,Moderate
-3361,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-30,45.7,Extreme
-3362,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-09-30,43.2,Extreme
-3363,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-09-30,37.1,Extreme
-3364,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-09-30,40.9,Extreme
-3365,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-09-30,33.3,High
 3366,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-09-30,33.6,High
 3367,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-09-30,37.4,Extreme
 3368,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-09-30,37.8,Extreme
@@ -3359,25 +2447,6 @@
 3414,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-09-30,42.8,Extreme
 3415,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-09-30,34.5,High
 3416,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-09-30,33.1,High
-3417,Symptoms of Depressive Disorder,National Estimate,United States,2020-10-14,26.0,Moderate
-3418,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-10-14,39.0,Extreme
-3419,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-10-14,30.3,High
-3420,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-10-14,26.3,Moderate
-3421,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-10-14,23.7,Mild
-3422,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-10-14,20.4,Mild
-3423,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-10-14,15.4,Mild
-3424,Symptoms of Depressive Disorder,By Age,80 years and above,2020-10-14,13.3,Mild
-3425,Symptoms of Depressive Disorder,By Sex,Male,2020-10-14,23.7,Mild
-3426,Symptoms of Depressive Disorder,By Sex,Female,2020-10-14,28.1,Moderate
-3427,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-14,31.3,High
-3428,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-14,24.0,Mild
-3429,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-14,28.7,Moderate
-3430,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-14,23.1,Mild
-3431,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-14,34.4,High
-3432,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-10-14,33.4,High
-3433,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-10-14,27.4,Moderate
-3434,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-10-14,29.6,Moderate
-3435,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-10-14,19.8,Mild
 3436,Symptoms of Depressive Disorder,By State,Alabama,2020-10-14,27.7,Moderate
 3437,Symptoms of Depressive Disorder,By State,Alaska,2020-10-14,25.7,Moderate
 3438,Symptoms of Depressive Disorder,By State,Arizona,2020-10-14,30.8,High
@@ -3429,25 +2498,6 @@
 3484,Symptoms of Depressive Disorder,By State,West Virginia,2020-10-14,25.2,Moderate
 3485,Symptoms of Depressive Disorder,By State,Wisconsin,2020-10-14,22.7,Mild
 3486,Symptoms of Depressive Disorder,By State,Wyoming,2020-10-14,20.8,Mild
-3487,Symptoms of Anxiety Disorder,National Estimate,United States,2020-10-14,32.8,High
-3488,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-10-14,44.0,Extreme
-3489,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-10-14,40.4,Extreme
-3490,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-10-14,35.1,High
-3491,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-10-14,30.4,High
-3492,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-10-14,26.5,Moderate
-3493,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-10-14,18.2,Mild
-3494,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-10-14,17.2,Mild
-3495,Symptoms of Anxiety Disorder,By Sex,Male,2020-10-14,27.6,Moderate
-3496,Symptoms of Anxiety Disorder,By Sex,Female,2020-10-14,37.6,Extreme
-3497,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-14,36.0,Extreme
-3498,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-14,31.8,High
-3499,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-14,32.9,High
-3500,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-14,29.2,Moderate
-3501,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-14,41.7,Extreme
-3502,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-10-14,37.0,Extreme
-3503,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-10-14,31.0,High
-3504,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-10-14,36.4,Extreme
-3505,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-10-14,30.3,High
 3506,Symptoms of Anxiety Disorder,By State,Alabama,2020-10-14,29.9,High
 3507,Symptoms of Anxiety Disorder,By State,Alaska,2020-10-14,33.0,High
 3508,Symptoms of Anxiety Disorder,By State,Arizona,2020-10-14,35.1,High
@@ -3499,25 +2549,6 @@
 3554,Symptoms of Anxiety Disorder,By State,West Virginia,2020-10-14,31.9,High
 3555,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-10-14,32.1,High
 3556,Symptoms of Anxiety Disorder,By State,Wyoming,2020-10-14,28.3,Moderate
-3557,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-10-14,37.8,Extreme
-3558,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-10-14,52.1,Extreme
-3559,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-10-14,44.9,Extreme
-3560,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-10-14,39.7,Extreme
-3561,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-10-14,34.8,High
-3562,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-10-14,30.7,High
-3563,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-10-14,23.1,Mild
-3564,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-10-14,19.3,Mild
-3565,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-10-14,32.9,High
-3566,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-10-14,42.4,Extreme
-3567,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-14,42.2,Extreme
-3568,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-14,36.1,Extreme
-3569,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-14,39.8,Extreme
-3570,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-14,34.3,High
-3571,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-14,48.3,Extreme
-3572,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-10-14,42.3,Extreme
-3573,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-10-14,37.1,Extreme
-3574,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-10-14,41.9,Extreme
-3575,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-10-14,33.7,High
 3576,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-10-14,36.0,Extreme
 3577,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-10-14,38.5,Extreme
 3578,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-10-14,39.8,Extreme
@@ -3569,25 +2600,6 @@
 3624,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-10-14,36.0,Extreme
 3625,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-10-14,36.0,Extreme
 3626,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-10-14,32.0,High
-3627,Symptoms of Depressive Disorder,National Estimate,United States,2020-10-28,27.7,Moderate
-3628,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-10-28,43.4,Extreme
-3629,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-10-28,33.5,High
-3630,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-10-28,27.4,Moderate
-3631,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-10-28,25.5,Moderate
-3632,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-10-28,20.5,Mild
-3633,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-10-28,16.4,Mild
-3634,Symptoms of Depressive Disorder,By Age,80 years and above,2020-10-28,12.6,Mild
-3635,Symptoms of Depressive Disorder,By Sex,Male,2020-10-28,25.4,Moderate
-3636,Symptoms of Depressive Disorder,By Sex,Female,2020-10-28,29.7,Moderate
-3637,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-28,33.5,High
-3638,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-28,25.4,Moderate
-3639,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-28,34.0,High
-3640,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-28,21.8,Mild
-3641,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-28,33.4,High
-3642,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-10-28,34.8,High
-3643,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-10-28,30.6,High
-3644,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-10-28,31.3,High
-3645,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-10-28,20.2,Mild
 3646,Symptoms of Depressive Disorder,By State,Alabama,2020-10-28,33.8,High
 3647,Symptoms of Depressive Disorder,By State,Alaska,2020-10-28,27.1,Moderate
 3648,Symptoms of Depressive Disorder,By State,Arizona,2020-10-28,27.2,Moderate
@@ -3639,25 +2651,6 @@
 3694,Symptoms of Depressive Disorder,By State,West Virginia,2020-10-28,25.7,Moderate
 3695,Symptoms of Depressive Disorder,By State,Wisconsin,2020-10-28,27.0,Moderate
 3696,Symptoms of Depressive Disorder,By State,Wyoming,2020-10-28,23.5,Mild
-3697,Symptoms of Anxiety Disorder,National Estimate,United States,2020-10-28,36.3,Extreme
-3698,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-10-28,51.7,Extreme
-3699,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-10-28,43.1,Extreme
-3700,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-10-28,38.9,Extreme
-3701,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-10-28,34.1,High
-3702,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-10-28,28.7,Moderate
-3703,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-10-28,21.3,Mild
-3704,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-10-28,15.4,Mild
-3705,Symptoms of Anxiety Disorder,By Sex,Male,2020-10-28,30.3,High
-3706,Symptoms of Anxiety Disorder,By Sex,Female,2020-10-28,41.8,Extreme
-3707,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-28,41.8,Extreme
-3708,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-28,35.0,High
-3709,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-28,38.3,Extreme
-3710,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-28,27.7,Moderate
-3711,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-28,42.5,Extreme
-3712,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-10-28,36.2,Extreme
-3713,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-10-28,35.3,Extreme
-3714,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-10-28,39.3,Extreme
-3715,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-10-28,34.5,High
 3716,Symptoms of Anxiety Disorder,By State,Alabama,2020-10-28,35.3,Extreme
 3717,Symptoms of Anxiety Disorder,By State,Alaska,2020-10-28,32.7,High
 3718,Symptoms of Anxiety Disorder,By State,Arizona,2020-10-28,35.5,Extreme
@@ -3709,25 +2702,6 @@
 3764,Symptoms of Anxiety Disorder,By State,West Virginia,2020-10-28,35.7,Extreme
 3765,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-10-28,36.0,Extreme
 3766,Symptoms of Anxiety Disorder,By State,Wyoming,2020-10-28,30.0,High
-3767,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-10-28,41.4,Extreme
-3768,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-10-28,58.7,Extreme
-3769,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-10-28,49.5,Extreme
-3770,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-10-28,42.6,Extreme
-3771,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-10-28,38.6,Extreme
-3772,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-10-28,32.9,High
-3773,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-10-28,26.6,Moderate
-3774,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-10-28,18.4,Mild
-3775,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-10-28,36.1,Extreme
-3776,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-10-28,46.2,Extreme
-3777,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-28,48.0,Extreme
-3778,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-28,39.4,Extreme
-3779,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-28,45.0,Extreme
-3780,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-28,32.9,High
-3781,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-28,48.5,Extreme
-3782,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-10-28,43.7,Extreme
-3783,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-10-28,42.0,Extreme
-3784,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-10-28,44.6,Extreme
-3785,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-10-28,37.3,Extreme
 3786,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-10-28,44.8,Extreme
 3787,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-10-28,38.2,Extreme
 3788,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-10-28,40.3,Extreme
@@ -3779,25 +2753,6 @@
 3834,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-10-28,39.3,Extreme
 3835,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-10-28,39.2,Extreme
 3836,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-10-28,37.0,Extreme
-3837,Symptoms of Depressive Disorder,National Estimate,United States,2020-11-11,28.6,Moderate
-3838,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-11-11,43.4,Extreme
-3839,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-11-11,32.2,High
-3840,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-11-11,29.9,High
-3841,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-11-11,26.7,Moderate
-3842,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-11-11,21.5,Mild
-3843,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-11-11,17.2,Mild
-3844,Symptoms of Depressive Disorder,By Age,80 years and above,2020-11-11,18.2,Mild
-3845,Symptoms of Depressive Disorder,By Sex,Male,2020-11-11,25.7,Moderate
-3846,Symptoms of Depressive Disorder,By Sex,Female,2020-11-11,31.3,High
-3847,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-11,32.5,High
-3848,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-11,27.0,Moderate
-3849,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-11,31.4,High
-3850,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-11,23.2,Mild
-3851,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-11,38.5,Extreme
-3852,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-11-11,37.7,Extreme
-3853,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-11-11,30.3,High
-3854,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-11-11,32.0,High
-3855,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-11-11,22.0,Mild
 3856,Symptoms of Depressive Disorder,By State,Alabama,2020-11-11,31.5,High
 3857,Symptoms of Depressive Disorder,By State,Alaska,2020-11-11,30.0,High
 3858,Symptoms of Depressive Disorder,By State,Arizona,2020-11-11,28.7,Moderate
@@ -3849,25 +2804,6 @@
 3904,Symptoms of Depressive Disorder,By State,West Virginia,2020-11-11,29.6,Moderate
 3905,Symptoms of Depressive Disorder,By State,Wisconsin,2020-11-11,26.5,Moderate
 3906,Symptoms of Depressive Disorder,By State,Wyoming,2020-11-11,26.8,Moderate
-3907,Symptoms of Anxiety Disorder,National Estimate,United States,2020-11-11,37.2,Extreme
-3908,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-11-11,48.7,Extreme
-3909,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-11-11,43.3,Extreme
-3910,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-11-11,41.0,Extreme
-3911,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-11-11,35.3,Extreme
-3912,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-11-11,30.2,High
-3913,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-11-11,24.2,Mild
-3914,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-11-11,17.9,Mild
-3915,Symptoms of Anxiety Disorder,By Sex,Male,2020-11-11,31.1,High
-3916,Symptoms of Anxiety Disorder,By Sex,Female,2020-11-11,42.9,Extreme
-3917,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-11,42.2,Extreme
-3918,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-11,36.2,Extreme
-3919,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-11,37.2,Extreme
-3920,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-11,26.8,Moderate
-3921,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-11,47.1,Extreme
-3922,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-11-11,43.1,Extreme
-3923,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-11-11,36.7,Extreme
-3924,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-11-11,40.2,Extreme
-3925,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-11-11,33.8,High
 3926,Symptoms of Anxiety Disorder,By State,Alabama,2020-11-11,40.1,Extreme
 3927,Symptoms of Anxiety Disorder,By State,Alaska,2020-11-11,40.3,Extreme
 3928,Symptoms of Anxiety Disorder,By State,Arizona,2020-11-11,39.2,Extreme
@@ -3919,25 +2855,6 @@
 3974,Symptoms of Anxiety Disorder,By State,West Virginia,2020-11-11,36.6,Extreme
 3975,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-11-11,31.4,High
 3976,Symptoms of Anxiety Disorder,By State,Wyoming,2020-11-11,35.8,Extreme
-3977,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-11-11,42.6,Extreme
-3978,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-11-11,58.1,Extreme
-3979,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-11-11,48.4,Extreme
-3980,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-11-11,45.6,Extreme
-3981,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-11-11,40.2,Extreme
-3982,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-11-11,34.2,High
-3983,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-11-11,28.6,Moderate
-3984,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-11-11,24.1,Mild
-3985,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-11-11,37.2,Extreme
-3986,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-11-11,47.6,Extreme
-3987,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-11,48.2,Extreme
-3988,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-11,41.2,Extreme
-3989,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-11,43.6,Extreme
-3990,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-11,32.8,High
-3991,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-11,52.6,Extreme
-3992,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-11-11,51.0,Extreme
-3993,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-11-11,43.0,Extreme
-3994,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-11-11,45.9,Extreme
-3995,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-11-11,37.5,Extreme
 3996,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-11-11,43.8,Extreme
 3997,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-11-11,44.6,Extreme
 3998,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-11-11,43.8,Extreme
@@ -3989,25 +2906,6 @@
 4044,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-11-11,42.6,Extreme
 4045,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-11-11,38.7,Extreme
 4046,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-11-11,39.5,Extreme
-4047,Symptoms of Depressive Disorder,National Estimate,United States,2020-11-25,28.9,Moderate
-4048,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-11-25,42.1,Extreme
-4049,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-11-25,33.4,High
-4050,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-11-25,30.5,High
-4051,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-11-25,28.0,Moderate
-4052,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-11-25,21.7,Mild
-4053,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-11-25,17.2,Mild
-4054,Symptoms of Depressive Disorder,By Age,80 years and above,2020-11-25,14.4,Mild
-4055,Symptoms of Depressive Disorder,By Sex,Male,2020-11-25,26.7,Moderate
-4056,Symptoms of Depressive Disorder,By Sex,Female,2020-11-25,30.9,High
-4057,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-25,33.1,High
-4058,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-25,27.2,Moderate
-4059,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-25,32.2,High
-4060,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-25,25.7,Moderate
-4061,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-25,35.0,High
-4062,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-11-25,41.3,Extreme
-4063,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-11-25,31.5,High
-4064,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-11-25,32.1,High
-4065,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-11-25,21.1,Mild
 4066,Symptoms of Depressive Disorder,By State,Alabama,2020-11-25,30.5,High
 4067,Symptoms of Depressive Disorder,By State,Alaska,2020-11-25,26.7,Moderate
 4068,Symptoms of Depressive Disorder,By State,Arizona,2020-11-25,28.5,Moderate
@@ -4059,25 +2957,6 @@
 4114,Symptoms of Depressive Disorder,By State,West Virginia,2020-11-25,31.6,High
 4115,Symptoms of Depressive Disorder,By State,Wisconsin,2020-11-25,26.3,Moderate
 4116,Symptoms of Depressive Disorder,By State,Wyoming,2020-11-25,31.3,High
-4117,Symptoms of Anxiety Disorder,National Estimate,United States,2020-11-25,36.1,Extreme
-4118,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-11-25,49.0,Extreme
-4119,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-11-25,42.6,Extreme
-4120,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-11-25,40.7,Extreme
-4121,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-11-25,35.1,High
-4122,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-11-25,27.3,Moderate
-4123,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-11-25,21.2,Mild
-4124,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-11-25,16.1,Mild
-4125,Symptoms of Anxiety Disorder,By Sex,Male,2020-11-25,31.4,High
-4126,Symptoms of Anxiety Disorder,By Sex,Female,2020-11-25,40.5,Extreme
-4127,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-25,41.8,Extreme
-4128,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-25,34.6,High
-4129,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-25,36.9,Extreme
-4130,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-25,29.7,Moderate
-4131,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-25,44.9,Extreme
-4132,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-11-25,46.9,Extreme
-4133,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-11-25,35.2,Extreme
-4134,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-11-25,40.0,Extreme
-4135,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-11-25,31.4,High
 4136,Symptoms of Anxiety Disorder,By State,Alabama,2020-11-25,32.5,High
 4137,Symptoms of Anxiety Disorder,By State,Alaska,2020-11-25,36.8,Extreme
 4138,Symptoms of Anxiety Disorder,By State,Arizona,2020-11-25,33.6,High
@@ -4129,25 +3008,6 @@
 4184,Symptoms of Anxiety Disorder,By State,West Virginia,2020-11-25,40.6,Extreme
 4185,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-11-25,30.1,High
 4186,Symptoms of Anxiety Disorder,By State,Wyoming,2020-11-25,38.7,Extreme
-4187,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-11-25,41.4,Extreme
-4188,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-11-25,56.5,Extreme
-4189,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-11-25,47.6,Extreme
-4190,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-11-25,45.3,Extreme
-4191,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-11-25,40.0,Extreme
-4192,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-11-25,32.3,High
-4193,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-11-25,26.4,Moderate
-4194,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-11-25,19.4,Mild
-4195,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-11-25,36.8,Extreme
-4196,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-11-25,45.7,Extreme
-4197,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-25,48.0,Extreme
-4198,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-25,39.6,Extreme
-4199,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-25,42.5,Extreme
-4200,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-25,35.0,High
-4201,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-25,49.8,Extreme
-4202,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-11-25,53.0,Extreme
-4203,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-11-25,42.3,Extreme
-4204,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-11-25,45.0,Extreme
-4205,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-11-25,35.0,High
 4206,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-11-25,38.5,Extreme
 4207,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-11-25,42.6,Extreme
 4208,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-11-25,39.8,Extreme
@@ -4199,25 +3059,6 @@
 4254,Symptoms of Anxiety Disorder or Depressive Disorder,By State,West Virginia,2020-11-25,44.2,Extreme
 4255,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wisconsin,2020-11-25,35.5,Extreme
 4256,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Wyoming,2020-11-25,44.8,Extreme
-4257,Symptoms of Depressive Disorder,National Estimate,United States,2020-12-09,30.2,High
-4258,Symptoms of Depressive Disorder,By Age,18 - 29 years,2020-12-09,43.6,Extreme
-4259,Symptoms of Depressive Disorder,By Age,30 - 39 years,2020-12-09,34.9,High
-4260,Symptoms of Depressive Disorder,By Age,40 - 49 years,2020-12-09,31.5,High
-4261,Symptoms of Depressive Disorder,By Age,50 - 59 years,2020-12-09,28.9,Moderate
-4262,Symptoms of Depressive Disorder,By Age,60 - 69 years,2020-12-09,22.5,Mild
-4263,Symptoms of Depressive Disorder,By Age,70 - 79 years,2020-12-09,18.4,Mild
-4264,Symptoms of Depressive Disorder,By Age,80 years and above,2020-12-09,21.7,Mild
-4265,Symptoms of Depressive Disorder,By Sex,Male,2020-12-09,27.9,Moderate
-4266,Symptoms of Depressive Disorder,By Sex,Female,2020-12-09,32.3,High
-4267,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-12-09,33.0,High
-4268,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-12-09,28.8,Moderate
-4269,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-12-09,35.2,Extreme
-4270,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-12-09,24.0,Mild
-4271,Symptoms of Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-12-09,37.3,Extreme
-4272,Symptoms of Depressive Disorder,By Education,Less than a high school diploma,2020-12-09,38.3,Extreme
-4273,Symptoms of Depressive Disorder,By Education,High school diploma or GED,2020-12-09,33.8,High
-4274,Symptoms of Depressive Disorder,By Education,Some college/Associate's degree,2020-12-09,33.8,High
-4275,Symptoms of Depressive Disorder,By Education,Bachelor's degree or higher,2020-12-09,22.0,Mild
 4276,Symptoms of Depressive Disorder,By State,Alabama,2020-12-09,35.1,High
 4277,Symptoms of Depressive Disorder,By State,Alaska,2020-12-09,32.0,High
 4278,Symptoms of Depressive Disorder,By State,Arizona,2020-12-09,32.7,High
@@ -4269,25 +3110,6 @@
 4324,Symptoms of Depressive Disorder,By State,West Virginia,2020-12-09,37.0,Extreme
 4325,Symptoms of Depressive Disorder,By State,Wisconsin,2020-12-09,30.0,High
 4326,Symptoms of Depressive Disorder,By State,Wyoming,2020-12-09,24.7,Mild
-4327,Symptoms of Anxiety Disorder,National Estimate,United States,2020-12-09,36.9,Extreme
-4328,Symptoms of Anxiety Disorder,By Age,18 - 29 years,2020-12-09,48.1,Extreme
-4329,Symptoms of Anxiety Disorder,By Age,30 - 39 years,2020-12-09,44.3,Extreme
-4330,Symptoms of Anxiety Disorder,By Age,40 - 49 years,2020-12-09,40.0,Extreme
-4331,Symptoms of Anxiety Disorder,By Age,50 - 59 years,2020-12-09,36.2,Extreme
-4332,Symptoms of Anxiety Disorder,By Age,60 - 69 years,2020-12-09,28.6,Moderate
-4333,Symptoms of Anxiety Disorder,By Age,70 - 79 years,2020-12-09,21.5,Mild
-4334,Symptoms of Anxiety Disorder,By Age,80 years and above,2020-12-09,22.5,Mild
-4335,Symptoms of Anxiety Disorder,By Sex,Male,2020-12-09,32.2,High
-4336,Symptoms of Anxiety Disorder,By Sex,Female,2020-12-09,41.1,Extreme
-4337,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-12-09,39.8,Extreme
-4338,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-12-09,35.8,Extreme
-4339,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-12-09,41.1,Extreme
-4340,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-12-09,26.5,Moderate
-4341,Symptoms of Anxiety Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-12-09,44.4,Extreme
-4342,Symptoms of Anxiety Disorder,By Education,Less than a high school diploma,2020-12-09,42.7,Extreme
-4343,Symptoms of Anxiety Disorder,By Education,High school diploma or GED,2020-12-09,38.1,Extreme
-4344,Symptoms of Anxiety Disorder,By Education,Some college/Associate's degree,2020-12-09,40.1,Extreme
-4345,Symptoms of Anxiety Disorder,By Education,Bachelor's degree or higher,2020-12-09,31.5,High
 4346,Symptoms of Anxiety Disorder,By State,Alabama,2020-12-09,39.1,Extreme
 4347,Symptoms of Anxiety Disorder,By State,Alaska,2020-12-09,37.7,Extreme
 4348,Symptoms of Anxiety Disorder,By State,Arizona,2020-12-09,34.7,High
@@ -4339,25 +3161,6 @@
 4394,Symptoms of Anxiety Disorder,By State,West Virginia,2020-12-09,39.5,Extreme
 4395,Symptoms of Anxiety Disorder,By State,Wisconsin,2020-12-09,35.4,Extreme
 4396,Symptoms of Anxiety Disorder,By State,Wyoming,2020-12-09,33.6,High
-4397,Symptoms of Anxiety Disorder or Depressive Disorder,National Estimate,United States,2020-12-09,42.4,Extreme
-4398,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,18 - 29 years,2020-12-09,56.2,Extreme
-4399,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,30 - 39 years,2020-12-09,49.1,Extreme
-4400,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,40 - 49 years,2020-12-09,45.1,Extreme
-4401,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,50 - 59 years,2020-12-09,41.1,Extreme
-4402,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,60 - 69 years,2020-12-09,33.6,High
-4403,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,70 - 79 years,2020-12-09,27.1,Moderate
-4404,Symptoms of Anxiety Disorder or Depressive Disorder,By Age,80 years and above,2020-12-09,28.3,Moderate
-4405,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Male,2020-12-09,37.9,Extreme
-4406,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,Female,2020-12-09,46.5,Extreme
-4407,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,Hispanic or Latino,2020-12-09,46.3,Extreme
-4408,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-12-09,40.9,Extreme
-4409,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-12-09,48.0,Extreme
-4410,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-12-09,33.1,High
-4411,Symptoms of Anxiety Disorder or Depressive Disorder,By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-12-09,48.9,Extreme
-4412,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Less than a high school diploma,2020-12-09,49.6,Extreme
-4413,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,High school diploma or GED,2020-12-09,44.7,Extreme
-4414,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Some college/Associate's degree,2020-12-09,45.8,Extreme
-4415,Symptoms of Anxiety Disorder or Depressive Disorder,By Education,Bachelor's degree or higher,2020-12-09,35.6,Extreme
 4416,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alabama,2020-12-09,44.0,Extreme
 4417,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Alaska,2020-12-09,44.1,Extreme
 4418,Symptoms of Anxiety Disorder or Depressive Disorder,By State,Arizona,2020-12-09,43.5,Extreme

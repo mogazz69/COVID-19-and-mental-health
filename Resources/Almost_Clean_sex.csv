@@ -1,0 +1,241 @@
+,Indicator,Group,Subgroup,Time_Period,Value,Risk,year
+8,Symptoms of Depressive Disorder,By Sex,0,2020-04-23,20.8,Mild,2020
+9,Symptoms of Depressive Disorder,By Sex,1,2020-04-23,26.1,Moderate,2020
+78,Symptoms of Anxiety Disorder,By Sex,0,2020-04-23,26.1,Moderate,2020
+79,Symptoms of Anxiety Disorder,By Sex,1,2020-04-23,35.4,Extreme,2020
+148,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-04-23,31.0,High,2020
+149,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-04-23,40.7,Extreme,2020
+218,Symptoms of Depressive Disorder,By Sex,0,2020-05-07,22.3,Mild,2020
+219,Symptoms of Depressive Disorder,By Sex,1,2020-05-07,25.8,Moderate,2020
+288,Symptoms of Anxiety Disorder,By Sex,0,2020-05-07,26.7,Moderate,2020
+289,Symptoms of Anxiety Disorder,By Sex,1,2020-05-07,33.1,High,2020
+358,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-05-07,31.4,High,2020
+359,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-05-07,37.2,Extreme,2020
+428,Symptoms of Depressive Disorder,By Sex,0,2020-05-14,22.1,Mild,2020
+429,Symptoms of Depressive Disorder,By Sex,1,2020-05-14,26.7,Moderate,2020
+498,Symptoms of Anxiety Disorder,By Sex,0,2020-05-14,24.2,Mild,2020
+499,Symptoms of Anxiety Disorder,By Sex,1,2020-05-14,32.1,High,2020
+568,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-05-14,29.9,High,2020
+569,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-05-14,37.6,Extreme,2020
+638,Symptoms of Depressive Disorder,By Sex,0,2020-05-21,22.7,Mild,2020
+639,Symptoms of Depressive Disorder,By Sex,1,2020-05-21,26.9,Moderate,2020
+708,Symptoms of Anxiety Disorder,By Sex,0,2020-05-21,25.4,Moderate,2020
+709,Symptoms of Anxiety Disorder,By Sex,1,2020-05-21,33.2,High,2020
+778,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-05-21,30.3,High,2020
+779,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-05-21,38.1,Extreme,2020
+848,Symptoms of Depressive Disorder,By Sex,0,2020-05-28,23.0,Mild,2020
+849,Symptoms of Depressive Disorder,By Sex,1,2020-05-28,27.4,Moderate,2020
+918,Symptoms of Anxiety Disorder,By Sex,0,2020-05-28,26.0,Moderate,2020
+919,Symptoms of Anxiety Disorder,By Sex,1,2020-05-28,35.0,High,2020
+988,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-05-28,31.1,High,2020
+989,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-05-28,39.6,Extreme,2020
+1058,Symptoms of Depressive Disorder,By Sex,0,2020-06-04,23.7,Mild,2020
+1059,Symptoms of Depressive Disorder,By Sex,1,2020-06-04,27.8,Moderate,2020
+1128,Symptoms of Anxiety Disorder,By Sex,0,2020-06-04,26.8,Moderate,2020
+1129,Symptoms of Anxiety Disorder,By Sex,1,2020-06-04,35.1,High,2020
+1198,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-06-04,31.9,High,2020
+1199,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-06-04,40.0,Extreme,2020
+1268,Symptoms of Depressive Disorder,By Sex,0,2020-06-11,23.3,Mild,2020
+1269,Symptoms of Depressive Disorder,By Sex,1,2020-06-11,26.7,Moderate,2020
+1338,Symptoms of Anxiety Disorder,By Sex,0,2020-06-11,28.1,Moderate,2020
+1339,Symptoms of Anxiety Disorder,By Sex,1,2020-06-11,35.0,High,2020
+1408,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-06-11,32.7,High,2020
+1409,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-06-11,39.1,Extreme,2020
+1478,Symptoms of Depressive Disorder,By Sex,0,2020-06-18,23.8,Mild,2020
+1479,Symptoms of Depressive Disorder,By Sex,1,2020-06-18,27.3,Moderate,2020
+1548,Symptoms of Anxiety Disorder,By Sex,0,2020-06-18,27.4,Moderate,2020
+1549,Symptoms of Anxiety Disorder,By Sex,1,2020-06-18,34.8,High,2020
+1618,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-06-18,32.4,High,2020
+1619,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-06-18,39.6,Extreme,2020
+1688,Symptoms of Depressive Disorder,By Sex,0,2020-06-25,25.0,Moderate,2020
+1689,Symptoms of Depressive Disorder,By Sex,1,2020-06-25,28.8,Moderate,2020
+1758,Symptoms of Anxiety Disorder,By Sex,0,2020-06-25,29.0,Moderate,2020
+1759,Symptoms of Anxiety Disorder,By Sex,1,2020-06-25,36.7,Extreme,2020
+1828,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-06-25,33.8,High,2020
+1829,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-06-25,41.5,Extreme,2020
+1898,Symptoms of Depressive Disorder,By Sex,0,2020-07-02,26.6,Moderate,2020
+1899,Symptoms of Depressive Disorder,By Sex,1,2020-07-02,28.6,Moderate,2020
+1968,Symptoms of Anxiety Disorder,By Sex,0,2020-07-02,30.7,High,2020
+1969,Symptoms of Anxiety Disorder,By Sex,1,2020-07-02,37.0,Extreme,2020
+2038,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-07-02,36.5,Extreme,2020
+2039,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-07-02,41.3,Extreme,2020
+2108,Symptoms of Depressive Disorder,By Sex,0,2020-07-09,26.0,Moderate,2020
+2109,Symptoms of Depressive Disorder,By Sex,1,2020-07-09,30.0,High,2020
+2178,Symptoms of Anxiety Disorder,By Sex,0,2020-07-09,31.5,High,2020
+2179,Symptoms of Anxiety Disorder,By Sex,1,2020-07-09,39.4,Extreme,2020
+2248,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-07-09,36.1,Extreme,2020
+2249,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-07-09,44.2,Extreme,2020
+2318,Symptoms of Depressive Disorder,By Sex,0,2020-07-16,27.8,Moderate,2020
+2319,Symptoms of Depressive Disorder,By Sex,1,2020-07-16,31.3,High,2020
+2388,Symptoms of Anxiety Disorder,By Sex,0,2020-07-16,32.1,High,2020
+2389,Symptoms of Anxiety Disorder,By Sex,1,2020-07-16,39.8,Extreme,2020
+2458,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-07-16,37.0,Extreme,2020
+2459,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-07-16,44.6,Extreme,2020
+2547,Symptoms of Depressive Disorder,By Sex,0,2020-08-19,22.5,Mild,2020
+2548,Symptoms of Depressive Disorder,By Sex,1,2020-08-19,26.4,Moderate,2020
+2636,Symptoms of Anxiety Disorder,By Sex,0,2020-08-19,26.4,Moderate,2020
+2637,Symptoms of Anxiety Disorder,By Sex,1,2020-08-19,36.1,Extreme,2020
+2725,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-08-19,31.8,High,2020
+2726,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-08-19,40.7,Extreme,2020
+2795,Symptoms of Depressive Disorder,By Sex,0,2020-09-02,22.8,Mild,2020
+2796,Symptoms of Depressive Disorder,By Sex,1,2020-09-02,26.0,Moderate,2020
+2865,Symptoms of Anxiety Disorder,By Sex,0,2020-09-02,27.2,Moderate,2020
+2866,Symptoms of Anxiety Disorder,By Sex,1,2020-09-02,35.5,Extreme,2020
+2935,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-09-02,32.1,High,2020
+2936,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-09-02,39.9,Extreme,2020
+3005,Symptoms of Depressive Disorder,By Sex,0,2020-09-16,22.7,Mild,2020
+3006,Symptoms of Depressive Disorder,By Sex,1,2020-09-16,27.2,Moderate,2020
+3075,Symptoms of Anxiety Disorder,By Sex,0,2020-09-16,27.7,Moderate,2020
+3076,Symptoms of Anxiety Disorder,By Sex,1,2020-09-16,37.1,Extreme,2020
+3145,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-09-16,32.7,High,2020
+3146,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-09-16,41.4,Extreme,2020
+3215,Symptoms of Depressive Disorder,By Sex,0,2020-09-30,23.5,Mild,2020
+3216,Symptoms of Depressive Disorder,By Sex,1,2020-09-30,27.2,Moderate,2020
+3285,Symptoms of Anxiety Disorder,By Sex,0,2020-09-30,28.1,Moderate,2020
+3286,Symptoms of Anxiety Disorder,By Sex,1,2020-09-30,36.4,Extreme,2020
+3355,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-09-30,33.1,High,2020
+3356,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-09-30,41.6,Extreme,2020
+3425,Symptoms of Depressive Disorder,By Sex,0,2020-10-14,23.7,Mild,2020
+3426,Symptoms of Depressive Disorder,By Sex,1,2020-10-14,28.1,Moderate,2020
+3495,Symptoms of Anxiety Disorder,By Sex,0,2020-10-14,27.6,Moderate,2020
+3496,Symptoms of Anxiety Disorder,By Sex,1,2020-10-14,37.6,Extreme,2020
+3565,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-10-14,32.9,High,2020
+3566,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-10-14,42.4,Extreme,2020
+3635,Symptoms of Depressive Disorder,By Sex,0,2020-10-28,25.4,Moderate,2020
+3636,Symptoms of Depressive Disorder,By Sex,1,2020-10-28,29.7,Moderate,2020
+3705,Symptoms of Anxiety Disorder,By Sex,0,2020-10-28,30.3,High,2020
+3706,Symptoms of Anxiety Disorder,By Sex,1,2020-10-28,41.8,Extreme,2020
+3775,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-10-28,36.1,Extreme,2020
+3776,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-10-28,46.2,Extreme,2020
+3845,Symptoms of Depressive Disorder,By Sex,0,2020-11-11,25.7,Moderate,2020
+3846,Symptoms of Depressive Disorder,By Sex,1,2020-11-11,31.3,High,2020
+3915,Symptoms of Anxiety Disorder,By Sex,0,2020-11-11,31.1,High,2020
+3916,Symptoms of Anxiety Disorder,By Sex,1,2020-11-11,42.9,Extreme,2020
+3985,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-11-11,37.2,Extreme,2020
+3986,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-11-11,47.6,Extreme,2020
+4055,Symptoms of Depressive Disorder,By Sex,0,2020-11-25,26.7,Moderate,2020
+4056,Symptoms of Depressive Disorder,By Sex,1,2020-11-25,30.9,High,2020
+4125,Symptoms of Anxiety Disorder,By Sex,0,2020-11-25,31.4,High,2020
+4126,Symptoms of Anxiety Disorder,By Sex,1,2020-11-25,40.5,Extreme,2020
+4195,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-11-25,36.8,Extreme,2020
+4196,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-11-25,45.7,Extreme,2020
+4265,Symptoms of Depressive Disorder,By Sex,0,2020-12-09,27.9,Moderate,2020
+4266,Symptoms of Depressive Disorder,By Sex,1,2020-12-09,32.3,High,2020
+4335,Symptoms of Anxiety Disorder,By Sex,0,2020-12-09,32.2,High,2020
+4336,Symptoms of Anxiety Disorder,By Sex,1,2020-12-09,41.1,Extreme,2020
+4405,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2020-12-09,37.9,Extreme,2020
+4406,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2020-12-09,46.5,Extreme,2020
+4494,Symptoms of Depressive Disorder,By Sex,0,2021-01-06,25.9,Moderate,2021
+4495,Symptoms of Depressive Disorder,By Sex,1,2021-01-06,30.6,High,2021
+4583,Symptoms of Anxiety Disorder,By Sex,0,2021-01-06,30.7,High,2021
+4584,Symptoms of Anxiety Disorder,By Sex,1,2021-01-06,40.5,Extreme,2021
+4672,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-01-06,36.4,Extreme,2021
+4673,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-01-06,45.4,Extreme,2021
+4742,Symptoms of Depressive Disorder,By Sex,0,2021-01-20,26.3,Moderate,2021
+4743,Symptoms of Depressive Disorder,By Sex,1,2021-01-20,30.4,High,2021
+4812,Symptoms of Anxiety Disorder,By Sex,0,2021-01-20,32.4,High,2021
+4813,Symptoms of Anxiety Disorder,By Sex,1,2021-01-20,39.5,Extreme,2021
+4882,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-01-20,38.0,Extreme,2021
+4883,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-01-20,44.8,Extreme,2021
+4952,Symptoms of Depressive Disorder,By Sex,0,2021-02-03,26.1,Moderate,2021
+4953,Symptoms of Depressive Disorder,By Sex,1,2021-02-03,29.9,High,2021
+5022,Symptoms of Anxiety Disorder,By Sex,0,2021-02-03,29.6,Moderate,2021
+5023,Symptoms of Anxiety Disorder,By Sex,1,2021-02-03,37.6,Extreme,2021
+5092,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-02-03,35.5,Extreme,2021
+5093,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-02-03,43.0,Extreme,2021
+5162,Symptoms of Depressive Disorder,By Sex,0,2021-02-17,26.7,Moderate,2021
+5163,Symptoms of Depressive Disorder,By Sex,1,2021-02-17,28.7,Moderate,2021
+5232,Symptoms of Anxiety Disorder,By Sex,0,2021-02-17,29.6,Moderate,2021
+5233,Symptoms of Anxiety Disorder,By Sex,1,2021-02-17,36.8,Extreme,2021
+5302,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-02-17,35.5,Extreme,2021
+5303,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-02-17,42.0,Extreme,2021
+5372,Symptoms of Depressive Disorder,By Sex,0,2021-03-03,24.2,Mild,2021
+5373,Symptoms of Depressive Disorder,By Sex,1,2021-03-03,28.4,Moderate,2021
+5442,Symptoms of Anxiety Disorder,By Sex,0,2021-03-03,27.5,Moderate,2021
+5443,Symptoms of Anxiety Disorder,By Sex,1,2021-03-03,35.1,High,2021
+5512,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-03-03,33.1,High,2021
+5513,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-03-03,40.5,Extreme,2021
+5582,Symptoms of Depressive Disorder,By Sex,0,2021-03-17,23.2,Mild,2021
+5583,Symptoms of Depressive Disorder,By Sex,1,2021-03-17,26.0,Moderate,2021
+5652,Symptoms of Anxiety Disorder,By Sex,0,2021-03-17,26.3,Moderate,2021
+5653,Symptoms of Anxiety Disorder,By Sex,1,2021-03-17,33.5,High,2021
+5722,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-03-17,31.7,High,2021
+5723,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-03-17,38.2,Extreme,2021
+5811,Symptoms of Depressive Disorder,By Sex,0,2021-04-14,20.5,Mild,2021
+5812,Symptoms of Depressive Disorder,By Sex,1,2021-04-14,25.2,Moderate,2021
+5902,Symptoms of Anxiety Disorder,By Sex,0,2021-04-14,23.0,Mild,2021
+5903,Symptoms of Anxiety Disorder,By Sex,1,2021-04-14,31.3,High,2021
+5993,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-04-14,27.9,Moderate,2021
+5994,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-04-14,36.3,Extreme,2021
+6065,Symptoms of Depressive Disorder,By Sex,0,2021-04-28,20.1,Mild,2021
+6066,Symptoms of Depressive Disorder,By Sex,1,2021-04-28,23.6,Mild,2021
+6137,Symptoms of Anxiety Disorder,By Sex,0,2021-04-28,22.5,Mild,2021
+6138,Symptoms of Anxiety Disorder,By Sex,1,2021-04-28,30.2,High,2021
+6209,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-04-28,26.9,Moderate,2021
+6210,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-04-28,34.3,High,2021
+6281,Symptoms of Depressive Disorder,By Sex,0,2021-05-12,19.7,Mild,2021
+6282,Symptoms of Depressive Disorder,By Sex,1,2021-05-12,23.3,Mild,2021
+6353,Symptoms of Anxiety Disorder,By Sex,0,2021-05-12,22.0,Mild,2021
+6354,Symptoms of Anxiety Disorder,By Sex,1,2021-05-12,29.2,Moderate,2021
+6425,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-05-12,26.6,Moderate,2021
+6426,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-05-12,33.4,High,2021
+6497,Symptoms of Depressive Disorder,By Sex,0,2021-05-26,19.3,Mild,2021
+6498,Symptoms of Depressive Disorder,By Sex,1,2021-05-26,22.4,Mild,2021
+6569,Symptoms of Anxiety Disorder,By Sex,0,2021-05-26,22.1,Mild,2021
+6570,Symptoms of Anxiety Disorder,By Sex,1,2021-05-26,28.5,Moderate,2021
+6641,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-05-26,26.6,Moderate,2021
+6642,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-05-26,32.4,High,2021
+6713,Symptoms of Depressive Disorder,By Sex,0,2021-06-09,20.1,Mild,2021
+6714,Symptoms of Depressive Disorder,By Sex,1,2021-06-09,23.0,Mild,2021
+6785,Symptoms of Anxiety Disorder,By Sex,0,2021-06-09,23.2,Mild,2021
+6786,Symptoms of Anxiety Disorder,By Sex,1,2021-06-09,28.8,Moderate,2021
+6857,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-06-09,27.6,Moderate,2021
+6858,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-06-09,33.0,High,2021
+6929,Symptoms of Depressive Disorder,By Sex,0,2021-06-23,18.4,Mild,2021
+6930,Symptoms of Depressive Disorder,By Sex,1,2021-06-23,23.1,Mild,2021
+7001,Symptoms of Anxiety Disorder,By Sex,0,2021-06-23,20.2,Mild,2021
+7002,Symptoms of Anxiety Disorder,By Sex,1,2021-06-23,28.5,Moderate,2021
+7073,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-06-23,24.4,Mild,2021
+7074,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-06-23,33.1,High,2021
+7166,Symptoms of Depressive Disorder,By Sex,0,2021-07-21,21.1,Mild,2021
+7167,Symptoms of Depressive Disorder,By Sex,1,2021-07-21,23.1,Mild,2021
+7265,Symptoms of Anxiety Disorder,By Sex,0,2021-07-21,23.6,Mild,2021
+7266,Symptoms of Anxiety Disorder,By Sex,1,2021-07-21,30.1,High,2021
+7364,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-07-21,28.3,Moderate,2021
+7365,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-07-21,34.1,High,2021
+7442,Symptoms of Depressive Disorder,By Sex,0,2021-08-04,19.6,Mild,2021
+7443,Symptoms of Depressive Disorder,By Sex,1,2021-08-04,23.0,Mild,2021
+7520,Symptoms of Anxiety Disorder,By Sex,0,2021-08-04,22.4,Mild,2021
+7521,Symptoms of Anxiety Disorder,By Sex,1,2021-08-04,30.5,High,2021
+7598,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-08-04,27.3,Moderate,2021
+7599,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-08-04,34.2,High,2021
+7676,Symptoms of Depressive Disorder,By Sex,0,2021-08-18,20.7,Mild,2021
+7677,Symptoms of Depressive Disorder,By Sex,1,2021-08-18,24.4,Mild,2021
+7754,Symptoms of Anxiety Disorder,By Sex,0,2021-08-18,23.4,Mild,2021
+7755,Symptoms of Anxiety Disorder,By Sex,1,2021-08-18,32.0,High,2021
+7832,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-08-18,28.0,Moderate,2021
+7833,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-08-18,36.0,Extreme,2021
+7910,Symptoms of Depressive Disorder,By Sex,0,2021-09-01,21.2,Mild,2021
+7911,Symptoms of Depressive Disorder,By Sex,1,2021-09-01,23.6,Mild,2021
+7988,Symptoms of Anxiety Disorder,By Sex,0,2021-09-01,24.5,Mild,2021
+7989,Symptoms of Anxiety Disorder,By Sex,1,2021-09-01,31.5,High,2021
+8066,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-09-01,28.8,Moderate,2021
+8067,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-09-01,35.3,Extreme,2021
+8144,Symptoms of Depressive Disorder,By Sex,0,2021-09-15,21.2,Mild,2021
+8145,Symptoms of Depressive Disorder,By Sex,1,2021-09-15,23.4,Mild,2021
+8222,Symptoms of Anxiety Disorder,By Sex,0,2021-09-15,24.0,Mild,2021
+8223,Symptoms of Anxiety Disorder,By Sex,1,2021-09-15,31.4,High,2021
+8300,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-09-15,28.8,Moderate,2021
+8301,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-09-15,35.3,Extreme,2021
+8378,Symptoms of Depressive Disorder,By Sex,0,2021-09-29,19.7,Mild,2021
+8379,Symptoms of Depressive Disorder,By Sex,1,2021-09-29,23.8,Mild,2021
+8456,Symptoms of Anxiety Disorder,By Sex,0,2021-09-29,22.9,Mild,2021
+8457,Symptoms of Anxiety Disorder,By Sex,1,2021-09-29,31.3,High,2021
+8534,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-09-29,27.5,Moderate,2021
+8535,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-09-29,35.3,Extreme,2021
+8633,Symptoms of Depressive Disorder,By Sex,0,2021-12-01,20.0,Mild,2021
+8634,Symptoms of Depressive Disorder,By Sex,1,2021-12-01,22.8,Mild,2021
+8732,Symptoms of Anxiety Disorder,By Sex,0,2021-12-01,22.9,Mild,2021
+8733,Symptoms of Anxiety Disorder,By Sex,1,2021-12-01,29.9,High,2021
+8831,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,0,2021-12-01,27.5,Moderate,2021
+8832,Symptoms of Anxiety Disorder or Depressive Disorder,By Sex,1,2021-12-01,33.8,High,2021
