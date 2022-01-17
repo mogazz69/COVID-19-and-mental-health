@@ -1,0 +1,1450 @@
+Group,Subgroup,Time_Period,Value,Risk
+By Age,18 - 29 years,2020-04-23,32.7,Moderate
+By Age,30 - 39 years,2020-04-23,25.7,Mild
+By Age,40 - 49 years,2020-04-23,24.8,Mild
+By Age,50 - 59 years,2020-04-23,23.2,Mild
+By Age,60 - 69 years,2020-04-23,18.4,Mild
+By Age,70 - 79 years,2020-04-23,13.6,Mild
+By Age,80 years and above,2020-04-23,14.4,Mild
+By Sex,Male,2020-04-23,20.8,Mild
+By Sex,Female,2020-04-23,26.1,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-04-23,29.4,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-04-23,21.4,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-04-23,25.6,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-04-23,23.6,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-04-23,28.3,Mild
+By Education,Less than a high school diploma,2020-04-23,32.7,Moderate
+By Education,High school diploma or GED,2020-04-23,25.4,Mild
+By Education,Some college/Associate's degree,2020-04-23,25.6,Mild
+By Education,Bachelor's degree or higher,2020-04-23,17.6,Mild
+By State,Alabama,2020-04-23,18.6,Mild
+By State,Alaska,2020-04-23,19.2,Mild
+By State,Arizona,2020-04-23,22.4,Mild
+By State,Arkansas,2020-04-23,26.6,Mild
+By State,California,2020-04-23,25.4,Mild
+By State,Colorado,2020-04-23,22.0,Mild
+By State,Connecticut,2020-04-23,24.4,Mild
+By State,Delaware,2020-04-23,21.1,Mild
+By State,District of Columbia,2020-04-23,26.4,Mild
+By State,Florida,2020-04-23,22.5,Mild
+By State,Georgia,2020-04-23,25.6,Mild
+By State,Hawaii,2020-04-23,20.0,Mild
+By State,Idaho,2020-04-23,20.6,Mild
+By State,Illinois,2020-04-23,23.3,Mild
+By State,Indiana,2020-04-23,26.4,Mild
+By State,Iowa,2020-04-23,16.5,Mild
+By State,Kansas,2020-04-23,22.1,Mild
+By State,Kentucky,2020-04-23,23.2,Mild
+By State,Louisiana,2020-04-23,28.1,Mild
+By State,Maine,2020-04-23,19.5,Mild
+By State,Maryland,2020-04-23,20.9,Mild
+By State,Massachusetts,2020-04-23,25.9,Mild
+By State,Michigan,2020-04-23,25.5,Mild
+By State,Minnesota,2020-04-23,20.4,Mild
+By State,Mississippi,2020-04-23,22.9,Mild
+By State,Missouri,2020-04-23,21.0,Mild
+By State,Montana,2020-04-23,18.2,Mild
+By State,Nebraska,2020-04-23,19.1,Mild
+By State,Nevada,2020-04-23,23.6,Mild
+By State,New Hampshire,2020-04-23,19.5,Mild
+By State,New Jersey,2020-04-23,23.6,Mild
+By State,New Mexico,2020-04-23,22.4,Mild
+By State,New York,2020-04-23,28.7,Mild
+By State,North Carolina,2020-04-23,21.1,Mild
+By State,North Dakota,2020-04-23,17.0,Mild
+By State,Ohio,2020-04-23,21.2,Mild
+By State,Oklahoma,2020-04-23,20.8,Mild
+By State,Oregon,2020-04-23,22.5,Mild
+By State,Pennsylvania,2020-04-23,24.7,Mild
+By State,Rhode Island,2020-04-23,24.5,Mild
+By State,South Carolina,2020-04-23,21.6,Mild
+By State,South Dakota,2020-04-23,17.5,Mild
+By State,Tennessee,2020-04-23,22.2,Mild
+By State,Texas,2020-04-23,24.4,Mild
+By State,Utah,2020-04-23,22.9,Mild
+By State,Vermont,2020-04-23,20.7,Mild
+By State,Virginia,2020-04-23,21.5,Mild
+By State,Washington,2020-04-23,22.1,Mild
+By State,West Virginia,2020-04-23,23.4,Mild
+By State,Wisconsin,2020-04-23,22.0,Mild
+By State,Wyoming,2020-04-23,18.9,Mild
+By Age,18 - 29 years,2020-05-07,36.2,High
+By Age,30 - 39 years,2020-05-07,27.7,Mild
+By Age,40 - 49 years,2020-05-07,25.5,Mild
+By Age,50 - 59 years,2020-05-07,24.1,Mild
+By Age,60 - 69 years,2020-05-07,17.6,Mild
+By Age,70 - 79 years,2020-05-07,12.2,Mild
+By Age,80 years and above,2020-05-07,9.1,Mild
+By Sex,Male,2020-05-07,22.3,Mild
+By Sex,Female,2020-05-07,25.8,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-07,27.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-07,22.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-07,27.7,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-07,19.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-07,33.0,Moderate
+By Education,Less than a high school diploma,2020-05-07,31.4,Moderate
+By Education,High school diploma or GED,2020-05-07,27.1,Mild
+By Education,Some college/Associate's degree,2020-05-07,26.5,Mild
+By Education,Bachelor's degree or higher,2020-05-07,17.2,Mild
+By State,Alabama,2020-05-07,22.5,Mild
+By State,Alaska,2020-05-07,25.1,Mild
+By State,Arizona,2020-05-07,25.3,Mild
+By State,Arkansas,2020-05-07,24.5,Mild
+By State,California,2020-05-07,22.8,Mild
+By State,Colorado,2020-05-07,23.6,Mild
+By State,Connecticut,2020-05-07,21.5,Mild
+By State,Delaware,2020-05-07,23.3,Mild
+By State,District of Columbia,2020-05-07,30.3,Moderate
+By State,Florida,2020-05-07,24.8,Mild
+By State,Georgia,2020-05-07,25.6,Mild
+By State,Hawaii,2020-05-07,16.8,Mild
+By State,Idaho,2020-05-07,17.0,Mild
+By State,Illinois,2020-05-07,29.2,Mild
+By State,Indiana,2020-05-07,19.9,Mild
+By State,Iowa,2020-05-07,18.1,Mild
+By State,Kansas,2020-05-07,16.7,Mild
+By State,Kentucky,2020-05-07,25.6,Mild
+By State,Louisiana,2020-05-07,30.0,Mild
+By State,Maine,2020-05-07,17.1,Mild
+By State,Maryland,2020-05-07,24.6,Mild
+By State,Massachusetts,2020-05-07,18.9,Mild
+By State,Michigan,2020-05-07,23.4,Mild
+By State,Minnesota,2020-05-07,18.4,Mild
+By State,Mississippi,2020-05-07,35.5,High
+By State,Missouri,2020-05-07,24.1,Mild
+By State,Montana,2020-05-07,20.8,Mild
+By State,Nebraska,2020-05-07,21.6,Mild
+By State,Nevada,2020-05-07,31.2,Moderate
+By State,New Hampshire,2020-05-07,23.3,Mild
+By State,New Jersey,2020-05-07,26.4,Mild
+By State,New Mexico,2020-05-07,29.0,Mild
+By State,New York,2020-05-07,29.2,Mild
+By State,North Carolina,2020-05-07,20.2,Mild
+By State,North Dakota,2020-05-07,20.2,Mild
+By State,Ohio,2020-05-07,26.4,Mild
+By State,Oklahoma,2020-05-07,20.7,Mild
+By State,Oregon,2020-05-07,17.8,Mild
+By State,Pennsylvania,2020-05-07,23.0,Mild
+By State,Rhode Island,2020-05-07,22.8,Mild
+By State,South Carolina,2020-05-07,25.6,Mild
+By State,South Dakota,2020-05-07,20.5,Mild
+By State,Tennessee,2020-05-07,21.7,Mild
+By State,Texas,2020-05-07,25.7,Mild
+By State,Utah,2020-05-07,22.6,Mild
+By State,Vermont,2020-05-07,26.8,Mild
+By State,Virginia,2020-05-07,20.6,Mild
+By State,Washington,2020-05-07,22.9,Mild
+By State,West Virginia,2020-05-07,31.8,Moderate
+By State,Wisconsin,2020-05-07,22.9,Mild
+By State,Wyoming,2020-05-07,18.6,Mild
+By Age,18 - 29 years,2020-05-14,36.7,High
+By Age,30 - 39 years,2020-05-14,26.7,Mild
+By Age,40 - 49 years,2020-05-14,25.0,Mild
+By Age,50 - 59 years,2020-05-14,24.6,Mild
+By Age,60 - 69 years,2020-05-14,18.0,Mild
+By Age,70 - 79 years,2020-05-14,12.3,Mild
+By Age,80 years and above,2020-05-14,14.4,Mild
+By Sex,Male,2020-05-14,22.1,Mild
+By Sex,Female,2020-05-14,26.7,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-14,28.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-14,22.7,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-14,28.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-14,20.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-14,27.1,Mild
+By Education,Less than a high school diploma,2020-05-14,31.3,Moderate
+By Education,High school diploma or GED,2020-05-14,27.8,Mild
+By Education,Some college/Associate's degree,2020-05-14,26.8,Mild
+By Education,Bachelor's degree or higher,2020-05-14,17.3,Mild
+By State,Alabama,2020-05-14,19.6,Mild
+By State,Alaska,2020-05-14,23.6,Mild
+By State,Arizona,2020-05-14,20.0,Mild
+By State,Arkansas,2020-05-14,28.9,Mild
+By State,California,2020-05-14,28.7,Mild
+By State,Colorado,2020-05-14,23.7,Mild
+By State,Connecticut,2020-05-14,20.2,Mild
+By State,Delaware,2020-05-14,21.8,Mild
+By State,District of Columbia,2020-05-14,25.9,Mild
+By State,Florida,2020-05-14,24.3,Mild
+By State,Georgia,2020-05-14,24.8,Mild
+By State,Hawaii,2020-05-14,21.3,Mild
+By State,Idaho,2020-05-14,18.1,Mild
+By State,Illinois,2020-05-14,24.3,Mild
+By State,Indiana,2020-05-14,24.5,Mild
+By State,Iowa,2020-05-14,18.6,Mild
+By State,Kansas,2020-05-14,21.2,Mild
+By State,Kentucky,2020-05-14,22.8,Mild
+By State,Louisiana,2020-05-14,26.5,Mild
+By State,Maine,2020-05-14,25.6,Mild
+By State,Maryland,2020-05-14,20.8,Mild
+By State,Massachusetts,2020-05-14,22.8,Mild
+By State,Michigan,2020-05-14,27.9,Mild
+By State,Minnesota,2020-05-14,20.0,Mild
+By State,Mississippi,2020-05-14,36.4,High
+By State,Missouri,2020-05-14,24.3,Mild
+By State,Montana,2020-05-14,21.1,Mild
+By State,Nebraska,2020-05-14,20.4,Mild
+By State,Nevada,2020-05-14,26.9,Mild
+By State,New Hampshire,2020-05-14,20.3,Mild
+By State,New Jersey,2020-05-14,26.9,Mild
+By State,New Mexico,2020-05-14,28.4,Mild
+By State,New York,2020-05-14,23.8,Mild
+By State,North Carolina,2020-05-14,22.6,Mild
+By State,North Dakota,2020-05-14,22.5,Mild
+By State,Ohio,2020-05-14,27.0,Mild
+By State,Oklahoma,2020-05-14,25.7,Mild
+By State,Oregon,2020-05-14,22.7,Mild
+By State,Pennsylvania,2020-05-14,19.8,Mild
+By State,Rhode Island,2020-05-14,18.8,Mild
+By State,South Carolina,2020-05-14,25.3,Mild
+By State,South Dakota,2020-05-14,22.7,Mild
+By State,Tennessee,2020-05-14,25.6,Mild
+By State,Texas,2020-05-14,24.9,Mild
+By State,Utah,2020-05-14,21.2,Mild
+By State,Vermont,2020-05-14,19.0,Mild
+By State,Virginia,2020-05-14,25.4,Mild
+By State,Washington,2020-05-14,23.2,Mild
+By State,West Virginia,2020-05-14,27.0,Mild
+By State,Wisconsin,2020-05-14,20.3,Mild
+By State,Wyoming,2020-05-14,20.7,Mild
+By Age,18 - 29 years,2020-05-21,36.7,High
+By Age,30 - 39 years,2020-05-21,27.4,Mild
+By Age,40 - 49 years,2020-05-21,24.2,Mild
+By Age,50 - 59 years,2020-05-21,24.6,Mild
+By Age,60 - 69 years,2020-05-21,19.8,Mild
+By Age,70 - 79 years,2020-05-21,13.3,Mild
+By Age,80 years and above,2020-05-21,17.1,Mild
+By Sex,Male,2020-05-21,22.7,Mild
+By Sex,Female,2020-05-21,26.9,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-21,31.4,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-21,23.3,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-21,24.8,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-21,19.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-21,32.2,Moderate
+By Education,Less than a high school diploma,2020-05-21,38.7,High
+By Education,High school diploma or GED,2020-05-21,26.6,Mild
+By Education,Some college/Associate's degree,2020-05-21,27.6,Mild
+By Education,Bachelor's degree or higher,2020-05-21,17.3,Mild
+By State,Alabama,2020-05-21,20.9,Mild
+By State,Alaska,2020-05-21,26.8,Mild
+By State,Arizona,2020-05-21,25.1,Mild
+By State,Arkansas,2020-05-21,23.8,Mild
+By State,California,2020-05-21,26.9,Mild
+By State,Colorado,2020-05-21,25.5,Mild
+By State,Connecticut,2020-05-21,21.0,Mild
+By State,Delaware,2020-05-21,22.7,Mild
+By State,District of Columbia,2020-05-21,20.9,Mild
+By State,Florida,2020-05-21,28.6,Mild
+By State,Georgia,2020-05-21,27.7,Mild
+By State,Hawaii,2020-05-21,18.5,Mild
+By State,Idaho,2020-05-21,18.9,Mild
+By State,Illinois,2020-05-21,24.2,Mild
+By State,Indiana,2020-05-21,24.8,Mild
+By State,Iowa,2020-05-21,17.6,Mild
+By State,Kansas,2020-05-21,25.2,Mild
+By State,Kentucky,2020-05-21,23.2,Mild
+By State,Louisiana,2020-05-21,31.1,Moderate
+By State,Maine,2020-05-21,18.5,Mild
+By State,Maryland,2020-05-21,22.9,Mild
+By State,Massachusetts,2020-05-21,20.3,Mild
+By State,Michigan,2020-05-21,25.1,Mild
+By State,Minnesota,2020-05-21,17.7,Mild
+By State,Mississippi,2020-05-21,27.7,Mild
+By State,Missouri,2020-05-21,24.3,Mild
+By State,Montana,2020-05-21,22.2,Mild
+By State,Nebraska,2020-05-21,17.2,Mild
+By State,Nevada,2020-05-21,27.1,Mild
+By State,New Hampshire,2020-05-21,22.2,Mild
+By State,New Jersey,2020-05-21,22.9,Mild
+By State,New Mexico,2020-05-21,28.7,Mild
+By State,New York,2020-05-21,23.7,Mild
+By State,North Carolina,2020-05-21,22.1,Mild
+By State,North Dakota,2020-05-21,19.8,Mild
+By State,Ohio,2020-05-21,27.4,Mild
+By State,Oklahoma,2020-05-21,27.5,Mild
+By State,Oregon,2020-05-21,24.2,Mild
+By State,Pennsylvania,2020-05-21,25.9,Mild
+By State,Rhode Island,2020-05-21,21.4,Mild
+By State,South Carolina,2020-05-21,21.7,Mild
+By State,South Dakota,2020-05-21,25.8,Mild
+By State,Tennessee,2020-05-21,22.5,Mild
+By State,Texas,2020-05-21,28.8,Mild
+By State,Utah,2020-05-21,24.9,Mild
+By State,Vermont,2020-05-21,19.4,Mild
+By State,Virginia,2020-05-21,22.3,Mild
+By State,Washington,2020-05-21,22.2,Mild
+By State,West Virginia,2020-05-21,22.0,Mild
+By State,Wisconsin,2020-05-21,20.8,Mild
+By State,Wyoming,2020-05-21,18.8,Mild
+By Age,18 - 29 years,2020-05-28,36.8,High
+By Age,30 - 39 years,2020-05-28,27.9,Mild
+By Age,40 - 49 years,2020-05-28,25.7,Mild
+By Age,50 - 59 years,2020-05-28,25.1,Mild
+By Age,60 - 69 years,2020-05-28,18.0,Mild
+By Age,70 - 79 years,2020-05-28,15.5,Mild
+By Age,80 years and above,2020-05-28,14.9,Mild
+By Sex,Male,2020-05-28,23.0,Mild
+By Sex,Female,2020-05-28,27.4,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-05-28,26.3,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-05-28,23.7,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-05-28,29.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-05-28,22.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-05-28,37.6,High
+By Education,Less than a high school diploma,2020-05-28,31.9,Moderate
+By Education,High school diploma or GED,2020-05-28,27.8,Mild
+By Education,Some college/Associate's degree,2020-05-28,27.8,Mild
+By Education,Bachelor's degree or higher,2020-05-28,18.6,Mild
+By State,Alabama,2020-05-28,28.4,Mild
+By State,Alaska,2020-05-28,24.4,Mild
+By State,Arizona,2020-05-28,23.9,Mild
+By State,Arkansas,2020-05-28,28.9,Mild
+By State,California,2020-05-28,26.9,Mild
+By State,Colorado,2020-05-28,23.9,Mild
+By State,Connecticut,2020-05-28,25.4,Mild
+By State,Delaware,2020-05-28,20.7,Mild
+By State,District of Columbia,2020-05-28,21.3,Mild
+By State,Florida,2020-05-28,29.6,Mild
+By State,Georgia,2020-05-28,24.5,Mild
+By State,Hawaii,2020-05-28,17.0,Mild
+By State,Idaho,2020-05-28,23.8,Mild
+By State,Illinois,2020-05-28,26.9,Mild
+By State,Indiana,2020-05-28,25.6,Mild
+By State,Iowa,2020-05-28,22.6,Mild
+By State,Kansas,2020-05-28,23.1,Mild
+By State,Kentucky,2020-05-28,28.5,Mild
+By State,Louisiana,2020-05-28,26.8,Mild
+By State,Maine,2020-05-28,18.5,Mild
+By State,Maryland,2020-05-28,21.9,Mild
+By State,Massachusetts,2020-05-28,20.3,Mild
+By State,Michigan,2020-05-28,25.9,Mild
+By State,Minnesota,2020-05-28,19.1,Mild
+By State,Mississippi,2020-05-28,28.6,Mild
+By State,Missouri,2020-05-28,24.5,Mild
+By State,Montana,2020-05-28,20.5,Mild
+By State,Nebraska,2020-05-28,18.2,Mild
+By State,Nevada,2020-05-28,20.2,Mild
+By State,New Hampshire,2020-05-28,22.6,Mild
+By State,New Jersey,2020-05-28,25.8,Mild
+By State,New Mexico,2020-05-28,24.3,Mild
+By State,New York,2020-05-28,24.5,Mild
+By State,North Carolina,2020-05-28,22.3,Mild
+By State,North Dakota,2020-05-28,19.3,Mild
+By State,Ohio,2020-05-28,28.1,Mild
+By State,Oklahoma,2020-05-28,31.8,Moderate
+By State,Oregon,2020-05-28,27.6,Mild
+By State,Pennsylvania,2020-05-28,24.6,Mild
+By State,Rhode Island,2020-05-28,22.3,Mild
+By State,South Carolina,2020-05-28,28.8,Mild
+By State,South Dakota,2020-05-28,20.0,Mild
+By State,Tennessee,2020-05-28,22.9,Mild
+By State,Texas,2020-05-28,26.2,Mild
+By State,Utah,2020-05-28,22.3,Mild
+By State,Vermont,2020-05-28,23.5,Mild
+By State,Virginia,2020-05-28,21.4,Mild
+By State,Washington,2020-05-28,27.1,Mild
+By State,West Virginia,2020-05-28,26.2,Mild
+By State,Wisconsin,2020-05-28,17.7,Mild
+By State,Wyoming,2020-05-28,25.2,Mild
+By Age,18 - 29 years,2020-06-04,37.0,High
+By Age,30 - 39 years,2020-06-04,29.1,Mild
+By Age,40 - 49 years,2020-06-04,27.0,Mild
+By Age,50 - 59 years,2020-06-04,26.0,Mild
+By Age,60 - 69 years,2020-06-04,19.8,Mild
+By Age,70 - 79 years,2020-06-04,13.1,Mild
+By Age,80 years and above,2020-06-04,12.3,Mild
+By Sex,Male,2020-06-04,23.7,Mild
+By Sex,Female,2020-06-04,27.8,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-04,30.8,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-04,23.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-04,29.6,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-04,19.8,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-04,33.9,Moderate
+By Education,Less than a high school diploma,2020-06-04,37.1,High
+By Education,High school diploma or GED,2020-06-04,27.6,Mild
+By Education,Some college/Associate's degree,2020-06-04,28.2,Mild
+By Education,Bachelor's degree or higher,2020-06-04,18.9,Mild
+By State,Alabama,2020-06-04,27.7,Mild
+By State,Alaska,2020-06-04,21.5,Mild
+By State,Arizona,2020-06-04,26.5,Mild
+By State,Arkansas,2020-06-04,26.5,Mild
+By State,California,2020-06-04,28.6,Mild
+By State,Colorado,2020-06-04,23.9,Mild
+By State,Connecticut,2020-06-04,20.7,Mild
+By State,Delaware,2020-06-04,25.3,Mild
+By State,District of Columbia,2020-06-04,25.9,Mild
+By State,Florida,2020-06-04,30.2,Moderate
+By State,Georgia,2020-06-04,25.6,Mild
+By State,Hawaii,2020-06-04,19.5,Mild
+By State,Idaho,2020-06-04,19.2,Mild
+By State,Illinois,2020-06-04,27.9,Mild
+By State,Indiana,2020-06-04,22.2,Mild
+By State,Iowa,2020-06-04,25.7,Mild
+By State,Kansas,2020-06-04,28.6,Mild
+By State,Kentucky,2020-06-04,25.5,Mild
+By State,Louisiana,2020-06-04,28.4,Mild
+By State,Maine,2020-06-04,20.6,Mild
+By State,Maryland,2020-06-04,18.4,Mild
+By State,Massachusetts,2020-06-04,21.8,Mild
+By State,Michigan,2020-06-04,19.1,Mild
+By State,Minnesota,2020-06-04,19.7,Mild
+By State,Mississippi,2020-06-04,29.6,Mild
+By State,Missouri,2020-06-04,23.1,Mild
+By State,Montana,2020-06-04,17.5,Mild
+By State,Nebraska,2020-06-04,21.7,Mild
+By State,Nevada,2020-06-04,27.6,Mild
+By State,New Hampshire,2020-06-04,26.2,Mild
+By State,New Jersey,2020-06-04,21.8,Mild
+By State,New Mexico,2020-06-04,23.7,Mild
+By State,New York,2020-06-04,28.5,Mild
+By State,North Carolina,2020-06-04,21.6,Mild
+By State,North Dakota,2020-06-04,14.7,Mild
+By State,Ohio,2020-06-04,26.4,Mild
+By State,Oklahoma,2020-06-04,24.7,Mild
+By State,Oregon,2020-06-04,27.1,Mild
+By State,Pennsylvania,2020-06-04,24.7,Mild
+By State,Rhode Island,2020-06-04,19.0,Mild
+By State,South Carolina,2020-06-04,25.0,Mild
+By State,South Dakota,2020-06-04,21.2,Mild
+By State,Tennessee,2020-06-04,27.2,Mild
+By State,Texas,2020-06-04,30.3,Moderate
+By State,Utah,2020-06-04,25.3,Mild
+By State,Vermont,2020-06-04,25.1,Mild
+By State,Virginia,2020-06-04,27.5,Mild
+By State,Washington,2020-06-04,21.4,Mild
+By State,West Virginia,2020-06-04,27.9,Mild
+By State,Wisconsin,2020-06-04,19.5,Mild
+By State,Wyoming,2020-06-04,20.9,Mild
+By Age,18 - 29 years,2020-06-11,36.8,High
+By Age,30 - 39 years,2020-06-11,26.7,Mild
+By Age,40 - 49 years,2020-06-11,25.9,Mild
+By Age,50 - 59 years,2020-06-11,24.6,Mild
+By Age,60 - 69 years,2020-06-11,19.6,Mild
+By Age,70 - 79 years,2020-06-11,15.5,Mild
+By Age,80 years and above,2020-06-11,9.9,Mild
+By Sex,Male,2020-06-11,23.3,Mild
+By Sex,Female,2020-06-11,26.7,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-11,28.4,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-11,23.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-11,28.3,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-11,21.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-11,32.3,Moderate
+By Education,Less than a high school diploma,2020-06-11,31.4,Moderate
+By Education,High school diploma or GED,2020-06-11,27.5,Mild
+By Education,Some college/Associate's degree,2020-06-11,28.4,Mild
+By Education,Bachelor's degree or higher,2020-06-11,17.9,Mild
+By State,Alabama,2020-06-11,26.7,Mild
+By State,Alaska,2020-06-11,23.5,Mild
+By State,Arizona,2020-06-11,25.0,Mild
+By State,Arkansas,2020-06-11,29.6,Mild
+By State,California,2020-06-11,27.2,Mild
+By State,Colorado,2020-06-11,22.1,Mild
+By State,Connecticut,2020-06-11,25.5,Mild
+By State,Delaware,2020-06-11,24.4,Mild
+By State,District of Columbia,2020-06-11,16.3,Mild
+By State,Florida,2020-06-11,28.1,Mild
+By State,Georgia,2020-06-11,25.7,Mild
+By State,Hawaii,2020-06-11,26.8,Mild
+By State,Idaho,2020-06-11,14.3,Mild
+By State,Illinois,2020-06-11,24.8,Mild
+By State,Indiana,2020-06-11,26.6,Mild
+By State,Iowa,2020-06-11,22.4,Mild
+By State,Kansas,2020-06-11,24.6,Mild
+By State,Kentucky,2020-06-11,22.6,Mild
+By State,Louisiana,2020-06-11,34.5,Moderate
+By State,Maine,2020-06-11,23.7,Mild
+By State,Maryland,2020-06-11,27.9,Mild
+By State,Massachusetts,2020-06-11,17.0,Mild
+By State,Michigan,2020-06-11,21.4,Mild
+By State,Minnesota,2020-06-11,19.9,Mild
+By State,Mississippi,2020-06-11,24.8,Mild
+By State,Missouri,2020-06-11,26.1,Mild
+By State,Montana,2020-06-11,21.8,Mild
+By State,Nebraska,2020-06-11,20.3,Mild
+By State,Nevada,2020-06-11,30.4,Moderate
+By State,New Hampshire,2020-06-11,21.7,Mild
+By State,New Jersey,2020-06-11,26.9,Mild
+By State,New Mexico,2020-06-11,18.8,Mild
+By State,New York,2020-06-11,23.4,Mild
+By State,North Carolina,2020-06-11,23.9,Mild
+By State,North Dakota,2020-06-11,23.4,Mild
+By State,Ohio,2020-06-11,26.8,Mild
+By State,Oklahoma,2020-06-11,22.5,Mild
+By State,Oregon,2020-06-11,31.1,Moderate
+By State,Pennsylvania,2020-06-11,25.5,Mild
+By State,Rhode Island,2020-06-11,24.1,Mild
+By State,South Carolina,2020-06-11,28.1,Mild
+By State,South Dakota,2020-06-11,19.2,Mild
+By State,Tennessee,2020-06-11,21.5,Mild
+By State,Texas,2020-06-11,27.6,Mild
+By State,Utah,2020-06-11,18.5,Mild
+By State,Vermont,2020-06-11,26.2,Mild
+By State,Virginia,2020-06-11,23.3,Mild
+By State,Washington,2020-06-11,22.5,Mild
+By State,West Virginia,2020-06-11,23.5,Mild
+By State,Wisconsin,2020-06-11,17.5,Mild
+By State,Wyoming,2020-06-11,18.9,Mild
+By Age,18 - 29 years,2020-06-18,36.7,High
+By Age,30 - 39 years,2020-06-18,28.3,Mild
+By Age,40 - 49 years,2020-06-18,26.2,Mild
+By Age,50 - 59 years,2020-06-18,26.0,Mild
+By Age,60 - 69 years,2020-06-18,19.3,Mild
+By Age,70 - 79 years,2020-06-18,14.5,Mild
+By Age,80 years and above,2020-06-18,10.8,Mild
+By Sex,Male,2020-06-18,23.8,Mild
+By Sex,Female,2020-06-18,27.3,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-18,29.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-18,24.2,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-18,28.1,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-18,20.1,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-18,34.1,Moderate
+By Education,Less than a high school diploma,2020-06-18,31.4,Moderate
+By Education,High school diploma or GED,2020-06-18,28.8,Mild
+By Education,Some college/Associate's degree,2020-06-18,28.6,Mild
+By Education,Bachelor's degree or higher,2020-06-18,18.2,Mild
+By State,Alabama,2020-06-18,27.5,Mild
+By State,Alaska,2020-06-18,25.7,Mild
+By State,Arizona,2020-06-18,28.9,Mild
+By State,Arkansas,2020-06-18,28.7,Mild
+By State,California,2020-06-18,26.4,Mild
+By State,Colorado,2020-06-18,23.0,Mild
+By State,Connecticut,2020-06-18,28.7,Mild
+By State,Delaware,2020-06-18,22.9,Mild
+By State,District of Columbia,2020-06-18,31.0,Moderate
+By State,Florida,2020-06-18,28.8,Mild
+By State,Georgia,2020-06-18,27.9,Mild
+By State,Hawaii,2020-06-18,18.3,Mild
+By State,Idaho,2020-06-18,23.0,Mild
+By State,Illinois,2020-06-18,23.8,Mild
+By State,Indiana,2020-06-18,23.7,Mild
+By State,Iowa,2020-06-18,26.1,Mild
+By State,Kansas,2020-06-18,24.4,Mild
+By State,Kentucky,2020-06-18,29.0,Mild
+By State,Louisiana,2020-06-18,35.6,High
+By State,Maine,2020-06-18,19.0,Mild
+By State,Maryland,2020-06-18,22.0,Mild
+By State,Massachusetts,2020-06-18,22.8,Mild
+By State,Michigan,2020-06-18,23.3,Mild
+By State,Minnesota,2020-06-18,21.5,Mild
+By State,Mississippi,2020-06-18,29.3,Mild
+By State,Missouri,2020-06-18,25.0,Mild
+By State,Montana,2020-06-18,21.6,Mild
+By State,Nebraska,2020-06-18,22.1,Mild
+By State,Nevada,2020-06-18,32.5,Moderate
+By State,New Hampshire,2020-06-18,23.0,Mild
+By State,New Jersey,2020-06-18,24.4,Mild
+By State,New Mexico,2020-06-18,29.4,Mild
+By State,New York,2020-06-18,24.2,Mild
+By State,North Carolina,2020-06-18,22.5,Mild
+By State,North Dakota,2020-06-18,25.1,Mild
+By State,Ohio,2020-06-18,21.5,Mild
+By State,Oklahoma,2020-06-18,33.2,Moderate
+By State,Oregon,2020-06-18,31.0,Moderate
+By State,Pennsylvania,2020-06-18,27.3,Mild
+By State,Rhode Island,2020-06-18,22.1,Mild
+By State,South Carolina,2020-06-18,22.4,Mild
+By State,South Dakota,2020-06-18,21.7,Mild
+By State,Tennessee,2020-06-18,26.8,Mild
+By State,Texas,2020-06-18,25.6,Mild
+By State,Utah,2020-06-18,27.3,Mild
+By State,Vermont,2020-06-18,18.4,Mild
+By State,Virginia,2020-06-18,26.9,Mild
+By State,Washington,2020-06-18,26.4,Mild
+By State,West Virginia,2020-06-18,30.2,Moderate
+By State,Wisconsin,2020-06-18,15.7,Mild
+By State,Wyoming,2020-06-18,17.6,Mild
+By Age,18 - 29 years,2020-06-25,36.6,High
+By Age,30 - 39 years,2020-06-25,30.7,Moderate
+By Age,40 - 49 years,2020-06-25,27.7,Mild
+By Age,50 - 59 years,2020-06-25,27.1,Mild
+By Age,60 - 69 years,2020-06-25,20.5,Mild
+By Age,70 - 79 years,2020-06-25,16.1,Mild
+By Age,80 years and above,2020-06-25,15.2,Mild
+By Sex,Male,2020-06-25,25.0,Mild
+By Sex,Female,2020-06-25,28.8,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-06-25,31.1,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-06-25,24.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-06-25,30.9,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-06-25,21.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-06-25,36.8,High
+By Education,Less than a high school diploma,2020-06-25,37.1,High
+By Education,High school diploma or GED,2020-06-25,28.7,Mild
+By Education,Some college/Associate's degree,2020-06-25,30.0,Mild
+By Education,Bachelor's degree or higher,2020-06-25,19.4,Mild
+By State,Alabama,2020-06-25,26.5,Mild
+By State,Alaska,2020-06-25,23.8,Mild
+By State,Arizona,2020-06-25,32.7,Moderate
+By State,Arkansas,2020-06-25,29.6,Mild
+By State,California,2020-06-25,27.6,Mild
+By State,Colorado,2020-06-25,26.1,Mild
+By State,Connecticut,2020-06-25,24.0,Mild
+By State,Delaware,2020-06-25,25.4,Mild
+By State,District of Columbia,2020-06-25,27.6,Mild
+By State,Florida,2020-06-25,31.8,Moderate
+By State,Georgia,2020-06-25,31.4,Moderate
+By State,Hawaii,2020-06-25,28.2,Mild
+By State,Idaho,2020-06-25,29.5,Mild
+By State,Illinois,2020-06-25,28.1,Mild
+By State,Indiana,2020-06-25,26.2,Mild
+By State,Iowa,2020-06-25,23.1,Mild
+By State,Kansas,2020-06-25,20.9,Mild
+By State,Kentucky,2020-06-25,26.4,Mild
+By State,Louisiana,2020-06-25,32.2,Moderate
+By State,Maine,2020-06-25,23.8,Mild
+By State,Maryland,2020-06-25,22.1,Mild
+By State,Massachusetts,2020-06-25,24.2,Mild
+By State,Michigan,2020-06-25,23.5,Mild
+By State,Minnesota,2020-06-25,22.3,Mild
+By State,Mississippi,2020-06-25,34.4,Moderate
+By State,Missouri,2020-06-25,25.6,Mild
+By State,Montana,2020-06-25,22.2,Mild
+By State,Nebraska,2020-06-25,22.0,Mild
+By State,Nevada,2020-06-25,26.8,Mild
+By State,New Hampshire,2020-06-25,24.3,Mild
+By State,New Jersey,2020-06-25,24.2,Mild
+By State,New Mexico,2020-06-25,29.7,Mild
+By State,New York,2020-06-25,23.9,Mild
+By State,North Carolina,2020-06-25,22.7,Mild
+By State,North Dakota,2020-06-25,25.0,Mild
+By State,Ohio,2020-06-25,23.3,Mild
+By State,Oklahoma,2020-06-25,32.8,Moderate
+By State,Oregon,2020-06-25,27.1,Mild
+By State,Pennsylvania,2020-06-25,26.5,Mild
+By State,Rhode Island,2020-06-25,24.0,Mild
+By State,South Carolina,2020-06-25,28.9,Mild
+By State,South Dakota,2020-06-25,25.1,Mild
+By State,Tennessee,2020-06-25,30.5,Moderate
+By State,Texas,2020-06-25,28.2,Mild
+By State,Utah,2020-06-25,26.0,Mild
+By State,Vermont,2020-06-25,22.3,Mild
+By State,Virginia,2020-06-25,24.2,Mild
+By State,Washington,2020-06-25,31.1,Moderate
+By State,West Virginia,2020-06-25,34.5,Moderate
+By State,Wisconsin,2020-06-25,19.0,Mild
+By State,Wyoming,2020-06-25,23.4,Mild
+By Age,18 - 29 years,2020-07-02,35.8,High
+By Age,30 - 39 years,2020-07-02,31.7,Moderate
+By Age,40 - 49 years,2020-07-02,27.6,Mild
+By Age,50 - 59 years,2020-07-02,28.2,Mild
+By Age,60 - 69 years,2020-07-02,21.8,Mild
+By Age,70 - 79 years,2020-07-02,17.8,Mild
+By Age,80 years and above,2020-07-02,18.7,Mild
+By Sex,Male,2020-07-02,26.6,Mild
+By Sex,Female,2020-07-02,28.6,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-02,30.9,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-02,26.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-02,29.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-02,25.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-02,35.6,High
+By Education,Less than a high school diploma,2020-07-02,38.3,High
+By Education,High school diploma or GED,2020-07-02,29.1,Mild
+By Education,Some college/Associate's degree,2020-07-02,31.2,Moderate
+By Education,Bachelor's degree or higher,2020-07-02,19.9,Mild
+By State,Alabama,2020-07-02,28.6,Mild
+By State,Alaska,2020-07-02,21.5,Mild
+By State,Arizona,2020-07-02,31.3,Moderate
+By State,Arkansas,2020-07-02,30.2,Moderate
+By State,California,2020-07-02,27.6,Mild
+By State,Colorado,2020-07-02,30.0,Mild
+By State,Connecticut,2020-07-02,26.3,Mild
+By State,Delaware,2020-07-02,22.7,Mild
+By State,District of Columbia,2020-07-02,24.9,Mild
+By State,Florida,2020-07-02,27.9,Mild
+By State,Georgia,2020-07-02,27.1,Mild
+By State,Hawaii,2020-07-02,28.9,Mild
+By State,Idaho,2020-07-02,25.6,Mild
+By State,Illinois,2020-07-02,27.6,Mild
+By State,Indiana,2020-07-02,27.7,Mild
+By State,Iowa,2020-07-02,17.5,Mild
+By State,Kansas,2020-07-02,21.5,Mild
+By State,Kentucky,2020-07-02,27.4,Mild
+By State,Louisiana,2020-07-02,33.5,Moderate
+By State,Maine,2020-07-02,26.6,Mild
+By State,Maryland,2020-07-02,22.5,Mild
+By State,Massachusetts,2020-07-02,21.8,Mild
+By State,Michigan,2020-07-02,26.6,Mild
+By State,Minnesota,2020-07-02,20.9,Mild
+By State,Mississippi,2020-07-02,32.0,Moderate
+By State,Missouri,2020-07-02,28.8,Mild
+By State,Montana,2020-07-02,23.8,Mild
+By State,Nebraska,2020-07-02,23.6,Mild
+By State,Nevada,2020-07-02,34.6,Moderate
+By State,New Hampshire,2020-07-02,19.7,Mild
+By State,New Jersey,2020-07-02,25.9,Mild
+By State,New Mexico,2020-07-02,32.5,Moderate
+By State,New York,2020-07-02,28.5,Mild
+By State,North Carolina,2020-07-02,28.3,Mild
+By State,North Dakota,2020-07-02,23.0,Mild
+By State,Ohio,2020-07-02,25.6,Mild
+By State,Oklahoma,2020-07-02,29.4,Mild
+By State,Oregon,2020-07-02,29.9,Mild
+By State,Pennsylvania,2020-07-02,26.0,Mild
+By State,Rhode Island,2020-07-02,22.8,Mild
+By State,South Carolina,2020-07-02,29.3,Mild
+By State,South Dakota,2020-07-02,26.7,Mild
+By State,Tennessee,2020-07-02,31.7,Moderate
+By State,Texas,2020-07-02,30.5,Moderate
+By State,Utah,2020-07-02,25.0,Mild
+By State,Vermont,2020-07-02,22.2,Mild
+By State,Virginia,2020-07-02,29.5,Mild
+By State,Washington,2020-07-02,27.8,Mild
+By State,West Virginia,2020-07-02,24.2,Mild
+By State,Wisconsin,2020-07-02,24.6,Mild
+By State,Wyoming,2020-07-02,26.5,Mild
+By Age,18 - 29 years,2020-07-09,39.0,High
+By Age,30 - 39 years,2020-07-09,32.3,Moderate
+By Age,40 - 49 years,2020-07-09,28.5,Mild
+By Age,50 - 59 years,2020-07-09,29.2,Mild
+By Age,60 - 69 years,2020-07-09,21.7,Mild
+By Age,70 - 79 years,2020-07-09,13.9,Mild
+By Age,80 years and above,2020-07-09,12.0,Mild
+By Sex,Male,2020-07-09,26.0,Mild
+By Sex,Female,2020-07-09,30.0,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-09,31.0,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-09,26.6,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-09,30.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-09,26.4,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-09,36.1,High
+By Education,Less than a high school diploma,2020-07-09,34.9,Moderate
+By Education,High school diploma or GED,2020-07-09,28.6,Mild
+By Education,Some college/Associate's degree,2020-07-09,32.3,Moderate
+By Education,Bachelor's degree or higher,2020-07-09,21.6,Mild
+By State,Alabama,2020-07-09,30.4,Moderate
+By State,Alaska,2020-07-09,27.4,Mild
+By State,Arizona,2020-07-09,33.9,Moderate
+By State,Arkansas,2020-07-09,34.8,Moderate
+By State,California,2020-07-09,31.8,Moderate
+By State,Colorado,2020-07-09,26.1,Mild
+By State,Connecticut,2020-07-09,26.7,Mild
+By State,Delaware,2020-07-09,23.3,Mild
+By State,District of Columbia,2020-07-09,20.8,Mild
+By State,Florida,2020-07-09,31.7,Moderate
+By State,Georgia,2020-07-09,29.0,Mild
+By State,Hawaii,2020-07-09,28.3,Mild
+By State,Idaho,2020-07-09,27.5,Mild
+By State,Illinois,2020-07-09,23.7,Mild
+By State,Indiana,2020-07-09,29.4,Mild
+By State,Iowa,2020-07-09,17.7,Mild
+By State,Kansas,2020-07-09,24.8,Mild
+By State,Kentucky,2020-07-09,30.7,Moderate
+By State,Louisiana,2020-07-09,31.1,Moderate
+By State,Maine,2020-07-09,22.4,Mild
+By State,Maryland,2020-07-09,22.2,Mild
+By State,Massachusetts,2020-07-09,23.8,Mild
+By State,Michigan,2020-07-09,23.0,Mild
+By State,Minnesota,2020-07-09,22.0,Mild
+By State,Mississippi,2020-07-09,36.1,High
+By State,Missouri,2020-07-09,25.8,Mild
+By State,Montana,2020-07-09,28.5,Mild
+By State,Nebraska,2020-07-09,26.4,Mild
+By State,Nevada,2020-07-09,33.3,Moderate
+By State,New Hampshire,2020-07-09,28.7,Mild
+By State,New Jersey,2020-07-09,28.7,Mild
+By State,New Mexico,2020-07-09,30.1,Moderate
+By State,New York,2020-07-09,25.0,Mild
+By State,North Carolina,2020-07-09,26.4,Mild
+By State,North Dakota,2020-07-09,25.2,Mild
+By State,Ohio,2020-07-09,21.2,Mild
+By State,Oklahoma,2020-07-09,30.8,Moderate
+By State,Oregon,2020-07-09,31.7,Moderate
+By State,Pennsylvania,2020-07-09,27.5,Mild
+By State,Rhode Island,2020-07-09,31.1,Moderate
+By State,South Carolina,2020-07-09,25.3,Mild
+By State,South Dakota,2020-07-09,24.1,Mild
+By State,Tennessee,2020-07-09,31.4,Moderate
+By State,Texas,2020-07-09,32.2,Moderate
+By State,Utah,2020-07-09,24.2,Mild
+By State,Vermont,2020-07-09,20.7,Mild
+By State,Virginia,2020-07-09,24.0,Mild
+By State,Washington,2020-07-09,27.2,Mild
+By State,West Virginia,2020-07-09,29.4,Mild
+By State,Wisconsin,2020-07-09,24.6,Mild
+By State,Wyoming,2020-07-09,21.7,Mild
+By Age,18 - 29 years,2020-07-16,41.7,Extreme
+By Age,30 - 39 years,2020-07-16,32.8,Moderate
+By Age,40 - 49 years,2020-07-16,31.0,Moderate
+By Age,50 - 59 years,2020-07-16,28.4,Mild
+By Age,60 - 69 years,2020-07-16,23.6,Mild
+By Age,70 - 79 years,2020-07-16,16.9,Mild
+By Age,80 years and above,2020-07-16,12.6,Mild
+By Sex,Male,2020-07-16,27.8,Mild
+By Sex,Female,2020-07-16,31.3,Moderate
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-07-16,34.2,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-07-16,27.7,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-07-16,32.1,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-07-16,30.5,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-07-16,33.0,Moderate
+By Education,Less than a high school diploma,2020-07-16,38.4,High
+By Education,High school diploma or GED,2020-07-16,31.4,Moderate
+By Education,Some college/Associate's degree,2020-07-16,33.0,Moderate
+By Education,Bachelor's degree or higher,2020-07-16,22.2,Mild
+By State,Alabama,2020-07-16,32.7,Moderate
+By State,Alaska,2020-07-16,27.4,Mild
+By State,Arizona,2020-07-16,34.3,Moderate
+By State,Arkansas,2020-07-16,33.7,Moderate
+By State,California,2020-07-16,31.2,Moderate
+By State,Colorado,2020-07-16,29.1,Mild
+By State,Connecticut,2020-07-16,25.9,Mild
+By State,Delaware,2020-07-16,26.5,Mild
+By State,District of Columbia,2020-07-16,23.8,Mild
+By State,Florida,2020-07-16,30.7,Moderate
+By State,Georgia,2020-07-16,29.7,Mild
+By State,Hawaii,2020-07-16,29.3,Mild
+By State,Idaho,2020-07-16,34.2,Moderate
+By State,Illinois,2020-07-16,29.5,Mild
+By State,Indiana,2020-07-16,32.0,Moderate
+By State,Iowa,2020-07-16,25.3,Mild
+By State,Kansas,2020-07-16,30.5,Moderate
+By State,Kentucky,2020-07-16,30.6,Moderate
+By State,Louisiana,2020-07-16,31.7,Moderate
+By State,Maine,2020-07-16,25.3,Mild
+By State,Maryland,2020-07-16,29.5,Mild
+By State,Massachusetts,2020-07-16,23.7,Mild
+By State,Michigan,2020-07-16,28.6,Mild
+By State,Minnesota,2020-07-16,24.2,Mild
+By State,Mississippi,2020-07-16,36.5,High
+By State,Missouri,2020-07-16,24.8,Mild
+By State,Montana,2020-07-16,28.4,Mild
+By State,Nebraska,2020-07-16,25.2,Mild
+By State,Nevada,2020-07-16,38.6,High
+By State,New Hampshire,2020-07-16,28.8,Mild
+By State,New Jersey,2020-07-16,26.8,Mild
+By State,New Mexico,2020-07-16,37.6,High
+By State,New York,2020-07-16,29.3,Mild
+By State,North Carolina,2020-07-16,30.5,Moderate
+By State,North Dakota,2020-07-16,26.8,Mild
+By State,Ohio,2020-07-16,24.9,Mild
+By State,Oklahoma,2020-07-16,33.5,Moderate
+By State,Oregon,2020-07-16,36.4,High
+By State,Pennsylvania,2020-07-16,20.5,Mild
+By State,Rhode Island,2020-07-16,25.9,Mild
+By State,South Carolina,2020-07-16,32.3,Moderate
+By State,South Dakota,2020-07-16,27.6,Mild
+By State,Tennessee,2020-07-16,33.7,Moderate
+By State,Texas,2020-07-16,32.4,Moderate
+By State,Utah,2020-07-16,28.5,Mild
+By State,Vermont,2020-07-16,21.4,Mild
+By State,Virginia,2020-07-16,27.0,Mild
+By State,Washington,2020-07-16,32.2,Moderate
+By State,West Virginia,2020-07-16,28.0,Mild
+By State,Wisconsin,2020-07-16,23.9,Mild
+By State,Wyoming,2020-07-16,31.6,Moderate
+By Age,18 - 29 years,2020-08-19,35.4,High
+By Age,30 - 39 years,2020-08-19,27.9,Mild
+By Age,40 - 49 years,2020-08-19,23.8,Mild
+By Age,50 - 59 years,2020-08-19,23.8,Mild
+By Age,60 - 69 years,2020-08-19,19.7,Mild
+By Age,70 - 79 years,2020-08-19,14.8,Mild
+By Age,80 years and above,2020-08-19,13.8,Mild
+By Sex,Male,2020-08-19,22.5,Mild
+By Sex,Female,2020-08-19,26.4,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-08-19,28.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-08-19,23.2,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-08-19,26.2,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-08-19,20.8,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-08-19,30.3,Moderate
+By Education,Less than a high school diploma,2020-08-19,29.1,Mild
+By Education,High school diploma or GED,2020-08-19,27.0,Mild
+By Education,Some college/Associate's degree,2020-08-19,27.2,Mild
+By Education,Bachelor's degree or higher,2020-08-19,18.6,Mild
+By State,Alabama,2020-08-19,27.7,Mild
+By State,Alaska,2020-08-19,22.2,Mild
+By State,Arizona,2020-08-19,26.4,Mild
+By State,Arkansas,2020-08-19,23.9,Mild
+By State,California,2020-08-19,25.9,Mild
+By State,Colorado,2020-08-19,24.5,Mild
+By State,Connecticut,2020-08-19,23.8,Mild
+By State,Delaware,2020-08-19,20.1,Mild
+By State,District of Columbia,2020-08-19,23.8,Mild
+By State,Florida,2020-08-19,27.8,Mild
+By State,Georgia,2020-08-19,26.8,Mild
+By State,Hawaii,2020-08-19,22.8,Mild
+By State,Idaho,2020-08-19,22.8,Mild
+By State,Illinois,2020-08-19,23.5,Mild
+By State,Indiana,2020-08-19,25.4,Mild
+By State,Iowa,2020-08-19,20.0,Mild
+By State,Kansas,2020-08-19,24.3,Mild
+By State,Kentucky,2020-08-19,27.9,Mild
+By State,Louisiana,2020-08-19,26.9,Mild
+By State,Maine,2020-08-19,23.8,Mild
+By State,Maryland,2020-08-19,21.3,Mild
+By State,Massachusetts,2020-08-19,22.3,Mild
+By State,Michigan,2020-08-19,24.1,Mild
+By State,Minnesota,2020-08-19,18.3,Mild
+By State,Mississippi,2020-08-19,23.6,Mild
+By State,Missouri,2020-08-19,23.7,Mild
+By State,Montana,2020-08-19,18.6,Mild
+By State,Nebraska,2020-08-19,20.9,Mild
+By State,Nevada,2020-08-19,26.9,Mild
+By State,New Hampshire,2020-08-19,19.8,Mild
+By State,New Jersey,2020-08-19,24.7,Mild
+By State,New Mexico,2020-08-19,27.8,Mild
+By State,New York,2020-08-19,22.5,Mild
+By State,North Carolina,2020-08-19,20.5,Mild
+By State,North Dakota,2020-08-19,17.8,Mild
+By State,Ohio,2020-08-19,24.9,Mild
+By State,Oklahoma,2020-08-19,25.9,Mild
+By State,Oregon,2020-08-19,26.1,Mild
+By State,Pennsylvania,2020-08-19,23.8,Mild
+By State,Rhode Island,2020-08-19,19.2,Mild
+By State,South Carolina,2020-08-19,20.4,Mild
+By State,South Dakota,2020-08-19,15.2,Mild
+By State,Tennessee,2020-08-19,28.3,Mild
+By State,Texas,2020-08-19,25.7,Mild
+By State,Utah,2020-08-19,22.7,Mild
+By State,Vermont,2020-08-19,19.5,Mild
+By State,Virginia,2020-08-19,25.1,Mild
+By State,Washington,2020-08-19,23.6,Mild
+By State,West Virginia,2020-08-19,25.2,Mild
+By State,Wisconsin,2020-08-19,20.2,Mild
+By State,Wyoming,2020-08-19,21.9,Mild
+By Age,18 - 29 years,2020-09-02,34.9,Moderate
+By Age,30 - 39 years,2020-09-02,27.2,Mild
+By Age,40 - 49 years,2020-09-02,25.8,Mild
+By Age,50 - 59 years,2020-09-02,23.1,Mild
+By Age,60 - 69 years,2020-09-02,19.4,Mild
+By Age,70 - 79 years,2020-09-02,14.9,Mild
+By Age,80 years and above,2020-09-02,13.3,Mild
+By Sex,Male,2020-09-02,22.8,Mild
+By Sex,Female,2020-09-02,26.0,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-02,28.9,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-02,22.7,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-02,28.5,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-02,19.1,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-02,31.4,Moderate
+By Education,Less than a high school diploma,2020-09-02,33.0,Moderate
+By Education,High school diploma or GED,2020-09-02,25.7,Mild
+By Education,Some college/Associate's degree,2020-09-02,27.5,Mild
+By Education,Bachelor's degree or higher,2020-09-02,18.4,Mild
+By State,Alabama,2020-09-02,25.2,Mild
+By State,Alaska,2020-09-02,23.6,Mild
+By State,Arizona,2020-09-02,26.5,Mild
+By State,Arkansas,2020-09-02,29.8,Mild
+By State,California,2020-09-02,27.6,Mild
+By State,Colorado,2020-09-02,22.7,Mild
+By State,Connecticut,2020-09-02,21.2,Mild
+By State,Delaware,2020-09-02,23.3,Mild
+By State,District of Columbia,2020-09-02,20.9,Mild
+By State,Florida,2020-09-02,25.3,Mild
+By State,Georgia,2020-09-02,23.2,Mild
+By State,Hawaii,2020-09-02,29.4,Mild
+By State,Idaho,2020-09-02,21.8,Mild
+By State,Illinois,2020-09-02,24.2,Mild
+By State,Indiana,2020-09-02,20.7,Mild
+By State,Iowa,2020-09-02,22.8,Mild
+By State,Kansas,2020-09-02,19.3,Mild
+By State,Kentucky,2020-09-02,30.1,Moderate
+By State,Louisiana,2020-09-02,30.3,Moderate
+By State,Maine,2020-09-02,20.4,Mild
+By State,Maryland,2020-09-02,23.3,Mild
+By State,Massachusetts,2020-09-02,20.5,Mild
+By State,Michigan,2020-09-02,23.4,Mild
+By State,Minnesota,2020-09-02,18.6,Mild
+By State,Mississippi,2020-09-02,28.4,Mild
+By State,Missouri,2020-09-02,21.8,Mild
+By State,Montana,2020-09-02,22.2,Mild
+By State,Nebraska,2020-09-02,21.7,Mild
+By State,Nevada,2020-09-02,27.1,Mild
+By State,New Hampshire,2020-09-02,22.1,Mild
+By State,New Jersey,2020-09-02,21.9,Mild
+By State,New Mexico,2020-09-02,27.5,Mild
+By State,New York,2020-09-02,25.1,Mild
+By State,North Carolina,2020-09-02,20.9,Mild
+By State,North Dakota,2020-09-02,17.4,Mild
+By State,Ohio,2020-09-02,25.4,Mild
+By State,Oklahoma,2020-09-02,26.5,Mild
+By State,Oregon,2020-09-02,26.7,Mild
+By State,Pennsylvania,2020-09-02,22.9,Mild
+By State,Rhode Island,2020-09-02,25.3,Mild
+By State,South Carolina,2020-09-02,22.9,Mild
+By State,South Dakota,2020-09-02,20.2,Mild
+By State,Tennessee,2020-09-02,24.0,Mild
+By State,Texas,2020-09-02,26.9,Mild
+By State,Utah,2020-09-02,22.0,Mild
+By State,Vermont,2020-09-02,19.6,Mild
+By State,Virginia,2020-09-02,22.4,Mild
+By State,Washington,2020-09-02,22.7,Mild
+By State,West Virginia,2020-09-02,26.9,Mild
+By State,Wisconsin,2020-09-02,19.3,Mild
+By State,Wyoming,2020-09-02,23.6,Mild
+By Age,18 - 29 years,2020-09-16,35.7,High
+By Age,30 - 39 years,2020-09-16,28.5,Mild
+By Age,40 - 49 years,2020-09-16,25.1,Mild
+By Age,50 - 59 years,2020-09-16,23.6,Mild
+By Age,60 - 69 years,2020-09-16,20.8,Mild
+By Age,70 - 79 years,2020-09-16,15.5,Mild
+By Age,80 years and above,2020-09-16,12.5,Mild
+By Sex,Male,2020-09-16,22.7,Mild
+By Sex,Female,2020-09-16,27.2,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-16,31.0,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-16,23.4,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-16,25.8,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-16,21.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-16,31.4,Moderate
+By Education,Less than a high school diploma,2020-09-16,34.4,Moderate
+By Education,High school diploma or GED,2020-09-16,25.7,Mild
+By Education,Some college/Associate's degree,2020-09-16,27.4,Mild
+By Education,Bachelor's degree or higher,2020-09-16,19.9,Mild
+By State,Alabama,2020-09-16,28.6,Mild
+By State,Alaska,2020-09-16,25.2,Mild
+By State,Arizona,2020-09-16,28.2,Mild
+By State,Arkansas,2020-09-16,23.1,Mild
+By State,California,2020-09-16,28.7,Mild
+By State,Colorado,2020-09-16,25.2,Mild
+By State,Connecticut,2020-09-16,19.0,Mild
+By State,Delaware,2020-09-16,18.3,Mild
+By State,District of Columbia,2020-09-16,27.5,Mild
+By State,Florida,2020-09-16,25.4,Mild
+By State,Georgia,2020-09-16,25.0,Mild
+By State,Hawaii,2020-09-16,24.0,Mild
+By State,Idaho,2020-09-16,22.8,Mild
+By State,Illinois,2020-09-16,23.9,Mild
+By State,Indiana,2020-09-16,24.5,Mild
+By State,Iowa,2020-09-16,25.5,Mild
+By State,Kansas,2020-09-16,22.9,Mild
+By State,Kentucky,2020-09-16,30.7,Moderate
+By State,Louisiana,2020-09-16,29.6,Mild
+By State,Maine,2020-09-16,17.5,Mild
+By State,Maryland,2020-09-16,20.3,Mild
+By State,Massachusetts,2020-09-16,23.2,Mild
+By State,Michigan,2020-09-16,21.0,Mild
+By State,Minnesota,2020-09-16,17.4,Mild
+By State,Mississippi,2020-09-16,28.5,Mild
+By State,Missouri,2020-09-16,22.7,Mild
+By State,Montana,2020-09-16,24.4,Mild
+By State,Nebraska,2020-09-16,19.2,Mild
+By State,Nevada,2020-09-16,31.3,Moderate
+By State,New Hampshire,2020-09-16,19.0,Mild
+By State,New Jersey,2020-09-16,23.7,Mild
+By State,New Mexico,2020-09-16,29.1,Mild
+By State,New York,2020-09-16,23.5,Mild
+By State,North Carolina,2020-09-16,21.5,Mild
+By State,North Dakota,2020-09-16,19.0,Mild
+By State,Ohio,2020-09-16,24.7,Mild
+By State,Oklahoma,2020-09-16,23.1,Mild
+By State,Oregon,2020-09-16,31.8,Moderate
+By State,Pennsylvania,2020-09-16,24.1,Mild
+By State,Rhode Island,2020-09-16,23.4,Mild
+By State,South Carolina,2020-09-16,20.6,Mild
+By State,South Dakota,2020-09-16,17.0,Mild
+By State,Tennessee,2020-09-16,25.9,Mild
+By State,Texas,2020-09-16,28.0,Mild
+By State,Utah,2020-09-16,26.8,Mild
+By State,Vermont,2020-09-16,22.9,Mild
+By State,Virginia,2020-09-16,24.6,Mild
+By State,Washington,2020-09-16,25.7,Mild
+By State,West Virginia,2020-09-16,28.0,Mild
+By State,Wisconsin,2020-09-16,19.4,Mild
+By State,Wyoming,2020-09-16,22.4,Mild
+By Age,18 - 29 years,2020-09-30,39.3,High
+By Age,30 - 39 years,2020-09-30,28.4,Mild
+By Age,40 - 49 years,2020-09-30,26.4,Mild
+By Age,50 - 59 years,2020-09-30,22.6,Mild
+By Age,60 - 69 years,2020-09-30,19.6,Mild
+By Age,70 - 79 years,2020-09-30,15.0,Mild
+By Age,80 years and above,2020-09-30,10.8,Mild
+By Sex,Male,2020-09-30,23.5,Mild
+By Sex,Female,2020-09-30,27.2,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-09-30,31.5,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-09-30,23.3,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-09-30,29.2,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-09-30,19.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-09-30,33.6,Moderate
+By Education,Less than a high school diploma,2020-09-30,32.0,Moderate
+By Education,High school diploma or GED,2020-09-30,26.9,Mild
+By Education,Some college/Associate's degree,2020-09-30,29.0,Mild
+By Education,Bachelor's degree or higher,2020-09-30,19.1,Mild
+By State,Alabama,2020-09-30,25.0,Mild
+By State,Alaska,2020-09-30,27.1,Mild
+By State,Arizona,2020-09-30,25.0,Mild
+By State,Arkansas,2020-09-30,30.2,Moderate
+By State,California,2020-09-30,29.4,Mild
+By State,Colorado,2020-09-30,23.8,Mild
+By State,Connecticut,2020-09-30,22.9,Mild
+By State,Delaware,2020-09-30,24.6,Mild
+By State,District of Columbia,2020-09-30,19.9,Mild
+By State,Florida,2020-09-30,26.0,Mild
+By State,Georgia,2020-09-30,23.9,Mild
+By State,Hawaii,2020-09-30,30.1,Moderate
+By State,Idaho,2020-09-30,21.0,Mild
+By State,Illinois,2020-09-30,24.1,Mild
+By State,Indiana,2020-09-30,23.1,Mild
+By State,Iowa,2020-09-30,19.6,Mild
+By State,Kansas,2020-09-30,22.7,Mild
+By State,Kentucky,2020-09-30,31.5,Moderate
+By State,Louisiana,2020-09-30,28.4,Mild
+By State,Maine,2020-09-30,24.4,Mild
+By State,Maryland,2020-09-30,24.4,Mild
+By State,Massachusetts,2020-09-30,22.5,Mild
+By State,Michigan,2020-09-30,25.6,Mild
+By State,Minnesota,2020-09-30,19.9,Mild
+By State,Mississippi,2020-09-30,25.1,Mild
+By State,Missouri,2020-09-30,25.5,Mild
+By State,Montana,2020-09-30,19.9,Mild
+By State,Nebraska,2020-09-30,20.9,Mild
+By State,Nevada,2020-09-30,29.2,Mild
+By State,New Hampshire,2020-09-30,19.8,Mild
+By State,New Jersey,2020-09-30,22.5,Mild
+By State,New Mexico,2020-09-30,26.1,Mild
+By State,New York,2020-09-30,23.3,Mild
+By State,North Carolina,2020-09-30,25.7,Mild
+By State,North Dakota,2020-09-30,16.6,Mild
+By State,Ohio,2020-09-30,25.5,Mild
+By State,Oklahoma,2020-09-30,27.2,Mild
+By State,Oregon,2020-09-30,24.9,Mild
+By State,Pennsylvania,2020-09-30,25.1,Mild
+By State,Rhode Island,2020-09-30,22.4,Mild
+By State,South Carolina,2020-09-30,20.3,Mild
+By State,South Dakota,2020-09-30,19.0,Mild
+By State,Tennessee,2020-09-30,24.5,Mild
+By State,Texas,2020-09-30,29.0,Mild
+By State,Utah,2020-09-30,23.5,Mild
+By State,Vermont,2020-09-30,30.1,Moderate
+By State,Virginia,2020-09-30,23.1,Mild
+By State,Washington,2020-09-30,25.2,Mild
+By State,West Virginia,2020-09-30,27.5,Mild
+By State,Wisconsin,2020-09-30,21.6,Mild
+By State,Wyoming,2020-09-30,22.2,Mild
+By Age,18 - 29 years,2020-10-14,39.0,High
+By Age,30 - 39 years,2020-10-14,30.3,Moderate
+By Age,40 - 49 years,2020-10-14,26.3,Mild
+By Age,50 - 59 years,2020-10-14,23.7,Mild
+By Age,60 - 69 years,2020-10-14,20.4,Mild
+By Age,70 - 79 years,2020-10-14,15.4,Mild
+By Age,80 years and above,2020-10-14,13.3,Mild
+By Sex,Male,2020-10-14,23.7,Mild
+By Sex,Female,2020-10-14,28.1,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-14,31.3,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-14,24.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-14,28.7,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-14,23.1,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-14,34.4,Moderate
+By Education,Less than a high school diploma,2020-10-14,33.4,Moderate
+By Education,High school diploma or GED,2020-10-14,27.4,Mild
+By Education,Some college/Associate's degree,2020-10-14,29.6,Mild
+By Education,Bachelor's degree or higher,2020-10-14,19.8,Mild
+By State,Alabama,2020-10-14,27.7,Mild
+By State,Alaska,2020-10-14,25.7,Mild
+By State,Arizona,2020-10-14,30.8,Moderate
+By State,Arkansas,2020-10-14,27.3,Mild
+By State,California,2020-10-14,27.7,Mild
+By State,Colorado,2020-10-14,26.1,Mild
+By State,Connecticut,2020-10-14,21.8,Mild
+By State,Delaware,2020-10-14,23.3,Mild
+By State,District of Columbia,2020-10-14,26.2,Mild
+By State,Florida,2020-10-14,25.9,Mild
+By State,Georgia,2020-10-14,25.1,Mild
+By State,Hawaii,2020-10-14,27.5,Mild
+By State,Idaho,2020-10-14,25.9,Mild
+By State,Illinois,2020-10-14,24.2,Mild
+By State,Indiana,2020-10-14,27.2,Mild
+By State,Iowa,2020-10-14,22.4,Mild
+By State,Kansas,2020-10-14,26.2,Mild
+By State,Kentucky,2020-10-14,29.5,Mild
+By State,Louisiana,2020-10-14,31.6,Moderate
+By State,Maine,2020-10-14,22.8,Mild
+By State,Maryland,2020-10-14,23.8,Mild
+By State,Massachusetts,2020-10-14,25.3,Mild
+By State,Michigan,2020-10-14,25.8,Mild
+By State,Minnesota,2020-10-14,19.3,Mild
+By State,Mississippi,2020-10-14,33.4,Moderate
+By State,Missouri,2020-10-14,29.4,Mild
+By State,Montana,2020-10-14,20.1,Mild
+By State,Nebraska,2020-10-14,21.8,Mild
+By State,Nevada,2020-10-14,31.0,Moderate
+By State,New Hampshire,2020-10-14,20.8,Mild
+By State,New Jersey,2020-10-14,23.4,Mild
+By State,New Mexico,2020-10-14,31.9,Moderate
+By State,New York,2020-10-14,27.0,Mild
+By State,North Carolina,2020-10-14,21.4,Mild
+By State,North Dakota,2020-10-14,20.2,Mild
+By State,Ohio,2020-10-14,25.0,Mild
+By State,Oklahoma,2020-10-14,25.9,Mild
+By State,Oregon,2020-10-14,26.9,Mild
+By State,Pennsylvania,2020-10-14,22.2,Mild
+By State,Rhode Island,2020-10-14,24.0,Mild
+By State,South Carolina,2020-10-14,25.1,Mild
+By State,South Dakota,2020-10-14,19.7,Mild
+By State,Tennessee,2020-10-14,23.9,Mild
+By State,Texas,2020-10-14,29.4,Mild
+By State,Utah,2020-10-14,22.4,Mild
+By State,Vermont,2020-10-14,21.5,Mild
+By State,Virginia,2020-10-14,23.8,Mild
+By State,Washington,2020-10-14,28.4,Mild
+By State,West Virginia,2020-10-14,25.2,Mild
+By State,Wisconsin,2020-10-14,22.7,Mild
+By State,Wyoming,2020-10-14,20.8,Mild
+By Age,18 - 29 years,2020-10-28,43.4,Extreme
+By Age,30 - 39 years,2020-10-28,33.5,Moderate
+By Age,40 - 49 years,2020-10-28,27.4,Mild
+By Age,50 - 59 years,2020-10-28,25.5,Mild
+By Age,60 - 69 years,2020-10-28,20.5,Mild
+By Age,70 - 79 years,2020-10-28,16.4,Mild
+By Age,80 years and above,2020-10-28,12.6,Mild
+By Sex,Male,2020-10-28,25.4,Mild
+By Sex,Female,2020-10-28,29.7,Mild
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-10-28,33.5,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-10-28,25.4,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-10-28,34.0,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-10-28,21.8,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-10-28,33.4,Moderate
+By Education,Less than a high school diploma,2020-10-28,34.8,Moderate
+By Education,High school diploma or GED,2020-10-28,30.6,Moderate
+By Education,Some college/Associate's degree,2020-10-28,31.3,Moderate
+By Education,Bachelor's degree or higher,2020-10-28,20.2,Mild
+By State,Alabama,2020-10-28,33.8,Moderate
+By State,Alaska,2020-10-28,27.1,Mild
+By State,Arizona,2020-10-28,27.2,Mild
+By State,Arkansas,2020-10-28,28.3,Mild
+By State,California,2020-10-28,29.7,Mild
+By State,Colorado,2020-10-28,29.2,Mild
+By State,Connecticut,2020-10-28,26.6,Mild
+By State,Delaware,2020-10-28,28.0,Mild
+By State,District of Columbia,2020-10-28,31.1,Moderate
+By State,Florida,2020-10-28,30.1,Moderate
+By State,Georgia,2020-10-28,30.9,Moderate
+By State,Hawaii,2020-10-28,30.1,Moderate
+By State,Idaho,2020-10-28,28.1,Mild
+By State,Illinois,2020-10-28,28.5,Mild
+By State,Indiana,2020-10-28,29.4,Mild
+By State,Iowa,2020-10-28,29.4,Mild
+By State,Kansas,2020-10-28,30.9,Moderate
+By State,Kentucky,2020-10-28,27.1,Mild
+By State,Louisiana,2020-10-28,30.3,Moderate
+By State,Maine,2020-10-28,27.8,Mild
+By State,Maryland,2020-10-28,24.7,Mild
+By State,Massachusetts,2020-10-28,28.2,Mild
+By State,Michigan,2020-10-28,22.2,Mild
+By State,Minnesota,2020-10-28,23.8,Mild
+By State,Mississippi,2020-10-28,28.8,Mild
+By State,Missouri,2020-10-28,27.5,Mild
+By State,Montana,2020-10-28,22.9,Mild
+By State,Nebraska,2020-10-28,23.8,Mild
+By State,Nevada,2020-10-28,34.0,Moderate
+By State,New Hampshire,2020-10-28,21.5,Mild
+By State,New Jersey,2020-10-28,23.2,Mild
+By State,New Mexico,2020-10-28,32.6,Moderate
+By State,New York,2020-10-28,22.0,Mild
+By State,North Carolina,2020-10-28,27.6,Mild
+By State,North Dakota,2020-10-28,17.0,Mild
+By State,Ohio,2020-10-28,26.7,Mild
+By State,Oklahoma,2020-10-28,27.1,Mild
+By State,Oregon,2020-10-28,29.0,Mild
+By State,Pennsylvania,2020-10-28,27.8,Mild
+By State,Rhode Island,2020-10-28,25.6,Mild
+By State,South Carolina,2020-10-28,28.2,Mild
+By State,South Dakota,2020-10-28,20.0,Mild
+By State,Tennessee,2020-10-28,25.0,Mild
+By State,Texas,2020-10-28,31.2,Moderate
+By State,Utah,2020-10-28,24.3,Mild
+By State,Vermont,2020-10-28,30.0,Mild
+By State,Virginia,2020-10-28,24.0,Mild
+By State,Washington,2020-10-28,24.4,Mild
+By State,West Virginia,2020-10-28,25.7,Mild
+By State,Wisconsin,2020-10-28,27.0,Mild
+By State,Wyoming,2020-10-28,23.5,Mild
+By Age,18 - 29 years,2020-11-11,43.4,Extreme
+By Age,30 - 39 years,2020-11-11,32.2,Moderate
+By Age,40 - 49 years,2020-11-11,29.9,Mild
+By Age,50 - 59 years,2020-11-11,26.7,Mild
+By Age,60 - 69 years,2020-11-11,21.5,Mild
+By Age,70 - 79 years,2020-11-11,17.2,Mild
+By Age,80 years and above,2020-11-11,18.2,Mild
+By Sex,Male,2020-11-11,25.7,Mild
+By Sex,Female,2020-11-11,31.3,Moderate
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-11,32.5,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-11,27.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-11,31.4,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-11,23.2,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-11,38.5,High
+By Education,Less than a high school diploma,2020-11-11,37.7,High
+By Education,High school diploma or GED,2020-11-11,30.3,Moderate
+By Education,Some college/Associate's degree,2020-11-11,32.0,Moderate
+By Education,Bachelor's degree or higher,2020-11-11,22.0,Mild
+By State,Alabama,2020-11-11,31.5,Moderate
+By State,Alaska,2020-11-11,30.0,Mild
+By State,Arizona,2020-11-11,28.7,Mild
+By State,Arkansas,2020-11-11,32.7,Moderate
+By State,California,2020-11-11,30.7,Moderate
+By State,Colorado,2020-11-11,26.0,Mild
+By State,Connecticut,2020-11-11,25.3,Mild
+By State,Delaware,2020-11-11,24.3,Mild
+By State,District of Columbia,2020-11-11,27.8,Mild
+By State,Florida,2020-11-11,30.5,Moderate
+By State,Georgia,2020-11-11,29.2,Mild
+By State,Hawaii,2020-11-11,22.6,Mild
+By State,Idaho,2020-11-11,27.2,Mild
+By State,Illinois,2020-11-11,30.4,Moderate
+By State,Indiana,2020-11-11,27.0,Mild
+By State,Iowa,2020-11-11,25.5,Mild
+By State,Kansas,2020-11-11,26.5,Mild
+By State,Kentucky,2020-11-11,26.5,Mild
+By State,Louisiana,2020-11-11,35.5,High
+By State,Maine,2020-11-11,25.8,Mild
+By State,Maryland,2020-11-11,26.7,Mild
+By State,Massachusetts,2020-11-11,27.5,Mild
+By State,Michigan,2020-11-11,26.8,Mild
+By State,Minnesota,2020-11-11,24.5,Mild
+By State,Mississippi,2020-11-11,30.1,Moderate
+By State,Missouri,2020-11-11,26.6,Mild
+By State,Montana,2020-11-11,30.1,Moderate
+By State,Nebraska,2020-11-11,26.5,Mild
+By State,Nevada,2020-11-11,32.5,Moderate
+By State,New Hampshire,2020-11-11,24.2,Mild
+By State,New Jersey,2020-11-11,26.2,Mild
+By State,New Mexico,2020-11-11,32.6,Moderate
+By State,New York,2020-11-11,25.1,Mild
+By State,North Carolina,2020-11-11,26.9,Mild
+By State,North Dakota,2020-11-11,26.1,Mild
+By State,Ohio,2020-11-11,28.7,Mild
+By State,Oklahoma,2020-11-11,31.6,Moderate
+By State,Oregon,2020-11-11,28.7,Mild
+By State,Pennsylvania,2020-11-11,27.9,Mild
+By State,Rhode Island,2020-11-11,29.9,Mild
+By State,South Carolina,2020-11-11,32.6,Moderate
+By State,South Dakota,2020-11-11,27.4,Mild
+By State,Tennessee,2020-11-11,29.4,Mild
+By State,Texas,2020-11-11,31.4,Moderate
+By State,Utah,2020-11-11,28.7,Mild
+By State,Vermont,2020-11-11,21.6,Mild
+By State,Virginia,2020-11-11,23.3,Mild
+By State,Washington,2020-11-11,27.7,Mild
+By State,West Virginia,2020-11-11,29.6,Mild
+By State,Wisconsin,2020-11-11,26.5,Mild
+By State,Wyoming,2020-11-11,26.8,Mild
+By Age,18 - 29 years,2020-11-25,42.1,Extreme
+By Age,30 - 39 years,2020-11-25,33.4,Moderate
+By Age,40 - 49 years,2020-11-25,30.5,Moderate
+By Age,50 - 59 years,2020-11-25,28.0,Mild
+By Age,60 - 69 years,2020-11-25,21.7,Mild
+By Age,70 - 79 years,2020-11-25,17.2,Mild
+By Age,80 years and above,2020-11-25,14.4,Mild
+By Sex,Male,2020-11-25,26.7,Mild
+By Sex,Female,2020-11-25,30.9,Moderate
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-11-25,33.1,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-11-25,27.2,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-11-25,32.2,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-11-25,25.7,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-11-25,35.0,Moderate
+By Education,Less than a high school diploma,2020-11-25,41.3,Extreme
+By Education,High school diploma or GED,2020-11-25,31.5,Moderate
+By Education,Some college/Associate's degree,2020-11-25,32.1,Moderate
+By Education,Bachelor's degree or higher,2020-11-25,21.1,Mild
+By State,Alabama,2020-11-25,30.5,Moderate
+By State,Alaska,2020-11-25,26.7,Mild
+By State,Arizona,2020-11-25,28.5,Mild
+By State,Arkansas,2020-11-25,28.5,Mild
+By State,California,2020-11-25,30.2,Moderate
+By State,Colorado,2020-11-25,28.4,Mild
+By State,Connecticut,2020-11-25,28.2,Mild
+By State,Delaware,2020-11-25,33.0,Moderate
+By State,District of Columbia,2020-11-25,27.3,Mild
+By State,Florida,2020-11-25,27.9,Mild
+By State,Georgia,2020-11-25,28.2,Mild
+By State,Hawaii,2020-11-25,31.2,Moderate
+By State,Idaho,2020-11-25,30.6,Moderate
+By State,Illinois,2020-11-25,30.0,Mild
+By State,Indiana,2020-11-25,30.8,Moderate
+By State,Iowa,2020-11-25,24.3,Mild
+By State,Kansas,2020-11-25,27.6,Mild
+By State,Kentucky,2020-11-25,33.9,Moderate
+By State,Louisiana,2020-11-25,35.5,High
+By State,Maine,2020-11-25,24.8,Mild
+By State,Maryland,2020-11-25,27.0,Mild
+By State,Massachusetts,2020-11-25,23.7,Mild
+By State,Michigan,2020-11-25,26.5,Mild
+By State,Minnesota,2020-11-25,25.0,Mild
+By State,Mississippi,2020-11-25,36.9,High
+By State,Missouri,2020-11-25,27.4,Mild
+By State,Montana,2020-11-25,26.3,Mild
+By State,Nebraska,2020-11-25,26.0,Mild
+By State,Nevada,2020-11-25,35.7,High
+By State,New Hampshire,2020-11-25,26.1,Mild
+By State,New Jersey,2020-11-25,27.7,Mild
+By State,New Mexico,2020-11-25,30.2,Moderate
+By State,New York,2020-11-25,23.3,Mild
+By State,North Carolina,2020-11-25,28.4,Mild
+By State,North Dakota,2020-11-25,21.1,Mild
+By State,Ohio,2020-11-25,32.7,Moderate
+By State,Oklahoma,2020-11-25,33.8,Moderate
+By State,Oregon,2020-11-25,35.9,High
+By State,Pennsylvania,2020-11-25,29.4,Mild
+By State,Rhode Island,2020-11-25,27.2,Mild
+By State,South Carolina,2020-11-25,22.9,Mild
+By State,South Dakota,2020-11-25,20.2,Mild
+By State,Tennessee,2020-11-25,28.0,Mild
+By State,Texas,2020-11-25,31.3,Moderate
+By State,Utah,2020-11-25,32.4,Moderate
+By State,Vermont,2020-11-25,28.8,Mild
+By State,Virginia,2020-11-25,26.9,Mild
+By State,Washington,2020-11-25,29.4,Mild
+By State,West Virginia,2020-11-25,31.6,Moderate
+By State,Wisconsin,2020-11-25,26.3,Mild
+By State,Wyoming,2020-11-25,31.3,Moderate
+By Age,18 - 29 years,2020-12-09,43.6,Extreme
+By Age,30 - 39 years,2020-12-09,34.9,Moderate
+By Age,40 - 49 years,2020-12-09,31.5,Moderate
+By Age,50 - 59 years,2020-12-09,28.9,Mild
+By Age,60 - 69 years,2020-12-09,22.5,Mild
+By Age,70 - 79 years,2020-12-09,18.4,Mild
+By Age,80 years and above,2020-12-09,21.7,Mild
+By Sex,Male,2020-12-09,27.9,Mild
+By Sex,Female,2020-12-09,32.3,Moderate
+By Race/Hispanic ethnicity,Hispanic or Latino,2020-12-09,33.0,Moderate
+By Race/Hispanic ethnicity,"Non-Hispanic White, single race",2020-12-09,28.8,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic Black, single race",2020-12-09,35.2,High
+By Race/Hispanic ethnicity,"Non-Hispanic Asian, single race",2020-12-09,24.0,Mild
+By Race/Hispanic ethnicity,"Non-Hispanic, other races and multiple races",2020-12-09,37.3,High
+By Education,Less than a high school diploma,2020-12-09,38.3,High
+By Education,High school diploma or GED,2020-12-09,33.8,Moderate
+By Education,Some college/Associate's degree,2020-12-09,33.8,Moderate
+By Education,Bachelor's degree or higher,2020-12-09,22.0,Mild
+By State,Alabama,2020-12-09,35.1,High
+By State,Alaska,2020-12-09,32.0,Moderate
+By State,Arizona,2020-12-09,32.7,Moderate
+By State,Arkansas,2020-12-09,28.3,Mild
+By State,California,2020-12-09,31.4,Moderate
+By State,Colorado,2020-12-09,30.3,Moderate
+By State,Connecticut,2020-12-09,29.0,Mild
+By State,Delaware,2020-12-09,30.4,Moderate
+By State,District of Columbia,2020-12-09,22.6,Mild
+By State,Florida,2020-12-09,28.1,Mild
+By State,Georgia,2020-12-09,31.2,Moderate
+By State,Hawaii,2020-12-09,25.5,Mild
+By State,Idaho,2020-12-09,31.1,Moderate
+By State,Illinois,2020-12-09,25.5,Mild
+By State,Indiana,2020-12-09,27.8,Mild
+By State,Iowa,2020-12-09,29.9,Mild
+By State,Kansas,2020-12-09,30.6,Moderate
+By State,Kentucky,2020-12-09,33.4,Moderate
+By State,Louisiana,2020-12-09,39.4,High
+By State,Maine,2020-12-09,23.7,Mild
+By State,Maryland,2020-12-09,28.0,Mild
+By State,Massachusetts,2020-12-09,29.6,Mild
+By State,Michigan,2020-12-09,33.1,Moderate
+By State,Minnesota,2020-12-09,25.2,Mild
+By State,Mississippi,2020-12-09,36.5,High
+By State,Missouri,2020-12-09,29.0,Mild
+By State,Montana,2020-12-09,29.5,Mild
+By State,Nebraska,2020-12-09,26.5,Mild
+By State,Nevada,2020-12-09,35.3,High
+By State,New Hampshire,2020-12-09,23.8,Mild
+By State,New Jersey,2020-12-09,28.7,Mild
+By State,New Mexico,2020-12-09,35.6,High
+By State,New York,2020-12-09,30.2,Moderate
+By State,North Carolina,2020-12-09,24.1,Mild
+By State,North Dakota,2020-12-09,21.6,Mild
+By State,Ohio,2020-12-09,35.7,High
+By State,Oklahoma,2020-12-09,35.7,High
+By State,Oregon,2020-12-09,33.4,Moderate
+By State,Pennsylvania,2020-12-09,27.3,Mild
+By State,Rhode Island,2020-12-09,22.4,Mild
+By State,South Carolina,2020-12-09,27.0,Mild
+By State,South Dakota,2020-12-09,21.1,Mild
+By State,Tennessee,2020-12-09,32.3,Moderate
+By State,Texas,2020-12-09,31.8,Moderate
+By State,Utah,2020-12-09,29.0,Mild
+By State,Vermont,2020-12-09,25.7,Mild
+By State,Virginia,2020-12-09,28.1,Mild
+By State,Washington,2020-12-09,31.2,Moderate
+By State,West Virginia,2020-12-09,37.0,High
+By State,Wisconsin,2020-12-09,30.0,Mild
+By State,Wyoming,2020-12-09,24.7,Mild
