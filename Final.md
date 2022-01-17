@@ -3,8 +3,8 @@
 
 ## ** Segment 1 **
 
-## Selected Topic:   	The effects of the COVID-19 pandemic on mental health
-### Reason of Selection:  Ongoing pandemic impacting mental health of various levels of community
+## Selected Topic:  	 The effects of the COVID-19 pandemic on mental health
+### Reason of Selection: Ongoing pandemic and its impact on mental health of various levels of communities
 
 ## Source of Data: [Centers of Disease Control and Prevention] (https://www.cdc.gov)
 
@@ -14,19 +14,22 @@
 
 ### Question: * What group is most affected in terms of mental health due to the COVID-19 pandemic? * 
 > Bereavement, isolation, loss of income and fear are triggering mental health conditions or exacerbating existing ones. Many people may be facing increased levels of alcohol and drug use, insomnia, depression and anxiety in various age group as well as in levels of community.
-People with pre-existing mental, neurological or substance use disorders are also more vulnerable to infection, they may stand a higher risk of severe outcomes and even death. “Good mental health is absolutely fundamental to overall health and well-being.”
+>People with pre-existing mental, neurological or substance use disorders are also more vulnerable to infection, they may stand a higher risk of severe outcomes and even death. "Good mental health is absolutely fundamental to overall health and well-being."
 
-## Team Communication and Collaboration:
-> Team members are communicating through Slack and having Zoom meetings during scheduled class time and as on demand basis.
+### Team Communication and Collaboration:
+> Team members are communicating through Slack medium and having Zoom meetings during scheduled class time and as on demand basis.
 
-## Database Selection
-- We are using **sql** to established the database *"Mental"*. 
-- The tables we are using is Depression_2020, Anxiety_2020, Either_2020, sex_2020, race_2020, age_2020, edu_2020, and state_2020.
+### Database Selection
+- We are using **sql** to established the database **"Mental"**. 
+- The **tables** we are using is Depression_2020, Anxiety_2020, Either_2020, Sex_2020, Race_2020, Age_2020, Edu_2020, and State_2020.
 
 ## Database Entity Relation Diagram: 
 ![ERD](https://github.com/mogazz69/Final_project/blob/7489cecdd913c229e6458409a534bf54936a6513/Database/mentalDB.png)
-- We extract the factor tables such as sex, race, age, education, and state to investigate the information about each group, preparing for later visualization and machine learning model training. (test_revised_Shery.ipynb is the file to extract and clean the factor tables)
+- We extract the factor tables such as Sex, Race, Age, Edu, and State to investigate the information about each group and  preparing for further visualization and machine learning model training. (test_revised_Shery.ipynb is the file to extract and clean the factor tables)
 
 ### ** Project Location: 	[Github.com/Final_project](https://github.com/IrfanSayeed/Final_project.git) **
-### Branch: ![-]( https://github.com/mogazz69/Final_project/tree/main/Database/Branches.PNG)
+### ** Source Files: 	    [Github.com/Final_project](https://github.com/mogazz69/Final_project/tree/main/Resources) **
+### ** Database Location: 	[[Github.com/Final_project](https://github.com/mogazz69/Final_project/tree/main/Database) **
+### ** Branch: **
+![Branches by member](https://github.com/mogazz69/Final_project/blob/main/Database/Branches.PNG)
 
