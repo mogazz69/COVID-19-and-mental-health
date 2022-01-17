@@ -1,7 +1,7 @@
-# ** Final Project **
-### * U of T Data Analytics Final Project. *
+#  Final Project 
+###  U of T Data Analytics Final Project. 
 
-## ** Segment 1 **
+##  Segment 1 
 
 ## Selected Topic:  	* The effects of the COVID-19 pandemic on mental health *
 ### Reason of Selection: * Ongoing pandemic and its impact on mental health of various levels of communities *
