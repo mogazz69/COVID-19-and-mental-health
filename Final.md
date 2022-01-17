@@ -25,9 +25,8 @@ People with pre-existing mental, neurological or substance use disorders are als
 
 ## Database Entity Relation Diagram: 
 ![ERD](https://github.com/mogazz69/Final_project/blob/7489cecdd913c229e6458409a534bf54936a6513/Database/mentalDB.png)
-- We extract the factor tables such as sex, race, age, edu, and state to investigate the information about each group, preparing for later visualization and machine learning model training. (test_revised_Shery.ipynb is the file to extract and clean the factor tables)
+- We extract the factor tables such as sex, race, age, education, and state to investigate the information about each group, preparing for later visualization and machine learning model training. (test_revised_Shery.ipynb is the file to extract and clean the factor tables)
 
 ### ** Project Location: 	[Github.com/Final_project](https://github.com/IrfanSayeed/Final_project.git) **
-### Branch:	
-![]( Final_project/Branches.PNG at main · mogazz69/Final_project (github.com))
+### Branch: ![-]( https://github.com/mogazz69/Final_project/tree/main/Database/Branches.PNG)
 
