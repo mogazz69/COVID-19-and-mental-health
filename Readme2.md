@@ -3,8 +3,8 @@
 
 ##  Segment 1 
 
-## Selected Topic:  	* The effects of the COVID-19 pandemic on mental health *
-### Reason of Selection: * Ongoing pandemic and its impact on mental health of various levels of communities *
+## Selected Topic:  	 The effects of the COVID-19 pandemic on mental health 
+### Reason of Selection: Ongoing pandemic and its impact on mental health of various levels of communities 
 
 ## Source of Data: [Centers of Disease Control and Prevention] (https://www.cdc.gov)
 > The U.S. Census Bureau, in collaboration with five federal agencies, launched the Household Pulse Survey to produce data on the social and economic impacts of Covid-19 on American households. The Household Pulse Survey was designed to gauge the impact of the pandemic on employment status, consumer spending, food security, housing, education disruptions, and dimensions of physical and mental wellness.
