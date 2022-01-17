@@ -1,0 +1,45 @@
+SELECT Count(*) fROM age_2020
+WHERE mental_indicator = 'Symptoms of Depressive or Anxiety Disorder';
+
+SELECT Count(*) fROM age_2020
+WHERE mental_indicator = 'Symptoms of Anxiety Disorder';
+
+SELECT Count(*) fROM age_2020
+WHERE mental_indicator = 'Symptoms of Depressive Disorder';
+
+SELECT Count(*) fROM edu_2020
+WHERE mental_indicator = 'Symptoms of Depressive or Anxiety Disorder';
+
+SELECT Count(*) fROM edu_2020
+WHERE mental_indicator = 'Symptoms of Anxiety Disorder';
+
+SELECT Count(*) fROM edu_2020
+WHERE mental_indicator = 'Symptoms of Depressive Disorder';
+
+SELECT Count(*) fROM race_2020
+WHERE mental_indicator = 'Symptoms of Depressive or Anxiety Disorder';
+
+SELECT Count(*) fROM race_2020
+WHERE mental_indicator = 'Symptoms of Anxiety Disorder';
+
+SELECT Count(*) fROM race_2020
+WHERE mental_indicator = 'Symptoms of Depressive Disorder';
+
+SELECT Count(*) fROM sex_2020
+WHERE mental_indicator = 'Symptoms of Depressive or Anxiety Disorder';
+
+SELECT Count(*) fROM sex_2020
+WHERE mental_indicator = 'Symptoms of Anxiety Disorder';
+
+SELECT Count(*) fROM sex_2020
+WHERE mental_indicator = 'Symptoms of Depressive Disorder';
+
+SELECT Count(*) fROM state_2020
+WHERE mental_indicator = 'Symptoms of Depressive or Anxiety Disorder';
+
+SELECT Count(*) fROM state_2020
+WHERE mental_indicator = 'Symptoms of Anxiety Disorder';
+
+SELECT Count(*) fROM state_2020
+WHERE mental_indicator = 'Symptoms of Depressive Disorder';
+
