@@ -33,4 +33,10 @@
 ### Branch: **
 ![Branches by member](https://github.com/mogazz69/Final_project/blob/main/Database/Branches.PNG)
 
+### Project Roles (Segment 1)
+- Mohamed * (Square Role) *
+- Kyle    * (Triagle Role) *
+- Sherry  * (Circle Role) *
+- Irfan   * (X Role) *
+
 * "End of Readme" *
