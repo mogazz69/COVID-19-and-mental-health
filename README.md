@@ -25,6 +25,8 @@
 ## Database Entity Relation Diagram: 
 ![ERD](https://github.com/mogazz69/Final_project/blob/7489cecdd913c229e6458409a534bf54936a6513/Database/mentalDB.png)
 
+
+
 > We extract the factor tables such as Sex, Race, Age, Edu, and State to investigate the information about each group and  preparing for further visualization and machine learning model training. (test_revised_Shery.ipynb is the file to extract and clean the factor tables)
 
 ### Project Location: 	[Github.com/Final_project](https://github.com/IrfanSayeed/Final_project.git) **
@@ -39,4 +41,9 @@
 >- Sherry  * (Circle Role) *
 >- Irfan   * (X Role) *
 
-"End of Readme.md" 
+## Segment 2
+> Dash board
+> https://public.tableau.com/app/profile/mohamed.el.gazzar/viz/depression-2021/Dashboard1?publish=yes
+
+
+
