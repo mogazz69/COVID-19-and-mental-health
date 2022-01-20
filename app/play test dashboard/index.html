@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="echarts.js"></script>
+</head>
+
+<body>
+    <div id="States_2021" style="width: 600px;height:400px;"></div>
+    <script type="text/javascript">
+       fetch('http://127.0.0.1:5000/age')
+      .then(function (response) {
+          return response.json();
+      }).then(function (text) {
+          console.log('GET response:');
+          console.log(Object.keys(text.Value));
+          console.log(Object.values(text.Value));
+          // Initialize the echarts instance based on the prepared dom
+      var myChart = echarts.init(document.getElementById('States_2021'));
+
+// Specify the configuration items and data for the chart
+var option = {
+  title: {
+    text: 'ECharts Getting Started Example'
+  },
+  tooltip: {},
+  legend: {
+    data: ['States Depression rates']
+  },
+  xAxis: {
+    data: Object.keys(text.Value)
+  },
+  yAxis: {},
+  series: [
+    {
+      name: 'Rates of Depression',
+      type: 'bar',
+      data: Object.values(text.Value)
+
+    }
+  ]
+};
+
+// Display the chart using the configuration items and data just specified.
+myChart.setOption(option); 
+      });
+        
+    </script>
+</body>
+
+</html>
