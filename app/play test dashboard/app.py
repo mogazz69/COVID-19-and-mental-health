@@ -1,6 +1,5 @@
 import os
 from itsdangerous import json
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from flask import Flask
@@ -55,7 +54,7 @@ def create_app(test_config=None):
         xfedu=df_edu.groupby(["Subgroup"]).sum()
         return xfedu.to_json() 
     
-    @app.route('/edu', methods=['GET'])
+    @app.route('/state', methods=['GET'])
     def state():
         df_state=pd.read_excel("mental_2021_Depression_df.xlsm", sheet_name="by state")
         xfstate=df_state.groupby(["Subgroup"]).sum()
