@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="echarts.js"></script>
+    <script src="https://cdn.plot.ly/plotly-2.8.3.min.js"></script>
+</head>
+
+<body>
+    <div id="States_2021" style="width: 600px;height:400px;"></div>
+    <script type="text/javascript">
+       fetch('http://127.0.0.1:5000/age')
+      .then(function (response) {
+          return response.json();
+      }).then(function (text) {
+          console.log('GET response:');
+          console.log(Object.keys(text.Value));
+          console.log(Object.values(text.Value));
+          console.log(text.Value);
+          // Initialize the echarts instance based on the prepared dom
+          var data = [{
+  values: Object.values(text.Value),
+  labels: Object.keys(text.Value),
+  type: 'pie'
+}];
+
+var layout = {
+  height: 400,
+  width: 500
+};
+
+Plotly.newPlot('States_2021', data, layout); 
+      });
+        
+    </script>
+</body>
+
+</html>
