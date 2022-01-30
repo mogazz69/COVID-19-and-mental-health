@@ -48,3 +48,24 @@
 ## Google Slide: 
 https://docs.google.com/presentation/d/1Qcp7WMgmVGYpYqfHbRBp5ks3M4_wNuVC/edit?usp=sharing&ouid=107379828858153607900&rtpof=true&sd=true
 
+## Machine Learning Model
+The CDC dataset is great real world data and shows us a lot of information. However, There was quite a bit of clean up needed when it came to data preprocessing.
+Such an example is that there is 4 Full columns that describe the time period of the data in the rows, many are buggy with poorly inputted information. It was up to 
+us to clear out bad and redudant data, limiting 4 columns to 1 and transforming the data to be useable.
+
+Difficult to use and redudant data was the most common problem in the data preprocessing. The dataset fundementally was compiled data intended to be read only to show statistics. 
+The information is not listed on an individual basis but rather pre-seperated into subgroups. It therefor took a lot of creativity and a lot of dropped columns before it was useable.
+We ended up dropping the columns "Phase", "State", 3 time period columns, "Low CI", "High CI", "Confidence Interval", "Quartile Range". As some columns were either redudant OR were columns with data that does not effect the values we were looking for.
+
+The final step in the pre-processing was creating a target feature for the machine learning model, something that would be useful and readable to an end user.
+We ended up limiting the final data table into 6 columns "Indicator", "Group", "Subgroup", "Time Period","Value" and creating a new column, "risk" based off of our value column. It effectively binned many values in the orignal dataset 
+into only 4 strings of different risk levels. It made for a much more accurate and readable machine learning model.
+
+The value column was removed before inputting into the ML model and the target for the model became the "risk" column.
+
+Originally, to test how well the cleaned data performed we seperated the training and testing data by grouping them by their respective years to make sure there was some amount of accuracy in the model and tables we created.
+We ended up getting 30% accuracy, which in a dataset with so many factors unaccounted for was determined was a well performing model. In the pandemic, there are different laws enacted, events, places, individuals health. These factors were not measured and would require the data to be collected in a better way to maintain a higher accuracy.
+The final model was trained on the cleaned data table as a whole and was spilt by the default amount of sklearn. A function was created that allows us to run a new single row of inputted data through the model and output a risk factor.
+
+We decided on using a supervised tree model for our machine learning. The most important reason we chose this model is because of how easy it is to rank feature importance. Our goal
+was to find out what factors were major contributors to mental health disorders during the pandemic and using this model allowed us to do just that. It doesn't give us the highest accuracy compared to other models. But given the data we had access to we decided it was better to have access to feature rankings.
