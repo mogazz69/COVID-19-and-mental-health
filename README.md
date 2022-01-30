@@ -46,7 +46,7 @@
 > https://public.tableau.com/app/profile/mohamed.el.gazzar/viz/depression-2021/Dashboard1?publish=yes
 
 ## Google Slide: 
-https://docs.google.com/presentation/d/1Qcp7WMgmVGYpYqfHbRBp5ks3M4_wNuVC/edit?usp=sharing&ouid=107379828858153607900&rtpof=true&sd=true
+https://docs.google.com/presentation/d/146UxpxG5Yst55UdF8sfNhSkWJAbKvCrJVbaiyxsWpIU/edit#slide=id.ge965474a9_3_282
 
 ## Machine Learning Model
 The CDC dataset is great real world data and shows us a lot of information. However, There was quite a bit of clean up needed when it came to data preprocessing.
