@@ -18,7 +18,9 @@
 ### Team Communication and Collaboration:
 > Team members are communicating through Slack medium and having Zoom meetings during scheduled class time and as on demand basis.
 
-### Database Selection
+### Dat![communication](https://user-images.githubusercontent.com/90229438/152284910-739d3ec8-20c1-4ed0-a06a-88f7b2fa763b.PNG)
+
+abase Selection
 > We are using **sql** to established the database **"Mental"**. 
 > The **tables** we are using is Depression_2020, Anxiety_2020, Either_2020, Sex_2020, Race_2020, Age_2020, Edu_2020, and State_2020.
 
@@ -42,10 +44,17 @@
 >- Irfan   * (X Role) *
 
 ## Segment 2
-> Dash board
+
+## Application and Databases: 
+
+![tools](https://user-images.githubusercontent.com/90229438/152284992-8eb85bca-b234-4f44-9685-eb822b516ad4.PNG)
+
+### > Dash board
 > https://public.tableau.com/app/profile/mohamed.el.gazzar/viz/depression-2021/Dashboard1?publish=yes
 
-## Google Slide: 
+## ![dashboard](https://user-images.githubusercontent.com/90229438/152285308-035cc0d4-cef7-405f-8e22-16c96ce39bff.PNG)
+
+# Google Slide: 
 https://docs.google.com/presentation/d/146UxpxG5Yst55UdF8sfNhSkWJAbKvCrJVbaiyxsWpIU/edit#slide=id.ge965474a9_3_282
 
 ## Machine Learning Model
@@ -71,3 +80,6 @@ We decided on using a supervised tree model for our machine learning. The most i
 was to find out what factors were major contributors to mental health disorders during the pandemic and using this model allowed us to do just that. It doesn't give us the highest accuracy compared to other models. But given the data we had access to we decided it was better to have access to feature rankings.
 
 The final trained accuracy was around 60%.
+
+## Segment 3
+
