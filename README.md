@@ -69,3 +69,5 @@ The final model was trained on the cleaned data table as a whole and was spilt b
 
 We decided on using a supervised tree model for our machine learning. The most important reason we chose this model is because of how easy it is to rank feature importance. Our goal
 was to find out what factors were major contributors to mental health disorders during the pandemic and using this model allowed us to do just that. It doesn't give us the highest accuracy compared to other models. But given the data we had access to we decided it was better to have access to feature rankings.
+
+The final trained accuracy was around 60%.
