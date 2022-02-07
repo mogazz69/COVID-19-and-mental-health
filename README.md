@@ -85,4 +85,5 @@ The final trained accuracy was around 60%.
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/90229438/152716947-b0ad1ed1-d87c-485b-8316-664d238ba13f.png)
 
+![Screenshot (73)](https://user-images.githubusercontent.com/90229438/152717043-a88ec928-e32e-44e9-8495-93fbd5ecbd65.png)
 
