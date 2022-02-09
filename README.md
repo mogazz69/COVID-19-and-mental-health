@@ -82,9 +82,14 @@ was to find out what factors were major contributors to mental health disorders 
 The final trained accuracy was around 60%.
 
 ## Segment 3 (Feb 6, 2022)
+> Screen shots of Initial Analysis and Table:
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/90229438/152716947-b0ad1ed1-d87c-485b-8316-664d238ba13f.png)
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/90229438/152717043-a88ec928-e32e-44e9-8495-93fbd5ecbd65.png)
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/90229438/152717140-db609799-bb9a-41c8-bc42-9deeef8c13ad.png)
+
+## Segment 4 (Feb 8, 2022)
+> Screen shots of Project Analysis and Outputs:
+> 
