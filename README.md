@@ -27,7 +27,11 @@ abase Selection
 ## Database Entity Relation Diagram: 
 ![ERD](https://github.com/mogazz69/Final_project/blob/7489cecdd913c229e6458409a534bf54936a6513/Database/mentalDB.png)
 
-
+### Project Roles (Segment 1)
+>- Mohamed * (Square Role) *
+>- Kyle    * (Triagle Role) *
+>- Sherry  * (Circle Role) *
+>- Irfan   * (X Role) *
 
 > We extract the factor tables such as Sex, Race, Age, Edu, and State to investigate the information about each group and  preparing for further visualization and machine learning model training. (test_revised_Shery.ipynb is the file to extract and clean the factor tables)
 
@@ -37,11 +41,6 @@ abase Selection
 ### Branch: **
 ![Branches by member](https://github.com/mogazz69/Final_project/blob/main/Database/Branches.PNG)
 
-### Project Roles (Segment 1)
->- Mohamed * (Square Role) *
->- Kyle    * (Triagle Role) *
->- Sherry  * (Circle Role) *
->- Irfan   * (X Role) *
 
 ## Segment# 2
 
@@ -92,4 +91,13 @@ The final trained accuracy was around 60%.
 
 ## Segment# 4 (Feb 8, 2022)
 > * Screen shots of Project Analysis and Outputs: *
-> 
+
+
+![mosteffected](https://user-images.githubusercontent.com/90229438/153099587-7e229199-8516-4b12-a4a2-d4f517fbee57.PNG)
+
+
+![affected people](https://user-images.githubusercontent.com/90229438/153099630-4da8403e-a584-44b7-9bfc-b506767ddf1a.PNG)
+
+![AnxOrDep Across USA](https://user-images.githubusercontent.com/90229438/153099638-acc8a911-d915-41bd-a9cc-ed7c245381b4.PNG)
+
+![gender comp](https://user-images.githubusercontent.com/90229438/153099667-64e5366e-56ef-40ab-be9d-45e499861a17.PNG)
