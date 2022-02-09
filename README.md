@@ -1,7 +1,7 @@
 #  Final Project 
 ###  U of T Data Analytics Final Project. 
 
-##  Segment 1 
+##  Segment# 1 
 
 ## Selected Topic:  	 The effects of the COVID-19 pandemic on mental health 
 ### Reason of Selection: Ongoing pandemic and its impact on mental health of various levels of communities 
@@ -43,13 +43,13 @@ abase Selection
 >- Sherry  * (Circle Role) *
 >- Irfan   * (X Role) *
 
-## Segment 2
+## Segment# 2
 
 ## Application and Databases: 
 
 ![tools](https://user-images.githubusercontent.com/90229438/152284992-8eb85bca-b234-4f44-9685-eb822b516ad4.PNG)
 
-### > Dash board
+### > Dash board (TABLEAU)
 > https://public.tableau.com/app/profile/mohamed.el.gazzar/viz/depression-2021/Dashboard1?publish=yes
 
 ## ![dashboard](https://user-images.githubusercontent.com/90229438/152285308-035cc0d4-cef7-405f-8e22-16c96ce39bff.PNG)
@@ -81,8 +81,8 @@ was to find out what factors were major contributors to mental health disorders 
 
 The final trained accuracy was around 60%.
 
-## Segment 3 (Feb 6, 2022)
-> Screen shots of Initial Analysis and Table:
+## Segment# 3 (Feb 6, 2022)
+> * Screen shots of Initial Analysis and Table: *
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/90229438/152716947-b0ad1ed1-d87c-485b-8316-664d238ba13f.png)
 
@@ -90,6 +90,6 @@ The final trained accuracy was around 60%.
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/90229438/152717140-db609799-bb9a-41c8-bc42-9deeef8c13ad.png)
 
-## Segment 4 (Feb 8, 2022)
-> Screen shots of Project Analysis and Outputs:
+## Segment# 4 (Feb 8, 2022)
+> * Screen shots of Project Analysis and Outputs: *
 > 
